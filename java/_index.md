@@ -6,9 +6,9 @@ url: /java/
 is_root: true
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
-**Welcome to Aspose.CAD for Java**
+## **Welcome to Aspose.CAD for Java**
 
 ![Aspose.CAD for Java Product Logo](home_1.png)
 
@@ -23,15 +23,15 @@ Using Aspose.CAD for Java in your project gives you the following benefits:
 - Performance and scalability
 - Minimal learning curve
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Aspose.CAD for Java Resources**
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.CAD for Java Online Documentation](/cad/java/)
-- [Aspose.CAD for Java Features](/cad/java/product-overview/#productoverview-advancedapifeatures)
-- [Aspose.CAD for Java Limitations](/cad/java/product-overview/#productoverview-notyetsupported)
+- [Aspose.CAD for Java Features](/cad/java/product-overview/#advanced-api-features)
+- [Aspose.CAD for Java Limitations](/cad/java/product-overview/#not-yet-supported)
 - [Aspose.CAD for Java Release Notes](/cad/java/release-notes/)
 - [Aspose.CAD for Java Product Page](https://products.aspose.com/cad/java)
 - [Download Aspose.CAD for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad)
