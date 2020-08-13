@@ -2,14 +2,14 @@
 title: "Aspose.CAD for Java 20.6 - Release Notes"
 type: docs
 url: /java/aspose-cad-for-java-20-6-release-notes/
-weight: 10
+weight: 9
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
 This page contains release notes for Aspose.CAD for Java 20.6
 
-{{% /alert %}} 
+{{% /alert %}}
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
@@ -41,39 +41,48 @@ This page contains release notes for Aspose.CAD for Java 20.6
 |CADJAVA-743|DWG to PDF for only drawing portion|Enhancement|
 |CADJAVA-744|DWF to PDF conversion performance issue|Enhancement|
 |CADJAVA-576|App hanged when converting DWG file to PNG|Enhancement|
-# **Public API Changes**
-## **Added APIs:**
-**Class**         com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement
-**Field/Enum**    com.aspose.cad.imageOptions.renderErrorCode.pdfRendererFailed
-**Method**        com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinitionElement.addChild(com.aspose.cad.fileFormats.dgn.dgnElements.dgnElement)
-**Method**        com.aspose.cad.fileFormats.dgn.dgnTransform.dgnQuaternion.#ctor(System.int64,System.int64,System.int64,System.int64)
-**Method**        com.aspose.cad.point.op_Explicit(com.aspose.cad.point)   
-**Method**        com.aspose.cad.pointF.op_Explicit(com.aspose.cad.pointF)   
-**Method**        com.aspose.cad.xmp.xmpPackage.setValue(System.string,)
-**Property**      com.aspose.cad.fileFormats.cad.cadAciColor.white
-**Property**      com.aspose.cad.fileFormats.cad.cadObjects.attEntities.cadAttrib.visible
-**Property**      com.aspose.cad.fileFormats.cad.cadObjects.cadMaterial.attribute282
-**Property**      com.aspose.cad.fileFormats.dgn.dgnElements.dgnShapeElement.filled
-**Property**      com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinitionElement.childs
-**Property**      com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinitionElement.name
-**Property**      com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.definition
-**Property**      com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.id
-**Property**      com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.maxPoint
-**Property**      com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.minPoint
-**Property**      com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.name
-**Property**      com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.origin
-**Property**      com.aspose.cad.imageOptions.cadRenderResult.failures
-**Property**      com.aspose.cad.loadOptions.customFontFolders
-## **Removed APIs:**
-**Class**         com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinition
-**Field/Enum**    com.aspose.cad.imageOptions.cadRenderResult.failures
-**Method**        com.aspose.cad.fileFormats.dgn.dgnTransform.dgnQuaternion.#ctor(System.int32,System.int32,System.int32,System.int32)
-**Method**        com.aspose.cad.point.op_Explicit(com.aspose.cad.point)   
-**Method**        com.aspose.cad.pointF.op_Explicit(com.aspose.cad.pointF)   
-**Method**        com.aspose.cad.xmp.xmpPackage.setValue(System.string)
-**Class**         com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinition
-**Field/Enum**    com.aspose.cad.imageOptions.cadRenderResult.failures
-**Method**        com.aspose.cad.fileFormats.dgn.dgnTransform.dgnQuaternion.#ctor(System.int32,System.int32,System.int32,System.int32)
-**Method**        com.aspose.cad.point.op_Explicit(com.aspose.cad.point)   
-**Method**        com.aspose.cad.pointF.op_Explicit(com.aspose.cad.pointF)   
-**Method**        com.aspose.cad.xmp.xmpPackage.setValue(System.string)
+
+## Public API Changes
+
+### Added APIs
+
+|Type|Title|
+|---|---|
+|**Class**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement|
+|**Field/Enum**|com.aspose.cad.imageOptions.renderErrorCode.pdfRendererFailed|
+|**Method**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinitionElement.addChild(com.aspose.cad.fileFormats.dgn.dgnElements.dgnElement)|
+|**Method**|com.aspose.cad.fileFormats.dgn.dgnTransform.dgnQuaternion.#ctor(System.int64,System.int64,System.int64,System.int64)|
+|**Method**|com.aspose.cad.point.op_Explicit(com.aspose.cad.point)|
+|**Method**|com.aspose.cad.pointF.op_Explicit(com.aspose.cad.pointF)|
+|**Method**|com.aspose.cad.xmp.xmpPackage.setValue(System.string,)|
+|**Property**|com.aspose.cad.fileFormats.cad.cadAciColor.white|
+|**Property**|com.aspose.cad.fileFormats.cad.cadObjects.attEntities.cadAttrib.visible|
+|**Property**|com.aspose.cad.fileFormats.cad.cadObjects.cadMaterial.attribute282|
+|**Property**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnShapeElement.filled|
+|**Property**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinitionElement.childs|
+|**Property**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinitionElement.name|
+|**Property**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.definition|
+|**Property**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.id|
+|**Property**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.maxPoint|
+|**Property**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.minPoint|
+|**Property**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.name|
+|**Property**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellElement.origin|
+|**Property**|com.aspose.cad.imageOptions.cadRenderResult.failures|
+|**Property**|com.aspose.cad.loadOptions.customFontFolders|
+
+### Removed APIs
+
+|Type|Title|
+|---|---|
+|**Class**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinition|
+|**Field/Enum**|com.aspose.cad.imageOptions.cadRenderResult.failures|
+|**Method**|com.aspose.cad.fileFormats.dgn.dgnTransform.dgnQuaternion.#ctor(System.int32,System.int32,System.int32,System.int32)|
+|**Method**|com.aspose.cad.point.op_Explicit(com.aspose.cad.point)|
+|**Method**|com.aspose.cad.pointF.op_Explicit(com.aspose.cad.pointF)|
+|**Method**|com.aspose.cad.xmp.xmpPackage.setValue(System.string)|
+|**Class**|com.aspose.cad.fileFormats.dgn.dgnElements.dgnSharedCellDefinition|
+|**Field/Enum**|com.aspose.cad.imageOptions.cadRenderResult.failures|
+|**Method**|com.aspose.cad.fileFormats.dgn.dgnTransform.dgnQuaternion.#ctor(System.int32,System.int32,System.int32,System.int32)|
+|**Method**|com.aspose.cad.point.op_Explicit(com.aspose.cad.point)|
+|**Method**|com.aspose.cad.pointF.op_Explicit(com.aspose.cad.pointF)|
+|**Method**|com.aspose.cad.xmp.xmpPackage.setValue(System.string)|
