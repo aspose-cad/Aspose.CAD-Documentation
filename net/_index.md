@@ -6,9 +6,9 @@ url: /net/
 is_root: true
 ---
 
-{{% alert color="primary" %}} 
+{{% alert color="primary" %}}
 
-**Welcome to Aspose.CAD for .NET**
+## **Welcome to Aspose.CAD for .NET**
 
 ![Aspose.CAD for .NET Product Logo](home_1)
 
@@ -21,15 +21,14 @@ Using Aspose.CAD for .NET in your project gives you the following benefits:
 - Performance and scalability
 - Minimal learning curve
 
-{{% /alert %}} 
+{{% /alert %}}
 
 ## **Aspose.CAD for .NET Resources**
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.CAD for .NET Online Documentation](/cad/net/)
-- [Aspose.CAD for .NET Features](/cad/net/product-overview/#productoverview-advancedapifeatures)
-- [Aspose.CAD for .NET Limitations](/cad/net/product-overview/#productoverview-notyetsupported)
+- [Aspose.CAD for .NET Features](/cad/net/product-overview/#advanced-api-features)
 - [Aspose.CAD for .NET Release Notes](/cad/net/release-notes/)
 - [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net)
 - [Install Aspose.CAD for .NET NuGet Package](https://www.nuget.org/packages/Aspose.CAD/)
