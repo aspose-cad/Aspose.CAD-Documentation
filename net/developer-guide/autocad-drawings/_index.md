@@ -5,5 +5,3 @@ weight: 20
 url: /net/autocad-drawings/
 ---
 
-### ` `**AutoCAD Drawings**
-
