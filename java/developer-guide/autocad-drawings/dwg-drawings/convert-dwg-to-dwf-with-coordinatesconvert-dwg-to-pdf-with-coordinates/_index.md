@@ -8,7 +8,7 @@ url: /java/convert-dwg-to-pdf-with-coordinates/
 
 ## **How to convert DWG to PDF with Coordinates**
 
-Aspose.CAD provides the feature to load the AutoCAD [DWG](https://docs.fileformat.com/cad/dwg/) file and export it to the [PDF](https://docs.fileformat.com/pdf/) format by supplying coordinates. For this, the API provides the [**CadVportTableObject**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadtables/CadVportTableObject) class. The[**CadVportTableObject**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadtables/CadVportTableObject) class is used to specify the coordinates for convertion.
+Aspose.CAD provides the feature to load the AutoCAD [DWG](https://docs.fileformat.com/cad/dwg/) file and export it to the [PDF](https://docs.fileformat.com/pdf/) format by supplying coordinates. For this, the API provides the [**CadVportTableObject**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadtables/CadVportTableObject) class. The [**CadVportTableObject**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadtables/CadVportTableObject) class is used to specify the coordinates for convertion.
 
 The code sample below shows how to convert a DWG file to PDF format by providing coordinates using Aspose.CAD for Java.
 
