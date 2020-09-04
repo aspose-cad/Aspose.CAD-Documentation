@@ -18,7 +18,7 @@ This page contains release notes for [Aspose.CAD for .NET 19.9](https://www.nuge
 |CADNET-41|Implement rendering of united 3D solids from simple objects|Feature|
 |CADNET-822|Merge DXF file|Feature|
 |CADNET-799|[Support of CF2 Files](/cad/net/cff2-drawings/)|Feature|
-|CADNET-626|[Support for creating a Single PDF with Different Layout Sizes](/cad/net/dwg-drawings-dwgdrawings-createsinglepdfwithdifferentlayoutsizes/)|Feature|
+|CADNET-626|[Support for creating a Single PDF with Different Layout Sizes](/cad/net/dwg-drawings/#create-single-pdf-with-different-layout-sizes)|Feature|
 |CADNET-815|Implement Zoom property|Feature|
 |CADNET-116|[Support of Watermarks](/cad/net/working-with-watermark/)|Feature|
 |CADNET-786|Implement fast rendering|Feature|

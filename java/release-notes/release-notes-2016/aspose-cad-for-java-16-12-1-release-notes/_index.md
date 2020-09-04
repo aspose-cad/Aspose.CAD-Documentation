@@ -6,6 +6,7 @@ url: /java/aspose-cad-for-java-16-12-1-release-notes/
 ---
 
 We are pleased to announce the release of Aspose.CAD 16.12.1 for Java. The following is a list of changes in this version of Aspose.CAD.
+
 ### **Features and Improvements**
 
 |**Key**|**Summary**|**Category**|
@@ -13,11 +14,13 @@ We are pleased to announce the release of Aspose.CAD 16.12.1 for Java. The follo
 |CADJAVA-85|Update Dynabic.Metered functionality|New Feature|
 |CADJAVA-77|Implement Underlay Flags for DWG format|New Feature|
 |CADJAVA-82|Implement drawing of DGN format as a part of DWG|New Feature|
-|CADJAVA-70|[Converting DWG to PDF is showing incorrect results](http://www.aspose.com/community/forums/thread/798073/.dwg-to-.pdf-drawing-error.aspx)|Enhancement|
+|CADJAVA-70|[Converting DWG to PDF is showing incorrect results](https://forum.aspose.com/t/dwg-to-pdf-drawing-error/817/1)|Enhancement|
 |CADJAVA-79|Implement reading insert coordinate and rotation angle for DGN underlay.|Enhancement|
-|CADJAVA-80|[Converting DWG to PNG in multithread is throwing exception](http://www.aspose.com/community/forums/thread/791175/aspose.cad-1.1.0-exception-when-converting-dwg-to-png-in-multithread.aspx)|Enhancement|
+|CADJAVA-80|Converting DWG to PNG in multithread is throwing exception|Enhancement|
 |CADJAVA-64|Loading a DWG file using CadImage.load() method is throwing exception|Enhancement|
-# **Usage examples:**
+
+## **Usage examples:**
+
 **CADNET-85 Update Dynabic.Metered functionality**
 
 {{< highlight java >}}

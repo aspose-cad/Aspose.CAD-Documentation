@@ -7,33 +7,35 @@ url: /java/aspose-cad-for-java-18-3-release-notes/
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-|CADJAVA-330|` `Provide set up of Pen in export options|Feature|
-|CADJAVA-331|` `Support for exporting particular DWG entity to image|Feature|
-|CADJAVA-334|` `Support for saving DXF file|Feature|
+|CADJAVA-330|Provide set up of Pen in export options|Feature|
+|CADJAVA-331|Support for exporting particular DWG entity to image|Feature|
+|CADJAVA-334|Support for saving DXF file|Feature|
 |CADJAVA-26 |Ability to add/import a raster image to DWG file|Feature|
 |CADJAVA-27 |Ability to add text into DWG file|Feature|
-|CADJAVA-135|` `Support for accessing rows and columns of CAD Tables|Enhancement|
-|CADJAVA-194|` `ImageSave exception on exporting DWG to PDF|Enhancement|
-|CADJAVA-313|` `Exception on converting DWG to PDF|Enhancement|
-|CADJAVA-315|` `Extra margins when DXF saved as PDF|Enhancement|
-|CADJAVA-317|` `Saving DXF document into image not working|Enhancement|
-|CADJAVA-318|` `License loading is taking much time|Enhancement|
-|CADJAVA-319|` `Exception on converting DWG file to image|Enhancement|
-|CADJAVA-321|` `Null Reference exception during access to Width and Height properties of IFC file|Enhancement|
-|CADJAVA-322|` `Image saving failed exception on exporting DGN to PDF|Enhancement|
-|CADJAVA-326|` `Error converting a DWG|Enhancement|
-|CADJAVA-335|` `Lines in generated PDF and BMP are not rendered properly|Enhancement|
-|CADJAVA-328|` `How to get the size of the layout|Enhancement|
-|CADJAVA-329|` `Implement API to be able to perform RotateFlip command|Enhancement|
-|CADJAVA-332|` `NullReferenceException on exporting DWG to PDF|Enhancement|
-|CADJAVA-333|` `Image loading failed exception when loading DGN|Enhancement|
-|CADJAVA-1 I|` `Incorrect reading of elements from disabled layers in DWG|Enhancement|
-|CADJAVA-179|` `Implement reading of encoding for DXF/DWG|Enhancement|
-|CADJAVA-335|` `Incorrect lines rendering in exported PDF|Enhancement|
-|CADJAVA-336|` `Text size increase in generated PDF|Enhancement|
-|CADJAVA-207|` `Converting DXF to TIFF is not generating the correct output - Incorrect height & width|Enhancement|
-|CADJAVA-337|` `Support of Mesh object|Enhancement|
+|CADJAVA-135|Support for accessing rows and columns of CAD Tables|Enhancement|
+|CADJAVA-194|ImageSave exception on exporting DWG to PDF|Enhancement|
+|CADJAVA-313|Exception on converting DWG to PDF|Enhancement|
+|CADJAVA-315|Extra margins when DXF saved as PDF|Enhancement|
+|CADJAVA-317|Saving DXF document into image not working|Enhancement|
+|CADJAVA-318|License loading is taking much time|Enhancement|
+|CADJAVA-319|Exception on converting DWG file to image|Enhancement|
+|CADJAVA-321|Null Reference exception during access to Width and Height properties of IFC file|Enhancement|
+|CADJAVA-322|Image saving failed exception on exporting DGN to PDF|Enhancement|
+|CADJAVA-326|Error converting a DWG|Enhancement|
+|CADJAVA-335|Lines in generated PDF and BMP are not rendered properly|Enhancement|
+|CADJAVA-328|How to get the size of the layout|Enhancement|
+|CADJAVA-329|Implement API to be able to perform RotateFlip command|Enhancement|
+|CADJAVA-332|NullReferenceException on exporting DWG to PDF|Enhancement|
+|CADJAVA-333|Image loading failed exception when loading DGN|Enhancement|
+|CADJAVA-1 I|Incorrect reading of elements from disabled layers in DWG|Enhancement|
+|CADJAVA-179|Implement reading of encoding for DXF/DWG|Enhancement|
+|CADJAVA-335|Incorrect lines rendering in exported PDF|Enhancement|
+|CADJAVA-336|Text size increase in generated PDF|Enhancement|
+|CADJAVA-207|Converting DXF to TIFF is not generating the correct output - Incorrect height & width|Enhancement|
+|CADJAVA-337|Support of Mesh object|Enhancement|
+
 ## **Added APIs:**
+
 Class com.aspose.cad.FileFormats.Cad.CadObjects.CadAcshPyramidClass
 Class com.aspose.cad.FileFormats.Cad.CadObjects.CadCoordinationModel
 Class com.aspose.cad.FileFormats.Cad.CadObjects.CadObjectWithAcisData
@@ -216,7 +218,9 @@ Property com.aspose.cad.ImageOptions.CadRasterizationOptions.Zoom
 Property com.aspose.cad.ImageOptions.PenOptions.EndCap
 Property com.aspose.cad.ImageOptions.PenOptions.StartCap
 Property com.aspose.cad.ImageOptionsBase.Rotation
+
 ## **Removed APIs:**
+
 Class com.aspose.cad.FileFormats.Dgn.DgnElements.DgnColorTableElement
 Class com.aspose.cad.FileFormats.Dgn.DgnFileMetadata
 Class com.aspose.cad.FileFormats.Dwf.Whip.DwfWhipParser
@@ -300,7 +304,9 @@ Property com.aspose.cad.FileFormats.Dwf.Whip.Objects.DwfDrawingInfo.MinorRevisio
 Property com.aspose.cad.FileFormats.Dwf.Whip.Objects.DwfRendition.ColorMap
 Property com.aspose.cad.FileFormats.Dwf.Whip.Objects.DwfRendition.DrawingInfo
 Property com.aspose.cad.FileFormats.Dwf.Whip.Objects.DwfWhipColorMap.Colors
+
 ## **Usage Examples:**
+
 **CADJAVA-27 Ability to add text into DWG file**
 
 {{< highlight java >}}
@@ -705,7 +711,7 @@ cadImage.save(GetFileFromDesktop("9LHATT-A56_generated.pdf"), pdfOptions);
 
 {{< /highlight >}}
 
-**CADJAVA-329 Implement API to be able to perform** [**RotateFlip**](/pages/createpage.action?spaceKey=cadjava&title=RotateFlip&linkCreation=true&fromPageId=64455138) **command**
+**CADJAVA-329 Implement API to be able to perform RotateFlip command**
 
 {{< highlight java >}}
 

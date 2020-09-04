@@ -6,17 +6,20 @@ url: /java/aspose-cad-for-java-1-1-0-release-notes/
 ---
 
 We are pleased to announce the release of Aspose.CAD 1.1.0 for Java. The following is a list of changes in this version of Aspose.CAD.
+
 ### **Features and Improvements**
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
-|CADJAVA-48 |[Find or search text in the DWG file](http://www.aspose.com/community/forums/thread/740628/need-text-finder-and-convert-to-pdf-file-for-.dwg-files.aspx)|New Feature |
-|CADJAVA-47 |[Support to retrieve block attribute values from within a dwg and its external references](http://www.aspose.com/community/forums/thread/740200/features-in-aspose.cad-and-possible-roadmap-for-additions.aspx)|New Feature |
-|CADJAVA-42 |[Support for DGN file format for possible conversion to PDF & raster image formats](http://www.aspose.com/community/forums/thread/740200/features-in-aspose.cad-and-possible-roadmap-for-additions.aspx)|New Feature |
+|CADJAVA-48 |[Find or search text in the DWG file](https://forum.aspose.com/t/need-text-finder-and-convert-to-pdf-file-for-dwg-files/4070/1)|New Feature |
+|CADJAVA-47 |[Support to retrieve block attribute values from within a dwg and its external references](https://forum.aspose.com/t/features-in-aspose-cad-and-possible-roadmap-for-additions/799/1)|New Feature |
+|CADJAVA-42 |[Support for DGN file format for possible conversion to PDF & raster image formats](https://forum.aspose.com/t/features-in-aspose-cad-and-possible-roadmap-for-additions/799)|New Feature |
 |CADJAVA-46 |Cad export to Bmp fails with out of memory exception |Enhancement |
-|CADJAVA-44 |[Unable to access Face3D Objects in DXF file \[.Net\]](http://www.aspose.com/community/forums/thread/693601/aspose.imaging-query-face3d-objects-in-dxf-files.aspx)|Enhancement |
+|CADJAVA-44 |[Unable to access Face3D Objects in DXF file \[.Net\]](https://forum.aspose.com/t/aspose-imaging-query-face3d-objects-in-dxf-files/3925/1)|Enhancement |
 |CADJAVA-40 |Update Java packaging to conform to Aspose guidelines |Enhancement |
-# **Usage examples:**
+
+## **Usage examples:**
+
 **CADJAVA-42 Support for DGN file format for possible conversion to PDF & raster image formats**
 
 {{< highlight java >}}
