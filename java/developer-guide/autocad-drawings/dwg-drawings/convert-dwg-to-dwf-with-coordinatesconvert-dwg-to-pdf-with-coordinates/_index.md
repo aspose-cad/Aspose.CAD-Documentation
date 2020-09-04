@@ -12,4 +12,4 @@ Aspose.CAD provides the feature to load the AutoCAD [DWG](https://docs.fileforma
 
 The code sample below shows how to convert a DWG file to PDF format by providing coordinates using Aspose.CAD for Java.
 
-{{< gist "aspose-com-gists" "49c1b75d9a84e149ecf374ece2c2597d" Examples-src-main-java-com-aspose-cad-examples-DWGDrawings-ConvertDWGToPDFBySupplyingCoordinates-1.java" >}}
+{{< gist "aspose-com-gists" "49c1b75d9a84e149ecf374ece2c2597d" "Examples-src-main-java-com-aspose-cad-examples-DWGDrawings-ConvertDWGToPDFBySupplyingCoordinates-1.java" >}}
