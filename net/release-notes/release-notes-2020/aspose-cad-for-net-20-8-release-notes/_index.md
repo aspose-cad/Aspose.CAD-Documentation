@@ -5,11 +5,11 @@ url: /net/aspose-cad-for-net-20-8-release-notes/
 weight: 10
 ---
 
-{% alert color = "primary" %}
+{{% alert color = "primary" %}}
 
 This page contains release notes for Aspose.CAD for .NET 20.8
 
-{% /alert %}
+{{% /alert %}}
 
 
 |**Key**|**Summary**|**Category**|

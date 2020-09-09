@@ -5,11 +5,11 @@ url: /java/aspose-cad-for-java-20-8-release-notes/
 weight: 10
 ---
 
-{% alert color = "primary" %}
+{{% alert color = "primary" %}}
 
 This page contains release notes for Aspose.CAD for Java 20.8
 
-{% /alert %}
+{{% /alert %}}
 
 
 |**Key**|**Summary**|**Category**|
