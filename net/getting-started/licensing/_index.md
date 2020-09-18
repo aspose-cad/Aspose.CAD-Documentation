@@ -7,7 +7,7 @@ url: /net/licensing/
 
 {{% alert color="primary" %}}
 
-Once you are happy with your evaluation of Aspose.CAD for .NET, buy a license at the Aspose website: [Purchase Portal](https://purchase.aspose.com/default.aspx). Make yourself familiar with the different license types available. If you have any questions, [contact the Aspose sales team](https://company.aspose.com/contact) and they'll be happy to help you.
+Once you are happy with your evaluation of Aspose.CAD for .NET, buy a license at the Aspose website: [Purchase Portal](https://purchase.aspose.com/buy). Make yourself familiar with the different license types available. If you have any questions, [contact the Aspose sales team](https://company.aspose.com/contact) and they'll be happy to help you.
 
 Every Aspose license carries a one-year subscription for free upgrades to any new versions or fixes that come out during this time. We provide free and unlimited technical support to both licensed and evaluation users.
 
@@ -23,7 +23,7 @@ Follow these simple rules:
 - You need to set the license before using any other Aspose.CAD classes.
 - Calling SetLicense multiple times is not harmful, but wastes processor time.
 - If you are developing a Windows Forms or console application, call SetLicense in the startup code, before using Aspose.CAD classes.
-- When developing an ASP.NET application, call SetLicense from the Global.asax.cs (Global.asax.vb) file, in the Aplication_Start protected method. It is called once when the application starts.
+- When developing an ASP.NET application, call SetLicense from the Global.asax.cs (Global.asax.vb) file, in the Application_Start protected method. It is called once when the application starts.
 - Do not call SetLicense from within the Page_Load methods since it means the license will be loaded every time a web page is loaded.
 - If you are developing a class library, you call SetLicense from a static constructor of the class that uses Aspose.CAD. The static constructor executes before an instance of your class is created making sure Aspose.CAD license is properly set.
 

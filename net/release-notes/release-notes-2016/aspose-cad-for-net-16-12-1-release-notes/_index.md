@@ -6,20 +6,22 @@ url: /net/aspose-cad-for-net-16-12-1-release-notes/
 ---
 
 Aspose.CAD for .Net has been updated to version 16.12.1 and we are pleased to announce it. The following is a list of changes in this version of Aspose.CAD.
-### **Features and Improvements**
+
+## **Features and Improvements**
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-
 
 |CADNET-202|Update Dynabic.Metered functionality|New Feature|
 | :- | :- | :- |
 |CADNET-195|Implement Underlay Flags for DWG format|New Feature|
 |CADNET-170|Implement drawing of DGN format as a part of DWG|New Feature|
-|CADNET-185|[Converting DWG to PDF is showing incorrect results](http://www.aspose.com/community/forums/thread/798073/.dwg-to-.pdf-drawing-error.aspx)|Enhancement|
+|CADNET-185|[Converting DWG to PDF is showing incorrect results](https://forum.aspose.com/t/dwg-to-pdf-drawing-error/817)|Enhancement|
 |CADNET-177|Implement reading insert coordinate and rotation angle for DGN underlay.|Enhancement|
-|CADNET-173|[Converting DWG to PNG in multithread is throwing exception](http://www.aspose.com/community/forums/thread/791175/aspose.cad-1.1.0-exception-when-converting-dwg-to-png-in-multithread.aspx)|Enhancement|
-### **Usage Examples**
+|CADNET-173|Converting DWG to PNG in multithread is throwing exception|Enhancement|
+
+## **Usage Examples**
+
 **CADNET-202 Update Dynabic.Metered functionality**
 
 {{< highlight java >}}

@@ -6,17 +6,20 @@ url: /java/aspose-cad-for-java-16-12-0-release-notes/
 ---
 
 We are pleased to announce the release of Aspose.CAD 1.1.0 for Java. The following is a list of changes in this version of Aspose.CAD.
-### **Features and Improvements**
+
+## **Features and Improvements**
 
 |**Key** |**Summary** |**Category** |
 | :- | :- | :- |
 |CADJAVA-77 |Implement Underlay Flags for DWG format |New Feature |
 |CADJAVA-82 |Implement drawing of DGN format as a part of DWG |New Feature |
-|CADJAVA-70 |[Converting DWG to PDF is showing incorrect results](http://www.aspose.com/community/forums/thread/798073/.dwg-to-.pdf-drawing-error.aspx)|Enhancement |
+|CADJAVA-70 |[Converting DWG to PDF is showing incorrect results](aspose-cad-for-java-16-12-0-release-notes/)|Enhancement |
 |CADJAVA-79 |Implement reading insert coordinate and rotation angle for DGN underlay. |Enhancement |
-|CADJAVA-80 |[Converting DWG to PNG in multithread is throwing exception](http://www.aspose.com/community/forums/thread/791175/aspose.cad-1.1.0-exception-when-converting-dwg-to-png-in-multithread.aspx)|Enhancement |
+|CADJAVA-80 |Converting DWG to PNG in multithread is throwing exception|Enhancement |
 |CADJAVA-64 |Loading a DWG file using CadImage.load() method is throwing exception |Enhancement |
-### **Usage examples:**
+
+## **Usage examples:**
+
 **CADJAVA-77 Implement Underlay Flags for DWG format**
 
 {{< highlight java >}}
@@ -62,7 +65,6 @@ for (CadBaseEntity entity : image.getEntities())
     }
 
 }
-
 
 {{< /highlight >}}
 
@@ -120,7 +122,6 @@ exportOptions.setVectorRasterizationOptions(vectorRasterizationOptions);
 
 cadImage.save(outPath, exportOptions);
 
-
 {{< /highlight >}}
 
 **CADJAVA-79 Implement reading insert coordinate and rotation angle for DGN underlay.**
@@ -162,6 +163,5 @@ CadImage image = (CadImage)Image.load(fileName);
     }
 
 }
-
 
 {{< /highlight >}}
