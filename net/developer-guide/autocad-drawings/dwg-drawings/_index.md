@@ -206,7 +206,7 @@ Aspose.CAD for .NET API can load AutoCAD drawings in DWG format and support diff
 
 Aspose.CAD for .NET API can load AutoCAD drawings in DWG format and support different entities to work with. A DWG is a binary file that contains vector image data and metadata. There are different entities in a DWG file. The following section describes how can we import images inside the DWG file.
 
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-DWG-Drawings-ImportImageToDWG-ImportImageToDWG.cs" >}}
+{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Examples-Src-DWG-Drawings-ImportImageToDWG-ImportImageToDWG.cs" >}}
 
 ## **Support for Mesh in DWG**
 

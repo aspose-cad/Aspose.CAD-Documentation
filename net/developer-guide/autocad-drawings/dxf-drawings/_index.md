@@ -145,7 +145,7 @@ Aspose.CAD provides the feature of Block Clipping. Block Clipping approach works
 
 The code sample below shows how Block Clipping works.
 
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-DXF-Drawings-SupportOfBlockClipping-SupportOfBlockClipping.cs" >}}
+{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Examples-Src-DXF-Drawings-SupportOfBlockClipping-SupportOfBlockClipping.cs" >}}
 
 ## **Export Images to DXF**
 
