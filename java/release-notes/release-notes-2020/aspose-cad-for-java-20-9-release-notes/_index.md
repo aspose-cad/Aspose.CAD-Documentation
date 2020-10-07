@@ -2,7 +2,7 @@
 title: "Aspose.CAD for Java 20.9 - Release Notes"
 type: docs
 url: /java/aspose-cad-for-java-20-9-release-notes/
-weight: 10
+weight: 6
 ---
 
 {{% alert color = "primary" %}}
@@ -10,7 +10,6 @@ weight: 10
 This page contains release notes for Aspose.CAD for Java 20.9
 
 {{% /alert %}}
-
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
@@ -36,4 +35,4 @@ This page contains release notes for Aspose.CAD for Java 20.9
 | CADJAVA-479 | ImageLoadException on loading DXF | Enhancement |
 | CADJAVA-846 | [Several CadTexts on AutoCad couldn't be found](https://forum.aspose.com/t/several-cadtexts-on-autocad-couldnt-be-found/216843) | Enhancement |
 | CADJAVA-765 | [DWG to PDF: Text is thicker, overlapping and not clear](https://forum.aspose.com/t/aspose-cad-for-java-dwg-pdf/216416/2) | Enhancement |
-| CADJAVA-859 | [Adding and removing images inside DXF ](https://forum.aspose.com/t/editing-entities-inside-dxf-adding-new-entities/196583) | Enhancement |
+| CADJAVA-859 | [Adding and removing images inside DXF](https://forum.aspose.com/t/editing-entities-inside-dxf-adding-new-entities/196583) | Enhancement |

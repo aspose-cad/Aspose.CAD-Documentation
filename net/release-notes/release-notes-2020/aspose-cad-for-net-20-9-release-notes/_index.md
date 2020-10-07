@@ -2,7 +2,7 @@
 title: "Aspose.CAD for .NET 20.9 - Release Notes"
 type: docs
 url: /net/aspose-cad-for-net-20-9-release-notes/
-weight: 10
+weight: 7
 ---
 
 {{% alert color = "primary" %}}
@@ -11,10 +11,9 @@ This page contains release notes for Aspose.CAD for .NET 20.9
 
 {{% /alert %}}
 
-
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-| CADNET-630 | [Create PDF from Layout ](https://forum.aspose.com/t/create-pdf-from-layout-that-matches-the-plot-preview/177621) | Feature |
+| CADNET-630 | [Create PDF from Layout](https://forum.aspose.com/t/create-pdf-from-layout-that-matches-the-plot-preview/177621) | Feature |
 | CADNET-1211 | Implement internal mechanism to put watermark on drawing for PDF export | Enhancement |
 | CADNET-1181 | Aspose.CAD 20.7: Loading particular DWF document raises exception | Enhancement |
 | CADNET-1179 | Investigate empty acds for 3D vertex entities | Enhancement |
@@ -38,4 +37,4 @@ This page contains release notes for Aspose.CAD for .NET 20.9
 | CADNET-1028 | Aspose.CAD.CadExceptions.ImageLoadException while loading DXF file | Enhancement |
 | CADNET-1214 | [DWG to PDF: Text is thicker, overlapping and not clear](https://forum.aspose.com/t/aspose-cad-for-java-dwg-pdf/216416/2) | Enhancement |
 | CADNET-1174 | [Several CadTexts on AutoCad couldnâ€™t be found](https://forum.aspose.com/t/several-cadtexts-on-autocad-couldnt-be-found/216843) | Enhancement |
-| CADNET-790 | [Adding and removing images inside DXF ](https://forum.aspose.com/t/editing-entities-inside-dxf-adding-new-entities/196583) | Enhancement |
+| CADNET-790 | [Adding and removing images inside DXF](https://forum.aspose.com/t/editing-entities-inside-dxf-adding-new-entities/196583) | Enhancement |
