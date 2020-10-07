@@ -45,7 +45,7 @@ Then define Aspose.CAD for Java API dependency in your pom.xml as follows:
 
         <artifactId>aspose-cad</artifactId>
 
-        <version>20.7</version>        
+        <version>20.9</version>        
 
    </dependency>
 
