@@ -220,7 +220,7 @@ A DWG is a binary file that contains vector image data and metadata. There are d
 
 Aspose.CAD for Java API can load AutoCAD drawings in DWG format and support different entities to work with. A DWG is a binary file that contains vector image data and metadata. There are different entities in a DWG file. The following section describes how can we import images inside the DWG file.
 
-{{< gist "aspose-cad" "9c5a3f5ddf329a1362916037ccd8c6e0" "Examples-src-main-java-com-aspose-cad-examples-DWGDrawings-SupportMLeaderEntityForDWGFormat-SupportMLeaderEntityForDWGFormat.java" >}}
+{{< gist "aspose-cad" "9c5a3f5ddf329a1362916037ccd8c6e0" "Examples-src-main-java-com-aspose-cad-examples-DWGDrawings-ImportImageToDWG-ImportImageToDWG.java" >}}
 
 ## **Support for Adding text in DWG**
 
