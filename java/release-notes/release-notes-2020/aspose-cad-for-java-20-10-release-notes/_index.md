@@ -14,7 +14,6 @@ This page contains release notes for Aspose.CAD for Java 20.10
 
 |**Key**|**Summary**|**Category**|
 | :- | :- | :- |
-
 | CADJAVA-886 | Incorrect export to gdi pdf | Enhancement |
 | CADJAVA-882 | Redundant namespaces on documentation | Enhancement |
 | CADJAVA-889 | Exception in multi-threaded environment on IFC loaded | Enhancement |
