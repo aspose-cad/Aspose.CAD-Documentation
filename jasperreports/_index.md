@@ -8,7 +8,7 @@ is_root: true
 
 {{% alert color="primary" %}}
 
-[comment]: <> (**![todo:image_alt_text]&#40;aspose_imaging-for-jasperreports-128.png&#41;**)
+[comment]: <> (**![todo:image_alt_text]&#40;aspose_cad-for-jasperreports-128.png&#41;**)
 
 **Welcome to Aspose.CAD for JasperReports**
 

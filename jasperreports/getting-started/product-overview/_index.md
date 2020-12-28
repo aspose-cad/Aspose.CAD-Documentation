@@ -11,7 +11,7 @@ url: /jasperreports/product-overview/
 
 ### **Welcome to the Aspose.CAD for JasperReports Documentation!**
 
-Aspose.Imaging for CAD is the only solution on the market that makes it possible to export reports from JasperReports and JasperServer to various image file formats.
+Aspose.CAD for JasperReports is the only solution on the market that makes it possible to export reports from JasperReports and JasperServer to various image file formats.
 
 The export formats currently include: BMP, GIF, JPEG, JPEG2000, PNG, PSD, SVG, TIFF, WMF, PDF.
 

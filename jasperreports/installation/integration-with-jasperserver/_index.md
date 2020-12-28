@@ -217,7 +217,7 @@ For example:
 		<!-- Aspose.CAD for JasperReports END -->
     </util:map>
 {{< /highlight >}}
-3. Copy aspose-imaging-jasperreports-20.9.jar to %INTALL_DIR%\apache-tomcat\webapps\jasperserver\WEB-INF\lib.
+3. Copy aspose-cad-jasperreports-xx.xx.jar to %INTALL_DIR%\apache-tomcat\webapps\jasperserver\WEB-INF\lib.
 4. To use exporting features, update %INTALL_DIR%\apache-tomcat\webapps\jasperserver\WEB-INF\applicationContext.xml as below.
 {{< highlight xml >}}
     <bean id="jpgExportParameters" class="com.aspose.cad.jasperreports.jpg.ASJpegExportParametersBean">
