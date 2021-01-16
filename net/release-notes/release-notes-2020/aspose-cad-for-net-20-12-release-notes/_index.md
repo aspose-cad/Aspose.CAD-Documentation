@@ -40,9 +40,3 @@ This page contains release notes for Aspose.CAD for .NET 20.12
 | CADNET-568 | [Text missing in generated PDF](https://forum.aspose.com/t/some-contents-are-dropped-after-converting-dwg-dxf-to-pdf/173426) | Enhancement |
 | CADNET-1218 | [Conversion from DXF to JPG doesn’t always scale correctly](https://forum.aspose.com/t/conversion-from-dxf-to-jpg-doesnt-always-scale-correctly/219491) | Enhancement |
 | CADNET-1244 | [It take a long time to convert a dwg file to png with high resolution](https://forum.aspose.com/t/it-take-a-long-time-to-convert-a-dwg-file-to-png-with-high-resolution/221046) | Internal |
-
-
-
-# **Usage Examples:**
-
-## **CADNET-568 Text missing in generated PDF**
