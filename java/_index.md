@@ -12,16 +12,8 @@ is_root: true
 
 ![Aspose.CAD for Java Product Logo](home_1.png)
 
-Aspose.CAD for Java allows developers to convert AutoCAD DWG, DWF and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed.
-
-You can also convert the selected layers and layouts from the AutoCAD files. The conversion to PDF and Raster images is of very high quality.
-
-Using Aspose.CAD for Java in your project gives you the following benefits:
-
-- Rich set of features
-- Platform independence
-- Performance and scalability
-- Minimal learning curve
+Aspose.CAD for Java is the Java version 1.6 compatible API library which allows developers to process and convert various CAD or BIM drawing files such as DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS. Supported output types are different raster and vector file formats: PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD. No AutoCAD or other CAD software needed to be installed.
+There are rich set of features such as conversion of a selected layers and layouts, adjustment of output file quality and export progress tracking. API is highly scalable and has blazing speed performance.
 
 {{% /alert %}}
 

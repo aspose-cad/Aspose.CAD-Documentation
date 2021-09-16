@@ -1,8 +1,8 @@
 ---
-title: Aspose.CAD for JasperReports 20.12 Release Notes
+title: "Aspose.CAD for JasperReports 20.12 Release Notes"
 type: docs
-weight: 10
 url: /jasperreports/aspose-cad-for-jasperreports-20-12-release-notes/
+weight: 10
 ---
 
 {{% alert color="primary" %}}
@@ -12,9 +12,9 @@ This page contains release notes for Aspose.CAD for JasperReports 20.12.
 {{% /alert %}}
 
 {{% alert color="primary" %}}
-Please welcome our brand new product, Aspose.CAD for JasperReports 20.12! Aspose.CAD for JasperReports is the unique solution on the market that makes possible exporting reports from JasperReports to various image file formats.
+Please welcome our brand new product, Aspose.CAD for JasperReports 20.12! Aspose.CAD for JasperReports is the unique solution on the market that makes possible exporting reports and operate CAD and BIM drawing files from JasperReports to various image file formats.
 
-The export formats currently include: BMP, GIF JPEG, JPEG2000, PNG, PSD, SVG, TIFF, WMF, PDF.
+The export formats currently include: PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD.
 {{% /alert %}}
 
 ## Features

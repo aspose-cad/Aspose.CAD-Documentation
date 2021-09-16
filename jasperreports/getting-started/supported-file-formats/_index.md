@@ -5,16 +5,22 @@ weight: 60
 url: /jasperreports/supported-file-formats/
 ---
 
-|**Format**|**Description**|**Load**|**Save**|
-| :- | :- | :- | :- |
-|[DXF](https://docs.fileformat.com/cad/dxf/)| Drawing Interchange Format| |{{< emoticons/tick >}}(Partially Supported)|
-|[BMP](https://docs.fileformat.com/image/bmp/)|Bitmap Image Format| |{{< emoticons/tick >}}|
-|[GIF](https://docs.fileformat.com/image/gif/)|Graphical Interchange Format| |{{< emoticons/tick >}}|
-|[JPEG](https://docs.fileformat.com/image/jpeg/)|JPEG is an image compression standard that was developed by the “Joint Photographic Experts Group” and is a lossy image compression method.| |{{< emoticons/tick >}}|
-|[JPEG2000](https://docs.fileformat.com/image/jp2/)|JPEG 2000 is a discrete wavelet transform (DWT) based compression standard that could be adapted for motion imaging video compression with the Motion JPEG 2000 extension| |{{< emoticons/tick >}}|
-|[PNG](https://docs.fileformat.com/image/png/)|Portable Network Graphics| |{{< emoticons/tick >}}|
-|[PSD](https://docs.fileformat.com/image/psd/)|Photoshop Document| |{{< emoticons/tick >}}|
-|[SVG](https://docs.fileformat.com/page-description-language/svg/)|Scalar Vector Graphics| |{{< emoticons/tick >}}|
-|[TIFF](https://docs.fileformat.com/image/tiff/)|Tagged Image File Format| |{{< emoticons/tick >}}|
-|[WMF](https://docs.fileformat.com/image/wmf/)|Microsoft Windows Metafile (WMF)| |{{< emoticons/tick >}}|
-|[PDF](https://docs.fileformat.com/pdf/)|Portable Document Format| |{{< emoticons/tick >}}|
+|**Format**|**Description**|**Support**|
+| :- | :- | :- |
+|[DXF](https://docs.fileformat.com/cad/dxf/)| Autodesk Drawing Exchange File Format|{{< emoticons/tick >}}|
+|[DWG](https://docs.fileformat.com/specification/cad/dwg/)| AutoCAD Drawing Database File|{{< emoticons/tick >}}|
+|[DGN](https://docs.fileformat.com/cad/dgn/)| Bentley Systems MicroStation DesiGN File|{{< emoticons/tick >}}|
+|[DWF](https://docs.fileformat.com/cad/dwf/)| Design Web Format|{{< emoticons/tick >}}|
+|[DWFX](https://docs.fileformat.com/cad/dwfx/)| Design Web Format XPS formatted|{{< emoticons/tick >}}|
+|[IFC](https://docs.fileformat.com/cad/ifc/)| Industry Foundation Classes (IFC) File Format|{{< emoticons/tick >}}|
+|[STL](https://docs.fileformat.com/cad/stl)/| Stereolithography|{{< emoticons/tick >}}|
+|[DWT](https://docs.fileformat.com/cad/dwt/)| AutoCAD Drawing Template|{{< emoticons/tick >}}|
+|[IGES](https://docs.fileformat.com/cad/iges/)| Initial Graphics Exchange Specification file|{{< emoticons/tick >}}|
+|[PLT](https://docs.fileformat.com/cad/plt/)| Plotter file|{{< emoticons/tick >}}|
+|[CF2](https://docs.fileformat.com/cad/cf2/)| Common File Format 2 file|{{< emoticons/tick >}}|
+|[OBJ](https://docs.fileformat.com/3d/obj/)| Geometry Definition File Format|{{< emoticons/tick >}}|
+|[HPGL](https://docs.fileformat.com/cad/hpgl/)| Hewlett-Packard Graphics Language|{{< emoticons/tick >}}|
+|[PCL](https://docs.fileformat.com/page-description-language/pcl/)| Printer Command Language|{{< emoticons/tick >}}|
+|[FBX](https://docs.fileformat.com/3d/fbx/)| Filmbox Interchange File|{{< emoticons/tick >}}|
+|[PDF](https://docs.fileformat.com/pdf/)| Portable Document|{{< emoticons/tick >}}|
+|[SVG](https://docs.fileformat.com/page-description-language/svg/)| Scalable Vector Graphics File|{{< emoticons/tick >}}|

@@ -7,11 +7,12 @@ url: /
 
 {{% alert color="primary" %}}
 
-**Welcome to Aspose.CAD for .NET**
+**Welcome to Aspose.CAD**
 
 ![Aspose.CAD for .NET Product Logo](home_1.png)
 
-Aspose.CAD for .NET allows developers to convert AutoCAD DWG, DWF and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed. You can also convert the selected layers and layouts from the AutoCAD files. The conversion to PDF and Raster images is of very high quality.
+Aspose.CAD allows developers to open, read and process AutoCAD DWG, DXF, DWT and other CAD and BIM file formats, such as: DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS. It can export those files into various vector (PDF, WMF, SVG, EMF) and raster image formats: BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD. It is a native API and does not require AutoCAD or any software to be installed. You can also convert the selected layers and layouts from the AutoCAD files.
+It is possible to track and handle conversion progress and quality of an output. Any operation has cancellation support and ready for multi-threaded environment.
 
 Using Aspose.CAD for .NET in your project gives you the following benefits:
 
@@ -19,6 +20,14 @@ Using Aspose.CAD for .NET in your project gives you the following benefits:
 - Platform independence
 - Performance and scalability
 - Minimal learning curve
+
+{{% /alert %}}
+
+{{% alert color="primary" %}}
+
+**Aspose.CAD for .NET**
+
+Aspose.CAD for .NET is a cross-platform library, compatible with .NET Framework, .Net Core, Xamarin, Mono and other CLS compliant frameworks, with rich set of features and abilities described above. It is available through direct download and as a Nuget package.
 
 {{% /alert %}}
 
@@ -38,20 +47,11 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-**Welcome to Aspose.CAD for Java**
+**Aspose.CAD for Java**
 
 ![Aspose.CAD for Java Product Logo](home_2.png)
 
-Aspose.CAD for Java allows developers to convert AutoCAD DWG, DWF and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed.
-
-You can also convert the selected layers and layouts from the AutoCAD files. The conversion to PDF and Raster images is of very high quality.
-
-Using Aspose.CAD for Java in your project gives you the following benefits:
-
-- Rich set of features
-- Platform independence
-- Performance and scalability
-- Minimal learning curve
+Aspose.CAD for Java is a cross-platform library, compatible with Java version 1.6 and above, with rich set of features and abilities described above. It is available through direct download and as a Maven package.
 
 {{% /alert %}}
 
@@ -73,20 +73,11 @@ Following are the links to some useful resources you may need to accomplish your
 
 {{% alert color="primary" %}}
 
-**Welcome to Aspose.CAD for JasperReports**
+**Aspose.CAD for JasperReports**
 
-[comment]: <> (![Aspose.CAD for JasperReports Product Logo]&#40;home_2.png&#41;)
+![Aspose.CAD for JasperReports Product Logo](home_3.png)
 
-Aspose.CAD for JasperReports allows developers to export JasperReports to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed.
-
-The export to PDF and Raster images is of very high quality.
-
-Using Aspose.CAD for JasperReports in your project gives you the following benefits:
-
-- Rich set of features
-- Platform independence
-- Performance and scalability
-- Minimal learning curve
+Aspose.CAD for JasperReports is a library, compatible with JasperReports version 6.3 and above, with rich set of features and abilities described above. It is available through direct download and as a Maven package.
 
 {{% /alert %}}
 

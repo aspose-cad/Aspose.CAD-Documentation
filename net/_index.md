@@ -10,16 +10,12 @@ is_root: true
 
 ## **Welcome to Aspose.CAD for .NET**
 
-![Aspose.CAD for .NET Product Logo](home_1)
+![Aspose.CAD for .NET Product Logo](home_1.png)
 
-Aspose.CAD for .NET allows developers to convert AutoCAD DWG, DWF and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed. You can also convert the selected layers and layouts from the AutoCAD files. The conversion to PDF and Raster images is of very high quality.
-
-Using Aspose.CAD for .NET in your project gives you the following benefits:
-
-- Rich set of features
-- Platform independence
-- Performance and scalability
-- Minimal learning curve
+Aspose.CAD for .NET is the enterprise grade API library compatible with .NET Framework, .Net Core and Xamarin, allows read, manipulate, process and export any CAD or BIM drawing file into various vector and raster image file formats without utilizing AutoCAD or any other additional software.
+It is multi-thread safe, can be run on different OS, allows to track export progress and process separate layers and layouts. It has cancellation support.
+Supported input CAD and BIM file formats: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
+Supported output file formats: PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD
 
 {{% /alert %}}
 

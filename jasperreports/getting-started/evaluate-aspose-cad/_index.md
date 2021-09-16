@@ -13,7 +13,7 @@ You can easily download Aspose.CAD for JasperReports for evaluation from the [do
 
 Evaluation version of Aspose.CAD for JasperReports (without a license specified) provides product functionality to some extent not complete though. One limitation is that it always injects the evaluation watermark on output files.
 
-![todo:image_alt_text](AreaChartReport.jpg)
+![Aspose.CAD for JasperReports export example](AreaChartReport.jpg)
 
 **Figure:** Evaluation Warning
 
