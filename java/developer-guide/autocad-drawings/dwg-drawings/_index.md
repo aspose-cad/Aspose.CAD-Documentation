@@ -22,7 +22,7 @@ The API supports the following AutoCAD DWG revisions:
 
 ### **DWG File Format**
 
-A DWG is a binary file that contains vector image data and metadata. The vector image data provides instructions to the CAD application about how to display the DWG; the metadata may contain a variety of information about the file including location-specific data and also client data. Open Specifications for DWG file format can be found [in this PDF](http://opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
+A DWG is a binary file that contains vector image data and metadata. The vector image data provides instructions to the CAD application about how to display the DWG; the metadata may contain a variety of information about the file including location-specific data and also client data. Open Specifications for DWG file format can be found [in this PDF](https://www.opendesign.com/files/guestdownloads/OpenDesign_Specification_for_.dwg_files.pdf)
 
 ### **Convert DWG Files to PDF**
 

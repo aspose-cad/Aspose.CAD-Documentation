@@ -40,7 +40,7 @@ You will see that the "Downloading Aspose.CAD..." tip appears down the bottom le
 
 ![todo:image_alt_text](installation_5.png)
 
-Once downloaded you will see the following confirmation messages. If you are not familiar with the [Aspose EULA](https://company.aspose.com/legal/eula) then it is a good idea to read the license referenced in the URL.
+Once downloaded you will see the following confirmation messages. If you are not familiar with the [Aspose EULA](https://about.aspose.com/legal/eula) then it is a good idea to read the license referenced in the URL.
 
 ![todo:image_alt_text](installation_6.png)
 

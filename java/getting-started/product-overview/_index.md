@@ -7,7 +7,7 @@ url: /java/product-overview/
 
 **Welcome to Aspose.CAD for Java**
 
-![todo:image_alt_text](http://i.imgur.com/qHeCKck.png)
+![todo:image_alt_text](https://i.imgur.com/qHeCKck.png)
 
 Aspose.CAD for Java allows developers to convert AutoCAD DWG, DWF, DWT and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any software to be installed.
 
@@ -26,7 +26,7 @@ Using Aspose.CAD for Java in your project gives you the following benefits:
 ## **At A Glance**
 An overview of the main conversion, rendering and reporting capabilities of Aspose.CAD for Java.
 
-![todo:image_alt_text](http://i.imgur.com/vLNnhkj.png)
+![todo:image_alt_text](https://i.imgur.com/vLNnhkj.png)
 ## **Advanced API Features**
 - Supports the latest versions of AutoCAD DWG, DWF, DWT and DXF files
 - Convert the AutoCAD files to high quality PDF
