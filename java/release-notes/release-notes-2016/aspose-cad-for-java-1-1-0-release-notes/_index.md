@@ -480,7 +480,7 @@ boolean isExternalReferenceFoundCorrectly = ".\\Drawing1.dwg".equals(image.getBl
 
 {{< /highlight >}}
 
-**CADJAVA-44 Unable to access Face3D Objects in DXF file** [**.Net**](/pages/createpage.action?spaceKey=cadjava&title=.Net&linkCreation=true&fromPageId=20643859)
+**CADJAVA-44 Unable to access Face3D Objects in DXF file**
 
 {{< highlight java >}}
 

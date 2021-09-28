@@ -7,7 +7,7 @@ url: /net/aspose-cad-for-net-1-0-0-release-notes/
 
 We are pleased to announce the first release of Aspose.CAD for .NET. It allows you to convert AutoCAD DWG and DXF files to PDF and Raster images. It is a native API and does not require AutoCAD or any other software to be installed.
 
-You can also convert the selected layers and layouts from the AutoCAD files. The conversion to PDF and Raster images is of very high quality. At the moment we support the following Cad image types for loading (please refer to the <http://autodesk.blogs.com/between_the_lines/autocad-release-history.html> DWG file history):
+You can also convert the selected layers and layouts from the AutoCAD files. The conversion to PDF and Raster images is of very high quality. At the moment we support the following Cad image types for loading (please refer to the <https://autodesk.blogs.com/between_the_lines/autocad-release-history.html> DWG file history):
 o CadR11
 o CadR13
 o CadR14

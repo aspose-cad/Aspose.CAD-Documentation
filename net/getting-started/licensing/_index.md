@@ -7,7 +7,7 @@ url: /net/licensing/
 
 {{% alert color="primary" %}}
 
-Once you are happy with your evaluation of Aspose.CAD for .NET, buy a license at the Aspose website: [Purchase Portal](https://purchase.aspose.com/buy). Make yourself familiar with the different license types available. If you have any questions, [contact the Aspose sales team](https://company.aspose.com/contact) and they'll be happy to help you.
+Once you are happy with your evaluation of Aspose.CAD for .NET, buy a license at the Aspose website: [Purchase Portal](https://purchase.aspose.com/buy). Make yourself familiar with the different license types available. If you have any questions, [contact the Aspose sales team](https://about.aspose.com/contact) and they'll be happy to help you.
 
 Every Aspose license carries a one-year subscription for free upgrades to any new versions or fixes that come out during this time. We provide free and unlimited technical support to both licensed and evaluation users.
 

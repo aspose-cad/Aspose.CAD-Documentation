@@ -11,7 +11,7 @@ All examples of Aspose.CAD for Java are hosted on [Github](https://github.com/as
 
 Extract the contents of ZIP file to any folder on your computer. All examples are located in the **Examples** folder.
 
-|![todo:image_alt_text](http://i.imgur.com/WcD96jk.png)|
+|![todo:image_alt_text](https://i.imgur.com/7WsFK0M.png)|
 | :- |
 |**Figure: Aspose.CAD Examples Directory**|
 
@@ -23,12 +23,12 @@ The project uses Maven build system. Any modern IDE can easily open or import th
 
 Click on the **File** menu and choose **Open**. Browse to the project folder and select the **pom.xml** file.
 
-|![todo:image_alt_text](http://i.imgur.com/nPfCrsR.png)|
+|![todo:image_alt_text](https://i.imgur.com/nPfCrsR.png)|
 | :- |
 |**Figure: Select File or Directory to Import**|
 It will open the project and download the dependencies automatically. From the Project tab, browse the examples in **src/main/java** folder. To run an example, just right click on the file and choose "Run ..", the example will be executed and the output will be shown in the built in console output window.
 
-|![todo:image_alt_text](http://i.imgur.com/nMaSTiG.png)|
+|![todo:image_alt_text](https://i.imgur.com/nMaSTiG.png)|
 | :- |
 |**Figure: Run Example**|
 
@@ -36,12 +36,12 @@ It will open the project and download the dependencies automatically. From the P
 
 Click on **File** menu and choose **Import**. Select **Maven** - Existing Maven Projects.
 
-|![todo:image_alt_text](http://i.imgur.com/Ca0cHFr.png)|
+|![todo:image_alt_text](https://i.imgur.com/Ca0cHFr.png)|
 | :- |
 |**Figure: Import**|
 Browse to the folder that you cloned or downloaded from GitHub and select **pom.xml** file. It will open the project and download the dependencies automatically. From the Package Explorer tab, browse the examples in **src/main/java** folder. To run an example, just right click on the file and choose **Run As** - **Java Application**, the example will be executed and the output will be shown in the built in console output window.
 
-|![todo:image_alt_text](http://i.imgur.com/7WsFK0M.png)|
+|![todo:image_alt_text](https://i.imgur.com/7WsFK0M.png)|
 | :- |
 |**Figure: Run Example**|
 
@@ -49,12 +49,12 @@ Browse to the folder that you cloned or downloaded from GitHub and select **pom.
 
 Click on the **File** menu and choose **Open Project**. Browse to the folder that you cloned or downloaded from GitHub. The icon of **Examples** folder will show that its a Maven project. Select Examples and open it.
 
-|![todo:image_alt_text](http://i.imgur.com/KOcP5Z2.png)|
+|![todo:image_alt_text](https://i.imgur.com/KOcP5Z2.png)|
 | :- |
 |**Figure: Open Project**|
 It will open the project and download the dependencies automatically. From the Projects tab, browse the examples in **source packages**. To run an example, just right click on the file and choose **Run File**, the example will be executed and the output will be shown in the built in console output window.
 
-|![todo:image_alt_text](http://i.imgur.com/VUUU4BD.png)|
+|![todo:image_alt_text](https://i.imgur.com/VUUU4BD.png)|
 | :- |
 |**Figure: Run Example**|
 
