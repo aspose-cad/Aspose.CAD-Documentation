@@ -38,11 +38,11 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.CAD for .NET Online Documentation](/cad/net/)
 - [Aspose.CAD for .NET Features](/cad/net/product-overview/#advanced-api-features)
 - [Aspose.CAD for .NET Release Notes](/cad/net/release-notes/)
-- [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net)
+- [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net/)
 - [Install Aspose.CAD for .NET NuGet Package](https://www.nuget.org/packages/Aspose.CAD/)
 - [Aspose.CAD for .NET API Reference Guide](https://apireference.aspose.com/cad/net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-.NET)
-- [Aspose.CAD for .NET Free Support Forum](https://forum.aspose.com/c/cad)
+- [Aspose.CAD for .NET Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -68,7 +68,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Install Aspose.CAD for Java from Maven Repository](/cad/java/installation/)
 - [Aspose.CAD for Java API Reference Guide](https://apireference.aspose.com/cad/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-Java)
-- [Aspose.CAD for Java Free Support Forum](https://forum.aspose.com/c/cad)
+- [Aspose.CAD for Java Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)
 
 {{% alert color="primary" %}}
@@ -91,5 +91,5 @@ Following are the links to some useful resources you may need to accomplish your
 - Aspose.CAD for JasperReports Product Page
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-JasperReports)
 - [Download Aspose.CAD for JasperReports](https://downloads.aspose.com/cad/jasperreports)
-- [Aspose.CAD for JasperReports Free Support Forum](https://forum.aspose.com/c/cad)
+- [Aspose.CAD for JasperReports Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)

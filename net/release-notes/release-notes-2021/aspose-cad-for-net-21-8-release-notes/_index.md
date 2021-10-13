@@ -33,4 +33,4 @@ This page contains release notes for Aspose.CAD for .NET 21.8
 | CADNET-1331 | [API hangs on loading DWG](https://forum.aspose.com/t/aspose-cad-hangs-loading-dwg-file/225215) | Enhancement |
 | CADNET-1308 | Fix Circle and Arc export for PLT file format | Enhancement |
 | CADNET-1295 | "Image loading failed: Cannot create an instance of an interface." exception when open document IFC file | Enhancement |
-| CADNET-8246 | [Quality of images generated with Aspose.CAD is not good](https://forum.aspose.com/t/quality-of-images-generated-with-aspose/232598/3) | Enhancement |
+| CADNET-8246 | [Quality of images generated with Aspose.CAD is not good](https://forum.aspose.com/t/quality-of-generated-images-is-low-lines-are-not-rendered-fine/232598/3) | Enhancement |

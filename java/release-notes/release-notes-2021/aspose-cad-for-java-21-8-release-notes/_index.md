@@ -39,7 +39,7 @@ This page contains release notes for Aspose.CAD for Java 21.8
 | CADJAVA-862 | [NullPointerException on saving Aspsoe sample DXF](https://forum.aspose.com/t/saving-dxf-file-gives-error/219470) | Enhancement |
 | CADJAVA-737 | DWG to PDF conversion hangs and leaks memory | Enhancement |
 | CADJAVA-564 | [Dwg not properly converted to PDF](https://forum.aspose.com/t/aspose-cad-for-java/203657) | Enhancement |
-| CADJAVA-10279 | [Quality of images generated with Aspose.CAD is not good](https://forum.aspose.com/t/quality-of-images-generated-with-aspose/232598/3) | Enhancement |
+| CADJAVA-10279 | [Quality of images generated with Aspose.CAD is not good](https://forum.aspose.com/t/quality-of-generated-images-is-low-lines-are-not-rendered-fine/232598/3) | Enhancement |
 | CADJAVA-10186 | [Black and White color PDF is not generated](https://forum.aspose.com/t/urgent-hpgl-glfiles-support/231137) | Enhancement |
 | CADJAVA-483 | [Text overlaps in exported PDF](https://forum.aspose.com/t/aspose-cad-dwg-pdf/195143) | Enhancement |
 | CADJAVA-975 | [Exception on using Aspose.CAD for java on Android Device](https://forum.aspose.com/t/aspose-cad-for-java-on-android-device/224744) | Internal |
