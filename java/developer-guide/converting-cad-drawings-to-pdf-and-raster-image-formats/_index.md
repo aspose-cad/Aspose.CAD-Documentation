@@ -13,7 +13,7 @@ Please note that you cannot instruct Aspose.CAD for Java to change or remove thi
 
 {{% /alert %}} 
 ## **Converting CAD Drawings to Raster Image Formats**
-Aspose.CAD for Java is capable of converting CAD drawing formats such as [**DXF**](https://wiki.fileformat.com/cad/dxf/) & [**DWG**](https://wiki.fileformat.com/cad/dwg/) to the supported raster image formats such as [**PNG**](https://wiki.fileformat.com/image/png/), [**BMP**](https://wiki.fileformat.com/image/bmp/), [**TIFF**](https://wiki.fileformat.com/image/tiff), [**JPEG**](https://wiki.fileformat.com/image/jpeg/) & [**GIF**](https://wiki.fileformat.com/image/gif/). Aspose.CAD for Java API has exposed efficient & easy to use means to achieve this goal.
+Aspose.CAD for Java is capable of converting CAD drawing formats such as [**DXF**](https://docs.fileformat.com/cad/dxf/) & [**DWG**](https://docs.fileformat.com/cad/dwg/) to the supported raster image formats such as [**PNG**](https://docs.fileformat.com/image/png/), [**BMP**](https://docs.fileformat.com/image/bmp/), [**TIFF**](https://docs.fileformat.com/image/tiff/), [**JPEG**](https://docs.fileformat.com/image/jpeg/) & [**GIF**](https://docs.fileformat.com/image/gif/). Aspose.CAD for Java API has exposed efficient & easy to use means to achieve this goal.
 You can convert any supported CAD drawing format to raster image formats using the simple steps as elaborated below.
 
 1. Load the CAD file into an instance of [**Image**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image).
@@ -31,7 +31,7 @@ By default, the API renders only the "Model" layout. However, you may also speci
 ## **Customizing CAD Conversion**
 The CAD to [PDF](https://docs.fileformat.com/pdf/) & CAD to raster image conversion procedures are highly configurable because the [**CadRasterizationOptions**](https://apireference.aspose.com/java/cad/com.aspose.cad.imageoptions/CadRasterizationOptions) class has been implemented in such a way that it provides many optional features that upon setting can override the rendering process according to the application needs.
 ### **CadRasterizationOptions Class**
-The [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class is common for all supported CAD formats such as [**DWG**](https://wiki.fileformat.com/cad/dwg/) & [DXF](https://docs.fileformat.com/cad/dxf/), therefore, the information shared in this article is valid for both aforesaid CAD formats.
+The [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class is common for all supported CAD formats such as [**DWG**](https://docs.fileformat.com/cad/dwg/) & [DXF](https://docs.fileformat.com/cad/dxf/), therefore, the information shared in this article is valid for both aforesaid CAD formats.
 
 The most useful **CadRasterizationOptions** class properties are:
 

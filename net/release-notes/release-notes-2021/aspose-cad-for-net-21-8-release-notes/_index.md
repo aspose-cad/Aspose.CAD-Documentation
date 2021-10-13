@@ -23,7 +23,7 @@ This page contains release notes for Aspose.CAD for .NET 21.8
 | CADNET-8219 | [Blank Image is rendered on exporting DWG to image](https://forum.aspose.com/t/jpg-converted-from-dwg-is-blank/232932) | Enhancement |
 | CADNET-8211 | [Extra lines in exported SVG](https://forum.aspose.com/t/extra-lines-in-picture/232295/4) | Enhancement |
 | CADNET-8176 | Aspose.CAD 21.5: DXF Image loading failed | Enhancement |
-| CADNET-8173 | [Image export failed exception on exporting to PDF](https://forum.aspose.com/t/image-export-failed-error-during-pdf-export/231514) | Enhancement |
+| CADNET-8173 | [Image export failed exception on exporting to PDF](https://forum.aspose.com/t/dwg-to-pdf-image-export-failed-with-exception-the-format-of-the-input-string-is-incorrect/231514) | Enhancement |
 | CADNET-8154 | [DWG to PNG export has line color issues](https://forum.aspose.com/t/dwg-to-png-export-help/230919) | Enhancement |
 | CADNET-8147 | [DXF to PDF render the 3D shapes improperly](https://forum.aspose.com/t/how-to-hide-viewport-frame/230560/3) | Enhancement |
 | CADNET-8144 | PLT and HPG files are failed to open after update Aspose.CAD to 21.5 version | Enhancement |

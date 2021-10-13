@@ -27,7 +27,7 @@ This page contains release notes for Aspose.CAD for Java 21.8
 | CADJAVA-10304 | PLT and HPG files are failed to open after update Aspose.CAD to 21.5 version | Enhancement |
 | CADJAVA-10302 | [DXF to PDF render the 3D shapes improperly](https://forum.aspose.com/t/how-to-hide-viewport-frame/230560/3) | Enhancement |
 | CADJAVA-10300 | [DWG to PNG export has line color issues](https://forum.aspose.com/t/dwg-to-png-export-help/230919) | Enhancement |
-| CADJAVA-10294 | [Image export failed exception on exporting to PDF](https://forum.aspose.com/t/image-export-failed-error-during-pdf-export/231514) | Enhancement |
+| CADJAVA-10294 | [Image export failed exception on exporting to PDF](https://forum.aspose.com/t/dwg-to-pdf-image-export-failed-with-exception-the-format-of-the-input-string-is-incorrect/231514) | Enhancement |
 | CADJAVA-10293 | Aspose.CAD 21.5: DXF Image loading failed | Enhancement |
 | CADJAVA-10286 | [Extra lines in exported SVG](https://forum.aspose.com/t/extra-lines-in-picture/232295/4) | Enhancement |
 | CADJAVA-10284 | [Blank Image is rendered on exporting DWG to image](https://forum.aspose.com/t/jpg-converted-from-dwg-is-blank/232932) | Enhancement |

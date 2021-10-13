@@ -88,7 +88,7 @@ The code sample below shows how to set the auto layout scaling for CAD to PDF co
 
 ## **Converting CAD Layouts to Raster Image Formats**
 
-Aspose.CAD for .NET API is capable of converting CAD layouts of supported formats such as [DXF](https://wiki.fileformat.com/cad/dxf/) & [DWG](https://wiki.fileformat.com/cad/dwg/) to the raster images such as[PNG](https://wiki.fileformat.com/image/png/), [BMP](https://wiki.fileformat.com/image/bmp/), [TIFF](https://wiki.fileformat.com/image/tiff), [JPEG ](https://wiki.fileformat.com/image/jpeg/)& [GIF](https://wiki.fileformat.com/image/gif/). The API also provides the support to render the specific layouts of a CAD drawing to different PSD layers.
+Aspose.CAD for .NET API is capable of converting CAD layouts of supported formats such as [DXF](https://docs.fileformat.com/cad/dxf/) & [DWG](https://docs.fileformat.com/cad/dwg/) to the raster images such as[PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [JPEG ](https://docs.fileformat.com/image/jpeg/)& [GIF](https://docs.fileformat.com/image/gif/). The API also provides the support to render the specific layouts of a CAD drawing to different PSD layers.
 
 Aspose.CAD for .NET API has exposed efficient & easy to use means to specify the list of required CAD layouts and render them to raster image formats. Here is how you can achieve the same in 5 simple steps as listed below.
 
@@ -124,7 +124,7 @@ Tracking of CAD rendering process can detect the following possible problems.
 
 ## **Substituting Fonts while Converting CAD Drawings**
 
-It is quite possible that a particular CAD drawing uses some specific font that isn't available on the machine where CAD to [PDF](https://wiki.fileformat.com/view/pdf/) or CAD to raster image conversion is taking place. In such situations, the Aspose.CAD API will trigger an appropriate exception to highlight the missing font(s) and stop the conversion process because the API requires these fonts to properly render the contents onto the resultant PDF and/or images.
+It is quite possible that a particular CAD drawing uses some specific font that isn't available on the machine where CAD to [PDF](https://docs.fileformat.com/pdf/) or CAD to raster image conversion is taking place. In such situations, the Aspose.CAD API will trigger an appropriate exception to highlight the missing font(s) and stop the conversion process because the API requires these fonts to properly render the contents onto the resultant PDF and/or images.
 
 Aspose.CAD API provides an easy way to use the mechanism to substitute the required font(s) with the available font(s). The **CadImage.Styles** property returns an instance of **CadStylesDictionary** that in turn contains the **CadStyleTableObject** for each style in the CAD drawing, whereas the **CadStyleTableObject.PrimaryFontName** can be used to specify the available font name.
 

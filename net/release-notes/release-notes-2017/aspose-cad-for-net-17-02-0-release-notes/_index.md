@@ -17,7 +17,7 @@ The following is a list of changes in this version of Aspose.Imaging.
 |CADNET-110|[Determine the external references for a dwg and their filepaths](https://forum.aspose.com/t/features-in-aspose-cad-and-possible-roadmap-for-additions/799)|Feature|
 |CADNET-15|[Support for DWG 2007(AC1021) Format](https://forum.aspose.com/t/dwg-to-pdf-failed/4117/1)|Feature|
 |CADNET-255|Implement right entity order for dwg format|Enhancement|
-|CADNET-198|[Converting DWG to PDF format is producing incorrect PDF file of 1kb size](hhttps://forum.aspose.com/t/convert-dwg-to-pdf-failed/820)|Enhancement|
+|CADNET-198|[Converting DWG to PDF format is producing incorrect PDF file of 1kb size](https://forum.aspose.com/t/convert-dwg-to-pdf-failed/820)|Enhancement|
 |CADNET-184|[Converting DWG to PDF file is throwing exception](https://forum.aspose.com/t/pdf-result-seems-to-be-pixelated/812/1)|Enhancement|
 |CADNET-183|[Converting DWG to PDF is not exporting external raster images linked with DWG file](https://forum.aspose.com/t/convert-a-dwg-to-pdf-with-included-external-references/815)|Enhancement|
 
