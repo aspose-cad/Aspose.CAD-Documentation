@@ -25,7 +25,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.CAD for Java Features](/cad/java/product-overview/#advanced-api-features)
 - [Aspose.CAD for Java Limitations](/cad/java/product-overview/#not-yet-supported)
 - [Aspose.CAD for Java Release Notes](/cad/java/release-notes/)
-- [Aspose.CAD for Java Product Page](https://products.aspose.com/cad/java)
+- [Aspose.CAD for Java Product Page](https://products.aspose.com/cad/java/)
 - [Download Aspose.CAD for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad)
 - [Install Aspose.CAD for Java from Maven Repository](/cad/java/installation/)
 - [Aspose.CAD for Java API Reference Guide](https://apireference.aspose.com/cad/java)
