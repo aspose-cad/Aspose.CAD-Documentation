@@ -1,7 +1,7 @@
 ---
 title: Aspose.CAD for Java 20.3 - Release Notes
 type: docs
-weight: 20
+weight: 90
 url: /java/aspose-cad-for-java-20-3-release-notes/
 ---
 

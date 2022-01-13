@@ -2,7 +2,7 @@
 title: "Aspose.CAD for Java 21.6 - Release Notes"
 type: docs
 url: /java/aspose-cad-for-java-21-6-release-notes/
-weight: 10
+weight: 40
 ---
 
 {{% alert color = "primary" %}}
