@@ -2,7 +2,7 @@
 title: "Aspose.CAD for .NET 20.7 - Release Notes"
 type: docs
 url: /net/aspose-cad-for-net-20-7-release-notes/
-weight: 8
+weight: 60
 ---
 
 {{% alert color = "primary" %}}
