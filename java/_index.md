@@ -1,6 +1,6 @@
 ---
 title: Aspose.CAD for Java
-description: Aspose.CAD for java allows developers to open, read and process AutoCAD DWG, DXF, DWT and other CAD and BIM file formats, such as: DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS.
+description: "Aspose.CAD for java allows developers to open, read and process AutoCAD DWG, DXF, DWT and other CAD and BIM file formats, such as: DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS."
 type: docs
 weight: 20
 url: /java/
