@@ -1,8 +1,10 @@
 ---
-title: Converting CAD Drawings to PDF and Raster Image Formats
+title: Converting AutoCAD Drawings to PDF and Image Formats
 type: docs
 weight: 30
 url: /net/converting-cad-drawings-to-pdf-and-raster-image-formats/
+keywords: "convert AutoCAD, convert DWG, convert DWF, convert DWT, convert DXF, convert autocad to pdf, convert DWG to PDF, convert DWG to PNG, convert DWG to TIFF, convert DWG to JPG"
+description: Convert AutoCAD drawings to PDF and image formats. You can convert DWG, DWF, DWT and DXF to PDF, JPEG, PNG, BMP, GIF and TIFF.
 ---
 
 {{% alert color="primary" %}}
