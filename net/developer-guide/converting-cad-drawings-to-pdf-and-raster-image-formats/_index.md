@@ -82,17 +82,17 @@ The code sample below shows how to set the auto layout scaling for CAD to PDF co
 
 {{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-ConvertingCAD-SettingAutoLayoutScaling-SettingAutoLayoutScaling.cs" >}}
 
-## **Converting CAD Layouts to Raster Image Formats**
+## **Convert AutoCAD DXF or DWG Layouts to PNG or Other Image Formats in C#**
 
-Aspose.CAD for .NET API is capable of converting CAD layouts of supported formats such as [DXF](https://docs.fileformat.com/cad/dxf/) & [DWG](https://docs.fileformat.com/cad/dwg/) to the raster images such as[PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [JPEG ](https://docs.fileformat.com/image/jpeg/)& [GIF](https://docs.fileformat.com/image/gif/). The API also provides the support to render the specific layouts of a CAD drawing to different PSD layers.
+Aspose.CAD for .NET API can convert CAD layouts of supported formats such as DXF and DWG to PNG BMP TIFF JPEG and GIF. The API also provides the support to render the specific layouts of a CAD drawing to different PSD layers.
 
-Aspose.CAD for .NET API has exposed efficient & easy to use means to specify the list of required CAD layouts and render them to raster image formats. Here is how you can achieve the same in 5 simple steps as listed below.
+Here is how you can achieve the same in the following simple steps.
 
-1. Load the CAD file into an instance of **Image** using the factory method **Load**.
-1. Create an instance of **CadRasterizationOptions** and set its mandatory properties such as **PageWidth** & **PageHeight**.
-1. Specify the desired layout name(s) using the CadRasterizationOptions.Layouts property.
-1. Create an instance of **ImageOptionsBase** and set its **VectorRasterizationOptions** property to the instance of **CadRasterizationOptions** created in the previous step.
-1. Call **Image.Save** by passing the file path (or an object of MemoryStream) as well as the instance of **ImageOptionsBase** created in the previous step.
+- Load the AutoCAD DWG or DXF file using **Image** class.
+- Set/change width and height of the image.
+- Set the desired layout name(s) using the CadRasterizationOptions.Layouts property.
+- Create an instance of **ImageOptionsBase** and set its **VectorRasterizationOptions** property to the instance of **CadRasterizationOptions** created in the previous step.
+- Save the CAD layout as TIFF or image.
 
 Here is the complete source code.
 
