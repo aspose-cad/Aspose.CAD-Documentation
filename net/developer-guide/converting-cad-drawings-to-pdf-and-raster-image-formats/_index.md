@@ -7,24 +7,18 @@ keywords: "DWG to PDF C#, DXF to PDF C#, DWF DWT to PDF C#, convert AutoCAD, con
 description: Use C# .NET AutoCAD to PDF converter to convert DWG or DXF to PDF in C#. You can convert DWG, DWF, DWT and DXF to PDF, JPEG, PNG, BMP, GIF and TIFF in C# .NET as well.
 ---
 
-{{% alert color="primary" %}}
+## **Convert DWG or DXF to PNG, JPEG, BMP GIF or TIFF in C#**
 
-[Aspose.CAD for .NET](/cad/net/) directly writes the information about API and Version Number in output documents. For example, upon rendering Document to [PDF](https://docs.fileformat.com/pdf/), Aspose.CAD for .NET populates Application field with value 'Aspose.CAD' and PDF Producer field with a value, e.g 'Aspose.CAD v 17.9'.
+Aspose.CAD for .NET can convert AutoCAD drawing formats such as [DXF](https://docs.fileformat.com/cad/dxf/) and [DWG](https://docs.fileformat.com/cad/dwg/) to [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [JPEG](https://docs.fileformat.com/image/jpeg/) and [GIF](https://docs.fileformat.com/image/gif/). It has exposed efficient and easy to use API to achieve this goal.
 
-Please note that you cannot instruct Aspose.CAD for .NET to change or remove this information from output Documents.
+You can convert any supported AutoCAD drawing format to raster image formats using the simple steps as elaborated below.
 
-{{% /alert %}}
-
-## **Converting CAD Drawings to Raster Image Formats**
-
-Aspose.CAD for .NET is capable of converting CAD drawing formats such as [DXF](https://docs.fileformat.com/cad/dxf/) & [DWG](https://docs.fileformat.com/cad/dwg/) to the supported raster image formats such as [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [TIFF](https://docs.fileformat.com/image/tiff/), [JPEG](https://docs.fileformat.com/image/jpeg/) & [GIF](https://docs.fileformat.com/image/gif/). Aspose.CAD for .NET API has exposed efficient & easy to use means to achieve this goal.
-
-You can convert any supported CAD drawing format to raster image formats using the simple steps as elaborated below.
-
-1. Load the CAD file into an instance of [**Image**](https://apireference.aspose.com/cad/net/aspose.cad/image).
-1. Create an instance of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) and set its mandatory properties such as [**PageWidth**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pagewidth) & [**PageHeight**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pageheight).
-1. Create an instance of [**ImageOptionsBase**](https://apireference.aspose.com/cad/net/aspose.cad/imageoptionsbase) and set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions) property to the instance of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) created in the previous step.
-1. Call [**Image.Save**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save) by passing the file path (or an object of MemoryStream) as well as the instance of [**ImageOptionsBase**](https://apireference.aspose.com/cad/net/aspose.cad/imageoptionsbase) created in the previous step.
+1. Load the AutoCAD DWG or DXF file into the [**Image**](https://apireference.aspose.com/cad/net/aspose.cad/image) class.
+1. Create an instance of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions).
+1. Set/change the size of the image using [**PageWidth**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pagewidth) and [**PageHeight**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pageheight)
+1. Create an instance of [**ImageOptionsBase**](https://apireference.aspose.com/cad/net/aspose.cad/imageoptionsbase)
+1. Set [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions) property to the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) created in the previous step.
+1. Save AutoCAD drawing as PDF with [**Image.Save**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save) by passing the file path (or an object of MemoryStream) as well as the instance of [**ImageOptionsBase**](https://apireference.aspose.com/cad/net/aspose.cad/imageoptionsbase) created in the previous step.
 
 Here is the complete source code.
 
