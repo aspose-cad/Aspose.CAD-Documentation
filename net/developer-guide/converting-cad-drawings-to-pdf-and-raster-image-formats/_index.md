@@ -100,13 +100,13 @@ Here is the complete source code.
 
 {{% alert color="primary" %}} 
 
-The property **CadRasterizationOptions.Layouts** is of type string array so you may specify more than one layouts at a time for possible conversion to image formats. While specifying multiple layouts for the **CadRasterizationOptions.Layouts** property, the resultant [TIFF](https://docs.fileformat.com/image/tiff/) image would have multiple pages, [GIF](https://docs.fileformat.com/image/gif/) image would have multiple frames and [PSD](https://docs.fileformat.com/image/psd/) format would have multiple layers, where each page/frame/layer represents an individual AutoCAD layout. In case any other image format such as [PNG](https://docs.fileformat.com/image/png/), [BMP](https://docs.fileformat.com/image/bmp/), [JPEG](https://docs.fileformat.com/image/jpeg/) is selected to store the result then the API will render only the default layout; that is "Model".
+The property **CadRasterizationOptions.Layouts** is of type string array so you may specify more than one layouts at a time for possible conversion to image formats. While specifying multiple layouts for the **CadRasterizationOptions.Layouts** property, the resultant TIFF image would have multiple pages, GIF image would have multiple frames and [PSD](https://docs.fileformat.com/image/psd/) format would have multiple layers, where each page/frame/layer represents an individual AutoCAD layout. In case any other image format such as PNG, BMP, JPEG is selected to store the result then the API will render only the default layout; that is "Model".
 
 {{% /alert %}}
 
 ## **Enabling Tracking for CAD Rendering Process**
 
-Aspose.CAD has introduced a series of classes and supporting enumeration fields to assist with the tracking of CAD rendering process. With these changes in place, the CAD to [PDF](https://docs.fileformat.com/pdf/) conversion can now be achieved as follow while enabling the tracking.
+Aspose.CAD has introduced a series of classes and supporting enumeration fields to assist with the tracking of CAD rendering process. With these changes in place, the CAD to PDF conversion can now be achieved as follow while enabling the tracking.
 
 {{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-ConvertingCAD-EnableTrackingForCADRendering-EnableTrackingForCADRendering.cs" >}}
 
@@ -120,7 +120,7 @@ Tracking of CAD rendering process can detect the following possible problems.
 
 ## **Substituting Fonts while Converting CAD Drawings**
 
-It is quite possible that a particular CAD drawing uses some specific font that isn't available on the machine where CAD to [PDF](https://docs.fileformat.com/pdf/) or CAD to raster image conversion is taking place. In such situations, the Aspose.CAD API will trigger an appropriate exception to highlight the missing font(s) and stop the conversion process because the API requires these fonts to properly render the contents onto the resultant PDF and/or images.
+It is quite possible that a particular CAD drawing uses some specific font that isn't available on the machine where CAD to PDF or CAD to raster image conversion is taking place. In such situations, the Aspose.CAD API will trigger an appropriate exception to highlight the missing font(s) and stop the conversion process because the API requires these fonts to properly render the contents onto the resultant PDF or images.
 
 Aspose.CAD API provides an easy way to use the mechanism to substitute the required font(s) with the available font(s). The **CadImage.Styles** property returns an instance of **CadStylesDictionary** that in turn contains the **CadStyleTableObject** for each style in the CAD drawing, whereas the **CadStyleTableObject.PrimaryFontName** can be used to specify the available font name.
 
