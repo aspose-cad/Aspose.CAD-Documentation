@@ -94,3 +94,25 @@ Following are the links to some useful resources you may need to accomplish your
 - [Download Aspose.CAD for JasperReports](https://downloads.aspose.com/cad/jasperreports)
 - [Aspose.CAD for JasperReports Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for JasperReports Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+{{% alert color="primary" %}}
+
+**Aspose.CAD for Python**
+
+Aspose.CAD for Python is a cross-platform library, compatible with Python 3.x, with rich set of features and abilities described above. It is available through direct download and as a PyPi package.
+
+{{% /alert %}}
+
+## **Aspose.CAD for Python Resources**
+
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.CAD for Python Online Documentation](/cad/python/)
+- [Aspose.CAD for Python Features](/cad/python/product-overview/#advanced-api-features)
+- [Aspose.CAD for Python Release Notes](/cad/python/release-notes/)
+- [Aspose.CAD for Python Product Page](https://products.aspose.com/cad/npython/)
+- [Install Aspose.CAD for Python PyPi Package](https://www.pypi.org/packages/Aspose.CAD/)
+- [Aspose.CAD for Python API Reference Guide](https://apireference.aspose.com/cad/python)
+- [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-Python)
+- [Aspose.CAD for Python Free Support Forum](https://forum.aspose.com/c/cad/19)
+- [Aspose.CAD for Python Paid Support Helpdesk](https://helpdesk.aspose.com/)
