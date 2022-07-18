@@ -9,8 +9,8 @@ url: /net/convert-dwg-to-dwf/
 
 Aspose.CAD provides the feature to load the AutoCAD [DWG](https://docs.fileformat.com/cad/dwg/) file and export it to the [DWF](https://docs.fileformat.com/cad/dwf/) format. DWG to DWF conversion approach works as follows:
 
-1. Load DWG drawing file using the [**Image.Load**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/load/index) factory method.
-1. Export the DWG drawing to DXF using the [**Image.Save**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load DWG drawing file using the [**Image.Load**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/load/index) factory method.
+1. Export the DWG drawing to DXF using the [**Image.Save**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
 
 ## Sample Code
 

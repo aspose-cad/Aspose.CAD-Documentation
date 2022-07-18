@@ -28,10 +28,10 @@ A DWG is a binary file that contains vector image data and metadata. The vector 
 
 The following simple steps are required to convert DWG to PDF.
 
-1. Load the DWG file into an instance of [**Image**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image).
-1. Create an object of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the [**PageHeight**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
-1. Create an object of the [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set the [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
-1. Call the [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method and pass the object of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter.
+1. Load the DWG file into an instance of [**Image**](https://reference.aspose.com/cad/java/com.aspose.cad/Image).
+1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the [**PageHeight**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
+1. Create an object of the [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set the [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
+1. Call the [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method and pass the object of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter.
 
 The code sample below shows how to export DWG Drawings to PDF.
 
@@ -41,11 +41,11 @@ The code sample below shows how to export DWG Drawings to PDF.
 
 Aspose.CAD for Java allows you to convert the DWG file to a single PDF with different layout sizes. This approach works as follows:
 
-1. Load a DWG file using the [**Aspose.CAD.Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the resultant page height and width.
-1. Add required [**LayoutPageSizes**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setLayoutPageSizes-com.aspose.ms.System.Collections.Generic.Dictionary-) for the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) object.
-1. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
-1. Export the image to PDF using the [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
+1. Load a DWG file using the [**Aspose.CAD.Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the resultant page height and width.
+1. Add required [**LayoutPageSizes**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setLayoutPageSizes-com.aspose.ms.System.Collections.Generic.Dictionary-) for the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) object.
+1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
+1. Export the image to PDF using the [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
 
 The code sample below shows how to create a single PDF with different layouts.
 
@@ -55,10 +55,10 @@ The code sample below shows how to create a single PDF with different layouts.
 
 The following simple steps are required to convert DWG to PDF.
 
-1. Load the DWG file into an instance of [**Image**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image).
-1. Create an object of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the [**PageHeight**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
-1. Create an object of the [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set the [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
-1. Call the [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method and pass the object of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter.
+1. Load the DWG file into an instance of [**Image**](https://reference.aspose.com/cad/java/com.aspose.cad/Image).
+1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the [**PageHeight**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
+1. Create an object of the [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set the [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
+1. Call the [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method and pass the object of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter.
 
 The code sample below shows how to export DWG Drawings to PDF.
 
@@ -108,11 +108,11 @@ The following AutoCAD primitives are supported.
 
 This approach works as follows:
 
-1. Load a DWG file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the resultant page height and width.
-1. Set the [**Layouts**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) property for the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) object.
-1. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
-1. Export the image to PDF using the [**Image.save()**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
+1. Load a DWG file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the resultant page height and width.
+1. Set the [**Layouts**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) property for the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) object.
+1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
+1. Export the image to PDF using the [**Image.save()**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
 
 The code sample below shows how to convert a specific layout of DWG to PDF.
 
@@ -130,11 +130,11 @@ The code sample below shows how to implement this feature.
 
 This approach works as follows:
 
-1. Load a DWG file using the [**Aspose.CAD.Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class.
-1. Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the resultant page height and width.
-1. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
-1. Export the image to PDF using the [**Image.save()**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
+1. Load a DWG file using the [**Aspose.CAD.Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class.
+1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the resultant page height and width.
+1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
+1. Export the image to PDF using the [**Image.save()**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
 
 The code sample below shows how to implement this feature.
 
@@ -150,9 +150,9 @@ The code sample below shows how to implement this feature.
 
 ## **Support for reading XREF metadata for DWG file**
 
-1. Load a DWG file using the [**Aspose.CAD.Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Load a DWG file using the [**Aspose.CAD.Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
 1. Traverse through every image entity.
-1. If the entity is [**CadUnderlay**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadUnderlay) than XREF entity with metadata.
+1. If the entity is [**CadUnderlay**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadUnderlay) than XREF entity with metadata.
 
 The code sample below shows how to achieve this feature.
 
@@ -166,7 +166,7 @@ The code sample below shows how to render a DWG document.
 
 {{< gist "aspose-com-gists" "49c1b75d9a84e149ecf374ece2c2597d" "Examples-src-main-java-com-aspose-cad-examples-DWGDrawings-RenderDWGDocument-RenderDWGDocument.java" >}}
 
-The property [**CadRasterizationOptions.Layouts**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#getLayouts--) is of type string array so you may specify more than one layouts at a time for possible conversion to PDF format. While specifying multiple layouts for the [**CadRasterizationOptions.Layouts**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) property, the resultant PDF would have multiple pages, where each page represents an individual AutoCAD layout.
+The property [**CadRasterizationOptions.Layouts**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#getLayouts--) is of type string array so you may specify more than one layouts at a time for possible conversion to PDF format. While specifying multiple layouts for the [**CadRasterizationOptions.Layouts**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) property, the resultant PDF would have multiple pages, where each page represents an individual AutoCAD layout.
 
 ### **List All Layouts**
 
@@ -176,7 +176,7 @@ You may list all the layouts present in an AutoCAD drawing using the following c
 
 ## **Get Block Attribute Value Of External Reference**
 
-Aspose.CAD for Java API allows you to get an external reference of a block attribute. Aspose.CAD API exposes the [**getXRefPathName()**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadBlockEntity#getXRefPathName--) property to get the external reference of a block attribute in a [**CadBlockDictionary**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad/CadBlockDictionary) collection.
+Aspose.CAD for Java API allows you to get an external reference of a block attribute. Aspose.CAD API exposes the [**getXRefPathName()**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadBlockEntity#getXRefPathName--) property to get the external reference of a block attribute in a [**CadBlockDictionary**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad/CadBlockDictionary) collection.
 
 The following code demonstrates how to get an external reference of a block attribute.
 
@@ -184,7 +184,7 @@ The following code demonstrates how to get an external reference of a block attr
 
 ## **Search Text In DWG AutoCAD File**
 
-Aspose.CAD for Java API allows you to search text in a DWG AutoCAD file. Aspose.CAD API exposes [**CadText**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadText) class that represents text entities in the DWG AutoCAD file. Class [**CadMText**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadMText) is also included in the Aspose.CAD API because some other entities may also contain text.
+Aspose.CAD for Java API allows you to search text in a DWG AutoCAD file. Aspose.CAD API exposes [**CadText**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadText) class that represents text entities in the DWG AutoCAD file. Class [**CadMText**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadMText) is also included in the Aspose.CAD API because some other entities may also contain text.
 
 The following code demonstrates how to search text in the DWG AutoCAD file.
 
@@ -230,14 +230,14 @@ Aspose.CAD for Java API can load AutoCAD drawings in DWG format and support diff
 
 ## **Support for Mesh in DWG**
 
-Aspose.CAD for Java API can now access the entities supporting mesh which include [**CadPolyFaceMesh**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects.polylines/CadPolyFaceMesh) and [**CadPolygonMesh**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects.polylines/CadPolygonMesh) types. The following example describes how can we access the mesh types.
+Aspose.CAD for Java API can now access the entities supporting mesh which include [**CadPolyFaceMesh**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects.polylines/CadPolyFaceMesh) and [**CadPolygonMesh**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects.polylines/CadPolygonMesh) types. The following example describes how can we access the mesh types.
 
 ## **Convert DWG Drawings to DXF**
 
 Aspose.CAD provides the feature to load AutoCAD DWG file and export it to DXF format. DWG to DXF conversion approach works as follows:
 
-1. Load DWG drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Export the DWG drawing to DXF using the [**Image.save()**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
+1. Load DWG drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Export the DWG drawing to DXF using the [**Image.save()**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
 
 The code sample below shows how to convert a DWG file to a DXF format.
 
@@ -247,9 +247,9 @@ The code sample below shows how to convert a DWG file to a DXF format.
 
 Aspose.CAD API can load AutoCAD drawings in DWG format, and convert it to SVG. This topic explains the usage of Aspose.CAD API to achieve the conversion of DWG to SVG format through simple steps as defined below.
 
-1. Load the DWG file into an instance of [**Image**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image).
-1. Create an object of the [**SvgOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/SvgOptions) class and set the required properties.
-1. Export the DWG drawing to SVG using the [**Image.save()**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
+1. Load the DWG file into an instance of [**Image**](https://reference.aspose.com/cad/java/com.aspose.cad/Image).
+1. Create an object of the [**SvgOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/SvgOptions) class and set the required properties.
+1. Export the DWG drawing to SVG using the [**Image.save()**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
 
 The code sample below shows how to convert a DWG file to SVG format.
 

@@ -13,12 +13,12 @@ Aspose.CAD for .NET can convert AutoCAD drawing formats such as [DXF](https://do
 
 You can convert any supported AutoCAD drawing format to raster image formats using the simple steps as elaborated below.
 
-1. Load the AutoCAD DWG or DXF file into the [**Image**](https://apireference.aspose.com/cad/net/aspose.cad/image) class.
-1. Create an instance of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions).
-1. Set/change the size of the image using [**PageWidth**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pagewidth) and [**PageHeight**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pageheight)
-1. Create an instance of [**ImageOptionsBase**](https://apireference.aspose.com/cad/net/aspose.cad/imageoptionsbase)
-1. Set [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions) property to the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) created in the previous step.
-1. Save AutoCAD drawing as PDF with [**Image.Save**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save) by passing the file path (or an object of MemoryStream) as well as the instance of [**ImageOptionsBase**](https://apireference.aspose.com/cad/net/aspose.cad/imageoptionsbase) created in the previous step.
+1. Load the AutoCAD DWG or DXF file into the [**Image**](https://reference.aspose.com/cad/net/aspose.cad/image) class.
+1. Create an instance of [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions).
+1. Set/change the size of the image using [**PageWidth**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pagewidth) and [**PageHeight**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pageheight)
+1. Create an instance of [**ImageOptionsBase**](https://reference.aspose.com/cad/net/aspose.cad/imageoptionsbase)
+1. Set [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions) property to the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) created in the previous step.
+1. Save AutoCAD drawing as PDF with [**Image.Save**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save) by passing the file path (or an object of MemoryStream) as well as the instance of [**ImageOptionsBase**](https://reference.aspose.com/cad/net/aspose.cad/imageoptionsbase) created in the previous step.
 
 Here is the complete source code.
 
@@ -28,7 +28,7 @@ By default, the API renders only the "Model" layout. However, you may also speci
 
 ## **Customizing CAD Conversion**
 
-The CAD to [PDF](https://docs.fileformat.com/pdf/) & CAD to raster image conversion procedures are highly configurable because the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class has been implemented in such a way that it provides many optional features that upon setting can override the rendering process according to the application needs.
+The CAD to [PDF](https://docs.fileformat.com/pdf/) & CAD to raster image conversion procedures are highly configurable because the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class has been implemented in such a way that it provides many optional features that upon setting can override the rendering process according to the application needs.
 
 ### **CadRasterizationOptions Class**
 

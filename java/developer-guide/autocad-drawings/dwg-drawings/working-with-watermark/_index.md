@@ -7,7 +7,7 @@ url: /java/working-with-watermark/
 
 ## **Add Watermark in a DWG**
 
-Sometimes you want to add some watermarks to drawings to indicate what purpose of the drawings or who created them. Aspose.CAD for Java allows you to add a watermark in a DWG file. This can be done through creating a Text or MText entity with a specific text height, rotation, style, adjustments and such should be adjusted as well to give a good look. For this, the API provides [**CadMText**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadMText) and [**CadText**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadText) classes.
+Sometimes you want to add some watermarks to drawings to indicate what purpose of the drawings or who created them. Aspose.CAD for Java allows you to add a watermark in a DWG file. This can be done through creating a Text or MText entity with a specific text height, rotation, style, adjustments and such should be adjusted as well to give a good look. For this, the API provides [**CadMText**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadMText) and [**CadText**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadText) classes.
 
 ## Sample Code
 
