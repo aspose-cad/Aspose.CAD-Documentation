@@ -28,10 +28,10 @@ A [DWG](https://docs.fileformat.com/cad/dwg/) is a binary file that contains vec
 
 The following simple steps are required to convert [DWG](https://docs.fileformat.com/cad/dwg/) to [PDF](https://docs.fileformat.com/pdf/).
 
-1. Load the DWG file into an instance of [**Image**](https://apireference.aspose.com/cad/net/aspose.cad/image).
-1. Create an object of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the [**PageHeight**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pageheight) & [**PageWidth**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pagewidth) properties.
-1. Create an object of the [**PdfOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set the [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
-1. Call [**Image.Save**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save) while passing an object of [**PdfOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) as the second parameter.
+1. Load the DWG file into an instance of [**Image**](https://reference.aspose.com/cad/net/aspose.cad/image).
+1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the [**PageHeight**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pageheight) & [**PageWidth**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pagewidth) properties.
+1. Create an object of the [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set the [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
+1. Call [**Image.Save**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save) while passing an object of [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) as the second parameter.
 
 The code sample below shows how to export DWG Drawings to PDF.
 
@@ -41,11 +41,11 @@ The code sample below shows how to export DWG Drawings to PDF.
 
 Aspose.CAD for .NET allows you to convert DWG file to a single PDF with different layout sizes. This approach works as follows:
 
-1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://apireference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
-1. Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the resultant page height and width.
-1. Add required [**LayoutPageSizes**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/layoutpagesizes) for the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) object.
-1. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
-1. Export the image to PDF using the [**Image.Save()**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://reference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
+1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the resultant page height and width.
+1. Add required [**LayoutPageSizes**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/layoutpagesizes) for the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) object.
+1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
+1. Export the image to PDF using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
 
 The code sample below shows how to create a single [PDF](https://docs.fileformat.com/pdf/) with different layouts.
 
@@ -95,11 +95,11 @@ The following AutoCAD primitives are supported.
 
 This approach works as follows:
 
-1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://apireference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
-1. Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the resultant page height and width.
-1. Set the [**Layouts**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions/properties/layouts) property for the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) object.
-1. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
-1. Export the image to PDF using the [**Image.Save()**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://reference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
+1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the resultant page height and width.
+1. Set the [**Layouts**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions/properties/layouts) property for the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) object.
+1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
+1. Export the image to PDF using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
 
 The code sample below shows how to convert a specific layout of DWG to PDF.
 
@@ -125,11 +125,11 @@ The code sample below shows how to implement this feature.
 
 This approach works as follows:
 
-1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://apireference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
-1. Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class.
-1. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
+1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://reference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
+1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class.
+1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
 1. Set PDF compliance property and save it.
-1. Export the image to PDF using the [**Image.Save()**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Export the image to PDF using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
 
 The code sample below shows how to convert a DWG file to PDF/A and PDF/E.
 
@@ -139,10 +139,10 @@ The code sample below shows how to convert a DWG file to PDF/A and PDF/E.
 
 This approach works as follows:
 
-1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://apireference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
-1. Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the resultant page height and width.
-1. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
-1. Export the image to PDF using the [**Image.Save()**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://reference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
+1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the resultant page height and width.
+1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
+1. Export the image to PDF using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
 
 The code sample below shows how to implement this feature.
 
@@ -158,7 +158,7 @@ The code sample below shows how to implement this feature.
 
 ## **Support for reading XREF metadata for DWG file**
 
-1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://apireference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
+1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://reference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
 1. Traverse through every image entity.
 1. If an entity is CadUnderlay than XREF entity with metadata.
 
@@ -166,7 +166,7 @@ The code sample below shows how to achieve this feature.
 
 {{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-DWG-Drawings-ReadXREEFMetaData-ReadXREEFMetaData.cs" >}}
 
-The property [**CadRasterizationOptions.Layouts**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions/properties/layouts) is of type string array so you may specify more than one layouts at a time for possible conversion to PDF format. While specifying multiple layouts for the [**CadRasterizationOptions.Layouts**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions/properties/layouts) property, the resultant PDF would have multiple pages, where each page represents an individual AutoCAD layout.
+The property [**CadRasterizationOptions.Layouts**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions/properties/layouts) is of type string array so you may specify more than one layouts at a time for possible conversion to PDF format. While specifying multiple layouts for the [**CadRasterizationOptions.Layouts**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions/properties/layouts) property, the resultant PDF would have multiple pages, where each page represents an individual AutoCAD layout.
 
 ### **List All Layouts**
 
@@ -210,7 +210,7 @@ Aspose.CAD for .NET API can load AutoCAD drawings in DWG format and support diff
 
 ## **Support for Mesh in DWG**
 
-Aspose.CAD for .NET API can now access the entities supporting mesh which include [**CadPolyFaceMesh**](https://apireference.aspose.com/cad/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyfacemesh) and [**CadPolygonMesh**](https://apireference.aspose.com/cad/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh) types. The following example describes how can we access the mesh types.
+Aspose.CAD for .NET API can now access the entities supporting mesh which include [**CadPolyFaceMesh**](https://reference.aspose.com/cad/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolyfacemesh) and [**CadPolygonMesh**](https://reference.aspose.com/cad/net/aspose.cad.fileformats.cad.cadobjects.polylines/cadpolygonmesh) types. The following example describes how can we access the mesh types.
 
 {{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Examples-CSharp-DWG-Drawings-MeshSupportForDWG-MeshSupportForDWG.cs" >}}
 
@@ -218,8 +218,8 @@ Aspose.CAD for .NET API can now access the entities supporting mesh which includ
 
 Aspose.CAD provides the feature to load AutoCAD DWG file and export it to DXF format. DWG to DXF conversion approach works as follows:
 
-1. Load DWG drawing file using the [**Image.Load**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/load/index) factory method.
-1. Export the DWG drawing to DXF using the [**Image.Save()**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load DWG drawing file using the [**Image.Load**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/load/index) factory method.
+1. Export the DWG drawing to DXF using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
 
 The code sample below shows how to convert a DWG file to a DXF format.
 
@@ -229,9 +229,9 @@ The code sample below shows how to convert a DWG file to a DXF format.
 
 Aspose.CAD for .NET API can load AutoCAD drawings in DWG format, and convert it to SVG. This topic explains the usage of Aspose.CAD API to achieve the conversion of DWG to SVG format through simple steps as defined below.
 
-1. Load the DWG file into an instance of [**Image**](https://apireference.aspose.com/cad/net/aspose.cad/image).
-1. Create an object of the [**SvgOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/svgoptions) class and set the required properties.
-1. Export the DWG drawing to SVG using the [**Image.Save()**](https://apireference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load the DWG file into an instance of [**Image**](https://reference.aspose.com/cad/net/aspose.cad/image).
+1. Create an object of the [**SvgOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/svgoptions) class and set the required properties.
+1. Export the DWG drawing to SVG using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
 
 The code sample below shows how to convert a DWG file to SVG format.
 
@@ -239,6 +239,6 @@ The code sample below shows how to convert a DWG file to SVG format.
 
 ## **Load Large DWG File**
 
-Aspose.CAD for .NET provides the facility to open very large DWG files using [**Image**](https://apireference.aspose.com/cad/net/aspose.cad/image) class. Now you can easily open large files with the help of the sample code given below.
+Aspose.CAD for .NET provides the facility to open very large DWG files using [**Image**](https://reference.aspose.com/cad/net/aspose.cad/image) class. Now you can easily open large files with the help of the sample code given below.
 
 {{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-DWG-Drawings-LargeDWGToPDF-LargeDWGToPDF.cs" >}}

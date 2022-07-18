@@ -7,7 +7,7 @@ url: /net/cff2-drawings/
 
 ## **Convert CF2 to PDF**
 
-Aspose.CAD for .NET now supports Common File Format File (CF2). CF2 file contains 3D package designs or other model data. This article demonstrates how you can convert the CF2 file to PDF using [**PdfOptions**](https://apireference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions).
+Aspose.CAD for .NET now supports Common File Format File (CF2). CF2 file contains 3D package designs or other model data. This article demonstrates how you can convert the CF2 file to PDF using [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions).
 
 ## Sample Code
 

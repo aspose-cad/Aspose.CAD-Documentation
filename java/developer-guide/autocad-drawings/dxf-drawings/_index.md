@@ -9,10 +9,10 @@ url: /java/dxf-drawings/
 
 Aspose.CAD provides the feature to load AutoCAD DXF drawing entities and render them as an entire drawing to PDF format. DXF to PDF conversion approach works as follows:
 
-1. Load DXF drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an object of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the [**PageHeight**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
-1. Create an object of the [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set the [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
-1. Call Image.Save while passing an object of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter.
+1. Load DXF drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the [**PageHeight**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
+1. Create an object of the [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set the [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
+1. Call Image.Save while passing an object of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter.
 
 The code sample below shows how to convert a file using default settings.
 
@@ -55,20 +55,20 @@ If during parsing we encounter some entity or property we do not support the ent
 
 ### **Memory Management**
 
-The property [**ExactReallocateOnly**](https://apireference.aspose.com/cad/java/com.aspose.cad/Cache#getExactReallocateOnly--) can be used to control memory re-allocation. Re-allocation is most likely to occur for pre-allocated caches. It can happen when the system figures out that the allocated space will not be sufficient.
+The property [**ExactReallocateOnly**](https://reference.aspose.com/cad/java/com.aspose.cad/Cache#getExactReallocateOnly--) can be used to control memory re-allocation. Re-allocation is most likely to occur for pre-allocated caches. It can happen when the system figures out that the allocated space will not be sufficient.
 
-- If [**ExactReallocateOnly**](https://apireference.aspose.com/cad/java/com.aspose.cad/Cache#getExactReallocateOnly--) is set to the default value, **False**, the space is re-allocated to the same medium.
+- If [**ExactReallocateOnly**](https://reference.aspose.com/cad/java/com.aspose.cad/Cache#getExactReallocateOnly--) is set to the default value, **False**, the space is re-allocated to the same medium.
 - When set to **True**, re-allocation cannot exceed the maximum specified space. In this case, the existing allocated in-memory cache (which requires re-allocation) is freed and extended space is allocated on disk.
 
 ## **Exporting Specific Layer of DXF Drawings to PDF**
 
 This approach works as follows:
 
-1. Open a DXF drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an instance of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) and specify [**PageWidth**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) & [**PageHeight**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) properties.
-1. Add layers to the object of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions).
-1. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) & set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
-1. Export the drawing to PDF using the [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
+1. Open a DXF drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an instance of [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) and specify [**PageWidth**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) & [**PageHeight**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) properties.
+1. Add layers to the object of [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions).
+1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) & set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
+1. Export the drawing to PDF using the [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
 
 The code sample below shows how to convert a specific layer of DXF to PDF.
 
@@ -78,11 +78,11 @@ The code sample below shows how to convert a specific layer of DXF to PDF.
 
 This approach works as follows:
 
-1. Open a DXF drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an instance of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) and specify [**PageWidth**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) & [**PageHeight**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) properties.
-1. Add layers to the object of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions)
-1. Create an instance of [**JpegOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/JpegOptions) & set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
-1. Export the drawing to PDF using the [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
+1. Open a DXF drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an instance of [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) and specify [**PageWidth**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) & [**PageHeight**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) properties.
+1. Add layers to the object of [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions)
+1. Create an instance of [**JpegOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/JpegOptions) & set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
+1. Export the drawing to PDF using the [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
 
 The code sample below shows how to convert a specific layer of DXF to Image.
 
@@ -92,10 +92,10 @@ The code sample below shows how to convert a specific layer of DXF to Image.
 
 This approach works as follow:
 
-1. Load DXF drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an object of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and load PDF files.
-1. set the [**PageHeight**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
-1. Call [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) and save the file.
+1. Load DXF drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and load PDF files.
+1. set the [**PageHeight**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
+1. Call [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) and save the file.
 
 The code sample below shows how to render PDF files as a part of DXF drawings.
 
@@ -105,10 +105,10 @@ The code sample below shows how to render PDF files as a part of DXF drawings.
 
 This approach works as follow:
 
-1. Load DXF drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an object of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and load PDF files.
-1. set the [**PageHeight**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
-1. Call [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) and save the file.
+1. Load DXF drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and load PDF files.
+1. set the [**PageHeight**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
+1. Call [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) and save the file.
 
 The code sample below shows how to export DXF to WMF.
 
@@ -132,11 +132,11 @@ The code sample below shows how to achieve specified requirements.
 
 This approach works as follow:
 
-1. Open a DXF drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an instance of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) and specify [**PageWidth**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) & [**PageHeight**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) properties.
-1. Specify the desired layout name(s) using the [**CadRasterizationOptions.Layouts**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) property.
-1. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) & set its [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions)property.
-1. Export the drawing to PDF using the [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
+1. Open a DXF drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an instance of [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) and specify [**PageWidth**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) & [**PageHeight**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) properties.
+1. Specify the desired layout name(s) using the [**CadRasterizationOptions.Layouts**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) property.
+1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) & set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions)property.
+1. Export the drawing to PDF using the [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method.
 
 The code sample below shows how to convert a specific layout of DXF to PDF.
 
@@ -144,7 +144,7 @@ The code sample below shows how to convert a specific layout of DXF to PDF.
 
 {{% alert color="primary" %}}
 
-The property [**CadRasterizationOptions.Layouts**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) is of type string array so you may specify more than one layouts at a time for possible conversion to PDF format. While specifying multiple layouts for the [**CadRasterizationOptions.Layouts**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) property, the resultant PDF would have multiple pages, where each page represents an individual AutoCAD layout.
+The property [**CadRasterizationOptions.Layouts**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) is of type string array so you may specify more than one layouts at a time for possible conversion to PDF format. While specifying multiple layouts for the [**CadRasterizationOptions.Layouts**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions#setLayouts-java.lang.String:A-) property, the resultant PDF would have multiple pages, where each page represents an individual AutoCAD layout.
 
 {{% /alert %}}
 
@@ -152,9 +152,9 @@ The property [**CadRasterizationOptions.Layouts**](https://apireference.aspose.c
 
 This approach works as follow:
 
-1. Open a DXF drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Open a DXF drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
 1. Access the entities inside CAD file.
-1. Check for [**CadEntityTypeName.MTEXT**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadconsts/CadEntityTypeName#MTEXT) and [**CadEntityTypeName.INSERT**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadconsts/CadEntityTypeName#INSERT) entities.
+1. Check for [**CadEntityTypeName.MTEXT**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadconsts/CadEntityTypeName#MTEXT) and [**CadEntityTypeName.INSERT**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadconsts/CadEntityTypeName#INSERT) entities.
 1. Add to temporary list for further processing
 
 {{< gist "aspose-com-gists" "49c1b75d9a84e149ecf374ece2c2597d" "Examples-src-main-java-com-aspose-cad-examples-DXFDrawings-AddAttribMText-AddAttribMText.java" >}}
@@ -163,10 +163,10 @@ This approach works as follow:
 
 This approach works as follow:
 
-1. Open a **DXF** drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Open a **DXF** drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
 1. Access the entities inside CAD file.
-1. Check for [**CadEntityTypeName.INSERT**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadconsts/CadEntityTypeName#INSERT) entities.
-1. check for [**CadBlockEntity**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadBlockEntity) type list
+1. Check for [**CadEntityTypeName.INSERT**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadconsts/CadEntityTypeName#INSERT) entities.
+1. check for [**CadBlockEntity**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad.cadobjects/CadBlockEntity) type list
 1. Process the entities
 
 {{< gist "aspose-com-gists" "49c1b75d9a84e149ecf374ece2c2597d" "Examples-src-main-java-com-aspose-cad-examples-DXFDrawings-DecomposeCadInsertObject-DecomposeCadInsertObject.java" >}}
@@ -175,10 +175,10 @@ This approach works as follow:
 
 Aspose.CAD provides the feature of Block Clipping. Block Clipping approach works as follows:
 
-1. Load DXF drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an object of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and load PDF files.
-1. Set desired properties of [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions).
-1. Call [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) while passing an object of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter and save the file.
+1. Load DXF drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and load PDF files.
+1. Set desired properties of [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions).
+1. Call [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) while passing an object of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter and save the file.
 
 The code sample below shows how Block Clipping works.
 

@@ -7,7 +7,7 @@ url: /java/iges-drawings/
 
 ## **Export IGES to PDF**
 
-Aspose.CAD for Java allows developers to render IGES files to PDF. Following is the code demonstrating how to access the IGES file and convert that to PDF using [**CadRasterizationOption**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) and [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions).
+Aspose.CAD for Java allows developers to render IGES files to PDF. Following is the code demonstrating how to access the IGES file and convert that to PDF using [**CadRasterizationOption**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) and [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions).
 
 ## Sample Code
 

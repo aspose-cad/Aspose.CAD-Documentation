@@ -29,7 +29,7 @@ Follow these simple rules:
 
 ## **Apply License using File or Stream Object**
 
-Use the **[License.SetLicense](https://apireference.aspose.com/cad/net/aspose.cad.license/setlicense/methods/1)** method to license the component. The easiest way to set a license is to put the license file in the same folder as the Aspose.CAD.dll and specify the filename, without a path, as shown below.
+Use the **[License.SetLicense](https://reference.aspose.com/cad/net/aspose.cad.license/setlicense/methods/1)** method to license the component. The easiest way to set a license is to put the license file in the same folder as the Aspose.CAD.dll and specify the filename, without a path, as shown below.
 
 ### **Loading a License from File**
 

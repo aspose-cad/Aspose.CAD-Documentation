@@ -29,7 +29,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.CAD for Java Product Page](https://products.aspose.com/cad/java/)
 - [Download Aspose.CAD for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad)
 - [Install Aspose.CAD for Java from Maven Repository](/cad/java/installation/)
-- [Aspose.CAD for Java API Reference Guide](https://apireference.aspose.com/cad/java)
+- [Aspose.CAD for Java API Reference Guide](https://reference.aspose.com/cad/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-Java)
 - [Aspose.CAD for Java Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for Java Paid Support Helpdesk](https://helpdesk.aspose.com/)

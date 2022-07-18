@@ -7,9 +7,9 @@ url: /java/exporting-dgn-autocad/
 
 ## **Exporting DGN AutoCAD Format To PDF**
 
-Aspose.CAD for Java API has introduced the functionality to load a [DGN](https://docs.fileformat.com/cad/dgn/) AutoCAD file and convert it to [PDF](https://docs.fileformat.com/pdf/) format. [**DgnImage**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage) class serves the purpose.
+Aspose.CAD for Java API has introduced the functionality to load a [DGN](https://docs.fileformat.com/cad/dgn/) AutoCAD file and convert it to [PDF](https://docs.fileformat.com/pdf/) format. [**DgnImage**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage) class serves the purpose.
 
-You need to load an existing DGN file as [**DgnImage**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage). Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set different properties. Create an instance of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/pdfoptions) class and pass the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) instance. Now call the [**save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method of [**DgnImage**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage) class instance.
+You need to load an existing DGN file as [**DgnImage**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage). Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set different properties. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/pdfoptions) class and pass the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) instance. Now call the [**save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method of [**DgnImage**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage) class instance.
 
 ### Sample Code
 
@@ -19,9 +19,9 @@ Following is the code demonstration to convert/export DGN to PDF format.
 
 ## **Exporting DGN AutoCAD Format To Raster Image Format**
 
-Aspose.CAD for Java API has introduced the functionality to load a [DGN](https://docs.fileformat.com/cad/dgn/) AutoCAD file and convert it to a raster image. The [**DgnImage**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage) class serves the purpose.
+Aspose.CAD for Java API has introduced the functionality to load a [DGN](https://docs.fileformat.com/cad/dgn/) AutoCAD file and convert it to a raster image. The [**DgnImage**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage) class serves the purpose.
 
-You need to load an existing DGN file as [**DgnImage**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage). Create an instance of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set different properties. Create an instance of [**JpegOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/JpegOptions) class and pass the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) instance. Now call the [**save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) method of [**DgnImage**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage) class instance.
+You need to load an existing DGN file as [**DgnImage**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage). Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set different properties. Create an instance of [**JpegOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/JpegOptions) class and pass the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) instance. Now call the [**save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) method of [**DgnImage**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.dgn/DgnImage) class instance.
 
 ### Sample Code
 

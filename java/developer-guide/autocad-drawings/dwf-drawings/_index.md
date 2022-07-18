@@ -13,10 +13,10 @@ Aspose.CAD for Java API can load AutoCAD drawings in DWF format, and convert it 
 
 The following simple steps are required to convert DWF to PDF.
 
-1. Load the DWF file into an instance of [**Image**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image).
-1. Create an object of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the [**PageHeight**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
-1. Create an object of the [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set the [**VectorRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
-1. Call [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) while passing an object of [**PdfOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter.
+1. Load the DWF file into an instance of [**Image**](https://reference.aspose.com/cad/java/com.aspose.cad/Image).
+1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class and set the [**PageHeight**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageHeight-float-) & [**PageWidth**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions#setPageWidth-float-) properties.
+1. Create an object of the [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) class and set the [**VectorRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/VectorRasterizationOptions) property.
+1. Call [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) while passing an object of [**PdfOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/PdfOptions) as the second parameter.
 
 The code sample below shows how to export a DWF Drawings to PDF.
 
@@ -26,10 +26,10 @@ The code sample below shows how to export a DWF Drawings to PDF.
 
 Aspose.CAD provides the feature to load AutoCAD DWF drawing entities and render them as an entire drawing to JPG format.
 
-1. Load DWF drawing file using the [**Image.load**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
-1. Create an object of the [**CadRasterizationOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class.
+1. Load DWF drawing file using the [**Image.load**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#load-java.io.InputStream-) factory method.
+1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/CadRasterizationOptions) class.
 1. Add desired layers.
-1. Call [**Image.save**](https://apireference.aspose.com/cad/java/com.aspose.cad/Image#save--) while passing an object of [**JPEGOptions**](https://apireference.aspose.com/cad/java/com.aspose.cad.imageoptions/JpegOptions) as second parameter.
+1. Call [**Image.save**](https://reference.aspose.com/cad/java/com.aspose.cad/Image#save--) while passing an object of [**JPEGOptions**](https://reference.aspose.com/cad/java/com.aspose.cad.imageoptions/JpegOptions) as second parameter.
 
 The code sample below shows how to convert a file using default settings.
 

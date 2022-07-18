@@ -13,7 +13,7 @@ Aspose.CAD for Java allows developers to export a DWG file with embedded DGN und
 
 ## **3D entities support for DGN v7**
 
-Aspose.CAD for Java API has introduced the functionality to load a DGN AutoCAD file and support 3D entities for DGN v7. The [**CadImage**](https://apireference.aspose.com/cad/java/com.aspose.cad.fileformats.cad/CadImage) class serves the purpose. Each DGN image supports 9 predefined views. It's enumerated from 1 to 9. If view not defined on export, for multi-paged output formats (like PDF) all views will be exported, each on a separate page. 3D entities supported on DGN file format, as well as 2D.
+Aspose.CAD for Java API has introduced the functionality to load a DGN AutoCAD file and support 3D entities for DGN v7. The [**CadImage**](https://reference.aspose.com/cad/java/com.aspose.cad.fileformats.cad/CadImage) class serves the purpose. Each DGN image supports 9 predefined views. It's enumerated from 1 to 9. If view not defined on export, for multi-paged output formats (like PDF) all views will be exported, each on a separate page. 3D entities supported on DGN file format, as well as 2D.
 VectorRasterizationOptions.TypeOfEntities is not used anymore for DGN format (both 2d and 3d are supported simultaneously).
 
 Sample code to look at supported DGN elements.
