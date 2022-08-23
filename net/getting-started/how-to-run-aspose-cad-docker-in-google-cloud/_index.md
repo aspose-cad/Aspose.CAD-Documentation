@@ -214,12 +214,11 @@ If the answer is successful, click Save to file and you will receive the convert
 
 For more samples of how you can use Aspose.CAD in Docker, see the [examples](https://github.com/aspose-cad/Aspose.CAD-Documentation).
 
-
 ## See Also.
 
 - [Install Docker Desktop on Windows](https://docs.docker.com/docker-for-windows/install/)
 - [Install Docker Desktop on Mac](https://docs.docker.com/docker-for-mac/install/)
 - [Visual Studio 2022, NET Core 3.1 SDK](https://docs.microsoft.com/en-us/dotnet/core/install/windows?tabs=netcore31#dependencies)
-- [ Google Cloud CLI](https://cloud.google.com/sdk/docs/install)
+- [Google Cloud CLI](https://cloud.google.com/sdk/docs/install)
 - [Switch to Linux containers](https://docs.docker.com/docker-for-windows/#switch-between-windows-and-linux-containers) option
 - Additional information on [.NET Core SDK](https://hub.docker.com/_/microsoft-dotnet-sdk)
