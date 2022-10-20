@@ -7,7 +7,7 @@ url: /java/licensing/
 
 {{% alert color="primary" %}}
 
-You can download an evaluation version of **Aspose.CAD** for Java from [its download page](https://repository.aspose.com/repo/com/aspose/aspose-cad/). The evaluation version provides absolutely the same capabilities as the licensed version of the product. Furthermore, evaluation version simply becomes licensed when you purchase a license and add a couple of lines of code to apply the license.
+You can download an evaluation version of **Aspose.CAD** for Java from [its download page](https://releases.aspose.com/java/repo/com/aspose/aspose-cad/). The evaluation version provides absolutely the same capabilities as the licensed version of the product. Furthermore, evaluation version simply becomes licensed when you purchase a license and add a couple of lines of code to apply the license.
 
 Once you are happy with your evaluation of **Aspose.CAD**, you can [purchase a license](https://purchase.aspose.com/buy) at the Aspose website. Make yourself familiar with the different subscription types offered. If you have any questions, do not hesitate to contact the Aspose sales team.
 

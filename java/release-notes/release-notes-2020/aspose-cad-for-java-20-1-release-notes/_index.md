@@ -7,7 +7,7 @@ url: /java/aspose-cad-for-java-20-1-release-notes/
 
 {{% alert color="primary" %}}
 
-This page contains release notes for [Aspose.CAD for Java 20.1](https://repository.aspose.com/repo/com/aspose/aspose-cad/20.1/)
+This page contains release notes for [Aspose.CAD for Java 20.1](https://releases.aspose.com/java/repo/com/aspose/aspose-cad/20.1/)
 
 {{% /alert %}}
 

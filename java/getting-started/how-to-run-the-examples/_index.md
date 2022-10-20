@@ -60,11 +60,11 @@ It will open the project and download the dependencies automatically. From the P
 
 ## **Adding Aspose.CAD Library into Maven Local Repository**
 
-When you import **Aspose.CAD Examples** project into IDE, Maven automatically downloads aspose.cad JAR file from [Aspose Maven Repository](https://repository.aspose.com/repo/). In case you do not have access to internet, you can manually add JAR in your local repository.
+When you import **Aspose.CAD Examples** project into IDE, Maven automatically downloads aspose.cad JAR file from [Aspose Maven Repository](https://releases.aspose.com/java/repo/). In case you do not have access to internet, you can manually add JAR in your local repository.
 
 ### **mvn install**
 
-Download the [aspose.cad](https://repository.aspose.com/repo/com/aspose/aspose-cad/), extract it and copy the aspose.cad-version.jar to somewhere else, for example, c drive. Issue following command:
+Download the [aspose.cad](https://releases.aspose.com/java/repo/com/aspose/aspose-cad/), extract it and copy the aspose.cad-version.jar to somewhere else, for example, c drive. Issue following command:
 
 {{< highlight java >}}
 
