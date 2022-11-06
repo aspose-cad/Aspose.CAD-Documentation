@@ -30,3 +30,6 @@ This page contains release notes for Aspose.CAD for .NET 22.10
 | CADNET-8797 | Implement writing the properties of the CadHatch object | Feature |
 | CADNET-8729 | Implement reading and writing properties of the CadSectionViewStyle object | Feature |
 | CADNET-8725 | Implement reading and writing properties of the CadDetailViewStyle object | Feature |
+| CADNET-8718 | [Issue publishing second time](https://forum.aspose.com/t/issue-publishing-second-time/249129) | Enhancement |
+| CADNET-8714 | [DWF Showing geometry outside layout viewport](https://forum.aspose.com/t/dwf-showing-geometry-outside-layout-viewport/249045) | Enhancement |
+| CADNET-8760 | [DWF Quality](https://forum.aspose.com/t/dwf-quality/250921) | Enhancement |
