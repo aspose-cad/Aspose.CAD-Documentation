@@ -19,6 +19,7 @@ This page contains release notes for Aspose.CAD for .NET 22.10
 | CADNET-8817 | Wrongly exported hungarian special characters from DWG to PDF | Enhancement |
 | CADNET-8804 | Rendering issue in dwg file | Enhancement |
 | CADNET-8754 | Incorrect reading some symbols. | Enhancement |
+| CADNET-8825 | [Aspose.CAD 22.9 DLL for Net461 ‘FileNotFoundException’ on load](https://forum.aspose.com/t/aspose-cad-22-9-dll-for-net461-filenotfoundexception-on-load/252967) | Enhancement |
 | CADNET-8734 | GetLayerName function ‘~’ to ‘_’ issues | Enhancement |
 | CADNET-8649 | Aspose.CAD v22.4: Size options were not applied when converting CAD documents | Enhancement |
 | CADNET-8782 | Reggresion: Loading DWG file throws ImageLoadException | Enhancement |
