@@ -18,7 +18,6 @@ This page contains release notes for Aspose.CAD for .NET 22.11
 | CADNET-8822 | FBX export runs too long | Enhancement |
 | CADNET-8803 | [Export DWG to PDF](https://forum.aspose.com/t/export-dwg-to-pdf/252324) | Enhancement |
 | CADNET-8800 | [[Aspose.CAD] After converting DWG to PDF, the program crashes](https://forum.aspose.com/t/aspose-cad-dwg-pdf/252347) | Enhancement |
-| CADNET-8799 | [MicroStation to PDF discrepancies](https://forum.aspose.com/t/microstation-to-pdf-discrepancies/252283) | Enhancement |
 | CADNET-8790 | [DWG to PDF - modelspace rotation impacts on layout rendering?](https://forum.aspose.com/t/dwg-to-pdf-modelspace-rotation-impacts-on-layout-rendering/251816) | Enhancement |
 | CADNET-8784 | Improve IfcStair object | Enhancement |
 | CADNET-8783 | Implement change of ViewPort properties and entity position when converting to a standard DWG file. | Enhancement |
