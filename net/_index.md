@@ -25,7 +25,7 @@ Supported output file formats: PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, W
 Following are the links to some useful resources you may need to accomplish your tasks.
 
 - [Aspose.CAD for .NET Online Documentation](/cad/net/)
-- [Aspose.CAD for .NET Features](/cad/net/product-overview/#advanced-api-features)
+- [Aspose.CAD for .NET Features](/cad/net/features/)
 - [Aspose.CAD for .NET Release Notes](/cad/net/release-notes/)
 - [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net/)
 - [Install Aspose.CAD for .NET NuGet Package](https://www.nuget.org/packages/Aspose.CAD/)
