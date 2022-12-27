@@ -21,7 +21,7 @@ The following table indicates the file formats that Aspose.CAD for .NET can load
 |[PLT](https://docs.fileformat.com/cad/plt/)|HPGL Plot File|{{< emoticons/tick >}}| | |
 |[DWF](https://docs.fileformat.com/cad/dwf/)|Design Web Format|{{< emoticons/tick >}}| | |
 |[DWFx](https://docs.fileformat.com/cad/dwfx/)|DWFx is the newest version of the DWF file format. </br>DWFx is based on the XML Paper Specification (XPS)|{{< emoticons/tick >}}| | |
-|CFF2|Common File Format File|{{< emoticons/tick >}}| | |
+|CF2|Common File Format File|{{< emoticons/tick >}}| | |
 |OBJ|3D Object File|{{< emoticons/tick >}}| | |
 |[PDF](https://docs.fileformat.com/pdf/)|Portable Document Format| |{{< emoticons/tick >}}| |
 |[TIFF](https://docs.fileformat.com/image/tiff/)|Saves the document as TIFF Image| |{{< emoticons/tick >}}| |

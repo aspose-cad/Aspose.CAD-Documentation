@@ -1,8 +1,8 @@
 ---
-title: CFF2 Drawings
+title: CF2 Drawings
 type: docs
 weight: 110
-url: /net/cff2-drawings/
+url: /net/cf2-drawings/
 ---
 
 ## **Convert CF2 to PDF**
