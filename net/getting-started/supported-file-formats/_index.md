@@ -23,6 +23,7 @@ The following table indicates the file formats that Aspose.CAD for .NET can load
 |[PLT](https://docs.fileformat.com/cad/plt/)|HPGL Plot File|{{< emoticons/tick >}}| | |
 |SVG|Scalable Vector Graphics (SVG) is a web-friendly vector file format|{{< emoticons/tick >}}| | |
 |[DWF](https://docs.fileformat.com/cad/dwf/)|Design Web Format|{{< emoticons/tick >}}| | |
+|[3DS](https://docs.fileformat.com/3d/3ds/)|A file with .3ds extension represents 3D Sudio (DOS) mesh file format used by Autodesk 3D Studio|{{< emoticons/tick >}}| | |
 |DXB|DXB is the binary version of a .DXF file, which is text-based|{{< emoticons/tick >}}| | |
 |[DWFx](https://docs.fileformat.com/cad/dwfx/)|DWFx is the newest version of the DWF file format. </br>DWFx is based on the XML Paper Specification (XPS)|{{< emoticons/tick >}}| | |
 |CF2|Common File Format File|{{< emoticons/tick >}}| | |
