@@ -1,0 +1,16 @@
+---
+title: Calculation of area and circumference of the circles
+type: docs
+weight: 10
+url: /net/how-to/сalculation-of-area-and-circumference-of-the-circles/
+---
+
+## **How to сalculation of area and circumference of the circles**
+
+**Issue:** How to сalculation of area and circumference of the circles (CADNET-1153).
+
+**Tips:** To do this, get the radius from CadEntityTypeName.CIRCLE from the entities and use the formula **"2 * Math.PI * radius"**.
+
+**Example:**
+
+{{< gist "aspose-com-gists" "" ".cs" >}}

@@ -1,0 +1,16 @@
+---
+title: Change of observer point
+type: docs
+weight: 10
+url: /net/how-to/change-of-observer-point/
+---
+
+## **How to change the observer point**
+
+**Issue:** How to change the observer pointe (CADNET-804).
+
+**Tips:** Changing the observation point takes place in the rasterizationOptions.ObserverPoint field.
+
+**Example:**
+
+{{< gist "aspose-com-gists" "" ".cs" >}}

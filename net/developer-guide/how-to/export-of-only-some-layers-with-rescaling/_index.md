@@ -1,0 +1,16 @@
+---
+title: Export of only some layers with rescaling 
+type: docs
+weight: 10
+url: /net/how-to/export-of-only-some-layers-with-rescaling/
+---
+
+## **Export of only some layers with rescaling (CADNET-559)**
+
+**Issue:** How to export of only some layers with rescaling (CADNET-559).
+
+**Tips:** To do this, select the necessary layers, add them to the CadBaseEntity array, then assign them to drawing entities and execute UpdateSize.
+
+**Example:**
+
+{{< gist "aspose-com-gists" "" ".cs" >}}
