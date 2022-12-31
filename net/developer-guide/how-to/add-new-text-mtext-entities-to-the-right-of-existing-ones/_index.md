@@ -1,5 +1,5 @@
 ---
-title: Add new TEXT/MTEXT entities to the right of existing onesChanging of the emergency font and font in styles 
+title: Add new TEXT/MTEXT entities to the right of existing ones 
 type: docs
 weight: 10
 url: /net/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
