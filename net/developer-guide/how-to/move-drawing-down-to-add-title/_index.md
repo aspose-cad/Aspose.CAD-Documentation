@@ -1,7 +1,7 @@
 ---
 title: Move drawing down to add title
 type: docs
-weight: 10
+weight: 40
 url: /net/how-to/move-drawing-down-to-add-title/
 ---
 

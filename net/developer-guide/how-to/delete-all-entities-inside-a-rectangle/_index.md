@@ -1,7 +1,7 @@
 ---
 title: Delete all entities inside a rectangle 
 type: docs
-weight: 10
+weight: 25
 url: /net/how-to/delete-all-entities-inside-a-rectangle/
 ---
 

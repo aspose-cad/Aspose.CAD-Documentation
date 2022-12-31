@@ -1,7 +1,7 @@
 ---
 title: Create rectangle as polylines and fill it with hatch
 type: docs
-weight: 10
+weight: 24
 url: /net/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
 ---
 

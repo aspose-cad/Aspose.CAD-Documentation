@@ -1,7 +1,7 @@
 ---
 title: Get references to external files
 type: docs
-weight: 10
+weight: 36
 url: /net/how-to/get-references-to-external-files/
 ---
 

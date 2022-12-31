@@ -1,7 +1,7 @@
 ---
 title: Remove borders in result canvas
 type: docs
-weight: 10
+weight: 42
 url: /net/how-to/remove-borders-in-result-canvas/
 ---
 

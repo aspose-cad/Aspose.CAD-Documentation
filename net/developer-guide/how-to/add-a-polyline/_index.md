@@ -1,7 +1,7 @@
 ---
 title: Add a polyline
 type: docs
-weight: 11
+weight: 13
 url: /net/how-to/add-a-polyline/
 ---
 

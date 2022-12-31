@@ -1,7 +1,7 @@
 ---
 title: Get size of the layout
 type: docs
-weight: 10
+weight: 37
 url: /net/how-to/get-size-of-the-layout/
 ---
 

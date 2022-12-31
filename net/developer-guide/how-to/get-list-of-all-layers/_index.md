@@ -1,7 +1,7 @@
 ---
 title: Get list of all layers
 type: docs
-weight: 10
+weight: 35
 url: /net/how-to/get-list-of-all-layers/
 ---
 

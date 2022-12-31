@@ -1,7 +1,7 @@
 ---
 title: Remove of an entity
 type: docs
-weight: 10
+weight: 43
 url: /net/how-to/remove-of-an-entity/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Access to polyline and 3DFace vertices
 type: docs
-weight: 11
+weight: 12
 url: /net/how-to/access-to-polyline-and-3dface-vertices/
 ---
 

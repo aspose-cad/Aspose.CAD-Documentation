@@ -1,7 +1,7 @@
 ---
 title: Do not export hidden layer and layers by name
 type: docs
-weight: 10
+weight: 26
 url: /net/how-to/do-not-export-hidden-layer-and-layers-by-name/
 ---
 

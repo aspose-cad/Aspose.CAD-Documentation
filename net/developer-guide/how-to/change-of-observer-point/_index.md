@@ -1,7 +1,7 @@
 ---
 title: Change of observer point
 type: docs
-weight: 10
+weight: 19
 url: /net/how-to/change-of-observer-point/
 ---
 

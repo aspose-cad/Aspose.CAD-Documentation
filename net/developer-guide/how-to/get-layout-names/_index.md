@@ -1,7 +1,7 @@
 ---
 title: Get layout names
 type: docs
-weight: 10
+weight: 34
 url: /net/how-to/get-layout-names/
 ---
 

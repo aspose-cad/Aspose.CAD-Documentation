@@ -1,7 +1,7 @@
 ---
 title: Change width of the polyline 
 type: docs
-weight: 10
+weight: 20
 url: /net/how-to/change-width-of-the-polyline/
 ---
 

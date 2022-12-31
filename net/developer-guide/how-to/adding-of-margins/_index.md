@@ -1,7 +1,7 @@
 ---
 title: Adding of margins
 type: docs
-weight: 10
+weight: 14
 url: /net/how-to/adding-of-margins/
 ---
 

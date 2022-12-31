@@ -1,7 +1,7 @@
 ---
 title: Coloring of inserts with new added layers
 type: docs
-weight: 10
+weight: 23
 url: /net/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 

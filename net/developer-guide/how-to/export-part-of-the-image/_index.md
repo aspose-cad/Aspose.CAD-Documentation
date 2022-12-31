@@ -1,7 +1,7 @@
 ---
 title: Export part of the image
 type: docs
-weight: 10
+weight: 32
 url: /net/how-to/export-part-of-the-image/
 ---
 

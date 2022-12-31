@@ -1,7 +1,7 @@
 ---
 title: Setting up of the pen options
 type: docs
-weight: 10
+weight: 45
 url: /net/how-to/setting-up-of-the-pen-options/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Export of only some entities
 type: docs
-weight: 10
+weight: 30
 url: /net/how-to/export-of-only-some-entities/
 ---
 

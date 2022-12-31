@@ -1,7 +1,7 @@
 ---
 title: Addition of image as background into DXF
 type: docs
-weight: 10
+weight: 16
 url: /net/how-to/addition-of-image-as-background-into-dxf/
 ---
 

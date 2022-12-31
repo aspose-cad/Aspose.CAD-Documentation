@@ -1,7 +1,7 @@
 ---
 title: Addition of image as background into DWG
 type: docs
-weight: 10
+weight: 15
 url: /net/how-to/addition-of-image-as-background-into-dwg/
 ---
 

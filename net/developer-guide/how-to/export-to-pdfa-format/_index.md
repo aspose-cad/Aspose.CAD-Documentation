@@ -1,7 +1,7 @@
 ---
 title: Export to PDF/A format
 type: docs
-weight: 10
+weight: 33
 url: /net/how-to/export-to-pdfa-format/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: Check whether external referenced images exist and replace references
 type: docs
-weight: 10
+weight: 22
 url: /net/how-to/check-whether-external-referenced-images-exist-and-replace-references/
 ---
 

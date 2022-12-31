@@ -1,7 +1,7 @@
 ---
 title: Edit of hyperlinks on objects 
 type: docs
-weight: 10
+weight: 28
 url: /net/how-to/edit-of-hyperlinks-on-objects/
 ---
 

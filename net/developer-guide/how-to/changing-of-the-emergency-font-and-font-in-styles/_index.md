@@ -1,7 +1,7 @@
 ---
 title: Changing of the emergency font and font in styles 
 type: docs
-weight: 10
+weight: 21
 url: /net/how-to/changing-of-the-emergency-font-and-font-in-styles/
 ---
 

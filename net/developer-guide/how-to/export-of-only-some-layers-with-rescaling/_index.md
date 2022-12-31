@@ -1,7 +1,7 @@
 ---
 title: Export of only some layers with rescaling 
 type: docs
-weight: 10
+weight: 31
 url: /net/how-to/export-of-only-some-layers-with-rescaling/
 ---
 
