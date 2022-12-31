@@ -13,4 +13,4 @@ url: /net/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improv
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance.cs" >}}

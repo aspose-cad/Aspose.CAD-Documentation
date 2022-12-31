@@ -1,7 +1,7 @@
 ---
 title: Access to entities inside block objects
 type: docs
-weight: 10
+weight: 11
 url: /net/how-to/access-to-entities-inside-block-objects/
 ---
 
@@ -13,4 +13,4 @@ url: /net/how-to/access-to-entities-inside-block-objects/
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "access-to-entities-inside-block-objects.cs" >}}

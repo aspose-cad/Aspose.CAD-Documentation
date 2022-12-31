@@ -13,4 +13,4 @@ url: /net/how-to/export-of-only-some-entities/
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "export-of-only-some-entities.cs" >}}

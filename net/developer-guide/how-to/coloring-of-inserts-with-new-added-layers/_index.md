@@ -19,4 +19,4 @@ The initial file contains 5 inserts with names "1", "2", "3", "4' and "5" and al
 
 {{% /alert %}}
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "coloring-of-inserts-with-new-added-layers.cs" >}}

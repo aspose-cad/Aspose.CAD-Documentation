@@ -13,4 +13,4 @@ url: /net/how-to/insert-dxf-dwg-drawing-inside-dwg/
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "insert-dxf-dwg-drawing-inside-dwg.cs" >}}

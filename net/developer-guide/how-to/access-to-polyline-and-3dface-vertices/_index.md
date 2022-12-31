@@ -1,7 +1,7 @@
 ---
 title: Access to polyline and 3DFace vertices
 type: docs
-weight: 10
+weight: 11
 url: /net/how-to/access-to-polyline-and-3dface-vertices/
 ---
 
@@ -13,4 +13,4 @@ url: /net/how-to/access-to-polyline-and-3dface-vertices/
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "access-to-polyline-and-3dface-vertices.cs" >}}

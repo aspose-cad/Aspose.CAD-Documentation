@@ -13,4 +13,4 @@ url: /net/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire conte
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "drawing-the-viewport-of-the-drawing-instead-of-the-entire.cs" >}}

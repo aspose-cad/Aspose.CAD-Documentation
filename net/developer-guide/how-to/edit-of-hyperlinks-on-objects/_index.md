@@ -13,4 +13,4 @@ url: /net/how-to/edit-of-hyperlinks-on-objects/
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "edit-of-hyperlinks-on-objects.cs" >}}

@@ -14,4 +14,4 @@ url: /net/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "setting-up-quality-options-for-the-text-hatches-and-arcs.cs" >}}

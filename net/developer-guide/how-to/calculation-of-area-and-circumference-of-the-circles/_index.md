@@ -13,4 +13,4 @@ url: /net/how-to/сalculation-of-area-and-circumference-of-the-circles/
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "calculation-of-area-and-circumference-of-the-circles.cs" >}}

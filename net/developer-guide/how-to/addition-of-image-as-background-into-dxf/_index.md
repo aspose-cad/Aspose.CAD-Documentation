@@ -13,4 +13,4 @@ url: /net/how-to/addition-of-image-as-background-into-dxf/
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "addition-of-image-as-background-into-dxf.cs" >}}

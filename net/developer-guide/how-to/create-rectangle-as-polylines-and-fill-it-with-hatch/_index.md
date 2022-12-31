@@ -13,4 +13,4 @@ url: /net/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
 
 **Example:**
 
-{{< gist "aspose-com-gists" "" ".cs" >}}
+{{< gist "aspose-com-gists" "9a239eab0b9dda0e1c54be533ea399bb" "create-rectangle-as-polylines-and-fill-it-with-hatch.cs" >}}
