@@ -7,7 +7,7 @@ url: /net/adjusting-cad-drawing-size/
 
 {{% alert color="primary" %}}
 
-Using Aspose.CAD for .NET, developers can adjust the size of drawing during the conversion of the CAD format. This topic explains the approach to adjust the size automatically or manually using the [**UnitType**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/unittype) enum of the [**Aspose.CAD.ImageOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions) class.
+By using Aspose.CAD for .NET library, developers can adjust the size of CAD drawing during the conversion to any supported format. This topic explains the approach to adjust the size automatically or manually using the [**UnitType**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/unittype) enum of the [**Aspose.CAD.ImageOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions) class.
 
 {{% /alert %}}
 
