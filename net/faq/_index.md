@@ -18,7 +18,7 @@ Frequently asked questions are grouped by topic for your convenience.
 ## **General**
 **Q: What is Aspose.CAD?**
 
-Aspose.CAD for .NET is a class library that allows your applications to perform a wide variety of document processing tasks. With Aspose.Words for .NET, you can generate, modify, convert, render, and print documents without third-party applications.
+Aspose.CAD for .NET is a class library that allows your applications to perform a wide variety of document processing tasks. With Aspose.CAD for .NET, you can generate, modify, convert, render, and print documents without third-party applications.
 
 Details can be found in our documentation.
 
@@ -72,7 +72,7 @@ You can find more detailed information about converting a file in the [“CAD an
 
 ## **Docker**
 
-**Q: How to use Aspose.CAD in Docker?**
+**Q: How to use Aspose.CAD?**
 
 For a detailed answer, learn the article ["How to Run the Examples"](/cad/net/how-to-run-the-examples/).
 
