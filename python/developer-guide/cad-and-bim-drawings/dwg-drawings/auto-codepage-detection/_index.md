@@ -17,17 +17,4 @@ Aspose.CAD supports auto codepage detection for [DWG](https://docs.fileformat.c
 
 The code sample below shows how to how to override auto codepage detection in Aspose.CAD.
 
-import aspose.cad as cad;
-
-if __name__ == '__main__':
-   loadOption = cad.LoadOptions()
-loadOption.specified_encoding = cad.CodePages.JAPANESE
-loadOption.specified_mif_encoding = cad.MifCodePages.JAPANESE
-loadOption.recover_malformed_cif_mif = False
-
-cadImage = cad.Image.load("file.dwg", loadOption)
-
-//do export or something else with cadImage
-
-DWG-Drawings-OverrideAutomaticCodepageDetectionDwg.cs
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-DWG-Drawings-OverrideAutomaticCodepageDetectionDwg-1.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "DWG-Drawings-OverrideAutomaticCodepageDetectionDwg.py" >}}

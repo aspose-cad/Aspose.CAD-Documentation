@@ -11,20 +11,4 @@ Aspose.CAD for Python allows developers to export an STL file to PNG. Following 
 
 ## Sample Code
 
-import aspose.cad as cad;
-
-if name == 'main': 
-    cadImage = cad.Image.load("file.stl");
-
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions()
-rasterizationOptions.page_width = 1200
-rasterizationOptions.page_height = 1200
-
-pngOptions = cad.imageoptions.PngOptions()
-pngOptions.vector_rasterization_options = rasterizationOptions
-
-cadImage.save("result.png", pngOptions)
-
-Convert-STL-to-PNG-Export.cs
-
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-STL-Drawings-ExportingSTLtoPNG-ExportingSTLtoPNG.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "Convert-STL-to-PNG-Export.py" >}}

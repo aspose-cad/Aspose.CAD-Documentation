@@ -15,18 +15,9 @@ You need to load an existing DGN file as **CadImage**. Create an instance of the
 
 Following is the code demonstration to convert/export [DGN](https://docs.fileformat.com/cad/dgn/) to [PDF](https://docs.fileformat.com/pdf/) format.
 
-import aspose.cad as cad
 
-image = cad.Image.load("file.dgn")
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions()
-rasterizationOptions.layouts = ["Model"]
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "DNG-to-PDF-Export.py" >}}
 
-pdfOptions = cad.imageoptions.PdfOptions()
-
-pdfOptions.vector_rasterization_options = rasterizationOptions
-image.save("result.pdf", pdfOptions)
-
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-DXF-Drawings-ExportEmbeddedDGN-ExportEmbeddedDGN.cs" >}}
 
 ## **Exporting DGN AutoCAD Format To Raster Image Format**
 
@@ -38,22 +29,7 @@ You need to load an existing DGN file as **CadImage**. Create an instance of th
 
 Following is the code demonstration to convert/export [DGN](https://docs.fileformat.com/cad/dgn/) to [JPEG](https://docs.fileformat.com/image/jpeg/) image.
 
-import aspose.cad as cad
-
-image = cad.Image.load("file.dgn")
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions()
-
-rasterizationOptions.page_width = 1200
-rasterizationOptions.page_height = 1200
-rasterizationOptions.no_scaling = True
-rasterizationOptions.automatic_layouts_scaling = False
-
-pdfOptions = cad.imageoptions.JpegOptions()
-
-pdfOptions.vector_rasterization_options = rasterizationOptions
-image.save("result.jpg", jpgOptions)
-
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-DGN-Drawings-ExportDGNToRasterImage-ExportDGNToRasterImage.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "DNG-to-JPEG-Export.py" >}}
 
 ## **3D entities support for DGN v7**
 
@@ -63,16 +39,5 @@ Aspose.CAD for Python API has introduced the functionality to load a [DGN](https
 
 The following is the sample code to look at supported DGN elements.
 
-import aspose.cad as cad
 
-image = cad.Image.load("file.dgn")
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions()
-rasterizationOptions.page_width = 1200
-rasterizationOptions.page_height = 1200
-rasterizationOptions.automatic_layouts_scaling = False
-rasterizationOptions.layouts = ["1", "2", "3", "9"]
-pdfOptions = cad.imageoptions.PdfOptions()
-
-pdfOptions.vector_rasterization_options = rasterizationOptions
-image.save("result.pdf", pdfOptions)
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-DGN-Drawings-SupportOf3DForDGNV7-3DSupportForDGNV7.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "DGN-Drawings-SupportOf3DForDGNV7.py" >}}

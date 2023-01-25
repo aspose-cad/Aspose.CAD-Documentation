@@ -11,20 +11,4 @@ Aspose.CAD provides the feature to load AutoCAD [DGN](https://docs.fileformat.co
 
 ## Sample Code
 
-import aspose.cad as cad;
-
-if __name__ == '__main__':
-   cadImage = cad.Image.load("file.dgn");
-
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions();
-rasterizationOptions.page_width = 1200
-rasterizationOptions.page_height = 1200
-
-pdfOptions = cad.imageoptions.PdfOptions();
-pdfOptions.vector_rasterization_options = rasterizationOptions;
-
-cadImage.save("result.pdf", pdfOptions)
-
-Convert-DGN-to-PDF-Export.cs
-
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-ConvertingCAD-GetSizeOfCADLayout-GetSizeOfCADLayout.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "Convert-DGN-to-PDF-Export.py" >}}

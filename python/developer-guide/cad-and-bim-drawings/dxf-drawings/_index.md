@@ -16,23 +16,7 @@ Aspose.CAD provides the feature to load AutoCAD DXF drawing entities and render 
 
 The code sample below shows how to convert a file using default settings.
 
-import aspose.cad as cad;
-
-if name == 'main': 
-    cadImage = cad.Image.load("file.dxf");
-
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions()
-rasterizationOptions.page_width = 1200
-rasterizationOptions.page_height = 1200
-
-pdfOptions = cad.imageoptions.PdfOptions()
-pdfOptions.vector_rasterization_options = rasterizationOptions
-
-cadImage.save("result.pdf", pdfOptions)
-
-Convert-DXF-to-PDF-Export.cs
-
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Examples-CSharp-DXF-Drawings-ExportDXFToPDF-ExportDXFToPDF.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "Convert-DXF-to-PDF-Export.py" >}}
 
 ### **Supported Formats**
 

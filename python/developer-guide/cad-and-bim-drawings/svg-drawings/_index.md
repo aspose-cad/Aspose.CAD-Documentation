@@ -16,19 +16,4 @@ Aspose.CAD for Python allows developers to export an [SVG](https://docs.fileform
 
 ## Sample Code
 
-import aspose.cad as cad;
-
-if name == 'main':
-	cadImage = cad.Image.load("file.svg");
-
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions()
-rasterizationOptions.page_width = 1200
-rasterizationOptions.page_height = 1200
-
-pdfOptions = cad.imageoptions.PdfOptions()
-pdfOptions.vector_rasterization_options = rasterizationOptions
-
-cadImage.save("result.pdf", pdfOptions)
-
-Convert-SVG-to-PDF-Export.cs
-{{< gist "aspose-com-gists" "16de0fa2ea006758f25d1ad32bc75fd2" "Convert-SVG-to-PDF-Export.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "Convert-SVG-to-PDF-Export.py" >}}

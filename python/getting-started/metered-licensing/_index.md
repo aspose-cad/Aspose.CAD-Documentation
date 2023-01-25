@@ -21,25 +21,4 @@ Here are the simple steps to use the Metered class.
 
 Following is the sample code demonstrating how to set metered public and private key.
 
-import aspose.cad as cad
-
-// Access the setMeteredKey property and pass public and private keys as parameters
-Aspose.CAD.Metered.SetMeteredKey("PublicKey", "PrivateKey");
-
-
-// Get metered data amount before calling API
-amountbefore = cad.Metered.get_consumption_quantity()
-
-// Display information
-print("Amount Consumed Before: " + amountbefore.ToString());
-
-// Do processing
-image = cad.Image.load("file.dwg");
-
-// Get metered data amount After calling API
-amountafter = cad.Metered.get_consumption_quantity()
-
-// Display information
-print("Amount Consumed After: " + amountafter);
-
-{{< gist "aspose-cad" "518d2e9e6e58a76f102d72f629f3e693" "Examples-CSharp-ApplyLicense-MeteredLicensing-MeteredLicensing.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "MeteredLicensing.py" >}}

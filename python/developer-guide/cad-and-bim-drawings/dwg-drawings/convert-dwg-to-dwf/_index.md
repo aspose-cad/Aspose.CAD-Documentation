@@ -16,12 +16,4 @@ Aspose.CAD provides the feature to load the AutoCAD [DWG](https://docs.fileforma
 
 The code sample below shows how to convert a DWG file to a DXF format using Aspose.CAD for Python in C#.
 
-import aspose.cad as cad;
-
-if __name__ == '__main__':
-   cadImage = cad.Image.load("file.dwg");
-
-cadImage.save("result.dwf")
-
-Convert-DWG-to-DWF-Export.cs
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-DWG-Drawings-DWGToDWF-DWGToDWF.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "Convert-DWG-to-DWF-Export.py" >}}

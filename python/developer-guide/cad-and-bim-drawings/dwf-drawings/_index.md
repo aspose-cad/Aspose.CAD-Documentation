@@ -18,23 +18,8 @@ Aspose.CAD provides the feature to load AutoCAD [DWF](https://docs.fileformat.co
 
 The code sample below shows how to convert a file using default settings.
 
-import aspose.cad as cad;
 
-if __name__ == '__main__':
-   cadImage = cad.Image.load("file.dwf");
-
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions();
-rasterizationOptions.page_width = 1200
-rasterizationOptions.page_height = 1200
-
-pdfOptions = cad.imageoptions.PdfOptions();
-pdfOptions.vector_rasterization_options = rasterizationOptions;
-
-cadImage.save("result.pdf", pdfOptions)
-
-Convert-DWF-to-PDF-Export.cs
-
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-Export-ExportDWFToPDF-ExportDWFToPDF.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "Convert-DWF-to-PDF-Export.py" >}}
 
 ## **Exporting DWF Drawings to BMP**
 
@@ -49,20 +34,4 @@ Aspose.CAD provides the feature to load AutoCAD [DWF](https://docs.fileformat.co
 
 The code sample below shows how to convert a [DWF](https://docs.fileformat.com/cad/dwf/) file to [BMP](https://docs.fileformat.com/image/bmp/) using default settings.
 
-
-import aspose.cad as cad;
-
-if __name__ == '__main__':
-   cadImage = cad.Image.load("file.dwf");
-
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions();
-rasterizationOptions.page_width = 1200
-rasterizationOptions.page_height = 1200
-
-bmpOptions = cad.imageoptions.BmpOptions();
-bmpOptions.vector_rasterization_options = rasterizationOptions;
-
-cadImage.save("result.bmp", bmpOptions)
-
-Convert-DWF-to-BMP-Export.cs
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Src-Export-ExportToBMP-ExportToBMP.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "Convert-DWF-to-BMP-Export.py" >}}

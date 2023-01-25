@@ -20,35 +20,8 @@ Aspose.CAD for Python provides the **UnitType** enumeration to adjust the size o
 
 For automatically adjusting the size, developers do not need to provide the Width and Height properties of the **CadRasterizationOptions** class. Below provided code snippet is an example of automatic sizing.
 
-import aspose.cad as cad
-
-cadImage = cad.Image.load(...)
-
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions()
-bmpOptions = cad.imageoptions.BmpOptions()
-
-rasterizationOptions.unit_type = cad.imageoptions.UnitType.CENTIMENTER
-rasterizationOptions.layouts = ["Model"]
-
-bmpOptions.vector_rasterization_options = rasterizationOptions
-
-cadImage.save("result.bmp", bmpOptions)
-
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Examples-CSharp-ConvertingCAD-AutoAdjustingCADDrawingSize-AutoAdjustingCADDrawingSize.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "AutoAdjustingCADDrawingSize.py" >}}
 
 The **UnitType** enumeration gives the ability to adjust scaling when Width and Height properties are not set. Below provided code snippet demonstrate how to use **UnitType**.
 
-import aspose.cad as cad
-
-cadImage = cad.Image.load(...)
-
-rasterizationOptions = cad.imageoptions.CadRasterizationOptions()
-bmpOptions = cad.imageoptions.BmpOptions()
-
-rasterizationOptions.unit_type = cad.imageoptions.UnitType.CENTIMENTER
-rasterizationOptions.layouts = ["Model"]
-
-bmpOptions.vector_rasterization_options = rasterizationOptions
-
-cadImage.save("result.bmp", bmpOptions)
-{{< gist "aspose-com-gists" "88cdd0899132edaf0afff77d33d11ae5" "Examples-CSharp-ConvertingCAD-AdjustingCADDrawingSizeUsingUnitType-AdjustingCADDrawingSizeUsingUnitType.cs" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "AdjustingCADDrawingSizeUsingUnitType.py" >}}
