@@ -69,13 +69,3 @@ Use the free technical support forum. For details on how to properly report a pr
 You can find more detailed information about converting a file in the [“CAD and BIM Drawings”](/cad/python/cad-and-bim-drawings/) documentation section.
 
 {{% /alert %}}
-
-## **Docker**
-
-**Q: How to use Aspose.CAD?**
-
-For a detailed answer, learn the article ["How to Run the Examples"](/cad/python/how-to-run-the-examples/).
-
-**Q: How to use Aspose.CAD in Docker?**
-
-For a detailed answer, learn the article ["How to Run Aspose.CAD in Docker"](/cad/python/how-to-run-aspose-cad-in-docker/).
