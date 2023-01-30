@@ -14,14 +14,6 @@ Aspose.CAD for Javascript in Angular allows developers to export an [3DS](https:
 
 ## Sample Code
 
-async onFileSelected(event) {
- const file: File = event.target.files[0];
- file.arrayBuffer().then(async buff => {
-  let x = new Uint8Array(buff);
-  this.imgFile = await Image.load(x);
-  var exportedFile = await Image.save(this.imgFile, new PngOptions());
-  var blob = new Blob([exportedFile], { type: 'application/octet-stream' });
-  });
-}
+The code below shows how to achieve the same goal using Aspose.CAD for JavaScript
 
-{{< gist "aspose-com-gists" "16de0fa2ea006758f25d1ad32bc75fd2" "Convert-3DS-to-PNG-Export.cs" >}}
+{{< gist "aspose-com-gists" "b5a4510e5fa49082bb585a12d753de8d" "Convert-3DS-to-PNG-Export.js" >}}
