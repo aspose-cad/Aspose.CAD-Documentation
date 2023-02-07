@@ -9,8 +9,8 @@ url: /python/convert-dwg-to-dwf/
 
 Aspose.CAD provides the feature to load the AutoCAD [DWG](https://docs.fileformat.com/cad/dwg/) file and export it to the [DWF](https://docs.fileformat.com/cad/dwf/) format. DWG to DWF conversion approach works as follows:
 
-1. Load DWG drawing file using the [**Image.load**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/load/index) factory method.
-1. Export the DWG drawing to DXF using the [**Image.save**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load DWG drawing file using the **Image.load** factory method.
+1. Export the DWG drawing to DXF using the **Image.save** method.
 
 ## Sample Code
 

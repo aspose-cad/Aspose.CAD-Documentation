@@ -28,10 +28,10 @@ A [DWG](https://docs.fileformat.com/cad/dwg/) is a binary file that contains vec
 
 The following simple steps are required to convert [DWG](https://docs.fileformat.com/cad/dwg/) to [PDF](https://docs.fileformat.com/pdf/).
 
-1. Load the DWG file into an instance of [**Image**](https://reference.aspose.com/cad/net/aspose.cad/image).
-1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the [**PageHeight**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pageheight) & [**PageWidth**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pagewidth) properties.
-1. Create an object of the [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set the [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
-1. Call [**Image.Save**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save) while passing an object of [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) as the second parameter.
+1. Load the DWG file into an instance of **Image**.
+1. Create an object of the **CadRasterizationOptions** class and set the **page_height** & **page_width** properties.
+1. Create an object of the **PdfOptions** class and set the **VectorRasterizationOptions** property.
+1. Call **Image.save** while passing an object of **PdfOptions** as the second parameter.
 
 The code sample below shows how to export DWG Drawings to PDF.
 
@@ -82,11 +82,11 @@ The following AutoCAD primitives are supported.
 
 This approach works as follows:
 
-1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://reference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
-1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the resultant page height and width.
-1. Set the [**Layouts**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions/properties/layouts) property for the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) object.
-1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
-1. Export the image to PDF using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load a DWG file using the **Aspose.CAD.Image.load** factory method.
+1. Create an instance of the **CadRasterizationOptions** class and set the resultant page height and width.
+1. Set the **Layouts** property for the **CadRasterizationOptions** object.
+1. Create an instance of **PdfOptions** class and set its **VectorRasterizationOptions** property.
+1. Export the image to PDF using the **Image.save()** method.
 
 The code sample below shows how to convert a specific layout of DWG to PDF.
 
@@ -97,11 +97,11 @@ The code sample below shows how to convert a specific layout of DWG to PDF.
 
 This approach works as follows:
 
-1. Load a DWG file using the [**Aspose.CAD.Image.Load**](https://reference.aspose.com/cad/net/aspose.cad.image/load/methods/2) factory method.
-1. Create an instance of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class.
-1. Create an instance of [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set its [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
+1. Load a DWG file using the **Image.load** factory method.
+1. Create an instance of the **CadRasterizationOptions** class.
+1. Create an instance of **PdfOptions** class and set its **VectorRasterizationOptions** property.
 1. Set PDF compliance property and save it.
-1. Export the image to PDF using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Export the image to PDF using the **Image.save()** method.
 
 The code sample below shows how to convert a DWG file to PDF/A and PDF/E.
 
@@ -111,8 +111,8 @@ The code sample below shows how to convert a DWG file to PDF/A and PDF/E.
 
 Aspose.CAD provides the feature to load AutoCAD DWG file and export it to DXF format. DWG to DXF conversion approach works as follows:
 
-1. Load DWG drawing file using the [**Image.Load**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/load/index) factory method.
-1. Export the DWG drawing to DXF using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load DWG drawing file using the **Image.load** factory method.
+1. Export the DWG drawing to DXF using the **Image.save()** method.
 
 The code sample below shows how to convert a DWG file to a DXF format.
 
@@ -122,9 +122,9 @@ The code sample below shows how to convert a DWG file to a DXF format.
 
 Aspose.CAD for Python API can load AutoCAD drawings in DWG format, and convert it to SVG. This topic explains the usage of Aspose.CAD API to achieve the conversion of DWG to SVG format through simple steps as defined below.
 
-1. Load the DWG file into an instance of [**Image**](https://reference.aspose.com/cad/net/aspose.cad/image).
-1. Create an object of the [**SvgOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/svgoptions) class and set the required properties.
-1. Export the DWG drawing to SVG using the [**Image.Save()**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) method.
+1. Load the DWG file into an instance of **Image**.
+1. Create an object of the **SvgOptions** class and set the required properties.
+1. Export the DWG drawing to SVG using the **Image.save()** method.
 
 The code sample below shows how to convert a DWG file to SVG format.
 

@@ -9,10 +9,10 @@ url: /python/dxf-drawings/
 
 Aspose.CAD provides the feature to load AutoCAD DXF drawing entities and render them as an entire drawing to PDF format. DXF to PDF conversion approach works as follows:
 
-1. Load DXF drawing file using the [**Image.Load**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/load/index) factory method.
-1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and set the [**PageHeight**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pageheight) & [**PageWidth**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pagewidth) properties.
-1. Create an object of the [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) class and set the [**VectorRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/index) property.
-1. Call [**Image.Save**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) while passing an object of [**PdfOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/pdfoptions) as the second parameter.
+1. Load DXF drawing file using the **Image.load** factory method.
+1. Create an object of the **CadRasterizationOptions** class and set the **page_height** & **page_width** properties.
+1. Create an object of the **PdfOptions** class and set the **VectorRasterizationOptions** property.
+1. Call **Image.save** while passing an object of **PdfOptions** as the second parameter.
 
 The code sample below shows how to convert a file using default settings.
 
@@ -73,9 +73,9 @@ The code sample below shows how to achieve specified requirements.
 
 This approach works as follow:
 
-1. Load DXF drawing file using the [**Image.Load**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/load/index) factory method.
-1. Create an object of the [**CadRasterizationOptions**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/cadrasterizationoptions) class and load PDF files.
-1. set the [**PageHeight**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pageheight) & [**PageWidth**](https://reference.aspose.com/cad/net/aspose.cad.imageoptions/vectorrasterizationoptions/properties/pagewidth) properties.
-1. Call [**Image.Save**](https://reference.aspose.com/cad/net/aspose.cad/image/methods/save/index) and save file.
+1. Load DXF drawing file using the **Image.load** factory method.
+1. Create an object of the **CadRasterizationOptions** class and load PDF files.
+1. set the **page_height** & **Ppage_width** properties.
+1. Call **Image.save** and save file.
 
 {{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "DXF-to-WMF-Export.py" >}}
