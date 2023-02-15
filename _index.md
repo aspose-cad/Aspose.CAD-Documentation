@@ -99,6 +99,8 @@ Following are the links to some useful resources you may need to accomplish your
 
 **Aspose.CAD for Python**
 
+![Aspose.CAD for Python Product Logo](home_5.png)
+
 Aspose.CAD for Python is a cross-platform library, compatible with Python 3.x, with rich set of features and abilities described above. It is available through direct download and as a PyPi package.
 
 {{% /alert %}}
@@ -116,3 +118,26 @@ Following are the links to some useful resources you may need to accomplish your
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-Python)
 - [Aspose.CAD for Python Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for Python Paid Support Helpdesk](https://helpdesk.aspose.com/)
+
+{{% alert color="primary" %}}
+
+## **Aspose.CAD for JavaScript**
+
+![Aspose.CAD for JavaScript Product Logo](home_6.png)
+
+Aspose.CAD for JavaScript is an CAD conversion native API without any software dependencies. It allows developers the conversion of DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to raster image formats and PDF.
+During the conversion process, developers can choose and convert specific layers and layouts as well as keep track of the file conversion process.
+
+{{% /alert %}}
+
+## **Aspose.CAD for JavaScript Resources**
+
+Following are the links to some useful resources you may need to accomplish your tasks.
+
+- [Aspose.CAD for JavaScript Online Documentation](/cad/javascript/)
+- [Aspose.CAD for JavaScript Features](/cad/javascript/features/)
+- [Aspose.CAD for JavaScript Product Page](https://products.aspose.com/cad/javascript/)
+- [Aspose.CAD for JavaScript Free Support Forum](https://forum.aspose.com/c/cad/19)
+- [Aspose.CAD for JavaScript Paid Support Helpdesk](https://helpdesk.aspose.com/)
+- [Aspose.CAD for JavaScript Supported File Formats](/cad/javascript/supported-file-formats/)
+- [Aspose.CAD for JavaScript Installation](/cad/javascript/installation/)

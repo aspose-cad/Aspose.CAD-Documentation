@@ -11,7 +11,7 @@ is_root: true
 
 ## **Welcome to Aspose.CAD for JavaScript**
 
-![Aspose.CAD for .NET Product Logo](home_1.png)
+![Aspose.CAD for JavaScrip Product Logo](home_1.png)
 
 Aspose.CAD for JavaScript is an CAD conversion native API without any software dependencies. It allows developers the conversion of DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to raster image formats and PDF.
 During the conversion process, developers can choose and convert specific layers and layouts as well as keep track of the file conversion process.
@@ -25,12 +25,10 @@ Supported output file formats: PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, W
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.CAD for .NET Online Documentation](/cad/net/)
-- [Aspose.CAD for .NET Features](/cad/net/features/)
-- [Aspose.CAD for .NET Release Notes](/cad/net/release-notes/)
-- [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net/)
-- [Install Aspose.CAD for .NET NuGet Package](https://www.nuget.org/packages/Aspose.CAD/)
-- [Aspose.CAD for .NET API Reference Guide](https://reference.aspose.com/cad/net)
-- [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-.NET)
-- [Aspose.CAD for .NET Free Support Forum](https://forum.aspose.com/c/cad/19)
-- [Aspose.CAD for .NET Paid Support Helpdesk](https://helpdesk.aspose.com/)
+- [Aspose.CAD for JavaScript Online Documentation](/cad/javascript/)
+- [Aspose.CAD for JavaScript Features](/cad/javascript/features/)
+- [Aspose.CAD for JavaScript Product Page](https://products.aspose.com/cad/javascript/)
+- [Aspose.CAD for JavaScript Free Support Forum](https://forum.aspose.com/c/cad/19)
+- [Aspose.CAD for JavaScript Paid Support Helpdesk](https://helpdesk.aspose.com/)
+- [Aspose.CAD for JavaScript Supported File Formats](/cad/javascript/supported-file-formats/)
+- [Aspose.CAD for JavaScript Installation](/cad/javascript/installation/)
