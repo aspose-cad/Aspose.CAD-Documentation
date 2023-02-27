@@ -20,7 +20,6 @@ This page contains release notes for Aspose.CAD for .NET 23.2
 | CADNET-8927 | Fix minor render problems | Enhancement |
 | CADNET-8918 | Forum support (01/02 weeks 2023) | Enhancement |
 | CADNET-8883 | Check minor problems found during etalon update | Enhancement |
-| CADNET-8870 | [OLE image disappeared between 22.7 and 22.10 versions](https://forum.aspose.com/t/dwf-quality/250921) | Enhancement |
 | CADNET-8857 | Evaluate suggested solutions to improve clip processing by Aspose.Drawing | Enhancement |
 | CADNET-8814 | Update etalons after Drawing update and comparer fixing | Enhancement |
 | CADNET-8812 | Forum support (weeks 40 - 41) | Enhancement |
