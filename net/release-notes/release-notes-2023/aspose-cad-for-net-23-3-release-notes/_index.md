@@ -26,7 +26,6 @@ This page contains release notes for Aspose.CAD for .NET 23.3
 | CADNET-8932 | The font becomes wider, beyond the text and beyond the border of the table | Enhancement |
 | CADNET-8931 | [The PDF has thick lines and serious distortion (SHX)](https://forum.aspose.com/t/cadtopdf-net-pdf/257688) | Enhancement |
 | CADNET-8926 | [SHX font changes](https://forum.aspose.com/t/aspose-cad-for-net-cad-pdf/257592) | Enhancement |
-| CADNET-8925 | [Aspose.Cad not finding pages within DWFX file ](https://forum.aspose.com/t/aspose-cad-not-finding-pages-within-dwfx-file/257411) | Enhancement |
 | CADNET-8912 | Support SHX for attributes | Enhancement |
 | CADNET-4 | Convert OBJ drawing to ApsScene3D | Enhancement |
 | CADNET-8987 | Implement writing properties of CadAttDef and CadAttrib objects | Feature |
