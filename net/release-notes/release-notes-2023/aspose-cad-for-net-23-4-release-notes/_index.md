@@ -25,7 +25,6 @@ This page contains release notes for Aspose.CAD for .NET 23.4
 | CADNET-8951 | Classes ThreeDSCoordinateSystem, ThreeDSMaterial and ThreeDSImage refer to ApsVector3F | Enhancement |
 | CADNET-8950 | Parsing of Base and Progressive mesh data blocks and reconstruction of mesh | Enhancement |
 | CADNET-8933 | Improvement of U3D format reader based on different code | Enhancement |
-| CADNET-8930 | [Converting DWF -> PDF StartIndex cannot be less than zero. (Parameter ‘startIndex’)](https://forum.aspose.com/t/converting-dwf-pdf-startindex-cannot-be-less-than-zero-parameter-startindex/257681) | Enhancement |
 | CADNET-8454 | Support export to DXF binary file format | Enhancement |
 | CADNET-8071 | Implement CGM format support | Enhancement |
 | CADNET-9026 | Blank output when converting DXF to PNG or SVG | Enhancement |
