@@ -2,7 +2,7 @@
 title: Work with text
 type: docs
 weight: 40
-url: /python/work-with-text/
+url: /python-net/work-with-text/
 ---
 
 ## **Work with text**

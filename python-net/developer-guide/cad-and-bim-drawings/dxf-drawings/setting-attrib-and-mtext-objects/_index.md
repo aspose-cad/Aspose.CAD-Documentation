@@ -2,7 +2,7 @@
 title: Setting ATTRIB and MTEXT objects
 type: docs
 weight: 10
-url: /python/setting-attrib-and-mtext-objects/
+url: /python-net/setting-attrib-and-mtext-objects/
 ---
 
 ## **Setting ATTRIB and MTEXT objects**

@@ -3,7 +3,7 @@ title: How to use Aspose.CAD in Vue
 type: docs
 description: "Use Aspose.CAD in Vue."
 weight: 75
-url: /javascript/how-to-use-aspose-cad-in-vue
+url: /javascript-net/how-to-use-aspose-cad-in-vue
 ---
 
 ## Prerequisites

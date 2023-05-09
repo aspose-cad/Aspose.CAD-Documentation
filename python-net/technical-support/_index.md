@@ -2,7 +2,7 @@
 title: Technical Support
 type: docs
 weight: 60
-url: /python/technical-support/
+url: /python-net/technical-support/
 ---
 
 Aspose provides unlimited free technical support for all of its products. Support is available to all users, including evaluation. The main avenue of support is [Aspose.Forums](https://forum.aspose.com/c/cad/19).

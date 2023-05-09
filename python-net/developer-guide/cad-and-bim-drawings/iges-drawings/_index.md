@@ -2,7 +2,7 @@
 title: IGES Drawings
 type: docs
 weight: 80
-url: /python/iges-drawings/
+url: /python-net/iges-drawings/
 ---
 
 ## **Export IGES to PDF**

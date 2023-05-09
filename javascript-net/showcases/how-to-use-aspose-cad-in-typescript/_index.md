@@ -3,7 +3,7 @@ title: How to use Aspose.CAD in TypeScript
 type: docs
 description: "Use Aspose.CAD in TypeScript."
 weight: 74
-url: /javascript/how-to-use-aspose-cad-in-typescript
+url: /javascript-net/how-to-use-aspose-cad-in-typescript
 ---
 
 

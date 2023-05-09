@@ -2,7 +2,7 @@
 title: CF2 Drawings
 type: docs
 weight: 110
-url: /python/cf2-drawings/
+url: /python-net/cf2-drawings/
 ---
 
 ## **Convert CF2 to PDF**

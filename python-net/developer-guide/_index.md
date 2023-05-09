@@ -2,7 +2,7 @@
 title: Developer Guide
 type: docs
 weight: 20
-url: /python/developer-guide/
+url: /python-net/developer-guide/
 ---
 
 

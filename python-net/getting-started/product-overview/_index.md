@@ -2,7 +2,7 @@
 title: Product Overview
 type: docs
 weight: 10
-url: /python/product-overview/
+url: /python-net/product-overview/
 ---
 
 **Welcome to Aspose.CAD for Python**

@@ -2,7 +2,7 @@
 title: Working with OBJ File Format
 type: docs
 weight: 120
-url: /python/working-with-obj-file-format/
+url: /python-net/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

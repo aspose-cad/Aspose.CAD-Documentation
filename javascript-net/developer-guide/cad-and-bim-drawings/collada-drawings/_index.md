@@ -2,7 +2,7 @@
 title: COLLADA Drawings
 type: docs
 weight: 70
-url: /javascript/collada-drawings/
+url: /javascript-net/collada-drawings/
 ---
 
 ## **Exporting COLLADA Format To PNG**

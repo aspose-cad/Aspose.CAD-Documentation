@@ -2,7 +2,7 @@
 title: SVG Drawings
 type: docs
 weight: 70
-url: /javascript/svg-drawings/
+url: /javascript-net/svg-drawings/
 ---
 
 ## **Exporting SVG Format To PNG**

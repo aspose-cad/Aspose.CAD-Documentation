@@ -2,7 +2,7 @@
 title: DWFx Drawing
 type: docs
 weight: 30
-url: /python/dwfx-drawing/
+url: /python-net/dwfx-drawing/
 ---
 
 ## **DWFx Drawing**

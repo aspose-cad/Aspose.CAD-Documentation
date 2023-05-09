@@ -2,7 +2,7 @@
 title: Working with Watermark
 type: docs
 weight: 60
-url: /javascript/working-with-watermark/
+url: /javascript-net/working-with-watermark/
 ---
 
 ## **Add Watermark in a DGN**

@@ -2,7 +2,7 @@
 title: STP Drawings
 type: docs
 weight: 70
-url: /python/stp-drawings/
+url: /python-net/stp-drawings/
 ---
 
 ## **Exporting STP Format To PDF**

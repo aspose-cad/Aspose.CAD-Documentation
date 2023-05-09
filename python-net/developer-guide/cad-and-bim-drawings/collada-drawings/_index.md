@@ -2,7 +2,7 @@
 title: COLLADA Drawings
 type: docs
 weight: 70
-url: /python/collada-drawings/
+url: /python-net/collada-drawings/
 ---
 
 ## **Exporting COLLADA Format To PDF**

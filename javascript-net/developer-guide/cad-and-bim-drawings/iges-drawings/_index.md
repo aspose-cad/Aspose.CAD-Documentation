@@ -2,7 +2,7 @@
 title: IGES Drawings
 type: docs
 weight: 80
-url: /javascript/iges-drawings/
+url: /javascript-net/iges-drawings/
 ---
 
 ## **Exporting IGES Format To PNG**

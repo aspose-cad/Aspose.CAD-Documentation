@@ -2,7 +2,7 @@
 title: DWF Drawings
 type: docs
 weight: 20
-url: /javascript/dwf-drawings/
+url: /javascript-net/dwf-drawings/
 ---
 
 ## **Exporting DWF Format To PNG**

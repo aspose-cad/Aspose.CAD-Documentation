@@ -2,7 +2,7 @@
 title: PLT Drawings
 type: docs
 weight: 90
-url: /javascript/plt-drawings/
+url: /javascript-net/plt-drawings/
 ---
 
 ## **Exporting PLT Format To PNG**

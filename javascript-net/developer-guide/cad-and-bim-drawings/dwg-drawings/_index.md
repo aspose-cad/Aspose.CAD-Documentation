@@ -2,7 +2,7 @@
 title: DWG Drawings
 type: docs
 weight: 40
-url: /javascript/dwg-drawings/
+url: /javascript-net/dwg-drawings/
 ---
 
 ## **Exporting DWG Format To PNG**

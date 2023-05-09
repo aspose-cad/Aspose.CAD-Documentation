@@ -2,7 +2,7 @@
 title: DWFx Drawing
 type: docs
 weight: 30
-url: /javascript/dwfx-drawing/
+url: /javascript-net/dwfx-drawing/
 ---
 
 ## **Exporting DWFX Format To PNG**

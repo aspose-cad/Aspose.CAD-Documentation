@@ -2,7 +2,7 @@
 title: Auto Codepage Detection
 type: docs
 weight: 10
-url: /python/auto-codepage-detection/
+url: /python-net/auto-codepage-detection/
 ---
 
 ## **Auto Codepage Detection**

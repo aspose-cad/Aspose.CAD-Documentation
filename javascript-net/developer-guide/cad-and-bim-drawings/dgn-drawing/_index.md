@@ -2,7 +2,7 @@
 title: DGN Drawing
 type: docs
 weight: 10
-url: /javascript/dgn-drawing/
+url: /javascript-net/dgn-drawing/
 ---
 
 ## **Exporting DGN Format To PNG**

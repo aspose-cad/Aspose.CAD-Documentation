@@ -2,7 +2,7 @@
 title: DWT Drawings
 type: docs
 weight: 50
-url: /python/dwt-drawings/
+url: /python-net/dwt-drawings/
 ---
 
 ## **Support for DWT Files**

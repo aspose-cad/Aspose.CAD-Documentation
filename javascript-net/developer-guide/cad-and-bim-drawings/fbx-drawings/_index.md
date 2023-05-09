@@ -2,7 +2,7 @@
 title: FBX Drawings
 type: docs
 weight: 70
-url: /javascript/fbx-drawings/
+url: /javascript-net/fbx-drawings/
 ---
 
 ## **Exporting FBX Format To PNG**

@@ -2,7 +2,7 @@
 title: SVG Drawings
 type: docs
 weight: 70
-url: /python/svg-drawings/
+url: /python-net/svg-drawings/
 ---
 
 ## **Exporting SVG Format To PDF**

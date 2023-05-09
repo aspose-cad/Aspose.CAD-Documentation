@@ -2,7 +2,7 @@
 title: API Limitations
 type: docs
 weight: 80
-url: /python/api-limitations/
+url: /python-net/api-limitations/
 ---
 
 ## **CAD model creator information**

@@ -2,7 +2,7 @@
 title: FAQ
 type: docs
 weight: 55
-url: /python/faq/
+url: /python-net/faq/
 ---
 
 This page contains answers to the most frequently asked questions. Please learn the current page – perhaps this will allow you to solve your problem quickly.

@@ -2,7 +2,7 @@
 title: Working with Watermark
 type: docs
 weight: 60
-url: /python/working-with-watermark/
+url: /python-net/working-with-watermark/
 ---
 
 ## **Add Watermark in a DWG**

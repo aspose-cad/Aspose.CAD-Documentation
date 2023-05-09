@@ -2,7 +2,7 @@
 title: DWT Drawings
 type: docs
 weight: 50
-url: /javascript/dwt-drawings/
+url: /javascript-net/dwt-drawings/
 ---
 
 ## **Exporting DWT Format To PNG**

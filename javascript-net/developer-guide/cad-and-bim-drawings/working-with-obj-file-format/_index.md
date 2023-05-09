@@ -2,7 +2,7 @@
 title: Working with OBJ File Format
 type: docs
 weight: 120
-url: /javascript/working-with-obj-file-format/
+url: /javascript-net/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

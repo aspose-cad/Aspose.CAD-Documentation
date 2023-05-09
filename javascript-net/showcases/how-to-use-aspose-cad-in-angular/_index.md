@@ -3,7 +3,7 @@ title: How to use Aspose.CAD in Angular
 type: docs
 description: "Use Aspose.CAD in Angular."
 weight: 71
-url: /javascript/how-to-use-aspose-cad-in-angular
+url: /javascript-net/how-to-use-aspose-cad-in-angular
 ---
 
 ## Prerequisites

@@ -1,7 +1,7 @@
 ---
 title: "Aspose.CAD for Python 22.2 Release Notes"
 type: docs
-url: /python/aspose-cad-for-python-22-2-release-notes/
+url: /python-net/aspose-cad-for-python-22-2-release-notes/
 weight: 10
 ---
 

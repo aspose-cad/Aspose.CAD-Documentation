@@ -2,7 +2,7 @@
 title: DGN Drawing
 type: docs
 weight: 10
-url: /python/dgn-drawing/
+url: /python-net/dgn-drawing/
 ---
 
 ## **Exporting DGN Drawings to PDF**

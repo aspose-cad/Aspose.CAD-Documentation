@@ -2,7 +2,7 @@
 title: DXB Drawings
 type: docs
 weight: 70
-url: /javascript/dxb-drawings/
+url: /javascript-net/dxb-drawings/
 ---
 
 ## **Exporting DXB Format To PNG**

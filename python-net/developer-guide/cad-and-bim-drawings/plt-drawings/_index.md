@@ -2,7 +2,7 @@
 title: PLT Drawings
 type: docs
 weight: 90
-url: /python/plt-drawings/
+url: /python-net/plt-drawings/
 ---
 
 ## **Export PLT to Image**

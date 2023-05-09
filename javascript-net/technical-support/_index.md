@@ -2,7 +2,7 @@
 title: Technical Support
 type: docs
 weight: 60
-url: /javascript/technical-support/
+url: /javascript-net/technical-support/
 ---
 
 Aspose provides unlimited free technical support for all of its products. Support is available to all users, including evaluation. The main avenue of support is [Aspose.Forums](https://forum.aspose.com/c/cad/19).

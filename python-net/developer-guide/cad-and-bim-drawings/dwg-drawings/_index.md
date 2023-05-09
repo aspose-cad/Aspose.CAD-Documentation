@@ -2,7 +2,7 @@
 title: DWG Drawings
 type: docs
 weight: 40
-url: /python/dwg-drawings/
+url: /python-net/dwg-drawings/
 ---
 
 ## **Exporting DWG Drawings to PDF**

@@ -2,7 +2,7 @@
 title: STP Drawings
 type: docs
 weight: 70
-url: /javascript/stp-drawings/
+url: /javascript-net/stp-drawings/
 ---
 
 ## **Exporting STP Format To PNG**

@@ -2,7 +2,7 @@
 title: Showcases
 type: docs
 weight: 50
-url: /javascript/showcases/
+url: /javascript-net/showcases/
 ---
 
 ### **Showcases**

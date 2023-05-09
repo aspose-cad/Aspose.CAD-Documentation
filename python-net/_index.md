@@ -3,7 +3,7 @@ title: Aspose.CAD for Python
 description: "Aspose.CAD for Python allows developers to open, read and process AutoCAD DWG, DXF, DWT and other CAD and BIM file formats, such as: DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS."
 type: docs
 weight: 100
-url: /python/
+url: /python-net/
 is_root: true
 ---
 

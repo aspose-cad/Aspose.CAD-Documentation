@@ -1,7 +1,7 @@
 ---
 title: "Aspose.CAD for JavaScript 23.1 Release Notes"
 type: docs
-url: /javascript/aspose-cad-for-javascript-23-1-release-notes/
+url: /javascript-net/aspose-cad-for-javascript-23-1-release-notes/
 weight: 10
 ---
 

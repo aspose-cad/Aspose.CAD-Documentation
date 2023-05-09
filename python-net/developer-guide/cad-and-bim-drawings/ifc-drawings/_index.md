@@ -2,7 +2,7 @@
 title: IFC Drawings
 type: docs
 weight: 70
-url: /python/ifc-drawings/
+url: /python-net/ifc-drawings/
 ---
 
 ## **Exporting IFC Format To PNG**

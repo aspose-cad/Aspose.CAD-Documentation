@@ -2,7 +2,7 @@
 title: Сonverting File Formats
 type: docs
 weight: 60
-url: /python/converting-file-formats/
+url: /python-net/converting-file-formats/
 ---
 
 ## **Сonverting File Formats**

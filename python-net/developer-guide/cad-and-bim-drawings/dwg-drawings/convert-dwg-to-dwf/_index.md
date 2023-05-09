@@ -2,7 +2,7 @@
 title: Convert DWG to DWF
 type: docs
 weight: 20
-url: /python/convert-dwg-to-dwf/
+url: /python-net/convert-dwg-to-dwf/
 ---
 
 ## **How to convert DWG to DWF**

@@ -2,7 +2,7 @@
 title: Exporting SHX fonts
 type: docs
 weight: 40
-url: /python/export-shx-fonts/
+url: /python-net/export-shx-fonts/
 ---
 
 ## **Export SHX fonts for DXF/DWG drawings**

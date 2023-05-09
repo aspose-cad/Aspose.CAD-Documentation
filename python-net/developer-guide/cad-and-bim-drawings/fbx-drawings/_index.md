@@ -2,7 +2,7 @@
 title: FBX Drawings
 type: docs
 weight: 70
-url: /python/fbx-drawings/
+url: /python-net/fbx-drawings/
 ---
 
 ## **Exporting FBX Format To PDF**

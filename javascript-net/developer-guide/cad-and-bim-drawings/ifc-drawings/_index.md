@@ -2,7 +2,7 @@
 title: IFC Drawings
 type: docs
 weight: 70
-url: /javascript/ifc-drawings/
+url: /javascript-net/ifc-drawings/
 ---
 
 ## **Exporting FBX Format To PNG**
