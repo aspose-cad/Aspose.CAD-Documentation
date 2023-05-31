@@ -25,10 +25,10 @@ Supported output file formats: PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, W
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.CAD for JavaScript Online Documentation](/cad/javascript/)
-- [Aspose.CAD for JavaScript Features](/cad/javascript/features/)
-- [Aspose.CAD for JavaScript Product Page](https://products.aspose.com/cad/javascript/)
+- [Aspose.CAD for JavaScript Online Documentation](/cad/javascript-net/)
+- [Aspose.CAD for JavaScript Features](/cad/javascript-net/features/)
+- [Aspose.CAD for JavaScript Product Page](https://products.aspose.com/cad/javascript-net/)
 - [Aspose.CAD for JavaScript Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for JavaScript Paid Support Helpdesk](https://helpdesk.aspose.com/)
-- [Aspose.CAD for JavaScript Supported File Formats](/cad/javascript/supported-file-formats/)
+- [Aspose.CAD for JavaScript Supported File Formats](/cad/javascript-net/supported-file-formats/)
 - [Aspose.CAD for JavaScript Installation](/cad/javascript/installation/)

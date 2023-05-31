@@ -89,7 +89,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.CAD for JasperReports Online Documentation](/cad/jasperreports/)
 - [Aspose.CAD for JasperReports Features](/cad/jasperreports/features-overview/)
 - [Aspose.CAD for JasperReports Release Notes](/cad/jasperreports/release-notes/)
-- Aspose.CAD for JasperReports Product Page
+- [Aspose.CAD for JasperReports Product Page](https://products.aspose.com/cad/jasperreports/)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-JasperReports)
 - [Download Aspose.CAD for JasperReports](https://downloads.aspose.com/cad/jasperreports)
 - [Aspose.CAD for JasperReports Free Support Forum](https://forum.aspose.com/c/cad/19)
@@ -112,7 +112,7 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.CAD for Python Online Documentation](/cad/python/)
 - [Aspose.CAD for Python Features](/cad/python/product-overview/#advanced-api-features)
 - [Aspose.CAD for Python Release Notes](/cad/python/release-notes/)
-- [Aspose.CAD for Python Product Page](https://products.aspose.com/cad/npython/)
+- [Aspose.CAD for Python Product Page](https://products.aspose.com/cad/python/)
 - [Install Aspose.CAD for Python PyPi Package](https://www.pypi.org/packages/Aspose.CAD/)
 - [Aspose.CAD for Python API Reference Guide](https://reference.aspose.com/cad/python)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-Python)
@@ -134,9 +134,9 @@ During the conversion process, developers can choose and convert specific layers
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.CAD for JavaScript Online Documentation](/cad/javascript/)
-- [Aspose.CAD for JavaScript Features](/cad/javascript/features/)
-- [Aspose.CAD for JavaScript Product Page](https://products.aspose.com/cad/javascript/)
+- [Aspose.CAD for JavaScript Online Documentation](/cad/javascript-net/)
+- [Aspose.CAD for JavaScript Features](/cad/javascript-net/features/)
+- [Aspose.CAD for JavaScript Product Page](https://products.aspose.com/cad/javascript-net/)
 - [Aspose.CAD for JavaScript Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for JavaScript Paid Support Helpdesk](https://helpdesk.aspose.com/)
 - [Aspose.CAD for JavaScript Supported File Formats](/cad/javascript/supported-file-formats/)
