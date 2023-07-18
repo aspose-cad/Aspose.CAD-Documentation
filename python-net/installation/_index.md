@@ -2,5 +2,5 @@
 title: Installation
 type: docs
 weight: 30
-url: /pythons/installation/
+url: /python-net/installation/
 ---

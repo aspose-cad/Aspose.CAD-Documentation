@@ -2,10 +2,10 @@
 title: Integration with JasperServer
 type: docs
 weight: 20
-url: /pythons/integration-with-jasperserver/
+url: /python-net/integration-with-jasperserver/
 ---
 {{% alert color="primary" %}}
-To integrate Aspose.CAD for Pythons with JasperServer, it is necessary to take several additional steps and update the JasperServer config files. This article explains how.
+To integrate Aspose.CAD for Python with JasperServer, it is necessary to take several additional steps and update the JasperServer config files. This article explains how.
 {{% /alert %}}
 1. Add new exporter properties to the %INTALL_DIR%\apache-tomcat\webapps\jasperserver\WEB-INF\flows\viewReportBeans.xml config file.
 {{< highlight xml >}}
@@ -214,7 +214,7 @@ For example:
 		<entry key="as_svg" value-ref="svgASExporterParameters"/>
 		<entry key="as_tiff" value-ref="tiffASExporterParameters"/>
 		<entry key="as_wmf" value-ref="wmfASExporterParameters"/>
-		<!-- Aspose.CAD for Pythons END -->
+		<!-- Aspose.CAD for Python END -->
     </util:map>
 {{< /highlight >}}
 3. Copy aspose-cad-pythons-xx.xx.jar to %INTALL_DIR%\apache-tomcat\webapps\jasperserver\WEB-INF\lib.

@@ -38,7 +38,7 @@ An overview of the main conversion, rendering and reporting capabilities of Aspo
 ## **Platform Independence**
 Aspose.CAD for Python supports
 
-- Python 3.9
+- Python 3.10
 
 ![todo:image_alt_text](product-overview_4.png)
 
