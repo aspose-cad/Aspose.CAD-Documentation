@@ -2,7 +2,7 @@
 title: Licensing
 type: docs
 weight: 40
-url: /pythons/licensing/
+url: /python-net/licensing/
 ---
 ## **Call setLicense**
 To apply a license:

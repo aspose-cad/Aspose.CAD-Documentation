@@ -2,12 +2,12 @@
 title: Evaluate Aspose.CAD
 type: docs
 weight: 50
-url: /pythons/evaluate-aspose-cad/
+url: /python-net/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}
 
-You can easily download Aspose.CAD for Pythons for evaluation from the [download page](https://downloads.aspose.com/cad/pythons). The evaluation download is same as the purchased download. The evaluation version simply becomes licensed after [applying a license](/cad/pythons/licensing/).
+You can easily download Aspose.CAD for Pythons for evaluation from the [download page](https://downloads.aspose.com/cad/python-net). The evaluation download is same as the purchased download. The evaluation version simply becomes licensed after [applying a license](/cad/python-net/licensing/).
 
 {{% /alert %}}
 

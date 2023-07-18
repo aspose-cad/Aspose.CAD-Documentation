@@ -2,7 +2,7 @@
 title: Integration with JasperServer
 type: docs
 weight: 20
-url: /pythons/integration-with-jasperserver/
+url: /python-net/integration-with-jasperserver/
 ---
 {{% alert color="primary" %}}
 To integrate Aspose.CAD for Pythons with JasperServer, it is necessary to take several additional steps and update the JasperServer config files. This article explains how.

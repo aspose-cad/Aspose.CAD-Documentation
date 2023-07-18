@@ -2,7 +2,7 @@
 title: Demos Setup
 type: docs
 weight: 40
-url: /pythons/demos-setup/
+url: /python-net/demos-setup/
 ---
 
 {{% alert color="primary" %}}
@@ -15,7 +15,7 @@ The demos provided with Aspose.CAD for Pythons are standard Pythons demos modifi
 
 To run Aspose.CAD for Pythons demos, perform the following steps:
 
-1. Download Pythons (e.g <https://sourceforge.net/projects/pythons/files/archive/>). Make sure to download the entire archived project with the source code and demos, not just a single JAR.
+1. Download Pythons (e.g <https://sourceforge.net/projects/python-net/files/archive/>). Make sure to download the entire archived project with the source code and demos, not just a single JAR.
 1. Unpack the archived project to some location on your hard disk, for example C:\.
 1. Copy all demo folders from the \samples folder of **aspose-cad-xx.x.zip** to **\<InstallDir>\demo\samples**, where "\<InstallDir>" is the location you have unpacked Pythons to. This step is required because demo build scripts rely on the Pythons’ folder structure, otherwise you will need to modify build scripts.
 1. Copy **aspose-cad-pythons-xx.x.jar** from the \lib folder of **aspose-cad-pythons-xx.x.zip** to **\<InstallDir>\lib**.

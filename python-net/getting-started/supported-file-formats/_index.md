@@ -2,7 +2,7 @@
 title: Supported File Formats
 type: docs
 weight: 60
-url: /pythons/supported-file-formats/
+url: /python-net/supported-file-formats/
 ---
 
 |**Format**|**Description**|**Support**|

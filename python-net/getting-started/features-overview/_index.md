@@ -2,7 +2,7 @@
 title: Features Overview
 type: docs
 weight: 20
-url: /pythons/features-overview/
+url: /python-net/features-overview/
 ---
 
 {{% alert color="primary" %}}
