@@ -9,11 +9,13 @@ url: /python-net/installing-aspose-cad-for-python/
 
 ### Using pip to install a package
 
-To install the [aspose.cad](https://pypi.org/project/aspose-cad/) package, you need to execute the command in the terminal:
+1. To install the [aspose.cad](https://pypi.org/project/aspose-cad/) package, the sites with the package have an additional description of the command to be executed in the terminal:<br/>
+![pypi-install](pypi-aspose-cad.png)
+1. An example of a command to install a package through the terminal:
 {{< highlight plain >}}
 pip install aspose-cad
 {{< /highlight >}}
-![pypi-install](pypi-aspose-cad.png)
+![pip-install-aspose-cad](pip-install-aspose.png)
 
 ### Using WHL file to install a package
 
