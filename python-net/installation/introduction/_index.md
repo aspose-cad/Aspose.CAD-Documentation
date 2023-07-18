@@ -7,7 +7,7 @@ url: /python-net/introduction/
 
 {{% alert color="primary" %}}
 
-Aspose.CAD for Pythons can be deployed on your computer by simply adding the released WHL file into your project or install from [PYPI](https://pypi.org/project/aspose-cad/).
+Aspose.CAD for Python can be deployed on your computer by simply adding the released WHL file into your project or install from [PYPI](https://pypi.org/project/aspose-cad/).
 
 {{% /alert %}}
 

@@ -7,13 +7,13 @@ url: /python-net/demos-setup/
 
 {{% alert color="primary" %}}
 
-Aspose.CAD for Pythons includes a number of demo projects to help you get started.
+Aspose.CAD for Python includes a number of demo projects to help you get started.
 
-The demos provided with Aspose.CAD for Pythons are standard Pythons demos modified to demonstrate the use of the new exporters.
+The demos provided with Aspose.CAD for Python are standard Pythons demos modified to demonstrate the use of the new exporters.
 
 {{% /alert %}}
 
-To run Aspose.CAD for Pythons demos, perform the following steps:
+To run Aspose.CAD for Python demos, perform the following steps:
 
 1. Download Pythons (e.g <https://sourceforge.net/projects/python-net/files/archive/>). Make sure to download the entire archived project with the source code and demos, not just a single JAR.
 1. Unpack the archived project to some location on your hard disk, for example C:\.
@@ -24,6 +24,6 @@ To run Aspose.CAD for Pythons demos, perform the following steps:
    **\<path id="project-classpath"> ... \<pathelement location="../../lib/aspose-cad-pythons-xx.xx.jar"/> </path>**.
 1. Change the current directory to **\<InstallDir>\demo\hsqldb** and run the following command line:
    **ant runServer**
-1. Change the current directory to one of the Aspose.CAD for Pythons demos, for example **\<InstallDir>\demo\samples\charts.ai** and run the following commands in the command line:
+1. Change the current directory to one of the Aspose.CAD for Python demos, for example **\<InstallDir>\demo\samples\charts.ai** and run the following commands in the command line:
    **ant test** - to produce report files.
 1. Open one of the resulting documents to view, for example **\<InstallDir>\demo\samples\charts.ai\build\reports\AreaChartReport.jpg**.
