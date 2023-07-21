@@ -13,7 +13,8 @@ This page contains release notes for Aspose.CAD for .NET 23.7
 
 
 |**Key**|**Summary**|**Category**|
-| :- | :- | :- || CADNET-9216 | Fix GLB/glTF exporter failure | Enhancement |
+| :- | :- | :- |
+| CADNET-9216 | Fix GLB/glTF exporter failure | Enhancement |
 | CADNET-9212 | Complete style support for font fallback system, implement unsupported font exclusion. | Enhancement |
 | CADNET-9024 | Fix for U3D progressive mesh parser | Enhancement |
 | CADNET-9016 | Implement U3D progressive mesh to Aps conversion | Enhancement |
