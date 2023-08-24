@@ -26,7 +26,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.CAD for .NET Online Documentation](/cad/net/)
 - [Aspose.CAD for .NET Features](/cad/net/features/)
-- [Aspose.CAD for .NET Release Notes](/cad/net/release-notes/)
+- [Aspose.CAD for .NET Release Notes](https://releases.aspose.com/cad/net/release-notes/)
 - [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net/)
 - [Install Aspose.CAD for .NET NuGet Package](https://www.nuget.org/packages/Aspose.CAD/)
 - [Aspose.CAD for .NET API Reference Guide](https://reference.aspose.com/cad/net)

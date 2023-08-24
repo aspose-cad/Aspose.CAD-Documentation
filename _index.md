@@ -38,7 +38,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.CAD for .NET Online Documentation](/cad/net/)
 - [Aspose.CAD for .NET Features](/cad/net/product-overview/#advanced-api-features)
-- [Aspose.CAD for .NET Release Notes](/cad/net/release-notes/)
+- [Aspose.CAD for .NET Release Notes](https://releases.aspose.com/cad/net/release-notes/)
 - [Aspose.CAD for .NET Product Page](https://products.aspose.com/cad/net/)
 - [Install Aspose.CAD for .NET NuGet Package](https://www.nuget.org/packages/Aspose.CAD/)
 - [Aspose.CAD for .NET API Reference Guide](https://reference.aspose.com/cad/net)
@@ -63,9 +63,10 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.CAD for Java Online Documentation](/cad/java/)
 - [Aspose.CAD for Java Features](/cad/java/product-overview/#advanced-api-features)
 - [Aspose.CAD for Java Limitations](/cad/java/product-overview/#not-yet-supported)
-- [Aspose.CAD for Java Release Notes](/cad/java/release-notes/)
+- [Aspose.CAD for Java Release Notes](https://releases.aspose.com/cad/java/release-notes/)
 - [Aspose.CAD for Java Product Page](https://products.aspose.com/cad/java/)
-- [Download Aspose.CAD for Java](https://repository.aspose.com/webapp/#/artifacts/browse/tree/General/repo/com/aspose/aspose-cad)
+- [Download Aspose.CAD for Java](https://releases.aspose.com/cad/java/)
+* [Aspose.CAD for Java Maven Repository](https://releases.aspose.com/java/repo/com/aspose/aspose-cad/)
 - [Install Aspose.CAD for Java from Maven Repository](/cad/java/installation/)
 - [Aspose.CAD for Java API Reference Guide](https://reference.aspose.com/cad/java)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-Java)
@@ -88,7 +89,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.CAD for JasperReports Online Documentation](/cad/jasperreports/)
 - [Aspose.CAD for JasperReports Features](/cad/jasperreports/features-overview/)
-- [Aspose.CAD for JasperReports Release Notes](/cad/jasperreports/release-notes/)
+- [Aspose.CAD for JasperReports Release Notes](https://releases.aspose.com/cad/jasperreports/release-notes/)
 - [Aspose.CAD for JasperReports Product Page](https://products.aspose.com/cad/jasperreports/)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-JasperReports)
 - [Download Aspose.CAD for JasperReports](https://downloads.aspose.com/cad/jasperreports)
@@ -111,7 +112,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.CAD for Python Online Documentation](/cad/python/)
 - [Aspose.CAD for Python Features](/cad/python/product-overview/#advanced-api-features)
-- [Aspose.CAD for Python Release Notes](/cad/python/release-notes/)
+- [Aspose.CAD for Python Release Notes](https://releases.aspose.com/cad/python-net/release-notes/)
 - [Aspose.CAD for Python Product Page](https://products.aspose.com/cad/python/)
 - [Install Aspose.CAD for Python PyPi Package](https://www.pypi.org/packages/Aspose.CAD/)
 - [Aspose.CAD for Python API Reference Guide](https://reference.aspose.com/cad/python)
@@ -136,6 +137,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.CAD for JavaScript Online Documentation](/cad/javascript-net/)
 - [Aspose.CAD for JavaScript Features](/cad/javascript-net/features/)
+- [Aspose.CAD for JavaScript Release Notes](https://releases.aspose.com/cad/javascript-net/release-notes/)
 - [Aspose.CAD for JavaScript Product Page](https://products.aspose.com/cad/javascript-net/)
 - [Aspose.CAD for JavaScript Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for JavaScript Paid Support Helpdesk](https://helpdesk.aspose.com/)

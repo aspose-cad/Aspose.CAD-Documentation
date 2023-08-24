@@ -23,7 +23,7 @@ The following are the links to some useful resources you may need to accomplish 
 
 - [Aspose.CAD for JasperReports Online Documentation](/cad/jasperreports/)
 - [Aspose.CAD for JasperReports Features](/cad/jasperreports/features-overview/)
-- [Aspose.CAD for JasperReports Release Notes](/cad/jasperreports/release-notes/)
+- [Aspose.CAD for JasperReports Release Notes](https://releases.aspose.com/cad/jasperreports/release-notes/)
 - [Aspose.CAD for JasperReports Product Page](https://products.aspose.com/cad/jasperreports/)
 - [Download Aspose.CAD for JasperReports](https://downloads.aspose.com/cad/jasperreports)
 - [Aspose.CAD for JasperReports Free Support Forum](https://forum.aspose.com/c/cad/19)

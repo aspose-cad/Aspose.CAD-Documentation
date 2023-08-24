@@ -27,6 +27,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 - [Aspose.CAD for JavaScript Online Documentation](/cad/javascript-net/)
 - [Aspose.CAD for JavaScript Features](/cad/javascript-net/features/)
+- [Aspose.CAD for JavaScript Release Notes](https://releases.aspose.com/cad/javascript-net/release-notes/)
 - [Aspose.CAD for JavaScript Product Page](https://products.aspose.com/cad/javascript-net/)
 - [Aspose.CAD for JavaScript Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for JavaScript Paid Support Helpdesk](https://helpdesk.aspose.com/)
