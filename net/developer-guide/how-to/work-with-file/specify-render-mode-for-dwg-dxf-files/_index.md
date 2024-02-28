@@ -1,7 +1,7 @@
 ---
 title: Specify render mode for DWG and DXF files
 type: docs
-weight: 20
+weight: 13
 url: /net/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files
 ---
 
