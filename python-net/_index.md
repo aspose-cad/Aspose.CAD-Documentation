@@ -21,10 +21,10 @@ Aspose.CAD for Python is the only solution on the market that makes it possible 
 
 The following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.CAD for Python Online Documentation](/cad/python/)
-- [Aspose.CAD for Python Features](/cad/python/features-overview/)
+- [Aspose.CAD for Python Online Documentation](/cad/python-net/)
+- [Aspose.CAD for Python Features](/cad/python-net/features-overview/)
 - [Aspose.CAD for Python Release Notes](https://releases.aspose.com/cad/python-net/release-notes/)
-- [Aspose.CAD for Python Product Page](https://products.aspose.com/cad/python/)
-- [Download Aspose.CAD for Python](https://downloads.aspose.com/cad/python)
+- [Aspose.CAD for Python Product Page](https://products.aspose.com/cad/python-net/)
+- [Download Aspose.CAD for Python](https://downloads.aspose.com/cad/python-net)
 - [Aspose.CAD for Python Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for Python Paid Support Helpdesk](https://helpdesk.aspose.com/)
