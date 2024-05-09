@@ -17,7 +17,7 @@ Please note that Aspose does not provide technical support over the phone. Phone
 ## **Aspose Free Support Forum**
 If you need help with Aspose.CAD, consider the following:
 
-- Make sure you are using the latest Aspose.CAD version before reporting an issue. See [Aspose.CAD for .NET Downloads](https://www.nuget.org/packages/Aspose.CAD) to find out about the latest version.
+- Make sure you are using the latest Aspose.CAD version before reporting an issue. See [Aspose.CAD for JavaScript Downloads](https://www.npmjs.com/package/aspose-cad) to find out about the latest version.
 - Have a look through the forums, this documentation, and the API Reference before reporting an issue – perhaps your question has already been answered.
 - Post your question to the [Aspose.CAD Forum](https://forum.aspose.com/c/cad/19), and it will be answered within a few hours. Questions are answered directly by the Aspose.CAD development team.
 - When expecting a reply on the forums, please allow for time zone differences.

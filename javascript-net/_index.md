@@ -32,4 +32,4 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.CAD for JavaScript Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for JavaScript Paid Support Helpdesk](https://helpdesk.aspose.com/)
 - [Aspose.CAD for JavaScript Supported File Formats](/cad/javascript-net/supported-file-formats/)
-- [Aspose.CAD for JavaScript Installation](/cad/javascript/installation/)
+- [Aspose.CAD for JavaScript Installation](/cad/javascript-net/installation/)

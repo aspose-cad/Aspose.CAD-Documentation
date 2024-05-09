@@ -11,5 +11,5 @@ Aspose.CAD for Python allows developers to load and save [DWT](https://docs.file
 
 ### Sample Code
 
-{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "Convert-DWT-to-DWT.py" >}}
+{{< gist "aspose-com-gists" "511bcfad674670f7484dcd1c47480b11" "Convert-DWT-to-DWT-Export.py" >}}
 

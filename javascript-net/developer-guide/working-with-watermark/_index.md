@@ -13,4 +13,4 @@ Sometimes you want to add some watermarks to drawings to indicate what purpose o
 
 The code below shows how to achieve the same goal using Aspose.CAD for JavaScript
 
-{{< gist "aspose-com-gists" "16de0fa2ea006758f25d1ad32bc75fd2" "DGN-AddWatermark.js" >}}
+{{< gist "aspose-com-gists" "b5a4510e5fa49082bb585a12d753de8d" "DGN-AddWatermark.js" >}}
