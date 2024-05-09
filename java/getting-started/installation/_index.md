@@ -15,25 +15,25 @@ First, you need to specify the Aspose Maven Repository configuration/location in
 
 {{< highlight java >}}
 
- <repositories>
-
+<repositories>
     <repository>
-
-        <id>AsposeJavaAPI</id>
-
+        <id>asposeJavaAPI</id>
         <name>Aspose Java API</name>
-
-        <url>https://releases.aspose.com/repo/</url>
-
+        <url>https://releases.aspose.cloud/java/repo/</url>
+        <snapshots>
+            <enabled>false</enabled>
+        </snapshots>
+        <releases>
+            <enabled>true</enabled>
+        </releases>
     </repository>
-
 </repositories>
 
 {{< /highlight >}}
 
 ### **Define Aspose.CAD for Java API Dependency**
 
-Then define Aspose.CAD for Java API dependency in your pom.xml as follows:
+Then define Aspose.CAD for Java API dependency in your pom.xml as follows:
 
 {{< highlight java >}}
 
@@ -45,7 +45,7 @@ Then define Aspose.CAD for Java API dependency in your pom.xml as follows:
 
         <artifactId>aspose-cad</artifactId>
 
-        <version>20.10</version>        
+        <version>24.3</version>        
 
    </dependency>
 

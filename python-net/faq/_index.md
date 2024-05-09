@@ -7,7 +7,7 @@ url: /python-net/faq/
 
 This page contains answers to the most frequently asked questions. Please learn the current page – perhaps this will allow you to solve your problem quickly.
 
-If you have not found the answer to your question, you can ask on the support forum. For information on how to properly report your question or problem, see the [“Technical Support”](/cad/python/technical-support) page.
+If you have not found the answer to your question, you can ask on the support forum. For information on how to properly report your question or problem, see the [“Technical Support”](/cad/python-net/technical-support) page.
 
 {{% alert color="primary" %}} 
 
@@ -31,20 +31,20 @@ Support is available to all users, including evaluation. The main area of suppor
 
 **Q: What does it mean “Aspose.CAD does not require third-party applications”?**
 
-Aspose.CAD for Python does not need to install any third-party applications or additional software packages to work. Just download and install Aspose.CAD as described in the [”Installation”](/cad/python/installation/) article and get started.
+Aspose.CAD for Python does not need to install any third-party applications or additional software packages to work. Just download and install Aspose.CAD as described in the [”Installation”](/cad/python-net/installation/) article and get started.
 
 **Q: What platforms does Aspose.CAD support?**
 
 Aspose.CAD for Python covers most of the popular development environments and deployment platforms. Its API can be used to develop applications for a wide range of operating systems such as Windows, Linux, and Mac OS, and various platforms.
 
-For details, see the [“Product Overview”](/cad/python/product-overview/) page
+For details, see the [“Product Overview”](/cad/python-net/product-overview/) page
 
 **Q: What file formats does Aspose.CAD support?**
 
 Aspose.CAD for Python is a standalone CAD and BIM files processing API suitable for Python, Xamarin for Android and iOS. 
 It provides the functionality to convert DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, SVG files to high-quality PDF and other vector and raster image files such as: BMP, GIF, JPG, JPEG, JP2, PNG, TIFF, PSD, DICOM, WEBP, WMF, EMF. 
 
-You can see the complete list of supported formats on the [“Supported File Formats”](/cad/python/supported-file-formats/) or [“Сonverting File Formats”](/cad/python/converting-file-formats/) page.
+You can see the complete list of supported formats on the [“Supported File Formats”](/cad/python-net/supported-file-formats/) or [“Сonverting File Formats”](/cad/python-net/converting-file-formats/) page.
 
 **Q: How can I [get a temporary license](https://purchase.aspose.com/temporary-license/)?**
 
@@ -56,16 +56,16 @@ Once you have added the products you want to test to your cart, press proceed an
 
 **Q: How can I apply and loading  a license?**
 
-For a detailed answer, learn the article ["Licensing"](/cad/python/licensing/).
+For a detailed answer, learn the article ["Licensing"](/cad/python-net/licensing/).
 
 **Q: How can I get support?**
 
-Use the free technical support forum. For details on how to properly report a problem and what needs to be done before contacting the forum, see the [“Technical Support”](/cad/python/technical-support) page.
+Use the free technical support forum. For details on how to properly report a problem and what needs to be done before contacting the forum, see the [“Technical Support”](/cad/python-net/technical-support) page.
 
 ## **Conversion**
 
 {{% alert color="primary" %}} 
 
-You can find more detailed information about converting a file in the [“CAD and BIM Drawings”](/cad/python/cad-and-bim-drawings/) documentation section.
+You can find more detailed information about converting a file in the [“CAD and BIM Drawings”](/cad/python-net/cad-and-bim-drawings/) documentation section.
 
 {{% /alert %}}

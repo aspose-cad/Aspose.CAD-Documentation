@@ -110,12 +110,12 @@ Aspose.CAD for Python is a cross-platform library, compatible with Python 3.x, w
 
 Following are the links to some useful resources you may need to accomplish your tasks.
 
-- [Aspose.CAD for Python Online Documentation](/cad/python/)
-- [Aspose.CAD for Python Features](/cad/python/product-overview/#advanced-api-features)
+- [Aspose.CAD for Python Online Documentation](/cad/python-net/)
+- [Aspose.CAD for Python Features](/cad/python-net/product-overview/#advanced-api-features)
 - [Aspose.CAD for Python Release Notes](https://releases.aspose.com/cad/python-net/release-notes/)
-- [Aspose.CAD for Python Product Page](https://products.aspose.com/cad/python/)
-- [Install Aspose.CAD for Python PyPi Package](https://www.pypi.org/packages/Aspose.CAD/)
-- [Aspose.CAD for Python API Reference Guide](https://reference.aspose.com/cad/python)
+- [Aspose.CAD for Python Product Page](https://products.aspose.com/cad/python-net/)
+- [Install Aspose.CAD for Python PyPi Package](https://pypi.org/project/aspose-cad/)
+- [Aspose.CAD for Python API Reference Guide](https://reference.aspose.com/cad/python-net)
 - [Download Examples at GitHub Repository](https://github.com/aspose-cad/Aspose.CAD-for-Python)
 - [Aspose.CAD for Python Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for Python Paid Support Helpdesk](https://helpdesk.aspose.com/)
@@ -141,5 +141,5 @@ Following are the links to some useful resources you may need to accomplish your
 - [Aspose.CAD for JavaScript Product Page](https://products.aspose.com/cad/javascript-net/)
 - [Aspose.CAD for JavaScript Free Support Forum](https://forum.aspose.com/c/cad/19)
 - [Aspose.CAD for JavaScript Paid Support Helpdesk](https://helpdesk.aspose.com/)
-- [Aspose.CAD for JavaScript Supported File Formats](/cad/javascript/supported-file-formats/)
-- [Aspose.CAD for JavaScript Installation](/cad/javascript/installation/)
+- [Aspose.CAD for JavaScript Supported File Formats](/cad/javascript-net/supported-file-formats/)
+- [Aspose.CAD for JavaScript Installation](/cad/javascript-net/installation/)
