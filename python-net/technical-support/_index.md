@@ -5,26 +5,42 @@ weight: 60
 url: /python-net/technical-support/
 ---
 
-Aspose provides unlimited free technical support for all of its products. Support is available to all users, including evaluation. The main avenue of support is [Aspose.Forums](https://forum.aspose.com/c/cad/19).
+## **Aspose.CAD for Python Support**
 
+To contact support use [Aspose.Forums](https://forum.aspose.com/c/cad/19), this forum provides an opportunity to contact any Aspose product including Aspose.CAD for Python.
 
 {{% alert color="primary" %}} 
 
-Please note that Aspose does not provide technical support over the phone. Phone support is only available for sales and purchase questions.
+Please note that phone support works exclusively for sales or purchase issues, technical support works through [Aspose.Forums](https://forum.aspose.com/c/cad/19).
 
 {{% /alert %}}
 
-## **Aspose Free Support Forum**
-If you need help with Aspose.CAD, consider the following:
+## **Aspose.CAD for Python Free Support Forum**
 
-- Make sure you are using the latest Aspose.CAD version before reporting an issue. See [Aspose.CAD for Python Downloads](https://pypi.org/project/aspose-cad/) to find out about the latest version.
-- Have a look through the forums, this documentation, and the API Reference before reporting an issue – perhaps your question has already been answered.
-- Post your question to the [Aspose.CAD Forum](https://forum.aspose.com/c/cad/19), and it will be answered within a few hours. Questions are answered directly by the Aspose.CAD development team.
-- When expecting a reply on the forums, please allow for time zone differences.
+If you have questions or need help with Aspose.CAD for Python, first follow these steps:
+
+- Make sure that you are using the latest version of the Aspose.CAD for Python package, to check all available versions you can go to the download link for [Aspose.CAD for Python](https://pypi.org/project/aspose-cad/).
+
+- If you have problems, first check the documentation or try to find information on [Aspose.Forums](https://forum.aspose.com/c/cad/19), you may find a solution to your problem.
+- By posting your question on the [Aspose.CAD Forum](https://forum.aspose.com/c/cad/19), know that the Aspose.CAD for Python team will do their best to get back to you within hours.
+- In order for your request to be resolved as quickly as possible, please provide a detailed description of your problem.
+
+{{% alert color="primary" %}}
+
+When expecting a reply on the forums, please allow for time zone differences.
+
+{{% /alert %}}
 
 ## **Report an Issue or Feature Request**
-When posting your issue, question, or feature request with Aspose.CAD, follow these simple steps to make sure it is resolved in the most efficient way:
 
-- Include the original document and possibly the code snippet that is causing the problem.
-If you need to attach multiple files, zip them into one. It is safe to attach your documents to [Aspose.Forums](https://forum.aspose.com/c/cad/19) because only you and the Aspose developers will have access to the attached files.
-- Try to report one issue per thread. If you have another issue, question, or feature request, please report it in a separate thread.
+When posting a problem, question, or request about Aspose.CAD for Python functionality, to ensure that the problem is solved in the best possible way, follow these steps:
+
+- Provide a detailed description of your issue.
+- Include original documents or code snippets. If you have several files you want to provide, pack them into an archive.
+- Report only one issue, if you want to report multiple issues, questions, or feature requests, please create a separate request.
+
+{{% alert color="primary" %}}
+
+Adding documents to [Aspose.Forums](https://forum.aspose.com/c/cad/19) is safe as only you and the Aspose developers will have access to the attached files.
+
+{{% /alert %}}
