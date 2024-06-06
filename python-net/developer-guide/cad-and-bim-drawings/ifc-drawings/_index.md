@@ -1,7 +1,7 @@
 ---
 title: IFC Drawings
 type: docs
-weight: 70
+weight: 120
 url: /python-net/ifc-drawings/
 ---
 

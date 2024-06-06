@@ -1,7 +1,7 @@
 ---
 title: CF2 Drawings
 type: docs
-weight: 110
+weight: 10
 url: /python-net/cf2-drawings/
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: STL Drawings
 type: docs
-weight: 100
+weight: 150
 url: /python-net/stl-drawings/
 ---
 

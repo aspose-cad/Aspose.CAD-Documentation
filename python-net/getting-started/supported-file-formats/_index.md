@@ -24,6 +24,7 @@ The following table indicates the file formats that Aspose.CAD for Python can lo
 |[SVG](https://docs.fileformat.com/page-description-language/svg/)|Scalable Vector Graphics (SVG) is a web-friendly vector file format|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
 |[DWF](https://docs.fileformat.com/cad/dwf/)|Design Web Format|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
 |[3DS](https://docs.fileformat.com/3d/3ds/)|A file with .3ds extension represents 3D Sudio (DOS) mesh file format used by Autodesk 3D Studio|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
+|[DRC](https://docs.fileformat.com/3d/drc/)|A file with .drc extension is a compressed 3D file format created with Google Draco library.|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
 |[DXB](https://docs.fileformat.com/cad/dxb/)|DXB is the binary version of a .DXF file, which is text-based|{{< emoticons/tick >}}| | |
 |[U3D](https://docs.fileformat.com/3d/u3d/)|Universal 3D|{{< emoticons/tick >}}|{{< emoticons/tick >}}|||||
 |[DWFx](https://docs.fileformat.com/cad/dwfx/)|DWFx is the newest version of the DWF file format. </br>DWFx is based on the XML Paper Specification (XPS)|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |

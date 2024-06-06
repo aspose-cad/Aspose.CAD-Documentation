@@ -1,7 +1,7 @@
 ---
 title: DGN Drawing
 type: docs
-weight: 10
+weight: 30
 url: /python-net/dgn-drawing/
 ---
 

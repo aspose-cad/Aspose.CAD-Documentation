@@ -1,7 +1,7 @@
 ---
 title: STP Drawings
 type: docs
-weight: 70
+weight: 160
 url: /python-net/stp-drawings/
 ---
 

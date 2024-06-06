@@ -1,7 +1,7 @@
 ---
 title: FBX Drawings
 type: docs
-weight: 70
+weight: 110
 url: /python-net/fbx-drawings/
 ---
 
