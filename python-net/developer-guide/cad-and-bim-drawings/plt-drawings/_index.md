@@ -1,7 +1,7 @@
 ---
 title: PLT Drawings
 type: docs
-weight: 90
+weight: 140
 url: /python-net/plt-drawings/
 ---
 

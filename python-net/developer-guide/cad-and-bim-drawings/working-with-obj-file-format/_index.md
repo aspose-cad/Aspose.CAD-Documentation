@@ -1,7 +1,7 @@
 ---
 title: Working with OBJ File Format
 type: docs
-weight: 120
+weight: 180
 url: /python-net/working-with-obj-file-format/
 ---
 

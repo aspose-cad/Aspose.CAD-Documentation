@@ -1,7 +1,7 @@
 ---
 title: SVG Drawings
 type: docs
-weight: 70
+weight: 170
 url: /python-net/svg-drawings/
 ---
 

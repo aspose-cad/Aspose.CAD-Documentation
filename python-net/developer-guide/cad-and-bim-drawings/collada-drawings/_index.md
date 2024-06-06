@@ -1,7 +1,7 @@
 ---
 title: COLLADA Drawings
 type: docs
-weight: 70
+weight: 20
 url: /python-net/collada-drawings/
 ---
 

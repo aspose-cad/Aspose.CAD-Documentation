@@ -1,7 +1,7 @@
 ---
 title: DXB Drawings
 type: docs
-weight: 70
+weight: 90
 url: /python-net/dxb-drawings/
 ---
 

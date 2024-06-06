@@ -1,7 +1,7 @@
 ---
 title: DXF Drawings
 type: docs
-weight: 60
+weight: 10
 url: /python-net/dxf-drawings/
 ---
 

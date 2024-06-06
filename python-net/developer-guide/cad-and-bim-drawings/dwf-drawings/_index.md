@@ -1,7 +1,7 @@
 ---
 title: DWF Drawings
 type: docs
-weight: 20
+weight: 50
 url: /python-net/dwf-drawings/
 ---
 
