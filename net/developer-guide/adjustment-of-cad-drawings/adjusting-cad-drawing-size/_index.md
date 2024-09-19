@@ -2,7 +2,7 @@
 title: Adjusting CAD Drawing Size
 type: docs
 weight: 10
-url: /net/adjust-cad-properties/adjusting-cad-drawing-size/
+url: /net/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}
