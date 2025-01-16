@@ -11,9 +11,9 @@ The following table indicates the file formats that Aspose.CAD for Python can lo
 
 |**Format**|**Description**|**Load**|**Save**|**Remarks**|
 | :- | :- | :- | :- | :- |
-|[DWG](https://docs.fileformat.com/cad/dwg/)|AutoCAD Drawing Database File|{{< emoticons/tick >}}| |- 3D Solids (Conic, Sphere, Torus, Cylinder, Box, Wedge)</br>- Wired models.</br>- Basic view cube positions.</br>- 3D Faces.|
-|[DXF](https://docs.fileformat.com/cad/dxf/)|Drawing Exchange Format File|{{< emoticons/tick >}}|{{< emoticons/tick >}} (Partially Supported)|- 3D Solids (Conic, Sphere, Torus, Cylinder, Box, Wedge)</br>- Wired models.</br>- Basic view cube positions.</br>- 3D Faces.</br>- Surfaces, Meshes|
-|[DGN](https://docs.fileformat.com/cad/dgn/)|MicroStation Design File|{{< emoticons/tick >}}| |- 3D Solids (Conic, Sphere, Torus, Cylinder, Box, Wedge)</br>- Surfaces, Meshes|
+|[DWG](https://docs.fileformat.com/cad/dwg/)|AutoCAD Drawing Database File|{{< emoticons/tick >}}| |- 3D Solids (Conic, Sphere, Torus, Cylinder, Box, Wedge)<br />- Wired models.<br />- Basic view cube positions.<br />- 3D Faces.|
+|[DXF](https://docs.fileformat.com/cad/dxf/)|Drawing Exchange Format File|{{< emoticons/tick >}}|{{< emoticons/tick >}} (Partially Supported)|- 3D Solids (Conic, Sphere, Torus, Cylinder, Box, Wedge)<br />- Wired models.<br />- Basic view cube positions.<br />- 3D Faces.<br />- Surfaces, Meshes|
+|[DGN](https://docs.fileformat.com/cad/dgn/)|MicroStation Design File|{{< emoticons/tick >}}| |- 3D Solids (Conic, Sphere, Torus, Cylinder, Box, Wedge)<br />- Surfaces, Meshes|
 |[IFC](https://docs.fileformat.com/cad/ifc/)|Industry Foundation Classes File|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
 |[FBX](https://docs.fileformat.com/3d/fbx/)|FBX, FilmBox, is a popular 3D file format|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
 |[STP](https://docs.fileformat.com/3d/stp/)|An STP file is a 3D CAD file used for exchange of product data between CAD and CAM applications.|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
@@ -27,7 +27,7 @@ The following table indicates the file formats that Aspose.CAD for Python can lo
 |[DRC](https://docs.fileformat.com/3d/drc/)|A file with .drc extension is a compressed 3D file format created with Google Draco library.|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
 |[DXB](https://docs.fileformat.com/cad/dxb/)|DXB is the binary version of a .DXF file, which is text-based|{{< emoticons/tick >}}| | |
 |[U3D](https://docs.fileformat.com/3d/u3d/)|Universal 3D|{{< emoticons/tick >}}|{{< emoticons/tick >}}|||||
-|[DWFx](https://docs.fileformat.com/cad/dwfx/)|DWFx is the newest version of the DWF file format. </br>DWFx is based on the XML Paper Specification (XPS)|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
+|[DWFx](https://docs.fileformat.com/cad/dwfx/)|DWFx is the newest version of the DWF file format. <br />DWFx is based on the XML Paper Specification (XPS)|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |
 |[CF2](https://docs.fileformat.com/cad/cf2/)|Common File Format File|{{< emoticons/tick >}}| | |
 |[COLLADA](https://docs.fileformat.com/3d/dae/)|Digital Asset Exchange file format|{{< emoticons/tick >}}| | |
 |[OBJ](https://docs.fileformat.com/3d/obj/)|3D Object File|{{< emoticons/tick >}}|{{< emoticons/tick >}}| |

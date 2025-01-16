@@ -179,7 +179,7 @@ For example:
 {{< /highlight >}}
     You can change the value of the property to Batch, SinglePage or Multipage using com.aspose.cad.jasperreports.common.ExportMode enum type.
 
-2. Locate the <util:map id="exporterConfigMap"> element in the %INTALL_DIR%\\apache-tomcat\webapps\jasperserver\WEB-INF\flows\viewReportBeans.xml file and add the following lines:
+2. Locate the <util:map id="exporterConfigMap">...</util:map> element in the %INTALL_DIR%\\apache-tomcat\webapps\jasperserver\WEB-INF\flows\viewReportBeans.xml file and add the following lines:
 {{< highlight xml >}}
     <util:map id="exporterConfigMap">
         <!-- comment/uncomment any of the lines below if you want related exporters 

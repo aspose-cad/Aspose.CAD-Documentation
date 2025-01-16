@@ -1,0 +1,3 @@
+[submodule "themes/lutsk-aspose-theme"]
+	path = themes/lutsk-aspose-theme
+	url = https://git.dev.dynabic.com/containerize-hugo/lutsk-aspose-theme.git
