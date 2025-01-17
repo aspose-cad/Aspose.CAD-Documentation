@@ -19,7 +19,7 @@ First, you need to specify the Aspose Maven Repository configuration/location in
     <repository>
         <id>asposeJavaAPI</id>
         <name>Aspose Java API</name>
-        <url>https://releases.aspose.cloud/java/repo/</url>
+        <url>https://repository.aspose.com/repo/</url>
         <snapshots>
             <enabled>false</enabled>
         </snapshots>
