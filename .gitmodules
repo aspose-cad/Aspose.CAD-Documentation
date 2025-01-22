@@ -1,6 +1,7 @@
 [submodule "themes/lutsk-aspose-theme"]
 	path = themes/lutsk-aspose-theme
 	url = https://git.dev.dynabic.com/containerize-hugo/lutsk-aspose-theme.git
+	branch = Aspose.CAD
 [submodule "lutsk-aspose-prototype"]
 	path = lutsk-aspose-prototype
 	url = https://git.dev.dynabic.com/containerize-hugo/lutsk-aspose-prototype.git
