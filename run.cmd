@@ -1,0 +1,1 @@
+"node_modules/hugo-extended/vendor/hugo" server --panicOnWarning --baseURL http://localhost --source ./ --config lutsk-aspose-prototype\config.toml,lutsk-aspose-prototype\configs\docs.aspose.com-cad.toml --contentDir . --disableFastRender
