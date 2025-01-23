@@ -22,14 +22,14 @@ is_root: false
 
 فيما يلي روابط لبعض الموارد المفيدة التي قد تحتاج إليها لإكمال مهامك.
 
-- [وثائق Aspose.CAD لجافا عبر الإنترنت](/cad/java/)
-- [ميزات Aspose.CAD لجافا](/cad/java/product-overview/#advanced-api-features)
-- [قيود Aspose.CAD لجافا](/cad/java/product-overview/#not-yet-supported)
+- [وثائق Aspose.CAD لجافا عبر الإنترنت](/cad/ar/java/)
+- [ميزات Aspose.CAD لجافا](/cad/ar/java/product-overview/#advanced-api-features)
+- [قيود Aspose.CAD لجافا](/cad/ar/java/product-overview/#not-yet-supported)
 - [ملاحظات إصدار Aspose.CAD لجافا](https://releases.aspose.com/cad/java/release-notes/)
 - [صفحة منتج Aspose.CAD لجافا](https://products.aspose.com/cad/java/)
 - [تنزيل Aspose.CAD لجافا](https://releases.aspose.com/cad/java/)
 - [مستودع Aspose.CAD لجافا في Maven](https://releases.aspose.com/java/repo/com/aspose/aspose-cad/)
-- [تثبيت Aspose.CAD لجافا من مستودع Maven](/cad/java/installation/)
+- [تثبيت Aspose.CAD لجافا من مستودع Maven](/cad/ar/java/installation/)
 - [دليل مرجع API لـ Aspose.CAD لجافا](https://reference.aspose.com/cad/java)
 - [تنزيل أمثلة من مستودع GitHub](https://github.com/aspose-cad/Aspose.CAD-for-Java)
 - [منتدى دعم Aspose.CAD لجافا المجاني](https://forum.aspose.com/c/cad/19)

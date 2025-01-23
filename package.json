@@ -9,6 +9,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "hugo-extended": "^0.141.0"
+    "autoprefixer": "^10.4.20",
+    "express": "^4.21.2",
+    "hugo-extended": "^0.141.0",
+    "postcss": "^8.5.1",
+    "postcss-cli": "^11.0.0"
   }
 }
