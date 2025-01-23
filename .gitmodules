@@ -5,3 +5,7 @@
 [submodule "lutsk-aspose-prototype"]
 	path = lutsk-aspose-prototype
 	url = https://git.dev.dynabic.com/containerize-hugo/lutsk-aspose-prototype.git
+[submodule "deployment"]
+	path = deployment
+	url = https://git.saltov.dynabic.com/kharkovgroup/cad/deployment.git
+	branch = docs.aspose.com

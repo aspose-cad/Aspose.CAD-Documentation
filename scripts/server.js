@@ -5,7 +5,7 @@ const app = express();
 const PORT = 1313;
 
 // Serve static files from the "public" directory
-app.use('/cad', express.static(path.join(__dirname, 'public')));
+app.use('/cad', express.static(path.join(__dirname, '../public')));
 
 // Start the server
 app.listen(PORT, () => {
