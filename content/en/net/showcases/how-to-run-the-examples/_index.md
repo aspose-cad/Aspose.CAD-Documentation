@@ -2,7 +2,7 @@
 title: How to Run the Examples
 type: docs
 weight: 70
-url: /net/how-to-run-the-examples/
+url: /net/showcases/how-to-run-the-examples/
 ---
 
 ## **Software Requirements**

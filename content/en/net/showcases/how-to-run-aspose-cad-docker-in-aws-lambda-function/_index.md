@@ -3,7 +3,7 @@ title: How to Run Aspose.CAD Docker image in AWS Lambda Function
 type: docs
 description: "Run Aspose.CAD Docker image in AWS Lambda Function."
 weight: 74
-url: /net/how-to-run-aspose-cad-docker-image-in-aws-lambda-function
+url: /net/showcases/how-to-run-aspose-cad-docker-image-in-aws-lambda-function
 ---
 
 ## Prerequisites
