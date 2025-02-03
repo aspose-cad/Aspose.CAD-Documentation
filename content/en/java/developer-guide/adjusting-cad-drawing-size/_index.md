@@ -2,7 +2,7 @@
 title: Adjusting CAD Drawing Size
 type: docs
 weight: 10
-url: /java/adjusting-cad-drawing-size/
+url: /java/developer-guide/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

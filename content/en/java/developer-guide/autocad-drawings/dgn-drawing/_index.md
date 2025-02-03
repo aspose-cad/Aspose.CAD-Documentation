@@ -2,7 +2,7 @@
 title: DGN Drawing
 type: docs
 weight: 10
-url: /java/dgn-drawing/
+url: /java/developer-guide/autocad-drawings/dgn-drawing/
 ---
 
 ## **Drawing DGN Format As Part of DWG**

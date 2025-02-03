@@ -2,7 +2,7 @@
 title: Exporting CAD
 type: docs
 weight: 40
-url: /java/exporting-cad/
+url: /java/developer-guide/exporting-cad/
 ---
 
 ## **Export 3D AutoCAD Images to PDF**
