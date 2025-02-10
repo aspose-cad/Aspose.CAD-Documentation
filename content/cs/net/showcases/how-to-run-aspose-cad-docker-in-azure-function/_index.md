@@ -21,11 +21,11 @@ V tomto příkladu vytvoříte jednoduchou konverzní funkci, která převede so
 Pro vytvoření programu Azure Function postupujte podle následujících kroků:
 1. Jakmile je nainstalován Docker, ujistěte se, že používá kontejnery Linux (výchozí). Pokud je to nutné, vyberte možnost „Přepnout na kontejnery Linux“ z nabídky programu Docker Desktop.
 1. V programu Visual Studio vytvořte Azure Function pro NET 6.<br>
-![Dialogové okno pro vytvoření projektu Azure Function pro NET 6](Create-project.png)<br>
+![Dialogové okno pro vytvoření projektu Azure Function pro NET 6](/_assets/Create-project.png)<br>
 1. Další informace.<br>
-![Dialogové okno pro vytvoření projektu Azure Function pro NET 6](Additional-information.png)<br>
+![Dialogové okno pro vytvoření projektu Azure Function pro NET 6](/_assets/Additional-information.png)<br>
 1. Nainstalujte nejnovější verzi Aspose.CAD z NuGet.<br>
-![Aspose.CAD na NuGet](NuGet.png)<br>
+![Aspose.CAD na NuGet](/_assets/NuGet.png)<br>
 1. Protože aplikace bude spuštěna na Linuxu, může být nutné nainstalovat další písma. Můžete upřednostňovat například „ttf-mscorefonts-installer“.
 1. Jakmile jsou přidány všechny potřebné závislosti, napište jednoduchý program, který vytvoří elipsu a uloží ji jako obrázek:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 Dalším krokem je vytvoření a konfigurace souboru Dockerfile v kořenovém adresáři projektu.
 
 1. Vytvořte soubor Dockerfile a umístěte ho vedle souboru se řešením vaší aplikace. Uchovejte tento soubor bez přípony (výchozí).
-![Kořenový adresář projektu](root-folder.png)<br>
+![Kořenový adresář projektu](/_assets/root-folder.png)<br>
 1. Ve souboru Dockerfile určete:
 
 
@@ -134,31 +134,31 @@ docker push uzivatel/asposefunction:latest
 1. Přihlaste se do Azure.
 1. Vyberte služby služby Azure.
 1. Vyberte funkci App a vytvořte funkci.<br>
-![Tlačítko pro vytvoření funkce v Azure](create-function.png)<br>
+![Tlačítko pro vytvoření funkce v Azure](/_assets/create-function.png)<br>
 1. Zopakujte základní nastavení jako na následujícím obrázku.<br>
-![Nastavení vytvoření funkce v Azure](create-function-setting.png)<br>
+![Nastavení vytvoření funkce v Azure](/_assets/create-function-setting.png)<br>
 1. Klikněte na „Zkontrolovat + vytvořit“ -> Vytvořit.
 1. Počkejte na dokončení nasazení.
 1. Klikněte na tlačítko „Přejít na zdroj“.br>
-![Tlačítko Zdroj](go-to-resource.png)<br>
+![Tlačítko Zdroj](/_assets/go-to-resource.png)<br>
 1. Zastavte funkci aspose-cad-docker-example.<br>
-![Zastavit kontejner](stop-container.png)<br>
+![Zastavit kontejner](/_assets/stop-container.png)<br>
 1. Přejděte do nabídky centra nasazení a proveďte příslušná nastavení.<br>
-![Centrum nasazení](deployment-center.png)<br>
+![Centrum nasazení](/_assets/deployment-center.png)<br>
 1. Uložte nastavení
 1. Zkopírujte odkaz Webhooku ze nastavení centra nasazení.<br>
-![Odkaz Webhooku](webhook-url.png)<br>
+![Odkaz Webhooku](/_assets/webhook-url.png)<br>
 1. Přejděte na Docker Hub, vyberte váš repozitář a vyberte webové háčky.
 1. Vložte „Odkaz Webhook“ z Azure do odkazu webového háčku Docker Hub a nastavte jméno.<br>
-![Nastavení webového háčku v Dockeru](webhook.png)<br>
+![Nastavení webového háčku v Dockeru](/_assets/webhook.png)<br>
 1. Klikněte na tlačítko vytvořit.
 1. Vraťte se do přehledu Azure funkce a spusťte kontejner.<br>
-![Nabídka Přehled](overview.png)<br>
+![Nabídka Přehled](/_assets/overview.png)<br>
 
 ## Příklad spuštění
 
 1. Nastavení Postmanu.<br>
-![Nastavení Postmanu](postman-settings.png)<br>
+![Nastavení Postmanu](/_assets/postman-settings.png)<br>
 1. Vyberte libovolný soubor DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Klikněte na tlačítko odeslat.
 

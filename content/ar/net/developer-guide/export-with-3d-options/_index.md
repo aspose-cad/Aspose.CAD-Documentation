@@ -11,20 +11,20 @@ url: /ar/net/export-with-3d-options/
 
 إليك أمثلة على مشهد 3D من زوايا مختلفة:
 
-![Figures](fig1.png)
+![Figures](/_assets/fig1.png)
 
-![Figures from other points of view](fig2.png)
+![Figures from other points of view](/_assets/fig2.png)
 
 تسمح خاصية ObserverPoint بتدوير المشهد 3D وفقًا للزوايا المحددة حول المحور. يظهر هذا المثال الكود ونتيجة التصدير باستخدام بعض زوايا الدوران التعسفية.
 
 {{< gist aspose-com-gists 88cdd0899132edaf0afff77d33d11ae5 "ObserverPoint-property.cs">}}
 
 
-![Export with rotation](fig3.png)
+![Export with rotation](/_assets/fig3.png)
 
 تغيير ObserverAngle إلى ObserverPoint = new ObserverPoint(5, 60, 0) يسمح بتدوير المشهد.
 
-![Export with changed rotation](fig4.png)
+![Export with changed rotation](/_assets/fig4.png)
 
 تسمح خاصية RenderMode3D الأخرى بتحديد كيفية تقديم نتيجة التصدير. هناك 3 أوضاع: Solid (الافتراضي) ، Wireframe ، و SolidWithEdges.
 
@@ -32,9 +32,9 @@ url: /ar/net/export-with-3d-options/
 
 {{< gist aspose-com-gists 88cdd0899132edaf0afff77d33d11ae5 "RenderMode3D-property.cs">}}
 
-![Wireframe mode](fig5.png)
+![Wireframe mode](/_assets/fig5.png)
 
 يوضح المثال أدناه الفرق بين أوضاع Solid و SolidWithEdges.
 
-![Solid mode](fig6.png)
-![Solid with edge mode](fig7.png)
+![Solid mode](/_assets/fig6.png)
+![Solid with edge mode](/_assets/fig7.png)

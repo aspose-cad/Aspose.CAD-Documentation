@@ -282,6 +282,6 @@ Zum Beispiel:
 {{< /highlight >}}
 
 5. Starten Sie den Pythons-Server neu und öffnen Sie einen beliebigen Bericht zur Ansicht. Wenn die vorherigen Schritte ordnungsgemäß ausgeführt wurden, sehen Sie zusätzliche Optionen in der Liste der Exportformate.
-![todo:image_alt_text](ExportReportView.png)
+![todo:image_alt_text](/_assets/ExportReportView.png)
 
 Wenn Sie keine zusätzlichen Formate (Symbole oder Optionen) sehen, überprüfen Sie bitte die Protokolldateien im Verzeichnis \apache-tomcat\logs.

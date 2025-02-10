@@ -121,10 +121,10 @@ npm run serve
 ## Příklad provedení
 
 1. Vyberte soubor.<br>
-![Vyberte soubor](choose-file.png)<br>
+![Vyberte soubor](/_assets/choose-file.png)<br>
 1. Vyberte libovolný soubor DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Pokud je odpověď úspěšná, soubor bude zobrazen na obrazovce a nabídne možnost jeho stažení.<br>
-![Konvertovat obrázek](convert-image.png)<br>
+![Konvertovat obrázek](/_assets/convert-image.png)<br>
 ## Viz také
 
 - [Instalace Visual Studio](https://code.visualstudio.com/)

@@ -21,11 +21,11 @@ In diesem Beispiel erstellen Sie eine einfache konvertierende Funktion, die eine
 Um das Azure-Funktionsprogramm zu erstellen, folgen Sie den folgenden Schritten:
 1. Stellen Sie sicher, dass Docker installiert ist und Linux-Container (Standard) verwendet werden. Wenn nötig, wählen Sie die Option "Zu Linux-Containern wechseln" im Menü Docker Desktop.
 1. Erstellen Sie in Visual Studio eine NET 6 Azure-Funktion.<br>
-![Dialog für ein NET 6 Azure-Funktionsprojekt](Create-project.png)<br>
+![Dialog für ein NET 6 Azure-Funktionsprojekt](/_assets/Create-project.png)<br>
 1. Zusätzliche Informationen.<br>
-![Dialog für ein NET 6 Azure-Funktionsprojekt](Additional-information.png)<br>
+![Dialog für ein NET 6 Azure-Funktionsprojekt](/_assets/Additional-information.png)<br>
 1. Installieren Sie die neueste Aspose.CAD-Version von NuGet.<br>
-![Aspose.CAD auf NuGet](NuGet.png)<br>
+![Aspose.CAD auf NuGet](/_assets/NuGet.png)<br>
 1. Da die Anwendung auf Linux ausgeführt wird, müssen Sie möglicherweise zusätzliche Schriftarten installieren. Sie könnten den ttf-mscorefonts-installer bevorzugen.
 1. Wenn alle erforderlichen Abhängigkeiten hinzugefügt wurden, schreiben Sie ein einfaches Programm, das eine Ellipse erstellt und als Bild speichert:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
  Der nächste Schritt ist, das Dockerfile im Stammverzeichnis des Projekts zu erstellen und zu konfigurieren.
 
 1. Erstellen Sie das Dockerfile und platzieren Sie es neben der Lösungsdatei Ihrer Anwendung. Behalten Sie diesen Dateinamen ohne Erweiterung (Standard).
-![Stammprojektordner](root-folder.png)<br>
+![Stammprojektordner](/_assets/root-folder.png)<br>
 1. Geben Sie im Dockerfile Folgendes an:
 
 
@@ -134,31 +134,31 @@ docker push benutzer/asposefunction:latest
 1. Anmelden bei Azure.
 1. Wählen Sie Azure-Dienste aus.
 1. Wählen Sie App Function aus und erstellen Sie eine Funktion.<br>
-![Azure-Funktionstasten](create-function.png)<br>
+![Azure-Funktionstasten](/_assets/create-function.png)<br>
 1. Wiederholen Sie die Grundeinstellungen wie im Bild unten.<br>
-![Einstellungen zur Erstellung einer Azure-Funktion](create-function-setting.png)<br>
+![Einstellungen zur Erstellung einer Azure-Funktion](/_assets/create-function-setting.png)<br>
 1. Klicken Sie auf 'Überprüfen + erstellen' -> Erstellen.
 1. Warten Sie, bis die Bereitstellung abgeschlossen ist.
 1. Klicken Sie auf die Schaltfläche 'Gehe zu Ressource'.<br>
-![Ressourcenschaltfläche](go-to-resource.png)<br>
+![Ressourcenschaltfläche](/_assets/go-to-resource.png)<br>
 1. Stoppen Sie die Funktion aspose-cad-docker-example.<br>
-![Container stoppen](stop-container.png)<br>
+![Container stoppen](/_assets/stop-container.png)<br>
 1. Gehen Sie zum Menü Bereitstellungscenter und treffen Sie die entsprechenden Einstellungen.<br>
-![Bereitstellungszentrum](deployment-center.png)<br>
+![Bereitstellungszentrum](/_assets/deployment-center.png)<br>
 1. Einstellungen speichern
 1. Kopieren Sie die Webhook-URL aus den Einstellungen des Bereitstellungscenters.<br>
-![Webhook-URL](webhook-url.png)<br>
+![Webhook-URL](/_assets/webhook-url.png)<br>
 1. Gehen Sie zu Docker Hub, wählen Sie Ihr Repository aus und wählen Sie Webhooks.
 1. Fügen Sie die 'Webhook-URL' von Azure in die Webhook-URL von Docker Hub ein und geben Sie den Namen an.<br>
-![Webhook-Einstellungen in Docker](webhook.png)<br>
+![Webhook-Einstellungen in Docker](/_assets/webhook.png)<br>
 1. Klicken Sie auf die Schaltfläche Erstellen.
 1. Kehren Sie zur Übersicht der Azure-Funktion zurück und starten Sie den Container.<br>
-![Übersichtsmenü](overview.png)<br>
+![Übersichtsmenü](/_assets/overview.png)<br>
 
 ## Ausführungsbeispiel
 
 1. Postman-Einstellungen.<br>
-![Übersichtsmenü](postman-settings.png)<br>
+![Übersichtsmenü](/_assets/postman-settings.png)<br>
 1. Wählen Sie eine beliebige DXF-, DWG-, DGN-, DWF-, DWFX-, IFC-, STL-, DWT-, IGES-, PLT-, CF2-, OBJ-, HPGL-, IGS-, PCL-, FBX-, PDF-, SVG-Datei.
 1. Klicken Sie auf die Schaltfläche Senden.
 

@@ -21,11 +21,11 @@ url: /el/net/showcases/how-to-run-aspose-cad-docker-image-in-azure-function
 Για να δημιουργήσετε το πρόγραμμα Azure Function, ακολουθήστε τα παρακάτω βήματα:
 1. Αφού εγκαταστήσετε το Docker, βεβαιωθείτε ότι χρησιμοποιεί Linux Containers (προεπιλογή). Εάν είναι απαραίτητο, επιλέξτε την επιλογή Switch to Linux containers από το μενού της επιφάνειας εργασίας Docker.
 1. Στο Visual Studio, δημιουργήστε μια η Azure Function NET 6.<br>
-![Διάλογος έργου Azure Function NET 6](Create-project.png)<br>
+![Διάλογος έργου Azure Function NET 6](/_assets/Create-project.png)<br>
 1. Πρόσθετες πληροφορίες.<br>
-![Διάλογος έργου Azure Function NET 6](Additional-information.png)<br>
+![Διάλογος έργου Azure Function NET 6](/_assets/Additional-information.png)<br>
 1. Εγκαταστήστε την τελευταία έκδοση του Aspose.CAD από το NuGet.<br>
-![Aspose.CAD στο NuGet](NuGet.png)<br>
+![Aspose.CAD στο NuGet](/_assets/NuGet.png)<br>
 1. Δεδομένου ότι η εφαρμογή θα εκτελείται σε Linux, μπορεί να χρειαστεί να εγκαταστήσετε πρόσθετες γραμματοσειρές. Θα μπορούσατε να προτιμήσετε το ttf-mscorefonts-installer.
 1. Όταν προστεθούν όλες οι απαραίτητες εξαρτήσεις, γράψτε ένα απλό πρόγραμμα που δημιουργεί έναν ελλειπτικό και το αποθηκεύει ως εικόνα:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
  Το επόμενο βήμα είναι να δημιουργήσετε και να διαμορφώσετε το Dockerfile στον φάκελο ρίζας του έργου.
 
 1. Δημιουργήστε το Dockerfile και τοποθετήστε το δίπλα στο αρχείο λύσης της εφαρμογής σας. Διατηρήστε αυτό το όνομα αρχείου χωρίς κατάληξη (προεπιλογή).
-![Φάκελος ρίζας έργου](root-folder.png)<br>
+![Φάκελος ρίζας έργου](/_assets/root-folder.png)<br>
 1. Στο Dockerfile, καθορίστε:
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. Συνδεθείτε στο Azure.
 1. Επιλέξτε υπηρεσίες Azure.
 1. Επιλέξτε την Εφαρμογή Function και δημιουργήστε μια συνάρτηση.<br>
-![Κουμπί δημιουργίας λειτουργίας Azure](create-function.png)<br>
+![Κουμπί δημιουργίας λειτουργίας Azure](/_assets/create-function.png)<br>
 1. Επαναλάβετε τις βασικές ρυθμίσεις όπως στην παρακάτω εικόνα.<br>
-![Ρυθμίσεις δημιουργίας λειτουργίας Azure](create-function-setting.png)<br>
+![Ρυθμίσεις δημιουργίας λειτουργίας Azure](/_assets/create-function-setting.png)<br>
 1. Κάντε κλικ στο 'Ανασκόπηση + δημιουργία' -> Δημιουργία.
 1. Περιμένετε να ολοκληρωθεί η ανάπτυξη.
 1. Κάντε κλικ στο κουμπί 'Μετάβαση στο πόρο'.<br>
-![Κουμπί πόρου](go-to-resource.png)<br>
+![Κουμπί πόρου](/_assets/go-to-resource.png)<br>
 1. Σταματήστε τη λειτουργία aspose-cad-docker-example.<br>
-![Σταματήστε το δοχείο](stop-container.png)<br>
+![Σταματήστε το δοχείο](/_assets/stop-container.png)<br>
 1. Μεταβείτε στο μενού του κέντρου ανάπτυξης και κάντε τις κατάλληλες ρυθμίσεις.<br>
-![Κέντρο ανάπτυξης](deployment-center.png)<br>
+![Κέντρο ανάπτυξης](/_assets/deployment-center.png)<br>
 1. Αποθηκεύστε τις ρυθμίσεις
 1. Αντιγράψτε το URL Webhook από τις ρυθμίσεις του κέντρου ανάπτυξης.<br>
-![URL Webhook](webhook-url.png)<br>
+![URL Webhook](/_assets/webhook-url.png)<br>
 1. Μεταβείτε στο Docker Hub, επιλέξτε το αποθετήριο σας και επιλέξτε τα webhooks.
 1. Επικολλήστε το 'URL Webhook' από το Azure στο URL webhook του Docker Hub και καθορίστε το όνομά του.<br>
-![Ρυθμίσεις Webhook στο docker](webhook.png)<br>
+![Ρυθμίσεις Webhook στο docker](/_assets/webhook.png)<br>
 1. Κάντε κλικ στο κουμπί δημιουργίας.
 1. Επιστρέψτε στην επισκόπηση της azure function και ξεκινήστε το δοχείο.<br>
-![Μενού επισκόπησης](overview.png)<br>
+![Μενού επισκόπησης](/_assets/overview.png)<br>
 
 ## Παράδειγμα εκτέλεσης
 
 1. Ρυθμίσεις Postman.<br>
-![Μενού επισκόπησης](postman-settings.png)<br>
+![Μενού επισκόπησης](/_assets/postman-settings.png)<br>
 1. Επιλέξτε οποιοδήποτε από τα αρχεία DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Κάντε κλικ στο κουμπί αποστολής.
 

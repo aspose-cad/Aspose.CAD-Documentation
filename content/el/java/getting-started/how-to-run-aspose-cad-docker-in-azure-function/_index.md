@@ -21,14 +21,14 @@ url: /el/java/how-to-run-aspose-cad-docker-image-in-azure-function
 Για να δημιουργήσετε το πρόγραμμα Azure Function, ακολουθήστε τα παρακάτω βήματα:
 1. Αφού εγκαταστήσετε το Docker, βεβαιωθείτε ότι χρησιμοποιεί Linux Containers (προεπιλογή). Αν χρειαστεί, επιλέξτε την επιλογή Εναλλαγή σε Linux containers από το μενού του Docker Desktop.
 1. Δημιουργήστε έργο Azure Function στο IntelliJ IDEA.<br>
-![Create azure function project](create-function-ide-1.png)<br>
-![Create azure function project-final](create-function-ide-2.png)<br>
+![Create azure function project](/_assets/create-function-ide-1.png)<br>
+![Create azure function project-final](/_assets/create-function-ide-2.png)<br>
 1. Tools->Azure->Σύνδεση και επιλέξτε την αυθεντικοποίηση OAuth 2.0.<br>
-![Azure sign In](sign-in-azure.png)<br>
+![Azure sign In](/_assets/sign-in-azure.png)<br>
 1. Συνδεθείτε στο πρόγραμμα περιήγησης.
 1. Επιλέξτε το όνομα συνδρομής.
 1. Προσθέστε υποστήριξη docker.<br>
-![Azure sign In](add-docker-support.png)<br>
+![Azure sign In](/_assets/add-docker-support.png)<br>
 1. Επεξεργαστείτε το DockerFile όπως στην ενότητα <a href="#configuring-a-dockerfile">Διαμόρφωση ενός Dockerfile</a>.
 1. Προσθέστε μπλοκ για το αποθετήριο aspose.cad στο pom.xml.
 {{< highlight plain >}}
@@ -155,9 +155,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Εκτελέστε το dockerfile στο IDE και αφού στείλετε στο docker hub.<br>
-![Run docker in ide](docker-run-in-ide.png)<br>
+![Run docker in ide](/_assets/docker-run-in-ide.png)<br>
 1. Εισάγετε το όνομα της εικόνας, όπως στο αποθετήριο Docker HUb.<br>
-![Run docker in ide-next](docker-run-in-ide-1.png)<br>
+![Run docker in ide-next](/_assets/docker-run-in-ide-1.png)<br>
 1. Περιμένετε μέχρι να ολοκληρωθεί.
 
 ## Azure
@@ -165,26 +165,26 @@ docker push user/aspose-cad-java:latest
 1. Σύνδεση στο Azure.
 1. Επιλέξτε τις υπηρεσίες Azure.
 1. Επιλέξτε την εφαρμογή Function και δημιουργήστε μια συνάρτηση.<br>
-![Azure create function button](create-function-azure.png)<br>
+![Azure create function button](/_assets/create-function-azure.png)<br>
 1. Επαναλάβετε τις βασικές ρυθμίσεις όπως στην εικόνα παρακάτω.<br>
-![Azure create function settings](create-function-settings.png)<br>
+![Azure create function settings](/_assets/create-function-settings.png)<br>
 1. Κάντε κλικ στο 'Αξιολόγηση + Δημιουργία' -> Δημιουργία.
 1. Περιμένετε να ολοκληρωθεί η ανάπτυξη.
 1. Κάντε κλικ στο κουμπί 'Μετάβαση σε πόρο'.<br>
-![Resource button](go-to-resource.png)<br>
+![Resource button](/_assets/go-to-resource.png)<br>
 1. Σταματήστε τη συνάρτηση aspose-cad-docker-example.<br>
-![Stop conteiner](stop-container.png)<br>
+![Stop conteiner](/_assets/stop-container.png)<br>
 1. Μεταβείτε στο μενού του κέντρου ανάπτυξης και κάντε τις κατάλληλες ρυθμίσεις.<br>
-![Deployment center](deployment-center.png)<br>
+![Deployment center](/_assets/deployment-center.png)<br>
 1. Αποθηκεύστε τις ρυθμίσεις
 1. Αντιγράψτε το URL Webhook από τις ρυθμίσεις του κέντρου ανάπτυξης.<br>
-![Webhook url](webhook-url.png)<br>
+![Webhook url](/_assets/webhook-url.png)<br>
 1. Μεταβείτε στο Docker Hub, επιλέξτε το αποθετήριο σας και επιλέξτε webhooks.
 1. Επικολλήστε το 'URL Webhook' από το Azure στο URL webhook του Docker Hub και καθορίστε το όνομα.<br>
-![Webhook settings in docker](webhook.png)<br>
+![Webhook settings in docker](/_assets/webhook.png)<br>
 1. Κάντε κλικ στο κουμπί δημιουργίας.
 1. Επιστρέψτε στην επισκόπηση της συνάρτησης azure και ξεκινήστε το κοντέινερ.<br>
-![Overview menu](overview.png)<br>
+![Overview menu](/_assets/overview.png)<br>
 {{% alert color="primary" %}} 
 Μπορεί να χρειαστούν μερικά λεπτά για να ξεκινήσει η συνάρτηση.
 {{% /alert %}}
@@ -192,11 +192,11 @@ docker push user/aspose-cad-java:latest
 ## Παράδειγμα εκτέλεσης
 
 1. Ρυθμίσεις Postman.<br>
-![Overview menu](postman-settings.png)<br>
+![Overview menu](/_assets/postman-settings.png)<br>
 1. Επιλέξτε οποιοδήποτε αρχείο DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Κάντε κλικ στο κουμπί αποστολής.
 1. Αποθηκεύστε το αποτέλεσμα
-![Save responce](response-postman.png)<br>
+![Save responce](/_assets/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Εάν η απάντηση είναι επιτυχής, κάντε κλικ στην Αποθήκευση σε αρχείο και θα λάβετε το μετατραπέν αρχείο σε μορφή png

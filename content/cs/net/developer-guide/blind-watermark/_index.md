@@ -20,9 +20,9 @@ Můžete použít text nebo obrázek pro slepý vodoznak, knihovna Apose.CAD pos
 Příklad vzhledu souboru s použitím textu pro slepý vodoznak.
 
 1. Soubor před přidáním textového slepého vodoznaku<br>
-![Vstupní obrázek](Tyrannosaurus.dxf_input.png)<br>
+![Vstupní obrázek](/_assets/Tyrannosaurus.dxf_input.png)<br>
 1. Výsledek po přidání textového slepého vodoznaku<br>
-![Vložený obrázek](Tyrannosaurus.dxf_embedded.png)
+![Vložený obrázek](/_assets/Tyrannosaurus.dxf_embedded.png)
 
 ## **Použití jiného obrázku jako slepého vodoznaku**
 
@@ -35,6 +35,6 @@ Příklad vzhledu souboru s použitím textu pro slepý vodoznak.
 Příklad zobrazení souboru s použitím jiného obrázku k přidání slepého vodoznaku.
 
 1. Soubor před přidáním obrázku jako slepého vodoznaku<br>
-![Vstupní obrázek](robot_handling_cell.dwg_input.png)<br>
+![Vstupní obrázek](/_assets/robot_handling_cell.dwg_input.png)<br>
 1. Výsledek po přidání obrázku jako slepého vodoznaku<br>
-![Vložený obrázek](robot_handling_cell.dwg_embedded.png)
+![Vložený obrázek](/_assets/robot_handling_cell.dwg_embedded.png)

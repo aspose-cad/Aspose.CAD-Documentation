@@ -13,7 +13,7 @@ Sie können Aspose.CAD für Python problemlos von der [Download-Seite](https://d
 
 Die Evaluierungsversion von Aspose.CAD für Python (ohne angegebene Lizenz) bietet die Funktionalität des Produkts bis zu einem gewissen Grad, jedoch nicht vollständig. Eine Einschränkung besteht darin, dass immer das Evaluierungs-Wasserzeichen auf Ausgabedateien eingefügt wird.
 
-![Aspose.CAD für Python Exportbeispiel](AreaChartReport.jpg)
+![Aspose.CAD für Python Exportbeispiel](/_assets/AreaChartReport.jpg)
 
 **Abbildung:** Evaluierungswarnung
 

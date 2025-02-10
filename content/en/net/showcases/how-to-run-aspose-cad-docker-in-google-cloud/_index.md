@@ -120,11 +120,11 @@ dotnet run
 1. Log in Google Cloud.
 1. Create a project if it doesn't exist.
 1. Go to 'Artifact Registry' and create a repository.<br>
-![Create Artifact Repository](create-artifact-repository.png)<br>
+![Create Artifact Repository](/_assets/create-artifact-repository.png)<br>
 1. Select new repository in Artifact Registry.
-![Select artifact repository](select-artifact.png)<br>
+![Select artifact repository](/_assets/select-artifact.png)<br>
 1. Click 'SETUP INSTRUCTION' and copy 'Configure Docker' command.<br>
-![SETUP INSTRUCTION](setup-instruction.png)<br>
+![SETUP INSTRUCTION](/_assets/setup-instruction.png)<br>
 1. Add a Docker credHelper entry to Docker's configuration file, or creates the file if it doesn't exist.
 {{< highlight plain >}}
 //example
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Go to Cloud Run.
 1. Create Cloud Run service.<br>
-![Create Cloud Run service](create-cloud-run-service.png)<br>
+![Create Cloud Run service](/_assets/create-cloud-run-service.png)<br>
 1. In the Container Image URL field, select the container from'ARTIFACT REGISTRY'.<br>
-![Container Image URL](container-url.png)<br>
+![Container Image URL](/_assets/container-url.png)<br>
 1. Сheck other settings as below.<br>
-![Settings service](cloud-run-service-settings.png)<br>
+![Settings service](/_assets/cloud-run-service-settings.png)<br>
 1. Wait for the deployment to finish.
 1. Service URL to work with the conversion application.<br>
-![Url service](url-service.png)<br>
+![Url service](/_assets/url-service.png)<br>
 
 ### Configuring a Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Execution example
 
 1. Postman settings.<br>
-![Overview menu](postman-settings.png)<br>
+![Overview menu](/_assets/postman-settings.png)<br>
 1. Select any DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG file.
 1. Click the send button.
 

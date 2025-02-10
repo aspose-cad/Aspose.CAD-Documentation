@@ -23,9 +23,9 @@ Um Ihre 3D-Zeichnung in PDF-3D zu konvertieren, müssen Sie den Code aus dem Bei
 
 Ein Beispiel für das Aussehen einer PDF-Datei mit 3D-Inhalt sowie eine Demonstration von Rotation und Skalierung.
 
-![PDF-3D](result.png)
-![Änderung der Drehung](rotate.png)
-![Skalierung](scaling.png)
+![PDF-3D](/_assets/result.png)
+![Änderung der Drehung](/_assets/rotate.png)
+![Skalierung](/_assets/scaling.png)
 
 ## **Aspose.CAD für .NET-Ressourcen**
 

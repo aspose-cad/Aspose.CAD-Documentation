@@ -50,7 +50,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 **Aspose.CAD for Java**
 
-![Aspose.CAD for Java Product Logo](_assets/home_2.png)
+![Aspose.CAD for Java Product Logo](/_assets/_assets/home_2.png)
 
 Aspose.CAD for Java is a cross-platform library, compatible with Java version 1.6 and above, with rich set of features and abilities described above. It is available through direct download and as a Maven package.
 
@@ -77,7 +77,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 **Aspose.CAD for JasperReports**
 
-![Aspose.CAD for JasperReports Product Logo](_assets/home_3.png)
+![Aspose.CAD for JasperReports Product Logo](/_assets/_assets/home_3.png)
 
 Aspose.CAD for JasperReports is a library, compatible with JasperReports version 6.3 and above, with rich set of features and abilities described above. It is available through direct download and as a Maven package.
 
@@ -100,7 +100,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 **Aspose.CAD for Python**
 
-![Aspose.CAD for Python Product Logo](_assets/home_4.png)
+![Aspose.CAD for Python Product Logo](/_assets/_assets/home_4.png)
 
 Aspose.CAD for Python is a cross-platform library, compatible with Python 3.x, with rich set of features and abilities described above. It is available through direct download and as a PyPi package.
 
@@ -124,7 +124,7 @@ Following are the links to some useful resources you may need to accomplish your
 
 ## **Aspose.CAD for JavaScript**
 
-![Aspose.CAD for JavaScript Product Logo](_assets/home_5.png)
+![Aspose.CAD for JavaScript Product Logo](/_assets/_assets/home_5.png)
 
 Aspose.CAD for JavaScript is an CAD conversion native API without any software dependencies. It allows developers the conversion of DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to raster image formats and PDF.
 During the conversion process, developers can choose and convert specific layers and layouts as well as keep track of the file conversion process.

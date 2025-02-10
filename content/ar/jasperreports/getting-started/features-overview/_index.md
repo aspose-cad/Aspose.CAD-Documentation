@@ -7,7 +7,7 @@ url: /ar/jasperreports/features-overview/
 
 {{% alert color="primary" %}}
 
-![شعار Aspose.CAD لجاسبر ريبورتس](logo128.png)
+![شعار Aspose.CAD لجاسبر ريبورتس](/_assets/logo128.png)
 
 Aspose.CAD لجاسبر ريبورتس هو الحل الوحيد في السوق الذي يجعل من الممكن تصدير التقارير من JasperReports إلى تنسيقات ملفات الصور المتجهة والنقطية المختلفة مثل PDF، WMF، SVG، EMF، BMP، GIF، JPG، JPEG، DICOM، WEBP، JP2، JPEG2000، PNG، TIFF، PSD والتعامل مع تنسيقات ملفات CAD و BIM المختلفة: DWG، DXF، DWT، DGN، DWF، DWFX، IFC، STL، IGES، PLT، CF2، OBJ، HPGL، IGS
 

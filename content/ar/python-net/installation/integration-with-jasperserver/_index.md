@@ -281,6 +281,6 @@ url: /ar/python-net/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. أعد تشغيل خادم Pythons وافتح أي تقرير لعرضه. إذا تم تنفيذ الخطوات السابقة بشكل صحيح، سترى خيارات إضافية في قائمة تنسيقات التصدير.
-![todo:image_alt_text](ExportReportView.png)
+![todo:image_alt_text](/_assets/ExportReportView.png)
 
 إذا لم تر خيارات إضافية (رموز أو خيارات)، يرجى التحقق من ملفات السجل في مجلد \apache-tomcat\logs.

@@ -120,11 +120,11 @@ dotnet run
 1. تسجيل الدخول إلى Google Cloud.
 1. إنشاء مشروع إذا لم يكن موجودًا.
 1. الذهاب إلى "Artifact Registry" وإنشاء مستودع.<br>
-![إنشاء مستودع Artifact](create-artifact-repository.png)<br>
+![إنشاء مستودع Artifact](/_assets/create-artifact-repository.png)<br>
 1. حدد مستودع جديد في Artifact Registry.
-![حدد مستودع artifact](select-artifact.png)<br>
+![حدد مستودع artifact](/_assets/select-artifact.png)<br>
 1. اضغط على 'SETUP INSTRUCTION' ونسخ الأمر 'Configure Docker'.<br>
-![SETUP INSTRUCTION](setup-instruction.png)<br>
+![SETUP INSTRUCTION](/_assets/setup-instruction.png)<br>
 1. أضف إدخال credHelper لـ Docker إلى ملف إعدادات Docker، أو أنشئ الملف إذا لم يكن موجودًا.
 {{< highlight plain >}}
 //مثال
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. انتقل إلى Cloud Run.
 1. إنشاء خدمة Cloud Run.<br>
-![إنشاء خدمة Cloud Run](create-cloud-run-service.png)<br>
+![إنشاء خدمة Cloud Run](/_assets/create-cloud-run-service.png)<br>
 1. في حقل عنوان URL لصورة الحاوية، حدد الحاوية من 'ARTIFACT REGISTRY'.<br>
-![عنوان URL لصورة الحاوية](container-url.png)<br>
+![عنوان URL لصورة الحاوية](/_assets/container-url.png)<br>
 1. تحقق من الإعدادات الأخرى كما هو موضح أدناه.<br>
-![إعدادات الخدمة](cloud-run-service-settings.png)<br>
+![إعدادات الخدمة](/_assets/cloud-run-service-settings.png)<br>
 1. انتظر حتى تنتهي عملية النشر.
 1. عنوان URL للخدمة للعمل مع تطبيق التحويل.<br>
-![عنوان الخدمة](url-service.png)<br>
+![عنوان الخدمة](/_assets/url-service.png)<br>
 
 ### تكوين Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## مثال على التنفيذ
 
 1. إعدادات Postman.<br>
-![قائمة نظرة عامة](postman-settings.png)<br>
+![قائمة نظرة عامة](/_assets/postman-settings.png)<br>
 1. اختر أي ملف DXF، DWG، DGN، DWF، DWFX، IFC، STL، DWT، IGES، PLT، CF2، OBJ، HPGL، IGS، PCL، FBX، PDF، SVG.
 1. اضغط على زر الإرسال.
 

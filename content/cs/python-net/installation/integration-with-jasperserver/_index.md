@@ -51,6 +51,6 @@ Například:
 {{< /highlight >}}
 
 5. Restartujte server Pythons a otevřete libovolnou zprávu k zobrazení. Pokud byly předchozí kroky provedeny správně, uvidíte další možnosti ve výběru formátů exportu.
-![todo:image_alt_text](ExportReportView.png)
+![todo:image_alt_text](/_assets/ExportReportView.png)
 
 Pokud nevidíte další formáty (ikony nebo možnosti), zkontrolujte logovací soubory ve složce \apache-tomcat\logs.

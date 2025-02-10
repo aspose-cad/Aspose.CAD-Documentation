@@ -20,9 +20,9 @@ url: /el/net/blind-watermark
 Ένα παράδειγμα εμφάνισης ενός αρχείου που χρησιμοποιεί κείμενο για ένα τυφλό υδατογράφημα.
 
 1. Το αρχείο πριν από την προσθήκη του τυφλού υδατογραφήματος κειμένου<br>
-![Input image](Tyrannosaurus.dxf_input.png)<br>
+![Input image](/_assets/Tyrannosaurus.dxf_input.png)<br>
 1. Το αποτέλεσμα μετά την προσθήκη του τυφλού υδατογραφήματος κειμένου<br>
-![Embedded image](Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/_assets/Tyrannosaurus.dxf_embedded.png)
 
 ## **Χρήση άλλης εικόνας ως τυφλού υδατογραφήματος**
 
@@ -35,6 +35,6 @@ url: /el/net/blind-watermark
 Ένα παράδειγμα εμφάνισης ενός αρχείου που χρησιμοποιεί άλλη εικόνα για να προσθέσει ένα τυφλό υδατογράφημα.
 
 1. Το αρχείο πριν από την προσθήκη της εικόνας ως τυφλό υδατογράφημα<br>
-![Input image](robot_handling_cell.dwg_input.png)<br>
+![Input image](/_assets/robot_handling_cell.dwg_input.png)<br>
 1. Το αποτέλεσμα μετά την προσθήκη της εικόνας ως τυφλό υδατογράφημα<br>
-![Embedded image](robot_handling_cell.dwg_embedded.png)
+![Embedded image](/_assets/robot_handling_cell.dwg_embedded.png)

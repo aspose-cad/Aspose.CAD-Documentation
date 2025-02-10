@@ -88,10 +88,10 @@ npm run serve
 ## Ausführungsbeispiel
 
 1. Datei auswählen.<br>
-![Datei auswählen](choose-file.png)<br>
+![Datei auswählen](/_assets/choose-file.png)<br>
 1. Wählen Sie eine beliebige DXF-, DWG-, DGN-, DWF-, DWFX-, IFC-, STL-, DWT-, IGES-, PLT-, CF2-, OBJ-, HPGL-, IGS-, PCL-, FBX-, PDF-, SVG-Datei aus.
 1. Wenn die Antwort erfolgreich ist, wird die Datei auf dem Bildschirm angezeigt und es wird angeboten, sie herunterzuladen.<br>
-![Bild konvertieren](convert-image.png)<br>
+![Bild konvertieren](/_assets/convert-image.png)<br>
 
 ## Siehe auch
 

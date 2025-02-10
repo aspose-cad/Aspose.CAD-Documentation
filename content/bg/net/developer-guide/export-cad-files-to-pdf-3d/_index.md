@@ -23,9 +23,9 @@ Aspose.CAD ви позволява да създавате PDF файлове с
 
 Пример за вида на PDF файл с 3D съдържание, както и демонстрация на ротация и мащабиране.
 
-![PDF-3D](result.png)
-![Променена ротация](rotate.png)
-![Мащабиране](scaling.png)
+![PDF-3D](/_assets/result.png)
+![Променена ротация](/_assets/rotate.png)
+![Мащабиране](/_assets/scaling.png)
 
 ## **Aspose.CAD за .NET Ресурси**
 

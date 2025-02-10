@@ -282,6 +282,6 @@ url: /el/python-net/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. Επανεκκινήστε τον Pythons Server και ανοίξτε οποιαδήποτε αναφορά για να δείτε. Εάν τα προηγούμενα βήματα πραγματοποιηθούν σωστά, θα δείτε επιπλέον επιλογές στη λίστα μορφών εξαγωγής.
-![todo:image_alt_text](ExportReportView.png)
+![todo:image_alt_text](/_assets/ExportReportView.png)
 
 Εάν δεν βλέπετε επιπλέον μορφές (εικόνες ή επιλογές), παρακαλώ ελέγξτε τα αρχεία καταγραφής στον κατάλογο \apache-tomcat\logs.

@@ -21,14 +21,14 @@ url: /ar/java/how-to-run-aspose-cad-docker-image-in-azure-function
 لإنشاء برنامج Azure Function، اتبع الخطوات أدناه:
 1. بمجرد تثبيت Docker، تأكد من أنه يستخدم حاويات Linux (الإعداد الافتراضي). إذا لزم الأمر، اختر خيار التبديل إلى حاويات Linux من قائمة Docker Desktops.
 1. أنشئ مشروع Azure Function في IntelliJ IDEA.<br>
-![إنشاء مشروع Azure Function](create-function-ide-1.png)<br>
-![إنشاء مشروع Azure Function - نهائي](create-function-ide-2.png)<br>
+![إنشاء مشروع Azure Function](/_assets/create-function-ide-1.png)<br>
+![إنشاء مشروع Azure Function - نهائي](/_assets/create-function-ide-2.png)<br>
 1. أدوات->Azure->تسجيل الدخول وحدد مصادقة OAuth 2.0.<br>
-![تسجيل دخول Azure](sign-in-azure.png)<br>
+![تسجيل دخول Azure](/_assets/sign-in-azure.png)<br>
 1. تسجيل الدخول عبر المتصفح.
 1. اختر اسم الاشتراك.
 1. أضف دعم Docker.<br>
-![تسجيل دخول Azure](add-docker-support.png)<br>
+![تسجيل دخول Azure](/_assets/add-docker-support.png)<br>
 1. قم بتحرير DockerFile كما هو في قسم <a href="#configuring-a-dockerfile">تكوين Dockerfile</a>.
 1. أضف كتل للمستودع aspose.cad في pom.xml.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. قم بتشغيل Dockerfile في IDE وبعد دفعه إلى Docker Hub.<br>
-![تشغيل Docker في IDE](docker-run-in-ide.png)<br>
+![تشغيل Docker في IDE](/_assets/docker-run-in-ide.png)<br>
 1. أدخل اسم الصورة، كما هو الحال في مستودع Docker Hub.<br>
-![تشغيل Docker في IDE - التالي](docker-run-in-ide-1.png)<br>
+![تشغيل Docker في IDE - التالي](/_assets/docker-run-in-ide-1.png)<br>
 1. انتظر حتى النهاية.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push user/aspose-cad-java:latest
 1. تسجيل دخول إلى Azure.
 1. اختر خدمات Azure.
 1. اختر Function App وأنشئ دالة.<br>
-![زر إنشاء دالة Azure](create-function-azure.png)<br>
+![زر إنشاء دالة Azure](/_assets/create-function-azure.png)<br>
 1. قم بتكرار الإعدادات الأساسية كما هو موضح في الصورة أدناه.<br>
-![إعدادات إنشاء دالة Azure](create-function-settings.png)<br>
+![إعدادات إنشاء دالة Azure](/_assets/create-function-settings.png)<br>
 1. انقر على 'مراجعة + إنشاء' -> إنشاء.
 1. انتظر حتى تكتمل عملية النشر.
 1. انقر على زر 'انتقل إلى المورد'.<br>
-![زر المورد](go-to-resource.png)<br>
+![زر المورد](/_assets/go-to-resource.png)<br>
 1. أوقف وظيفة aspose-cad-docker-example.<br>
-![إيقاف الحاوية](stop-container.png)<br>
+![إيقاف الحاوية](/_assets/stop-container.png)<br>
 1. انتقل إلى قائمة مركز النشر وقم بإجراء الإعدادات المناسبة.<br>
-![مركز النشر](deployment-center.png)<br>
+![مركز النشر](/_assets/deployment-center.png)<br>
 1. احفظ الإعدادات
 1. انسخ عنوان URL للWebhook من إعدادات مركز النشر.<br>
-![عنوان URL للWebhook](webhook-url.png)<br>
+![عنوان URL للWebhook](/_assets/webhook-url.png)<br>
 1. اذهب إلى Docker Hub، واختر المستودع الخاص بك واختر webhooks.
 1. ألصق 'عنوان URL للWebhook' من Azure في عنوان URL للWebhook في Docker Hub وحدد الاسم.<br>
-![إعدادات Webhook في Docker](webhook.png)<br>
+![إعدادات Webhook في Docker](/_assets/webhook.png)<br>
 1. انقر على زر الإنشاء.
 1. عد إلى نظرة عامة على وظيفة Azure وابدأ الحاوية.<br>
-![قائمة النظرة العامة](overview.png)<br>
+![قائمة النظرة العامة](/_assets/overview.png)<br>
 {{% alert color="primary" %}} 
 قد يستغرق بدء الوظيفة بضع دقائق.
 {{% /alert %}}
@@ -193,11 +193,11 @@ docker push user/aspose-cad-java:latest
 ## مثال على التنفيذ
 
 1. إعدادات Postman.<br>
-![إعدادات النظرة العامة](postman-settings.png)<br>
+![إعدادات النظرة العامة](/_assets/postman-settings.png)<br>
 1. اختر أي ملف DXF، DWG، DGN، DWF، DWFX، IFC، STL، DWT، IGES، PLT، CF2، OBJ، HPGL، IGS، PCL، FBX، PDF، SVG.
 1. انقر على زر الإرسال.
 1. احفظ النتيجة
-![احفظ الاستجابة](response-postman.png)<br>
+![احفظ الاستجابة](/_assets/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 إذا كانت الاستجابة ناجحة، انقر على حفظ كملف وستتلقى الملف المحول بصيغة PNG

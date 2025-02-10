@@ -11,19 +11,19 @@ url: /el/java/export-with-3d-options/
 
 Ακολουθούν παραδείγματα της 3D σκηνής από διαφορετικές οπτικές γωνίες:
 
-![Σχέδια](fig1.png)
+![Σχέδια](/_assets/fig1.png)
 
-![Σχέδια από άλλες οπτικές γωνίες](fig2.png)
+![Σχέδια από άλλες οπτικές γωνίες](/_assets/fig2.png)
 
 Η ιδιότητα ObserverPoint επιτρέπει την περιστροφή της 3D σκηνής σύμφωνα με τις καθορισμένες γωνίες γύρω από τον άξονα. Αυτό το παράδειγμα δείχνει τον κώδικα και το αποτέλεσμα εξαγωγής χρησιμοποιώντας κάποιες αυθαίρετες γωνίες περιστροφής.
 
 {{< gist aspose-com-gists 49c1b75d9a84e149ecf374ece2c2597d "ObserverPoint-property.java">}}
 
-![Εξαγωγή με περιστροφή](fig3.png)
+![Εξαγωγή με περιστροφή](/_assets/fig3.png)
 
 Αλλάζοντας την ObserverAngle σε ObserverPoint = new ObserverPoint(5, 60, 0) επιτρέπει την περιστροφή της σκηνής.
 
-![Εξαγωγή με αλλαγμένη περιστροφή](fig4.png)
+![Εξαγωγή με αλλαγμένη περιστροφή](/_assets/fig4.png)
 
 Η άλλη ιδιότητα RenderMode3D επιτρέπει να καθορίσουμε πώς θα πρέπει να παρουσιαστεί το αποτέλεσμα εξαγωγής. Υπάρχουν 3 τρόποι: Solid (η προεπιλογή), Wireframe, και SolidWithEdges.
 
@@ -31,9 +31,9 @@ url: /el/java/export-with-3d-options/
 
 {{< gist aspose-com-gists 49c1b75d9a84e149ecf374ece2c2597d "RenderMode3D-property.java">}}
 
-![Τρόπος Wireframe](fig5.png)
+![Τρόπος Wireframe](/_assets/fig5.png)
 
 Το παρακάτω παράδειγμα δείχνει τη διαφορά μεταξύ των τρόπων Solid και SolidWithEdges.
 
-![Τρόπος Solid](fig6.png)
-![Τρόπος Solid με άκρη](fig7.png)
+![Τρόπος Solid](/_assets/fig6.png)
+![Τρόπος Solid με άκρη](/_assets/fig7.png)

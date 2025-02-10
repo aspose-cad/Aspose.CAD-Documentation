@@ -15,7 +15,7 @@ Bestimmte Entitäten speichern ihre Strukturdaten im ACIS SAT/SAB-Format. Diese 
 
 Im Folgenden finden Sie ein Beispiel für das Exportergebnis (DWG-Datei auf dem linken Teil, PDF-Ergebnis auf der rechten Seite).
 
-![Export von Kegel und Kugeln](coneAndSpheres.png)
+![Export von Kegel und Kugeln](/_assets/coneAndSpheres.png)
 
 Die Exportierung von ACIS-Entitäten erfordert keine speziellen Optionen. Um die Zeichnungsgröße zu optimieren, insbesondere wenn die Zeichnung ausschließlich ACIS-Entitäten enthält, sollten Sie die Funktion cadImage.updateSize() verwenden, um die anfänglichen Zeichnungsabmessungen genau anzupassen.
 

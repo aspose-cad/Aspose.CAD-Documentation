@@ -19,6 +19,6 @@ Sie können den Maßstab der Linien in der SVG-Datei steuern. Die Aspose.CAD-Bib
 
 ## Eine Datei mit linearer Skalierung
 1. Die Datei, wenn der Parameter LineScale auf 0,25 festgelegt ist.<br>
-![Eingabebild](line_scale_0.25.png)<br>
+![Eingabebild](/_assets/line_scale_0.25.png)<br>
 1. Datei, wenn Sie keine Linien Skalierung verwenden.<br>
-![Eingabebild](basic_options.png)<br>
+![Eingabebild](/_assets/basic_options.png)<br>

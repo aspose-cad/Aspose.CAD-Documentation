@@ -120,11 +120,11 @@ dotnet run
 1. Συνδεθείτε στο Google Cloud.
 1. Δημιουργήστε ένα έργο αν δεν υπάρχει.
 1. Μεταβείτε στο 'Artifact Registry' και δημιουργήστε ένα αποθετήριο.<br>
-![Δημιουργία Αποθετηρίου Artifact](create-artifact-repository.png)<br>
+![Δημιουργία Αποθετηρίου Artifact](/_assets/create-artifact-repository.png)<br>
 1. Επιλέξτε το νέο αποθετήριο στο Artifact Registry.
-![Επιλέξτε αποθετήριο artifact](select-artifact.png)<br>
+![Επιλέξτε αποθετήριο artifact](/_assets/select-artifact.png)<br>
 1. Κάντε κλικ στο 'SETUP INSTRUCTION' και αντιγράψτε την εντολή 'Configure Docker'.<br>
-![ΟΔΗΓΙΕΣ ΡΥΘΜΙΣΗΣ](setup-instruction.png)<br>
+![ΟΔΗΓΙΕΣ ΡΥΘΜΙΣΗΣ](/_assets/setup-instruction.png)<br>
 1. Προσθέστε μια εγγραφή Docker credHelper στο αρχείο ρύθμισης Docker ή δημιουργήστε το αρχείο αν δεν υπάρχει.
 {{< highlight plain >}}
 //παράδειγμα
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Μεταβείτε στο Cloud Run.
 1. Δημιουργήστε υπηρεσία Cloud Run.<br>
-![Δημιουργία υπηρεσίας Cloud Run](create-cloud-run-service.png)<br>
+![Δημιουργία υπηρεσίας Cloud Run](/_assets/create-cloud-run-service.png)<br>
 1. Στο πεδίο URL εικόνας κοντέινερ, επιλέξτε την κοντέινερ από 'ARTIFACT REGISTRY'.<br>
-![URL Εικόνας Κοντέινερ](container-url.png)<br>
+![URL Εικόνας Κοντέινερ](/_assets/container-url.png)<br>
 1. Ελέγξτε άλλες ρυθμίσεις όπως παρακάτω.<br>
-![Ρυθμίσεις υπηρεσίας](cloud-run-service-settings.png)<br>
+![Ρυθμίσεις υπηρεσίας](/_assets/cloud-run-service-settings.png)<br>
 1. Περιμένετε να ολοκληρωθεί η ανάπτυξη.
 1. URL υπηρεσίας για να δουλέψετε με την εφαρμογή μετατροπής.<br>
-![URL υπηρεσίας](url-service.png)<br>
+![URL υπηρεσίας](/_assets/url-service.png)<br>
 
 ### Ρύθμιση του Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Παράδειγμα εκτέλεσης
 
 1. Ρυθμίσεις Postman.<br>
-![Μενού επισκόπησης](postman-settings.png)<br>
+![Μενού επισκόπησης](/_assets/postman-settings.png)<br>
 1. Επιλέξτε οποιοδήποτε αρχείο DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Κάντε κλικ στο κουμπί αποστολής.
 

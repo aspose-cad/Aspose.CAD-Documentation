@@ -13,7 +13,7 @@ Můžete snadno stáhnout Aspose.CAD pro Python k ohodnocení ze [stažení str�
 
 Hodnotící verze Aspose.CAD pro Python (bez určené licence) poskytuje funkčnost produktu do jisté míry, i když není úplná. Jedním omezením je, že vždy vkládá hodnotící vodoznak do výstupních souborů.
 
-![Ukázka exportu Aspose.CAD pro Python](AreaChartReport.jpg)
+![Ukázka exportu Aspose.CAD pro Python](/_assets/AreaChartReport.jpg)
 
 **Obrázek:** Varování k hodnocení
 

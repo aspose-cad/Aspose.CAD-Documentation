@@ -94,10 +94,10 @@ npm start
 ## Пример за изпълнение
 
 1. Изберете файл.<br>
-![Choose file](choose-file.png)<br>
+![Choose file](/_assets/choose-file.png)<br>
 1. Изберете произволен файл DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Ако отговорът е успешен, файлът ще бъде показан на екрана и ще предложи да го изтеглите.<br>
-![Convert image](convert-image.png)<br>
+![Convert image](/_assets/convert-image.png)<br>
 
 ## Вижте също
 

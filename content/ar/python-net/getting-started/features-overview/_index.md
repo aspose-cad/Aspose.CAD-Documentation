@@ -7,7 +7,7 @@ url: /ar/python-net/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for Python Product Logo](logo128.png)
+![Aspose.CAD for Python Product Logo](/_assets/logo128.png)
 
 Aspose.CAD for Python هو الحل الوحيد في السوق الذي يجعل من الممكن تصدير التقارير من Python إلى تنسيقات ملفات الصور المتجهة والراستر المختلفة مثل PDF و WMF و SVG و EMF و BMP و GIF و JPG و JPEG و DICOM و WEBP و JP2 و JPEG2000 و PNG و TIFF و PSD والعمل مع تنسيقات ملفات CAD و BIM المختلفة: DWG و DXF و DWT و DGN و DWF و DWFX و IFC و STL و IGES و PLT و CF2 و OBJ و HPGL و IGS
 

@@ -10,7 +10,7 @@ url: /cs/
 
 **Vítejte u Aspose.CAD**
 
-![Aspose.CAD pro .NET produktové logo](home_1.png)
+![Aspose.CAD pro .NET produktové logo](/_assets/home_1.png)
 
 Aspose.CAD umožňuje vývojářům otevírat, číst a zpracovávat formáty souborů AutoCAD DWG, DXF, DWT a další CAD a BIM, jako jsou: DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS, DXB, STP, DAE, U3D, 3DS, CGM. Dokáže exportovat tyto soubory do různých vektorových (PDF, WMF, SVG, EMF) a rastrových obrazových formátů: BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD. Jedná se o nativní API, které nevyžaduje instalaci AutoCADu nebo jiného softwaru. Lze také konvertovat vybrané vrstvy a rozložení z souborů AutoCAD.
 Je možné sledovat a řídit průběh a kvalitu konverze výstupu. Každá operace podporuje zrušení a je připravena pro prostředí s více vlákny.
@@ -50,7 +50,7 @@ Následují odkazy na některé užitečné zdroje, které můžete potřebovat 
 
 **Aspose.CAD pro Java**
 
-![Aspose.CAD pro Java produktové logo](home_2.png)
+![Aspose.CAD pro Java produktové logo](/_assets/home_2.png)
 
 Aspose.CAD pro Java je knihovna kompatibilní s platformami Java verze 1.6 a vyšší, s bohatou sadou funkcí a schopností popsaných výše. Je dostupná ke stažení přímo nebo jako balíček Maven.
 
@@ -77,7 +77,7 @@ Následují odkazy na některé užitečné zdroje, které můžete potřebovat 
 
 **Aspose.CAD pro JasperReports**
 
-![Aspose.CAD pro JasperReports produktové logo](home_3.png)
+![Aspose.CAD pro JasperReports produktové logo](/_assets/home_3.png)
 
 Aspose.CAD pro JasperReports je knihovna kompatibilní s JasperReports verzí 6.3 a vyšší, s bohatou sadou funkcí a schopností popsaných výše. Je dostupná ke stažení přímo nebo jako balíček Maven.
 
@@ -100,7 +100,7 @@ Následují odkazy na některé užitečné zdroje, které můžete potřebovat 
 
 **Aspose.CAD pro Python**
 
-![Aspose.CAD pro Python produktové logo](home_5.png)
+![Aspose.CAD pro Python produktové logo](/_assets/home_5.png)
 
 Aspose.CAD pro Python je knihovna kompatibilní s platformami Python 3.x, s bohatou sadou funkcí a schopností popsaných výše. Je dostupná ke stažení přímo nebo jako balíček PyPi.
 
@@ -124,7 +124,7 @@ Následují odkazy na některé užitečné zdroje, které můžete potřebovat 
 
 ## **Aspose.CAD pro JavaScript**
 
-![Aspose.CAD pro JavaScript produktové logo](home_6.png)
+![Aspose.CAD pro JavaScript produktové logo](/_assets/home_6.png)
 
 Aspose.CAD pro JavaScript je nativní API pro konverzi CAD bez závislostí na softwaru. Umožňuje vývojářům konverzi souborů DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES (IGS), CF2, Collada (DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP do rastrových formátů obrazu a PDF.
 Během procesu konverze mohou vývojáři vybrat a konvertovat konkrétní vrstvy a rozložení a sledovat proces konverze souboru.

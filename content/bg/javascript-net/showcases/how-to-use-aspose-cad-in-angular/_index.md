@@ -122,10 +122,10 @@ ng serve
 ## Пример за изпълнение
 
 1. Изберете файл.<br>
-![Изберете файл](choose-file.png)<br>
+![Изберете файл](/_assets/choose-file.png)<br>
 1. Изберете всякакъв DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG файл.
 1. Ако отговорът е успешен, файлът ще бъде показан на екрана и ще предложи да го изтеглите.<br>
-![Конвертиране на изображение](convert-image.png)<br>
+![Конвертиране на изображение](/_assets/convert-image.png)<br>
 
 ## Вижте също
 

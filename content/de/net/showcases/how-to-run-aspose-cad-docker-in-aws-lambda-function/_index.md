@@ -25,16 +25,16 @@ Stellen Sie sicher, dass Sie über ausreichende Berechtigungen zum Erstellen von
 
 Um das AWS Lambda-Funktionsprogramm zu erstellen, befolgen Sie die folgenden Schritte:
 1. Erstellen Sie ein AWS Lambda-Projekt.<br>
-![AWS-Funktion erstellen](create-project.png)<br>
+![AWS-Funktion erstellen](/_assets/create-project.png)<br>
 1. Wählen Sie .NET 6 (Container-Image) aus und klicken Sie auf die Schaltfläche 'Fertigstellen'.<br>
-![Container-Funktion erstellen](create-container.png)<br>
+![Container-Funktion erstellen](/_assets/create-container.png)<br>
 1. Öffnen Sie AWS Explorer in Visual Studio (Ansicht->AWS Explorer).
 1. Fügen Sie ein AWS-Credentials-Profil im AWS Explorer hinzu.<br>
-![Anmeldeprofil](add-aws-credentials-profile.png)<br>
+![Anmeldeprofil](/_assets/add-aws-credentials-profile.png)<br>
 1. Geben Sie die Access Key ID und den Secret Access Key ein. Diese Schlüssel können Sie in den Sicherheitsanmeldeinformationen erhalten oder den Administrator kontaktieren, um eine CSV-Datei zur Autorisierung zu erhalten.<br>
-![Kontoprofileinstellungen](account-profile.png)<br>
+![Kontoprofileinstellungen](/_assets/account-profile.png)<br>
 1. Installieren Sie die neuesten Bibliotheken von NuGet.<br>
-![NuGet-Manager](nuget-manager.png)<br>
+![NuGet-Manager](/_assets/nuget-manager.png)<br>
 1. Beispielcode zum Konvertieren von CAD-Bildern in PDF-Dateien.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Bearbeiten Sie die Dockerfile wie im Abschnitt <a href="#configuring-a-dockerfile">Konfigurieren einer Dockerfile</a>.
 1. Starten Sie Docker Desktop.
 1. Veröffentlichen Sie die AWS Lambda.<br>
-![AWS Lambda veröffentlichen](publish-aws.png)<br>
+![AWS Lambda veröffentlichen](/_assets/publish-aws.png)<br>
 1. Bearbeiten Sie die Upload-Konfiguration.<br>
-![Upload AWS Lambda](upload-aws-lambda.png)<br>
+![Upload AWS Lambda](/_assets/upload-aws-lambda.png)<br>
 1. Klicken Sie auf die Schaltfläche 'Hochladen'.<br>
-![Upload AWS Lambda abschließen](upload-aws-lambda-finish.png)<br>
+![Upload AWS Lambda abschließen](/_assets/upload-aws-lambda-finish.png)<br>
 1. Gehen Sie zu AWS und wählen Sie Lambda aus.<br>
-![AWS Lambda](select-aws-lambda.png)<br>
+![AWS Lambda](/_assets/select-aws-lambda.png)<br>
 1. Wählen Sie Ihre neue Funktion aus und erstellen Sie eine URL-Funktion.<br>
-![Konfiguration URL-Funktion](create-function-url.png)<br>
+![Konfiguration URL-Funktion](/_assets/create-function-url.png)<br>
 1. Wählen Sie den Authentifizierungstyp aus
 - AWS_IAM - Nur authentifizierte IAM-Benutzer und -Rollen können Anfragen an Ihre Funktions-URL stellen.
 - NONE - Lambda führt keine IAM-Authentifizierung für Anfragen an die Funktion-URL durch. Der URL-Endpunkt wird öffentlich, es sei denn, Sie implementieren Ihre eigene Autorisierungslogik in Ihrer Funktion.
@@ -126,7 +126,7 @@ Das obige ist eine einfache Dockerfile, die die folgenden Anweisungen enthält:
 ## Ausführungsbeispiel
 
 1. Postman-Einstellungen.<br>
-![Kursübersicht](postman-settings.png)<br>
+![Kursübersicht](/_assets/postman-settings.png)<br>
 1. Wählen Sie eine beliebige DXF-, DWG-, DGN-, DWF-, DWFX-, IFC-, STL-, DWT-, IGES-, PLT-, CF2-, OBJ-, HPGL-, IGS-, PCL-, FBX-, PDF- oder SVG-Datei aus.
 1. Klicken Sie auf die Schaltfläche Senden.
 

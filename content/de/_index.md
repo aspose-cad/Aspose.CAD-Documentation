@@ -10,7 +10,7 @@ url: /de/
 
 **Willkommen bei Aspose.CAD**
 
-![Aspose.CAD für .NET Produktlogo](home_1.png)
+![Aspose.CAD für .NET Produktlogo](/_assets/home_1.png)
 
 Aspose.CAD ermöglicht Entwicklern das Öffnen, Lesen und Verarbeiten von AutoCAD DWG, DXF, DWT und anderen CAD- und BIM-Dateiformaten wie: DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS, DXB, STP, DAE, U3D, 3DS, CGM. Es kann diese Dateien in verschiedene Vektorformate (PDF, WMF, SVG, EMF) und Rasterbildformate exportieren: BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD. Es ist eine native API und erfordert kein AutoCAD oder eine andere Softwareinstallation. Sie können auch die ausgewählten Ebenen und Layouts aus den AutoCAD-Dateien konvertieren.
 Es ist möglich, den Konvertierungsfortschritt und die Qualität einer Ausgabe zu überwachen und zu steuern. Jeder Vorgang unterstützt Abbruch und ist für die Mehrfadenumgebung bereit.
@@ -50,7 +50,7 @@ Im Folgenden finden Sie Links zu einigen nützlichen Ressourcen, die Ihnen bei d
 
 **Aspose.CAD für Java**
 
-![Aspose.CAD für Java Produktlogo](home_2.png)
+![Aspose.CAD für Java Produktlogo](/_assets/home_2.png)
 
 Aspose.CAD für Java ist eine plattformübergreifende Bibliothek, kompatibel mit Java Version 1.6 und höher, mit einem umfangreichen Funktionsumfang und den oben beschriebenen Fähigkeiten. Es ist sowohl als Direktdownload als auch als Maven-Paket verfügbar.
 
@@ -77,7 +77,7 @@ Im Folgenden finden Sie Links zu einigen nützlichen Ressourcen, die Ihnen bei d
 
 **Aspose.CAD für JasperReports**
 
-![Aspose.CAD für JasperReports Produktlogo](home_3.png)
+![Aspose.CAD für JasperReports Produktlogo](/_assets/home_3.png)
 
 Aspose.CAD für JasperReports ist eine Bibliothek, kompatibel mit JasperReports Version 6.3 und höher, mit einem umfangreichen Funktionsumfang und den oben beschriebenen Fähigkeiten. Es ist sowohl als Direktdownload als auch als Maven-Paket verfügbar.
 
@@ -100,7 +100,7 @@ Im Folgenden finden Sie Links zu einigen nützlichen Ressourcen, die Ihnen bei d
 
 **Aspose.CAD für Python**
 
-![Aspose.CAD für Python Produktlogo](home_5.png)
+![Aspose.CAD für Python Produktlogo](/_assets/home_5.png)
 
 Aspose.CAD für Python ist eine plattformübergreifende Bibliothek, kompatibel mit Python 3.x, mit einem umfangreichen Funktionsumfang und den oben beschriebenen Fähigkeiten. Es ist sowohl als Direktdownload als auch als PyPi-Paket verfügbar.
 
@@ -124,7 +124,7 @@ Im Folgenden finden Sie Links zu einigen nützlichen Ressourcen, die Ihnen bei d
 
 ## **Aspose.CAD für JavaScript**
 
-![Aspose.CAD für JavaScript Produktlogo](home_6.png)
+![Aspose.CAD für JavaScript Produktlogo](/_assets/home_6.png)
 
 Aspose.CAD für JavaScript ist eine CAD-Konvertierungs-API ohne Softwareabhängigkeiten. Sie ermöglicht Entwicklern die Konvertierung von DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP-Dateien in Rasterbildformate und PDF. Während des Konvertierungsprozesses können Entwickler bestimmte Ebenen und Layouts auswählen und konvertieren sowie den Konvertierungsprozess der Datei verfolgen.
 

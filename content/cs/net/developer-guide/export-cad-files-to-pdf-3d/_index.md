@@ -23,9 +23,9 @@ Pro převedení vašeho 3D výkresu do PDF-3D musíte spustit kód z příkladu 
 
 Příklad vzhledu PDF souboru s 3D obsahem a demonstrace rotace a škálování.
 
-![PDF-3D](result.png)
-![Změna rotace](rotate.png)
-![Škálování](scaling.png)
+![PDF-3D](/_assets/result.png)
+![Změna rotace](/_assets/rotate.png)
+![Škálování](/_assets/scaling.png)
 
 ## **Zdroje Aspose.CAD pro .NET**
 

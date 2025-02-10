@@ -136,10 +136,10 @@ npm run dev
 ## Příklad spuštění
 
 1. Vyberte soubor.<br>
-![Vyberte soubor](choose-file.png)<br>
+![Vyberte soubor](/_assets/choose-file.png)<br>
 1. Vyberte jakýkoliv soubor ve formátech DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Pokud je odpověď úspěšná, soubor bude zobrazen na obrazovce a nabídne možnost jej stáhnout.<br>
-![Převod obrázku](convert-image.png)<br>
+![Převod obrázku](/_assets/convert-image.png)<br>
 
 ## Viz také
 

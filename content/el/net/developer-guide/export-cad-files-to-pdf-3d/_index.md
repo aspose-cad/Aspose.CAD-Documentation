@@ -23,9 +23,9 @@ description: Χρησιμοποιήστε τον μετατροπέα PDF-3D σ�
 
 Ένα παράδειγμα της εμφάνισης ενός αρχείου PDF με 3D περιεχόμενο, καθώς και μια επίδειξη περιστροφής και κλίμακας.
 
-![PDF-3D](result.png)
-![Αλλαγμένη περιστροφή](rotate.png)
-![Κλίμακα](scaling.png)
+![PDF-3D](/_assets/result.png)
+![Αλλαγμένη περιστροφή](/_assets/rotate.png)
+![Κλίμακα](/_assets/scaling.png)
 
 ## **Πόροι Aspose.CAD για .NET**
 

@@ -120,11 +120,11 @@ dotnet run
 1. Melden Sie sich bei Google Cloud an.
 1. Erstellen Sie ein Projekt, falls es nicht existiert.
 1. Gehen Sie zu 'Artifact Registry' und erstellen Sie ein Repository.<br>
-![Artifact-Repository erstellen](create-artifact-repository.png)<br>
+![Artifact-Repository erstellen](/_assets/create-artifact-repository.png)<br>
 1. Wählen Sie das neue Repository im Artifact Registry aus.
-![Artifact-Repository auswählen](select-artifact.png)<br>
+![Artifact-Repository auswählen](/_assets/select-artifact.png)<br>
 1. Klicken Sie auf 'EINRICHTUNGSANWEISUNG' und kopieren Sie den Befehl 'Docker konfigurieren'.<br>
-![EINRICHTUNGSANWEISUNG](setup-instruction.png)<br>
+![EINRICHTUNGSANWEISUNG](/_assets/setup-instruction.png)<br>
 1. Fügen Sie einen Docker-Credential-Helfer-Eintrag zur Konfigurationsdatei von Docker hinzu oder erstellen Sie die Datei, falls sie nicht vorhanden ist.
 {{< highlight plain >}}
 //Beispiel
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Gehen Sie zu Cloud Run.
 1. Erstellen Sie den Cloud Run-Dienst.<br>
-![Cloud Run-Dienst erstellen](create-cloud-run-service.png)<br>
+![Cloud Run-Dienst erstellen](/_assets/create-cloud-run-service.png)<br>
 1. Wählen Sie im Feld Container-Image-URL das Container-Image aus 'ARTIFACT REGISTRY'.<br>
-![Container-Image-URL](container-url.png)<br>
+![Container-Image-URL](/_assets/container-url.png)<br>
 1. Überprüfen Sie andere Einstellungen wie unten.<br>
-![Einstellungen für den Dienst](cloud-run-service-settings.png)<br>
+![Einstellungen für den Dienst](/_assets/cloud-run-service-settings.png)<br>
 1. Warten Sie, bis die Bereitstellung abgeschlossen ist.
 1. Dienst-URL zur Verwendung mit der Konvertierungsanwendung.<br>
-![URL-Dienst](url-service.png)<br>
+![URL-Dienst](/_assets/url-service.png)<br>
 
 ### Konfiguration einer Dockerfile
 
@@ -202,7 +202,7 @@ Das obige ist eine einfache Dockerfile, die die folgenden Anweisungen enthält:
 ## Ausführungsbeispiel
 
 1. Postman-Einstellungen.<br>
-![Übersichtsmenü](postman-settings.png)<br>
+![Übersichtsmenü](/_assets/postman-settings.png)<br>
 1. Wählen Sie eine beliebige DXF-, DWG-, DGN-, DWF-, DWFX-, IFC-, STL-, DWT-, IGES-, PLT-, CF2-, OBJ-, HPGL-, IGS-, PCL-, FBX-, PDF-, SVG-Datei aus.
 1. Klicken Sie auf die Schaltfläche "Senden".
 

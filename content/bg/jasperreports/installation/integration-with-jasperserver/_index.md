@@ -282,6 +282,6 @@ url: /bg/jasperreports/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. Рестартирайте JasperReports Server и отворете произволен отчет, за да видите. Ако предишните стъпки са били изпълнени правилно, ще видите допълнителни опции в списъка с формати за експортиране.
-![todo:image_alt_text](ExportReportView.png)
+![todo:image_alt_text](/_assets/ExportReportView.png)
 
 Ако не виждате допълнителни формати (икони или опции), моля, проверете журналните файлове в директорията \apache-tomcat\logs.

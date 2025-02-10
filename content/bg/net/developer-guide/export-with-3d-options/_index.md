@@ -11,19 +11,19 @@ url: /bg/net/export-with-3d-options/
 
 Ето примери за 3D сцена от различни гледни точки:
 
-![Figures](fig1.png)
+![Figures](/_assets/fig1.png)
 
-![Figures from other points of view](fig2.png)
+![Figures from other points of view](/_assets/fig2.png)
 
 Свойството ObserverPoint позволява да се завърти 3D сцената според зададени ъгли около оста. Този пример показва кода и резултата от експорта с използване на произволни ъгли на завъртане.
 
 {{< gist aspose-com-gists 88cdd0899132edaf0afff77d33d11ae5 "ObserverPoint-property.cs">}}
 
-![Export with rotation](fig3.png)
+![Export with rotation](/_assets/fig3.png)
 
 Промяната на ObserverAngle на ObserverPoint = new ObserverPoint(5, 60, 0) позволява да се завърти сцената.
 
-![Export with changed rotation](fig4.png)
+![Export with changed rotation](/_assets/fig4.png)
 
 Другото свойство RenderMode3D позволява да се зададе как резултатът от експорта трябва да бъде представен. Има 3 режима: Solid (по подразбиране), Wireframe и SolidWithEdges.
 
@@ -31,9 +31,9 @@ url: /bg/net/export-with-3d-options/
 
 {{< gist aspose-com-gists 88cdd0899132edaf0afff77d33d11ae5 "RenderMode3D-property.cs">}}
 
-![Wireframe mode](fig5.png)
+![Wireframe mode](/_assets/fig5.png)
 
 Примерът по-долу показва разликата между Solid и SolidWithEdges режими.
 
-![Solid mode](fig6.png)
-![Solid with edge mode](fig7.png)
+![Solid mode](/_assets/fig6.png)
+![Solid with edge mode](/_assets/fig7.png)

@@ -15,7 +15,7 @@ Některé entitáty ukládají svá strukturální data ve formátu ACIS SAT/SAB
 
 Níže je příklad exportního výsledku (soubor DWG v levé části, výsledek PDF v pravé části).
 
-![Export kuželu a sfér](coneAndSpheres.png)
+![Export kuželu a sfér](/_assets/coneAndSpheres.png)
 
 Exportování entit ACIS nevyžaduje žádné speciální možnosti. Pro optimalizaci velikosti výkresu, zejména pokud výkres obsahuje výhradně entity ACIS, zvažte použití funkce cadImage.updateSize() k přesnému nastavení počátečních rozměrů výkresu.
 

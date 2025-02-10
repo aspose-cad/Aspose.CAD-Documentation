@@ -21,14 +21,14 @@ In this example, you create a simple conversion function that converts a CAD fil
 To create the Azure Function program, follow the steps below:
 1. Once Docker is installed, make sure that it uses Linux Containers (default). If necessary, select the Switch to Linux containers option from the Docker Desktops menu.
 1. Create Azure Function project in IntelliJ IDEA.<br>
-![Create azure function project](create-function-ide-1.png)<br>
-![Create azure function project-final](create-function-ide-2.png)<br>
+![Create azure function project](/_assets/create-function-ide-1.png)<br>
+![Create azure function project-final](/_assets/create-function-ide-2.png)<br>
 1. Tools->Azure->Sing In and select OAuth 2.0 authentication.<br>
-![Azure sign In](sign-in-azure.png)<br>
+![Azure sign In](/_assets/sign-in-azure.png)<br>
 1. Log in browser.
 1. Select Subscription name.
 1. Add docker support.<br>
-![Azure sign In](add-docker-support.png)<br>
+![Azure sign In](/_assets/add-docker-support.png)<br>
 1. Edit the DockerFile as in the <a href="#configuring-a-dockerfile">Configuring a Dockerfile</a> section.
 1. Add blocks for repository aspose.cad in pom.xml.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Run dockerfile in IDE and after push to docker hub.<br>
-![Run docker in ide](docker-run-in-ide.png)<br>
+![Run docker in ide](/_assets/docker-run-in-ide.png)<br>
 1. Enter the name of the image, as in the Docker HUb repository.<br>
-![Run docker in ide-next](docker-run-in-ide-1.png)<br>
+![Run docker in ide-next](/_assets/docker-run-in-ide-1.png)<br>
 1. Wait for the end.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push user/aspose-cad-java:latest
 1. Login Azure.
 1. Choose Azure services.
 1. Choose Function App and create a function.<br>
-![Azure create function button](create-function-azure.png)<br>
+![Azure create function button](/_assets/create-function-azure.png)<br>
 1. Repeat the basic settings as in the image below.<br>
-![Azure create function settings](create-function-settings.png)<br>
+![Azure create function settings](/_assets/create-function-settings.png)<br>
 1. Click 'Review + create' -> Create.
 1. Wait for deployment to finish.
 1. Click 'Go to resorce' button.<br>
-![Resource button](go-to-resource.png)<br>
+![Resource button](/_assets/go-to-resource.png)<br>
 1. Stop aspose-cad-docker-example function.<br>
-![Stop conteiner](stop-container.png)<br>
+![Stop conteiner](/_assets/stop-container.png)<br>
 1. Go to the deployment center menu and make the appropriate settings.<br>
-![Deployment center](deployment-center.png)<br>
+![Deployment center](/_assets/deployment-center.png)<br>
 1. Save settings
 1. Copy Webhook URL from deployment center settings.<br>
-![Webhook url](webhook-url.png)<br>
+![Webhook url](/_assets/webhook-url.png)<br>
 1. Go to Docker Hub, select your repository and select webhooks.
 1. Paste the 'Webhook url' from Azure into the Docker Hub webhook url and set the name.<br>
-![Webhook settings in docker](webhook.png)<br>
+![Webhook settings in docker](/_assets/webhook.png)<br>
 1. Click create button.
 1. Return to overview azure function and start container.<br>
-![Overview menu](overview.png)<br>
+![Overview menu](/_assets/overview.png)<br>
 {{% alert color="primary" %}} 
 It may take a few minutes for the function to start.
 {{% /alert %}}
@@ -193,11 +193,11 @@ It may take a few minutes for the function to start.
 ## Execution example
 
 1. Postman settings.<br>
-![Overview menu](postman-settings.png)<br>
+![Overview menu](/_assets/postman-settings.png)<br>
 1. Select any DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG file.
 1. Click the send button.
 1. Save result
-![Save responce](response-postman.png)<br>
+![Save responce](/_assets/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 If the answer is successful, click Save to file and you will receive the converted file in png format

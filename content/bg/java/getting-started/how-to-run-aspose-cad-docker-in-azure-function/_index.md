@@ -21,14 +21,14 @@ url: /bg/java/how-to-run-aspose-cad-docker-image-in-azure-function
 За да създадете програмата Azure Function, следвайте стъпките по-долу:
 1. След инсталирането на Docker, уверете се, че използва Linux Containers (по подразбиране). При нужда, изберете опцията Switch to Linux containers от менюто на Docker Desktops.
 1. Създайте проект Azure Function в IntelliJ IDEA.<br>
-![Създаване на проект azure function](create-function-ide-1.png)<br>
-![Създаване на проект azure function-крайно](create-function-ide-2.png)<br>
+![Създаване на проект azure function](/_assets/create-function-ide-1.png)<br>
+![Създаване на проект azure function-крайно](/_assets/create-function-ide-2.png)<br>
 1. Tools->Azure->Вход и изберете удостоверяване OAuth 2.0.<br>
-![Вход в Azure](sign-in-azure.png)<br>
+![Вход в Azure](/_assets/sign-in-azure.png)<br>
 1. Влезте в браузъра.
 1. Изберете име на абонамент.
 1. Добавете поддръжка на docker.<br>
-![Вход в Azure](add-docker-support.png)<br>
+![Вход в Azure](/_assets/add-docker-support.png)<br>
 1. Редактирайте DockerFile, както в секцията <a href="#configuring-a-dockerfile">Конфигуриране на Dockerfile</a>.
 1. Добавете блокове за хранилище aspose.cad в pom.xml.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Изпълнете dockerfile в IDE и след това го качете в docker hub.<br>
-![Стартиране на docker в ide](docker-run-in-ide.png)<br>
+![Стартиране на docker в ide](/_assets/docker-run-in-ide.png)<br>
 1. Въведете името на изображението, както в хранилището Docker HUb.<br>
-![Стартиране на docker в ide-следващ](docker-run-in-ide-1.png)<br>
+![Стартиране на docker в ide-следващ](/_assets/docker-run-in-ide-1.png)<br>
 1. Изчакайте за завършване.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push user/aspose-cad-java:latest
 1. Вход в Azure.
 1. Изберете Azure услуги.
 1. Изберете Function App и създайте функция.<br>
-![Бутон Създаване на функция Azure](create-function-azure.png)<br>
+![Бутон Създаване на функция Azure](/_assets/create-function-azure.png)<br>
 1. Повторете основните настройки, както на изображението по-долу.<br>
-![Настройки за създаване на функция Azure](create-function-settings.png)<br>
+![Настройки за създаване на функция Azure](/_assets/create-function-settings.png)<br>
 1. Щракнете на 'Преглед + създаване' -> Създаване.
 1. Изчакайте да завърши внедряването.
 1. Щракнете на бутона 'Отидете на ресурса'.<br>
-![Бутон Ресурс](go-to-resource.png)<br>
+![Бутон Ресурс](/_assets/go-to-resource.png)<br>
 1. Спиране на функцията aspose-cad-docker-example.<br>
-![Спиране на контейнера](stop-container.png)<br>
+![Спиране на контейнера](/_assets/stop-container.png)<br>
 1. Отидете в менюто на центъра за внедряване и направете необходимите настройки.<br>
-![Център за внедряване](deployment-center.png)<br>
+![Център за внедряване](/_assets/deployment-center.png)<br>
 1. Запазване на настройките
 1. Копирайте Webhook URL от настройките на центъра за внедряване.<br>
-![Webhook url](webhook-url.png)<br>
+![Webhook url](/_assets/webhook-url.png)<br>
 1. Отидете в Docker Hub, изберете вашето хранилище и изберете уебхукове.
 1. Поставете 'Webhook url' от Azure в URL адреса на уебхука на Docker Hub и задайте името.<br>
-![Настройки на Webhook в docker](webhook.png)<br>
+![Настройки на Webhook в docker](/_assets/webhook.png)<br>
 1. Щракнете бутона създаване.
 1. Върнете се в прегледа на azure функцията и стартирайте контейнера.<br>
-![Меню Преглед](overview.png)<br>
+![Меню Преглед](/_assets/overview.png)<br>
 {{% alert color="primary" %}} 
 Може да отнеме няколко минути за функцията да започне.
 {{% /alert %}}
@@ -193,11 +193,11 @@ docker push user/aspose-cad-java:latest
 ## Пример за изпълнение
 
 1. Настройки на Postman.<br>
-![Меню Преглед](postman-settings.png)<br>
+![Меню Преглед](/_assets/postman-settings.png)<br>
 1. Изберете всеки DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG файл.
 1. Щракнете бутона за изпращане.
 1. Запазете резултата
-![Запазване на отговор](response-postman.png)<br>
+![Запазване на отговор](/_assets/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Ако отговорът е успешен, щракнете на Запази в файл и ще получите преобразувания файл в png формат.

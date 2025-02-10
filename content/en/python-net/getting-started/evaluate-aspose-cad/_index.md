@@ -13,7 +13,7 @@ You can easily download Aspose.CAD for Python for evaluation from the [download 
 
 Evaluation version of Aspose.CAD for Python (without a license specified) provides product functionality to some extent not complete though. One limitation is that it always injects the evaluation watermark on output files.
 
-![Aspose.CAD for Python export example](AreaChartReport.jpg)
+![Aspose.CAD for Python export example](/_assets/AreaChartReport.jpg)
 
 **Figure:** Evaluation Warning
 

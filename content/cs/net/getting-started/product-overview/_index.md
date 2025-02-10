@@ -21,7 +21,7 @@ Použití Aspose.CAD pro .NET ve vašem projektu vám poskytuje následující v
 ## **Na První Pohled**
 Přehled hlavních schopností konverze, vykreslování a generování zpráv v Aspose.CAD pro .NET.
 
-![todo:text_alt_text](přehled-produktu_2.png)
+![todo:text_alt_text](/_assets/přehled-produktu_2.png)
 
 ## **Pokročilé Funkce API**
 - Podpora nejnovějších verzí souborů AutoCAD DWG, DWF, DWT a DXF
@@ -37,4 +37,4 @@ Aspose.CAD pro .NET podporuje
 - .NET Framework (včetně aplikace ASP.NET a aplikace Windows.)
 - .NET Core
 
-![todo:text_alt_text](přehled-produktu_3.png)
+![todo:text_alt_text](/_assets/přehled-produktu_3.png)

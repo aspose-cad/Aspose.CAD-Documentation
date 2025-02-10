@@ -39,7 +39,7 @@ url: /ar/java/product-overview/
 
 يدعم Aspose.CAD لـ Java ملفات DWG و DWF و DXF و DWT و PDF والصور النقطية الشهيرة.
 
-![todo:image_alt_text](product-overview_1.png)
+![todo:image_alt_text](/_assets/product-overview_1.png)
 ### **الدعم لـ DXF / DWG / DGN**
 - الأجسام الثلاثية الأبعاد (مخروطية، كرة، حلقية، أسطوانة، صندوق، إسفين)
 ### **الدعم لـ DXF / DWG**

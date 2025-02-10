@@ -20,9 +20,9 @@ Sie können einen Text oder ein Bild für ein blindes Wasserzeichen verwenden. D
 Ein Beispiel für das Erscheinungsbild einer Datei unter Verwendung von Text für ein blindes Wasserzeichen.
 
 1. Die Datei vor dem Hinzufügen des Text-Blindwasserzeichens <br>
-![Eingabebild](Tyrannosaurus.dxf_input.png) <br>
+![Eingabebild](/_assets/Tyrannosaurus.dxf_input.png) <br>
 1. Das Ergebnis nach dem Hinzufügen des Text-Blindwasserzeichens <br>
-![Eingebettetes Bild](Tyrannosaurus.dxf_embedded.png)
+![Eingebettetes Bild](/_assets/Tyrannosaurus.dxf_embedded.png)
 
 ## **Verwendung eines anderen Bildes als blindes Wasserzeichen**
 
@@ -35,6 +35,6 @@ Ein Beispiel für das Erscheinungsbild einer Datei unter Verwendung von Text fü
 Ein Beispiel für die Ansicht einer Datei unter Verwendung eines anderen Bildes zur Hinzufügung eines blinden Wasserzeichens.
 
 1. Die Datei vor dem Hinzufügen des Bildes als blindes Wasserzeichen <br>
-![Eingabebild](robot_handling_cell.dwg_input.png) <br>
+![Eingabebild](/_assets/robot_handling_cell.dwg_input.png) <br>
 1. Das Ergebnis nach dem Hinzufügen des Bildes als blindes Wasserzeichen <br>
-![Eingebettetes Bild](robot_handling_cell.dwg_embedded.png)
+![Eingebettetes Bild](/_assets/robot_handling_cell.dwg_embedded.png)

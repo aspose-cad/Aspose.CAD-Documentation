@@ -94,10 +94,10 @@ npm start
 ## Παράδειγμα εκτέλεσης
 
 1. Επιλέξτε αρχείο.<br>
-![Choose file](choose-file.png)<br>
+![Choose file](/_assets/choose-file.png)<br>
 1. Επιλέξτε οποιοδήποτε αρχείο DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Αν η απάντηση είναι επιτυχής, το αρχείο θα εμφανιστεί στην οθόνη και θα προσφερθεί να το κατεβάσετε.<br>
-![Convert image](convert-image.png)<br>
+![Convert image](/_assets/convert-image.png)<br>
 
 ## Δείτε επίσης
 

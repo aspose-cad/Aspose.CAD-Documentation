@@ -9,7 +9,7 @@ url: /ar/net/installation/
 
 NuGet هو أسهل طريقة لتنزيل وتثبيت واجهات برمجة تطبيقات Aspose لـ .NET. افتح Microsoft Visual Studio ومدير حزمة NuGet. ابحث عن "aspose" للعثور على واجهة برمجة تطبيقات Aspose المرغوبة. انقر على "تثبيت"، سيتم تنزيل الواجهة المحددة وإضافتها إلى مشروعك.
 
-![todo:image_alt_text](installation_1.png)
+![todo:image_alt_text](/_assets/installation_1.png)
 
 ## **الإشارة إلى Aspose.CAD من مشروع .NET**
 
@@ -21,7 +21,7 @@ NuGet هو أسهل طريقة لتنزيل وتثبيت واجهات برمجة
 1. حدد ملف *Aspose.CAD* DLL وانقر على زر **موافق**.
 1. ستظهر إشارة *Aspose.CAD* تحت عقدة **المراجع** في مشروعك.
 
-![todo:image_alt_text](installation_2.png)
+![todo:image_alt_text](/_assets/installation_2.png)
 
 ### **تثبيت أو تحديث Aspose.CAD باستخدام وحدة تحكم مدير الحزم**
 
@@ -30,23 +30,23 @@ NuGet هو أسهل طريقة لتنزيل وتثبيت واجهات برمجة
 1. افتح الحل / المشروع الخاص بك في Visual Studio.
 1. اختر أدوات -> مدير حزمة المكتبة -> وحدة تحكم مدير الحزم من القائمة لفتح وحدة تحكم مدير الحزم.
 
-![todo:image_alt_text](installation_3.png)
+![todo:image_alt_text](/_assets/installation_3.png)
 
 اكتب الأمر “**Install-Package Aspose.CAD**” واضغط على Enter لتثبيت أحدث إصدار كامل في تطبيقك. بدلاً من ذلك، يمكنك إضافة لاحقة "**-prerelease**" للأمر لتحديد أنه يجب تثبيت الإصدار الأخير بما في ذلك الإصلاحات العاجلة أيضًا.
 
-![todo:image_alt_text](installation_4.png)
+![todo:image_alt_text](/_assets/installation_4.png)
 
 سترى أن نص "جارٍ تنزيل Aspose.CAD..." يظهر في أسفل يسار النافذة، مما يدل على أن التنزيل قيد التقدم.
 
-![todo:image_alt_text](installation_5.png)
+![todo:image_alt_text](/_assets/installation_5.png)
 
 بمجرد الانتهاء من التنزيل، سترى رسائل التأكيد التالية. إذا لم تكن لديك دراية بـ [اتفاقية ترخيص Aspose](https://about.aspose.com/legal/eula)، فمن الجيد أن تقرأ الترخيص المشار إليه في الرابط.
 
-![todo:image_alt_text](installation_6.png)
+![todo:image_alt_text](/_assets/installation_6.png)
 
 يجب عليك الآن العثور على أن Aspose.CAD قد تمت إضافته وإشارته بنجاح في تطبيقك.
 
-![todo:image_alt_text](installation_7.png)
+![todo:image_alt_text](/_assets/installation_7.png)
 
 في وحدة تحكم مدير الحزم، يمكنك أيضًا استخدام الأمر “**Update-Package Aspose.CAD**” واضغط على Enter للتحقق من أي تحديثات لحزمة Aspose.CAD وتثبيتها إذا كانت موجودة. يمكنك أيضًا إضافة لاحقة "-prerelease" لتحديث الإصدار الأخير.
 

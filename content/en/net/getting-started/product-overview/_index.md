@@ -24,7 +24,7 @@ Using Aspose.CAD for .NET in your project gives you the following benefits:
 ## **At A Glance**
 An overview of the main conversion, rendering and reporting capabilities of Aspose.CAD for .NET.
 
-![todo:image_alt_text](product-overview_2.png)
+![todo:image_alt_text](/_assets/product-overview_2.png)
 ## **Advanced API Features**
 - Supports the latest versions of AutoCAD DWG, DWF, DWT and DXF files
 - Convert the AutoCAD files to high quality PDF
@@ -38,6 +38,6 @@ Aspose.CAD for .NET supports
 - .NET Framework (including ASP.NET Application and Windows Application.)
 - .NET Core
 
-![todo:image_alt_text](product-overview_3.png)
+![todo:image_alt_text](/_assets/product-overview_3.png)
 
 
