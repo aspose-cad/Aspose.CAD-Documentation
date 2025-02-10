@@ -11,7 +11,7 @@ is_root: true
 
 **أهلاً بكم في Aspose.CAD**
 
-![شعار Aspose.CAD لـ .NET](home_1.png)
+![شعار Aspose.CAD لـ .NET](/_assets/home_1.png)
 
 يتيح Aspose.CAD للمطورين فتح وقراءة ومعالجة تنسيقات ملفات AutoCAD DWG و DXF و DWT وغيرها من تنسيقات CAD و BIM ، مثل: DGN و DWF و DWFX و IFC و STL و IGES و PLT و CF2 و OBJ و HPGL و IGS و DXB و STP و DAE و U3D و 3DS و CGM. يمكنه تصدير هذه الملفات إلى تنسيقات صور مختلفة من المتجهات (PDF و WMF و SVG و EMF) وصور نقطية: BMP و GIF و JPG و JPEG و DICOM و WEBP و JP2 و JPEG2000 و PNG و TIFF و PSD. إنها واجهة برمجة تطبيقات أصلية ولا تحتاج إلى تثبيت AutoCAD أو أي برنامج آخر. يمكنك أيضًا تحويل الطبقات والتخطيطات المحددة من ملفات AutoCAD.
 من الممكن تتبع وإدارة تقدم وجودة التحويل الناتج. تدعم أي عملية إلغاء التشغيل وهي جاهزة لبيئة متعددة الخيوط.

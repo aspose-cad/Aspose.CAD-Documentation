@@ -10,7 +10,7 @@ url: /
 
 **Welcome to Aspose.CAD**
 
-![Aspose.CAD for .NET Product Logo](_assets/home_1.png)
+![Aspose.CAD for .NET Product Logo](/_assets/home_1.png)
 
 Aspose.CAD allows developers to open, read and process AutoCAD DWG, DXF, DWT and other CAD and BIM file formats, such as: DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS, DXB, STP, DAE, U3D, 3DS, CGM. It can export those files into various vector (PDF, WMF, SVG, EMF) and raster image formats: BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD. It is a native API and does not require AutoCAD or any software to be installed. You can also convert the selected layers and layouts from the AutoCAD files.
 It is possible to track and handle conversion progress and quality of an output. Any operation has cancellation support and ready for multi-threaded environment.
