@@ -172,7 +172,7 @@ docker push user/aspose-cad-java:latest
 1. روی 'بررسی + ایجاد' -> ایجاد کلیک کنید.
 1. منتظر اتمام استقرار باشید.
 1. روی دکمه 'به منبع بروید' کلیک کنید.<br>
-![Resource button](/fa/_assets/go-to-resource.png)<br>
+![Resource button](/fa/_assets/azure/go-to-resource.png)<br>
 1. عملکرد aspose-cad-docker-example را متوقف کنید.<br>
 ![Stop conteiner](/fa/_assets/stop-container.png)<br>
 1. به منوی مرکز استقرار بروید و تنظیمات مناسب را انجام دهید.<br>

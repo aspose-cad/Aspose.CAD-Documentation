@@ -140,7 +140,7 @@ docker push user/asposefunction:latest
 1. روی 'Review + create' کلیک کرده و سپس ایجاد کنید.
 1. منتظر بمانید تا استقرار به پایان برسد.
 1. روی دکمه 'Go to resource' کلیک کنید.<br>
-![دکمه منبع](/fa/_assets/go-to-resource.png)<br>
+![دکمه منبع](/fa/_assets/azure/go-to-resource.png)<br>
 1. تابع aspose-cad-docker-example را متوقف کنید.<br>
 ![متوقف کردن کانتینر](/fa/_assets/stop-container.png)<br>
 1. به منوی مرکز استقرار بروید و تنظیمات مناسب را انجام دهید.<br>

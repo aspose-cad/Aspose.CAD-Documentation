@@ -281,6 +281,6 @@ url: /ar/jasperreports/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. أعد تشغيل خادم JasperReports وافتح أي تقرير لمشاهدته. إذا تم تنفيذ الخطوات السابقة بشكل صحيح، سترى خيارات إضافية في قائمة تنسيقات التصدير.
-![todo:image_alt_text](/_assets/ExportReportView.png)
+![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
 
 إذا لم ترَ تنسيقات إضافية (أيقونات أو خيارات)، يرجى التحقق من ملفات السجل في دليل \apache-tomcat\logs.

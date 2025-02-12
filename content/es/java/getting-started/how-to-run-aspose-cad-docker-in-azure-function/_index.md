@@ -171,7 +171,7 @@ docker push user/aspose-cad-java:latest
 1. Haga clic en 'Revisar + crear' -> Crear.
 1. Espere a que la implementación termine.
 1. Haga clic en el botón 'Ir al recurso'.<br>
-![Botón de recurso](/es/_assets/go-to-resource.png)<br>
+![Botón de recurso](/es/_assets/azure/go-to-resource.png)<br>
 1. Detener la función aspose-cad-docker-example.<br>
 ![Detener contenedor](/es/_assets/stop-container.png)<br>
 1. Vaya al menú del centro de implementación y realice las configuraciones adecuadas.<br>

@@ -172,7 +172,7 @@ docker push benutzer/aspose-cad-java:latest
 1. Auf „Überprüfen + Erstellen“ klicken -> Erstellen.
 1. Auf Abschluss des Bereitstellungsvorgangs warten.
 1. Auf die Schaltfläche „Zur Ressource gehen“ klicken.<br>
-![Ressourcen-Schaltfläche](/_assets/go-to-resource.png)<br>
+![Ressourcen-Schaltfläche](/_assets/azure/go-to-resource.png)<br>
 1. Stoppen Sie die Funktion aspose-cad-docker-example.<br>
 ![Container anhalten](/_assets/stop-container.png)<br>
 1. Gehen Sie zum Menü „Bereitstellungszentrum“ und nehmen Sie die entsprechenden Einstellungen vor.<br>

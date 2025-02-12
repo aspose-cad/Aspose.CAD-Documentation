@@ -140,7 +140,7 @@ docker push user/asposefunction:latest
 1. Click 'Review + create' -> Create.
 1. Wait for deployment to finish.
 1. Click 'Go to resorce' button.<br>
-![Resource button](/_assets/go-to-resource.png)<br>
+![Resource button](/_assets/azure/go-to-resource.png)<br>
 1. Stop aspose-cad-docker-example function.<br>
 ![Stop conteiner](/_assets/stop-container.png)<br>
 1. Go to the deployment center menu and make the appropriate settings.<br>

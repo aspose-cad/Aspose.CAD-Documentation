@@ -172,7 +172,7 @@ docker push user/aspose-cad-java:latest
 1. Klepněte na 'Zkontrolovat + vytvořit' -> Vytvořit.
 1. Počkejte na dokončení nasazení.
 1. Klepněte na tlačítko 'Přejít na zdroj'.<br>
-![Tlačítko zdroje](/_assets/go-to-resource.png)<br>
+![Tlačítko zdroje](/_assets/azure/go-to-resource.png)<br>
 1. Zastavte funkci aspose-cad-docker-example.<br>
 ![Zastavení kontejneru](/_assets/stop-container.png)<br>
 1. Přejděte do nabídky střediska pro nasazení a proveďte příslušná nastavení.<br>

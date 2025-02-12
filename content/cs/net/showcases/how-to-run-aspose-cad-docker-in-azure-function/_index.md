@@ -140,7 +140,7 @@ docker push uzivatel/asposefunction:latest
 1. Klikněte na „Zkontrolovat + vytvořit“ -> Vytvořit.
 1. Počkejte na dokončení nasazení.
 1. Klikněte na tlačítko „Přejít na zdroj“.br>
-![Tlačítko Zdroj](/_assets/go-to-resource.png)<br>
+![Tlačítko Zdroj](/_assets/azure/go-to-resource.png)<br>
 1. Zastavte funkci aspose-cad-docker-example.<br>
 ![Zastavit kontejner](/_assets/stop-container.png)<br>
 1. Přejděte do nabídky centra nasazení a proveďte příslušná nastavení.<br>

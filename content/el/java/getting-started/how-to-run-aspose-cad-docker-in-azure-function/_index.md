@@ -171,7 +171,7 @@ docker push user/aspose-cad-java:latest
 1. Κάντε κλικ στο 'Αξιολόγηση + Δημιουργία' -> Δημιουργία.
 1. Περιμένετε να ολοκληρωθεί η ανάπτυξη.
 1. Κάντε κλικ στο κουμπί 'Μετάβαση σε πόρο'.<br>
-![Resource button](/_assets/go-to-resource.png)<br>
+![Resource button](/_assets/azure/go-to-resource.png)<br>
 1. Σταματήστε τη συνάρτηση aspose-cad-docker-example.<br>
 ![Stop conteiner](/_assets/stop-container.png)<br>
 1. Μεταβείτε στο μενού του κέντρου ανάπτυξης και κάντε τις κατάλληλες ρυθμίσεις.<br>

@@ -172,7 +172,7 @@ docker push user/aspose-cad-java:latest
 1. Щракнете на 'Преглед + създаване' -> Създаване.
 1. Изчакайте да завърши внедряването.
 1. Щракнете на бутона 'Отидете на ресурса'.<br>
-![Бутон Ресурс](/_assets/go-to-resource.png)<br>
+![Бутон Ресурс](/_assets/azure/go-to-resource.png)<br>
 1. Спиране на функцията aspose-cad-docker-example.<br>
 ![Спиране на контейнера](/_assets/stop-container.png)<br>
 1. Отидете в менюто на центъра за внедряване и направете необходимите настройки.<br>

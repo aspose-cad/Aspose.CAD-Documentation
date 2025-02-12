@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspose.Docs.AssetLinksFixer", "Aspose.Docs.AssetLinksFixer\Aspose.Docs.AssetLinksFixer.csproj", "{74C1F0AC-60B2-4331-8137-46E244B835A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspose.Docs.LinksValidator", "Aspose.Docs.LinksValidator\Aspose.Docs.LinksValidator.csproj", "{93880AAE-2F7B-4979-8520-BDFAA204D075}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspose.Docs.MdUrlsSynchronizer", "Aspose.Docs.MdUrlsSynchronizer\Aspose.Docs.MdUrlsSynchronizer.csproj", "{3F92D987-15FE-4A4C-B3B6-474A652E27F2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74C1F0AC-60B2-4331-8137-46E244B835A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C1F0AC-60B2-4331-8137-46E244B835A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C1F0AC-60B2-4331-8137-46E244B835A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C1F0AC-60B2-4331-8137-46E244B835A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93880AAE-2F7B-4979-8520-BDFAA204D075}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93880AAE-2F7B-4979-8520-BDFAA204D075}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93880AAE-2F7B-4979-8520-BDFAA204D075}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93880AAE-2F7B-4979-8520-BDFAA204D075}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F92D987-15FE-4A4C-B3B6-474A652E27F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F92D987-15FE-4A4C-B3B6-474A652E27F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F92D987-15FE-4A4C-B3B6-474A652E27F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F92D987-15FE-4A4C-B3B6-474A652E27F2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

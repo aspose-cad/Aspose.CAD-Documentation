@@ -172,7 +172,7 @@ docker push user/aspose-cad-java:latest
 1. انقر على 'مراجعة + إنشاء' -> إنشاء.
 1. انتظر حتى تكتمل عملية النشر.
 1. انقر على زر 'انتقل إلى المورد'.<br>
-![زر المورد](/_assets/go-to-resource.png)<br>
+![زر المورد](/_assets/azure/go-to-resource.png)<br>
 1. أوقف وظيفة aspose-cad-docker-example.<br>
 ![إيقاف الحاوية](/_assets/stop-container.png)<br>
 1. انتقل إلى قائمة مركز النشر وقم بإجراء الإعدادات المناسبة.<br>

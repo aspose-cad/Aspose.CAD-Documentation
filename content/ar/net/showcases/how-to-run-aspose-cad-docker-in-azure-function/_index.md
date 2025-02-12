@@ -140,7 +140,7 @@ docker push user/asposefunction:latest
 1. انقر على "مراجعة + إنشاء" -> إنشاء.
 1. انتظر حتى تكتمل عملية النشر.
 1. انقر على زر "انتقل إلى المورد".<br>
-![زر المورد](/_assets/go-to-resource.png)<br>
+![زر المورد](/_assets/azure/go-to-resource.png)<br>
 1. أوقف وظيفة asp-cad-docker-example.<br>
 ![أوقف الحاوية](/_assets/stop-container.png)<br>
 1. انتقل إلى قائمة مركز النشر واضبط الإعدادات المناسبة.<br>
