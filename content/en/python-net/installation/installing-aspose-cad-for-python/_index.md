@@ -10,25 +10,25 @@ url: /python-net/installing-aspose-cad-for-python/
 ### Using pip to install a package
 
 1. To install the [aspose.cad](https://pypi.org/project/aspose-cad/) package, the sites with the package have an additional description of the command to be executed in the terminal:<br/>
-![pypi-install](/_assets/pypi-aspose-cad.png)
+![pypi-install](/_assets/python-net/install/pypi-aspose-cad.png)
 1. An example of a command to install a package through the terminal:
 {{< highlight plain >}}
 pip install aspose-cad
 {{< /highlight >}}
-![pip-install-aspose-cad](/_assets/pip-install-aspose.png)
+![pip-install-aspose-cad](/_assets/python-net/install/pip-install-aspose.png)
 
 ### Using WHL file to install a package
 
 1. To download the whl file, go to the pypi page of the [aspose.cad](https://pypi.org/project/aspose-cad/#files) package and download the file<br/>
-![whl-download](/_assets/download-whl-file.png)<br/>
+![whl-download](/_assets/python-net/install/download-whl-file.png)<br/>
 1. To install the [aspose.cad](https://pypi.org/project/aspose-cad/) package, you need to use the pip command with the full path to the whl file:
 {{< highlight plain >}}
 pip install C:\Users\User\Desktop\aspose_cad-23.6-py3-none-win_amd64.whl
 {{< /highlight >}}
-![install-whl-file](/_assets/install-whl-file-terminal.png)
+![install-whl-file](/_assets/python-net/install/install-whl-file-terminal.png)
 
 1. After the installation, we will see the package in the site-package folder<br/>
-![site-package-aspose-cad](/_assets/site-package-aspose.png)
+![site-package-aspose-cad](/_assets/python-net/install/site-package-aspose.png)
 
 ## Example code
 Example code for converting a file

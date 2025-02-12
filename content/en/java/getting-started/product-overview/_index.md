@@ -39,7 +39,7 @@ An overview of the main conversion, rendering and reporting capabilities of Aspo
 
 Aspose.CAD for Java supports the popular DWG, DWF, DXF, DWT, PDF and Raster images.
 
-![todo:image_alt_text](/_assets/product-overview_1.png)
+![todo:image_alt_text](/_assets/java/product-overview_1.png)
 ### **Support for DXF / DWG / DGN**
 - 3D Solids (Conic, Sphere, Torus, Cylinder, Box, Wedge)
 ### **Support for DXF / DWG**

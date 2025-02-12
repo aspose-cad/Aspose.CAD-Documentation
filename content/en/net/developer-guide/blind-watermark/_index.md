@@ -20,9 +20,9 @@ You can use a text or image for a blind watermark, the Apose.CAD library provide
 An example of the appearance of a file using text for a blind watermark.
 
 1. The file before adding the text blind watermark<br>
-![Input image](/_assets/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. The result of adding the text blind watermark<br>
-![Embedded image](/_assets/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **Using another image as a blind watermark**
 
@@ -35,6 +35,6 @@ An example of the appearance of a file using text for a blind watermark.
 An example of a file view using another image to add a blind watermark.
 
 1. The file before adding the image as a blind watermark<br>
-![Input image](/_assets/robot_handling_cell.dwg_input.png)<br>
+![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. The result after adding the image as a blind watermark<br>
-![Embedded image](/_assets/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

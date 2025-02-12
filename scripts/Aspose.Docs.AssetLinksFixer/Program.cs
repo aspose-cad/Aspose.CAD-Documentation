@@ -5,7 +5,7 @@ using Aspose.Docs.AssetLinksFixer;
 #if DEBUG
 args = new[]
 {
-    @"c:\code\ASP2\docs.aspose.com\Aspose.CAD-Documentation\content\",
+    @"c:\code\ASP2\docs.aspose.com\Aspose.CAD-Documentation\content\en\",
     @"c:\code\ASP2\docs.aspose.com\Aspose.CAD-Documentation\content\en\_assets\"
 };
 #endif

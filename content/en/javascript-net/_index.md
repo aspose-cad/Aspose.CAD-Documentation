@@ -11,7 +11,7 @@ is_root: false
 
 ## **Welcome to Aspose.CAD for JavaScript**
 
-![Aspose.CAD for JavaScrip Product Logo](/_assets/home_1.png)
+![Aspose.CAD for JavaScrip Product Logo](/_assets/home_5.png)
 
 Aspose.CAD for JavaScript is an CAD conversion native API without any software dependencies. It allows developers the conversion of DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP files to raster image formats and PDF.
 During the conversion process, developers can choose and convert specific layers and layouts as well as keep track of the file conversion process.

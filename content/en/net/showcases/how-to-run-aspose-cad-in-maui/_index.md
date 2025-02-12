@@ -27,22 +27,22 @@ One of the key aims of .NET MAUI is to enable you to implement as much of your a
 
 1. To create .NET MAUI apps, you'll need the latest version of Visual Studio 2022
 1. Either install Visual Studio, or modify your existing installation, and install the .NET Multi-platform App UI development workload with its default optional installation options:<br>
-![Visual installer](/_assets/visual-installer.png)
+![Visual installer](/_assets/showcases/maui/visual-installer.png)
 
 
 ## Create project
 
 1. Launch Visual Studio. In the start window, click Create a new project to create a new project:<br>
-![Create project](/_assets/create-project.png)<br>
+![Create project](/_assets/showcases/maui/create-project.png)<br>
 1. In the Create a new project window, select MAUI in the All project types drop-down, select the .NET MAUI App template, and click the Next button:<br>
-![Select project type](/_assets/select-project.png)<br>
+![Select project type](/_assets/showcases/maui/select-project.png)<br>
 1. In the Configure your new project window, name your project, choose a suitable location for it, and click the Next button:<br>
-![Select project path](/_assets/select-project-path.png)<br>
+![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
 1. In the Additional information window, choose the version of .NET that you'd like to target and click the Create button:<br>
-![Target Framework](/_assets/select-framework.png)<br>
+![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
 1. Wait for the project to be created and its dependencies to be restored
 1. Install the latest Aspose.CAD version from NuGet:<br>
-![NuGet](/_assets/nuget.png)<br>
+![NuGet](/_assets/showcases/maui/nuget.png)<br>
 1. Replace the code in MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Debug Windows Machine
 
 1. In the Visual Studio toolbar, use the Debug Target drop-down to select Framework and then the net7.0-windows entry:<br>
-![Debug Target](/_assets/windows-mode.png)<br>
+![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
 1. In the Visual Studio toolbar, press the Windows Machine button to build and run the app:<br>
-![Start Debugging on Windows Machine](/_assets/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
 1. In the running app, press the "Select file" button several times and observe that the count of the number of button clicks is incremented:<br>
-![Home Page](/_assets/windows-home-page.png)<br>
+![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
 1. Select the required file and click open:<br>
-![Select file](/_assets/select-file.png)<br>
+![Select file](/_assets/showcases/maui/select-file.png)<br>
 1. After processing the file, an image of the converted file should appear on the screen:<br>
-![The result of debugging windows](/_assets/windows-result.png)
+![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
 
 
 ## Install Android Emulator
 
 1. In the Visual Studio toolbar, use the Debug Target drop-down to select Android Emulators and then the Android Emulator entry
 1. In the Visual Studio toolbar, press the Android Emulator button:<br>
-![Start install Emulator button](/_assets/start-install-emulator.png)<br>
+![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. In the Android SDK - License Agreement window, press the Accept button:<br>
-![Android SDK-License Agreement](/_assets/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
 1. In the Android SDK - License Agreement window, press the Accept button:<br>
-![Android SDK ARM -License Agreement](/_assets/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
 1. In the User Account Control dialog, press the Yes button:<br>
-![SDK Manager](/_assets/android-sdk-3.png)<br>
+![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
 1. In the License Acceptance window, press the Accept button:<br>
-![SDK ARManagerM -License Agreement](/_assets/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
 1. In the Visual Studio toolbar, press the Android Emulator button:<br>
-![Start install Emulator button](/_assets/start-install-emulator.png)<br>
+![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. In the User Account Control dialog, press the Yes button:<br>
-![Android Device Manager](/_assets/android-device-manager.png)<br>
+![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
 1. In the New Device window, press the Create button:<br>
-![New Android Device](/_assets/android-new-device.png)<br>
+![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
 1. Close the Android Device Manager window
 
 
 ## Debug with Android Emulator
 
 1. In the Visual Studio toolbar, press the Pixel 5 - API 33 (Android 13.0 - API 33) button to build and run the app:<br>
-![Select android Emulator](/_assets/select-android-emulator.png)<br>
+![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
 1. In the running app in the Android emulator, press the "Select file" button several times and observe that the count of the number of button clicks is incremented:<br>
-![Android Emulator Home Page](/_assets/android-home-page.png)<br>
+![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
 1. Select the required file and click select:<br>
-![Select file in andoid](/_assets/android-select-file.png)<br>
+![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
 1. After processing the file, an image of the converted file should appear on the screen:<br>
-![The result of debugging android](/_assets/android-result.png)
+![The result of debugging android](/_assets/showcases/maui/android-result.png)
 
 
 ## More Examples

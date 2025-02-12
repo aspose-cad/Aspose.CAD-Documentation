@@ -37,6 +37,7 @@ class AssetLinksProcessor
     {
         string content = File.ReadAllText(filePath);
         
+        Console.WriteLine(filePath);
         string updatedContent = ImageRelLinkRegex.Replace(
             content, 
             match =>
@@ -69,9 +70,12 @@ class AssetLinksProcessor
                     
                     if (candidates.Count > 1)
                     {
-                        var tagsCounts = candidates
-                            .ToDictionary(x => x.Key, x => Path.GetDirectoryName(x.Value).Split('/', '\\').ToList())
-                            .ToDictionary(x => x.Key, x => x.Value.Where(y => filePath.Contains(y)).ToList())
+                        var tags = candidates
+                            .ToDictionary(x => x.Key, x => Path.GetDirectoryName(x.Value)!.Split(['/', '\\'], StringSplitOptions.RemoveEmptyEntries))
+                            .ToDictionary(x => x.Key, x => x.Value.Where(y => filePath.Contains(y)).Distinct().ToList());
+                        
+                        var tagsCounts = tags
+                            .ToDictionary(x => x.Key, x => x.Value.Where(y => tags.SelectMany(z => z.Value).All(z => z == y || z.IndexOf(y) < 0)).ToList())
                             .OrderByDescending(x => x.Value.Count)
                             .ToDictionary(x => x.Key, x => x.Value);
                         
@@ -96,6 +100,7 @@ class AssetLinksProcessor
                 }
                 
                 string matchedFilePath = _assetFiles[innerPath];
+                Console.WriteLine($"{imgPath} => {matchedFilePath}");
                 return $"![{altText}]({matchedFilePath})";
             });
         

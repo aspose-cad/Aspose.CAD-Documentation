@@ -25,16 +25,16 @@ Make sure you have sufficient rights to create AWS Lambda functions and images i
 
 To create the AWS Lambda Function program, follow the steps below:
 1. Create AWS Lambda Project.<br>
-![Create AWS function button](/_assets/create-project.png)<br>
+![Create AWS function button](/_assets/showcases/aws/create-project.png)<br>
 1. Select .NET 6(Container Image) and click 'Finish' button.<br>
-![Create container function button](/_assets/create-container.png)<br>
+![Create container function button](/_assets/showcases/aws/create-container.png)<br>
 1. Open AWS Explorer in Visual Studio(View->AWS Explorer).
 1. Add AWS credentials profile in AWS Explorer.<br>
-![Credential profile](/_assets/add-aws-credentials-profile.png)<br>
+![Credential profile](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Enter Access Key ID and Secret Access Key, you can get these keys in Security credentials or contact the administrator and get a csv file for authorization.<br>
-![Acount profile settings](/_assets/account-profile.png)<br>
+![Acount profile settings](/_assets/showcases/aws/account-profile.png)<br>
 1. Install the latest libraries from NuGet.<br>
-![NuGet Manager](/_assets/nuget-manager.png)<br>
+![NuGet Manager](/_assets/showcases/aws/nuget-manager.png)<br>
 1. Code example for convert cad image to pdf file.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Edit the DockerFile as in the <a href="#configuring-a-dockerfile">Configuring a Dockerfile</a> section.
 1. Start Docker Desktop.
 1. Publish to AWS Lambda.<br>
-![AWS lambda publish](/_assets/publish-aws.png)<br>
+![AWS lambda publish](/_assets/showcases/aws/publish-aws.png)<br>
 1. Edit upload configuration.<br>
-![Upload aws lambda](/_assets/upload-aws-lambda.png)<br>
+![Upload aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Click 'Upload' button.<br>
-![Upload aws lambda last](/_assets/upload-aws-lambda-finish.png)<br>
+![Upload aws lambda last](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Go to AWS and select Lambda.<br>
-![AWS Lambda](/_assets/select-aws-lambda.png)<br>
+![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Select your new function and create url function.<br>
-![Configuration url function](/_assets/create-function-url.png)<br>
+![Configuration url function](/_assets/showcases/aws/create-function-url.png)<br>
 1. Select auth type
 - AWS_IAM - Only authenticated IAM users and roles can make requests to your function URL.
 - NONE - Lambda won't perform IAM authentication on requests to your function URL. The URL endpoint will be public unless you implement your own authorization logic in your function.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## Execution example
 
 1. Postman settings.<br>
-![Overview menu](/_assets/postman-settings.png)<br>
+![Overview menu](/_assets/showcases/aws/postman-settings.png)<br>
 1. Select any DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG file.
 1. Click the send button.
 

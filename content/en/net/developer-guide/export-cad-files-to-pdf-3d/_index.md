@@ -23,9 +23,9 @@ To convert your 3D drawing to PDF-3D, you need to execute the code from the exam
 
 An example of the appearance of a PDF file with 3D content, as well as a demonstration of rotation and scaling.
 
-![PDF-3D](/_assets/result.png)
-![Changed rotate](/_assets/rotate.png)
-![Scaling](/_assets/scaling.png)
+![PDF-3D](/_assets/guide/pdf-3d/result.png)
+![Changed rotate](/_assets/guide/pdf-3d/rotate.png)
+![Scaling](/_assets/guide/pdf-3d/scaling.png)
 
 ## **Aspose.CAD for .NET Resources**
 
