@@ -2,7 +2,7 @@
 title: التكامل مع JasperServer
 type: docs
 weight: 20
-url: /ar/jasperreports/integration-with-jasperserver/
+url: /ar/jasperreports/installation/integration-with-jasperserver/
 ---
 {{% alert color="primary" %}}
 لدمج Aspose.CAD لـ JasperReports مع JasperServer، من الضروري اتخاذ عدة خطوات إضافية وتحديث ملفات تكوين JasperServer. تشرح هذه المقالة كيفية القيام بذلك.

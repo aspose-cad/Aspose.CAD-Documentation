@@ -2,7 +2,7 @@
 title: فرمت‌های فایل پشتیبانی شده
 type: docs
 weight: 60
-url: /fa/jasperreports/supported-file-formats/
+url: /fa/jasperreports/getting-started/supported-file-formats/
 ---
 
 |**فرمت**|**توضیحات**|**بارگذاری**|**ذخیره**|**یادداشت‌ها**|

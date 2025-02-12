@@ -2,7 +2,7 @@
 title: Εξαγωγή JasperReport σε WMF
 type: docs
 weight: 30
-url: /el/jasperreports/export-jasperreport-to-wmf
+url: /el/jasperreports/user-guide/export-jasperreport-to-wmf/
 ---
 
 {{% alert color="primary" %}}

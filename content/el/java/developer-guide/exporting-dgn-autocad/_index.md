@@ -2,7 +2,7 @@
 title: Εξαγωγή ΔGN AutoCAD
 type: docs
 weight: 50
-url: /el/java/exporting-dgn-autocad/
+url: /el/java/developer-guide/exporting-dgn-autocad/
 ---
 
 ## **Εξαγωγή μορφής ΔGN AutoCAD σε PDF**

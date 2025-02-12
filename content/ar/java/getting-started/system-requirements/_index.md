@@ -2,7 +2,7 @@
 title: متطلبات النظام
 type: docs
 weight: 40
-url: /ar/java/system-requirements/
+url: /ar/java/getting-started/system-requirements/
 ---
 
 ## **نظرة عامة**

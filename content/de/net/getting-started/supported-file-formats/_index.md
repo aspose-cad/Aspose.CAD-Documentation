@@ -2,7 +2,7 @@
 title: Unterstützte Dateiformate
 type: docs
 weight: 20
-url: /de/net/supported-file-formats/
+url: /de/net/getting-started/supported-file-formats/
 ---
 
 ## **Unterstützte Dateiformate**

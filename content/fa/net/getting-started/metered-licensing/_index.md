@@ -2,7 +2,7 @@
 title: лицензирование по метрам
 type: docs
 weight: 60
-url: /fa/net/metered-licensing/
+url: /fa/net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

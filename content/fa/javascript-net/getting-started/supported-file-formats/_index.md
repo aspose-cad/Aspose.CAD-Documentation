@@ -2,7 +2,7 @@
 title: فرمت‌های فایل پشتیبانی شده
 type: docs
 weight: 20
-url: /fa/javascript-net/supported-file-formats/
+url: /fa/javascript-net/getting-started/supported-file-formats/
 ---
 
 ## **فرمت‌های فایل پشتیبانی شده**

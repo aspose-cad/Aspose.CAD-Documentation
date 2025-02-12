@@ -2,7 +2,7 @@
 title: نظرة عامة على الميزات
 type: docs
 weight: 20
-url: /ar/python-net/features-overview/
+url: /ar/python-net/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

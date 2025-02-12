@@ -2,7 +2,7 @@
 title: تنسيقات الملفات المدعومة
 type: docs
 weight: 20
-url: /ar/javascript-net/supported-file-formats/
+url: /ar/javascript-net/getting-started/supported-file-formats/
 ---
 
 ## **تنسيقات الملفات المدعومة**

@@ -2,7 +2,7 @@
 title: Podporované formáty souborů
 type: docs
 weight: 60
-url: /cs/jasperreports/supported-file-formats/
+url: /cs/jasperreports/getting-started/supported-file-formats/
 ---
 
 |**Formát**|**Popis**|**Načíst**|**Uložit**|**Poznámky**|

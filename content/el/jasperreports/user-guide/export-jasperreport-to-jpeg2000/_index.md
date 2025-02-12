@@ -2,7 +2,7 @@
 title: Εξαγωγή JasperReport σε JPEG2000
 type: docs
 weight: 80
-url: /el/jasperreports/export-jasperreport-to-jpeg2000
+url: /el/jasperreports/user-guide/export-jasperreport-to-jpeg2000/
 ---
 
 {{% alert color="primary" %}}

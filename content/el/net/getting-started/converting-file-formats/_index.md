@@ -2,7 +2,7 @@
 title: Μετατροπή Μορφών Αρχείων
 type: docs
 weight: 20
-url: /el/net/converting-file-formats/
+url: /el/net/getting-started/converting-file-formats/
 ---
 
 ## **Μετατροπή Μορφών Αρχείων**

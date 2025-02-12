@@ -2,7 +2,7 @@
 title: Převod formátu souboru
 type: docs
 weight: 20
-url: /cs/javascript-net/converting-file-formats/
+url: /cs/javascript-net/getting-started/converting-file-formats/
 ---
 
 ## **Převod formátu souboru**

@@ -2,7 +2,7 @@
 title: Převod formátů souborů
 type: docs
 weight: 60
-url: /cs/python-net/prevod-formatu-souboru/
+url: /cs/python-net/getting-started/converting-file-formats/
 ---
 
 ## **Převod formátů souborů**

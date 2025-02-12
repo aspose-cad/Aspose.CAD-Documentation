@@ -2,7 +2,7 @@
 title: پشتیبانی از فایل‌های CTB
 type: docs
 weight: 40
-url: /fa/net/support-ctb/
+url: /fa/net/developer-guide/support-ctb/
 ---
 
 ## **پشتیبانی از فایل‌های CTB**

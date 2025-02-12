@@ -2,7 +2,7 @@
 title: صادر کردن با گزینه‌های ۳ بعدی
 type: docs
 weight: 40
-url: /fa/net/export-with-3d-options/
+url: /fa/net/developer-guide/export-with-3d-options/
 ---
 
 ## **صادر کردن با گزینه‌های ۳ بعدی**

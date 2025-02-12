@@ -2,7 +2,7 @@
 title: DWG DXF إلى PDF C# | تحويل ملفات أوتوكاد إلى PDF JPEG PNG في C# .NET
 type: docs
 weight: 30
-url: /ar/net/converting-cad-drawings-to-pdf-and-raster-image-formats/
+url: /ar/net/developer-guide/converting-cad-drawings-to-pdf-and-raster-image-formats/
 keywords: "DWG إلى PDF C#, DXF إلى PDF C#, DWF DWT إلى PDF C#, تحويل أوتوكاد, تحويل DWG, تحويل DWF, تحويل DWT, تحويل DXF, تحويل أوتوكاد إلى PDF, تحويل DWG إلى PDF, تحويل DWG إلى PNG, تحويل DWG إلى TIFF, تحويل DWG إلى JPG"
 description: استخدم محول C# .NET أوتوكاد إلى PDF لتحويل DWG أو DXF إلى PDF في C#. يمكنك تحويل DWG و DWF و DWT و DXF إلى PDF و JPEG و PNG و BMP و GIF و TIFF في C# .NET أيضًا.
 ---

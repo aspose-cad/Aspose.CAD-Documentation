@@ -2,7 +2,7 @@
 title: Licensing
 type: docs
 weight: 50
-url: /java/licensing/
+url: /java/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

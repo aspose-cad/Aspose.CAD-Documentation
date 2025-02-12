@@ -2,7 +2,7 @@
 title: مجوزها
 type: docs
 weight: 40
-url: /fa/python-net/licensing/
+url: /fa/python-net/getting-started/licensing/
 ---
 ## **فراخوانی setLicense**
 برای اعمال یک مجوز:

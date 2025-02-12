@@ -3,7 +3,7 @@ title: How to Run Aspose.CAD Docker image in Google Cloud
 type: docs
 description: "Run Aspose.CAD Docker image in Google Cloud."
 weight: 75
-url: /net/showcases/how-to-run-aspose-cad-docker-image-in-google-cloud
+url: /net/showcases/how-to-run-aspose-cad-docker-in-google-cloud/
 ---
 
 ## Prerequisites

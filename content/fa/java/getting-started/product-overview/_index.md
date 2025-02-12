@@ -2,7 +2,7 @@
 title: مرور محصول
 type: docs
 weight: 10
-url: /fa/java/product-overview/
+url: /fa/java/getting-started/product-overview/
 ---
 
 **به Aspose.CAD برای جاوا خوش آمدید**

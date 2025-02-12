@@ -2,7 +2,7 @@
 title: Лицензиране
 type: docs
 weight: 40
-url: /bg/python-net/licensing/
+url: /bg/python-net/getting-started/licensing/
 ---
 ## **Извикване на setLicense**
 За да приложите лиценз:

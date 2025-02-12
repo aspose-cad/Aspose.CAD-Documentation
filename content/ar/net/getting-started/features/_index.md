@@ -2,7 +2,7 @@
 title: الميزات
 type: docs
 weight: 30
-url: /ar/net/features/
+url: /ar/net/getting-started/features/
 ---
 
 ## **ميزات المنتج**

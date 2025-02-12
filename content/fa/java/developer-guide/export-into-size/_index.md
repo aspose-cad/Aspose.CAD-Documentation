@@ -2,7 +2,7 @@
 title: صادرات نقشه و طرح‌های DWG/DXF به اندازه مشخص شده
 type: docs
 weight: 40
-url: /fa/java/export-into-size/
+url: /fa/java/developer-guide/export-into-size/
 ---
 
 ## **صادرات مدل و همه طرح‌ها به اندازه PDF A4**

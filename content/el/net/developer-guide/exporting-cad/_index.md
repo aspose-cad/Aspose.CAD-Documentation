@@ -2,7 +2,7 @@
 title: Εξαγωγή CAD
 type: docs
 weight: 40
-url: /el/net/exporting-cad/
+url: /el/net/developer-guide/exporting-cad/
 ---
 
 ## **Εξαγωγή 3D Εικόνων AutoCAD σε PDF**

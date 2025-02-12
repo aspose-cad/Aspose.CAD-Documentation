@@ -2,7 +2,7 @@
 title: Εργασία με Υδατογράφημα
 type: docs
 weight: 60
-url: /el/javascript-net/working-with-watermark/
+url: /el/javascript-net/developer-guide/working-with-watermark/
 ---
 
 ## **Προσθήκη Υδατογραφήματος σε ένα DGN**

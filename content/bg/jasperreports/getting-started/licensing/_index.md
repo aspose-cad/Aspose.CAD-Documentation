@@ -2,7 +2,7 @@
 title: Лицензиране
 type: docs
 weight: 40
-url: /bg/jasperreports/licensing/
+url: /bg/jasperreports/getting-started/licensing/
 ---
 ## **Викайте setLicense**
 За да приложите лиценз:

@@ -2,7 +2,7 @@
 title: Callback-Fehler während des Exports und Ladevorgangs
 type: docs
 weight: 40
-url: /de/net/callback-errors-during-export-and-loading/
+url: /de/net/developer-guide/callback-errors-during-export-and-loading/
 ---
 
 ## **Überblick über Callback-Fehler während des Exports und Ladevorgangs**

@@ -2,7 +2,7 @@
 title: نصب
 type: docs
 weight: 30
-url: /fa/net/installation/
+url: /fa/net/getting-started/installation/
 ---
 
 ## **نصب Aspose.CAD برای .NET از طریق NuGet**

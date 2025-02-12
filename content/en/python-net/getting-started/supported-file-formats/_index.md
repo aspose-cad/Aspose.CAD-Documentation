@@ -2,7 +2,7 @@
 title: Supported File Formats
 type: docs
 weight: 60
-url: /python-net/supported-file-formats/
+url: /python-net/getting-started/supported-file-formats/
 ---
 
 ## **Supported File Formats**

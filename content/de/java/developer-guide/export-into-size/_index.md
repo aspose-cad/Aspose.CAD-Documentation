@@ -2,7 +2,7 @@
 title: Das Exportieren von DWG/DXF-Zeichnungen und Layouts in eine spezifische Größe
 type: docs
 weight: 40
-url: /de/java/export-into-size/
+url: /de/java/developer-guide/export-into-size/
 ---
 
 ## **Exportieren Sie das Modell und alle Layouts in A4 PDF-Größe**

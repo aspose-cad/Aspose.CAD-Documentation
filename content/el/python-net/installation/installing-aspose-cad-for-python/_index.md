@@ -2,7 +2,7 @@
 title: Εγκατάσταση του Aspose.CAD για Python
 type: docs
 weight: 20
-url: /el/python-net/installing-aspose-cad-for-python/
+url: /el/python-net/installation/installing-aspose-cad-for-python/
 ---
 
 ## **Εγκατάσταση του πακέτου aspose-cad**
@@ -10,25 +10,25 @@ url: /el/python-net/installing-aspose-cad-for-python/
 ### Χρήση του pip για την εγκατάσταση ενός πακέτου
 
 1. Για να εγκαταστήσετε το πακέτο [aspose.cad](https://pypi.org/project/aspose-cad/), οι ιστότοποι με το πακέτο έχουν μια επιπλέον περιγραφή της εντολής που πρέπει να εκτελεστεί στην κονσόλα:<br/>
-![pypi-install](/_assets/pypi-aspose-cad.png)
+![pypi-install](/_assets/python-net/install/pypi-aspose-cad.png)
 1. Ένα παράδειγμα εντολής για την εγκατάσταση ενός πακέτου μέσω της κονσόλας:
 {{< highlight plain >}}
 pip install aspose-cad
 {{< /highlight >}}
-![pip-install-aspose-cad](/_assets/pip-install-aspose.png)
+![pip-install-aspose-cad](/_assets/python-net/install/pip-install-aspose.png)
 
 ### Χρήση αρχείου WHL για την εγκατάσταση ενός πακέτου
 
 1. Για να κατεβάσετε το αρχείο whl, μεταβείτε στη σελίδα pypi του πακέτου [aspose.cad](https://pypi.org/project/aspose-cad/#files) και κατεβάστε το αρχείο<br/>
-![whl-download](/_assets/download-whl-file.png)<br/>
+![whl-download](/_assets/python-net/install/download-whl-file.png)<br/>
 1. Για να εγκαταστήσετε το πακέτο [aspose.cad](https://pypi.org/project/aspose-cad/), πρέπει να χρησιμοποιήσετε την εντολή pip με την πλήρη διαδρομή προς το αρχείο whl:
 {{< highlight plain >}}
 pip install C:\Users\User\Desktop\aspose_cad-23.6-py3-none-win_amd64.whl
 {{< /highlight >}}
-![install-whl-file](/_assets/install-whl-file-terminal.png)
+![install-whl-file](/_assets/python-net/install/install-whl-file-terminal.png)
 
 1. Μετά την εγκατάσταση, θα δούμε το πακέτο στον φάκελο site-package<br/>
-![site-package-aspose-cad](/_assets/site-package-aspose.png)
+![site-package-aspose-cad](/_assets/python-net/install/site-package-aspose.png)
 
 ## Παράδειγμα κώδικα
 Παράδειγμα κώδικα για την μετατροπή ενός αρχείου

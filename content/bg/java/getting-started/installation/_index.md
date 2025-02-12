@@ -2,7 +2,7 @@
 title: Инсталация
 type: docs
 weight: 30
-url: /bg/java/installation/
+url: /bg/java/getting-started/installation/
 ---
 
 ## **Инсталиране на Aspose.CAD за Java от Maven хранилище**

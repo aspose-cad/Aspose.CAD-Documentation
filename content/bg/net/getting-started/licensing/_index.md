@@ -2,7 +2,7 @@
 title: Лицензиране
 type: docs
 weight: 50
-url: /bg/net/licensing/
+url: /bg/net/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

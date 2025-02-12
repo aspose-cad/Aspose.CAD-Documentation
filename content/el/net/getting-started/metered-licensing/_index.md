@@ -2,7 +2,7 @@
 title: Μετρημένη Άδεια
 type: docs
 weight: 60
-url: /el/net/metered-licensing/
+url: /el/net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

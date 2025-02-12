@@ -2,7 +2,7 @@
 title: Nastavení ukázek
 type: docs
 weight: 40
-url: /cs/jasperreports/demos-setup/
+url: /cs/jasperreports/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

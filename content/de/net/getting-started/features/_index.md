@@ -2,7 +2,7 @@
 title: Funktionen
 type: docs
 weight: 30
-url: /de/net/features/
+url: /de/net/getting-started/features/
 ---
 
 ## **Produktmerkmale**

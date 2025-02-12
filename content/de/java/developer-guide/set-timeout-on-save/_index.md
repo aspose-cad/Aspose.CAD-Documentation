@@ -2,7 +2,7 @@
 title: Timeout festlegen beim Speichern
 type: docs
 weight: 70
-url: /de/java/set-timeout-on-save/
+url: /de/java/developer-guide/set-timeout-on-save/
 ---
 
 ## **Timeout festlegen beim Speichern**

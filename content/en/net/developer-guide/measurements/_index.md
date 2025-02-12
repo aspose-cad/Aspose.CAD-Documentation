@@ -2,7 +2,7 @@
 title: Measurements
 type: docs
 weight: 40
-url: /net/measurements/
+url: /net/developer-guide/measurements/
 ---
 
 ## **Area and length measurements**

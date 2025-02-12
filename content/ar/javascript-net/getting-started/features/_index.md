@@ -2,7 +2,7 @@
 title: الميزات
 type: docs
 weight: 30
-url: /ar/javascript-net/features/
+url: /ar/javascript-net/getting-started/features/
 ---
 
 ## **ميزات المنتج**

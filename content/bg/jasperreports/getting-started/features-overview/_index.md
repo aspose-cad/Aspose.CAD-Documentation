@@ -2,7 +2,7 @@
 title: Преглед на характеристиките
 type: docs
 weight: 20
-url: /bg/jasperreports/features-overview/
+url: /bg/jasperreports/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

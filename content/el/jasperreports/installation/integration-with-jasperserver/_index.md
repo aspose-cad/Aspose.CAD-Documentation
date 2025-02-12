@@ -2,7 +2,7 @@
 title: Ενοποίηση με το JasperServer
 type: docs
 weight: 20
-url: /el/jasperreports/integration-with-jasperserver/
+url: /el/jasperreports/installation/integration-with-jasperserver/
 ---
 {{% alert color="primary" %}}
 Για να ενοποιήσετε το Aspose.CAD για JasperReports με το JasperServer, είναι απαραίτητο να κάνετε αρκετά επιπλέον βήματα και να ενημερώσετε τα αρχεία ρυθμίσεων του JasperServer. Αυτό το άρθρο εξηγεί πώς.

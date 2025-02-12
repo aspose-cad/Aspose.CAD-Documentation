@@ -2,7 +2,7 @@
 title: Ρύθμιση αντικειμένων ATTRIB και MTEXT
 type: docs
 weight: 60
-url: /el/java/setting-attrib-and-mtext-objects/
+url: /el/java/developer-guide/setting-attrib-and-mtext-objects/
 ---
 
 ## **Ρύθμιση αντικειμένων ATTRIB και MTEXT**

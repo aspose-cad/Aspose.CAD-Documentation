@@ -2,7 +2,7 @@
 title: Measurements
 type: docs
 weight: 40
-url: /fa/net/measurements/
+url: /fa/net/developer-guide/measurements/
 ---
 
 ## **اندازه‌گیری مساحت و طول**

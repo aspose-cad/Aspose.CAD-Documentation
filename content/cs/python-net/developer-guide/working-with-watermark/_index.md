@@ -2,7 +2,7 @@
 title: Práce s vodoznakem
 type: docs
 weight: 60
-url: /cs/python-net/prace-s-vodoznakem/
+url: /cs/python-net/developer-guide/working-with-watermark/
 ---
 
 ## **Přidání vodoznaku do souboru DWG**

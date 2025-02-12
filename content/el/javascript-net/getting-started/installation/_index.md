@@ -2,7 +2,7 @@
 title: Εγκατάσταση
 type: docs
 weight: 30
-url: /el/javascript-net/installation/
+url: /el/javascript-net/getting-started/installation/
 ---
 
 ## **Εγκατάσταση του Aspose.CAD για JavaScript μέσω npm**

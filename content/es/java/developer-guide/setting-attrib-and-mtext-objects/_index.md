@@ -2,7 +2,7 @@
 title: Configuración de objetos ATTRIB y MTEXT
 type: docs
 weight: 60
-url: /es/java/setting-attrib-and-mtext-objects/
+url: /es/java/developer-guide/setting-attrib-and-mtext-objects/
 ---
 
 ## **Configuración de objetos ATTRIB y MTEXT**

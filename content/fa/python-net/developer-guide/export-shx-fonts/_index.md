@@ -2,7 +2,7 @@
 title: صادرات فونت‌های SHX
 type: docs
 weight: 40
-url: /fa/python-net/export-shx-fonts/
+url: /fa/python-net/developer-guide/export-shx-fonts/
 ---
 
 ## **صادرات فونت‌های SHX برای نقشه‌های DXF/DWG**

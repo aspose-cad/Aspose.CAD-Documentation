@@ -2,7 +2,7 @@
 title: Lizenzierung
 type: docs
 weight: 40
-url: /de/python-net/licensing/
+url: /de/python-net/getting-started/licensing/
 ---
 ## **Methode setLicense aufrufen**
 Um eine Lizenz anzuwenden:

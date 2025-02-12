@@ -2,7 +2,7 @@
 title: Exportando fuentes SHX
 type: docs
 weight: 40
-url: /es/python-net/export-shx-fonts/
+url: /es/python-net/developer-guide/export-shx-fonts/
 ---
 
 ## **Exportar fuentes SHX para dibujos DXF/DWG**

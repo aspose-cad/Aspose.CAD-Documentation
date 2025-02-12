@@ -2,7 +2,7 @@
 title: Εξαγωγή γραμματοσειρών SHX
 type: docs
 weight: 40
-url: /el/java/export-shx-fonts/
+url: /el/java/developer-guide/export-shx-fonts/
 ---
 
 ## **Εξαγωγή γραμματοσειρών SHX για σχέδια DXF/DWG**

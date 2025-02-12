@@ -2,7 +2,7 @@
 title: Erläuterung des Zwischenspeicherverhaltens von Aspose.CAD
 type: docs
 weight: 20
-url: /de/common/caching-behaviour-explanation
+url: /de/common/caching-behaviour-explanation/
 ---
 
 ## **Wie Aspose.CAD Daten zwischenspeichert**

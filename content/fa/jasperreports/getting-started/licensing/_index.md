@@ -2,7 +2,7 @@
 title: مجوز
 type: docs
 weight: 40
-url: /fa/jasperreports/licensing/
+url: /fa/jasperreports/getting-started/licensing/
 ---
 ## **فراخوانی setLicense**
 برای اعمال یک مجوز:

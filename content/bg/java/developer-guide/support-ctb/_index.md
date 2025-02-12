@@ -2,7 +2,7 @@
 title: Поддръжка на CTB файлове
 type: docs
 weight: 40
-url: /bg/java/support-ctb/
+url: /bg/java/developer-guide/support-ctb/
 ---
 
 ## **Поддръжка на CTB файлове**

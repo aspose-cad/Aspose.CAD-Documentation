@@ -2,7 +2,7 @@
 title: Επισκόπηση προϊόντος
 type: docs
 weight: 10
-url: /el/javascript-net/product-overview/
+url: /el/javascript-net/getting-started/product-overview/
 ---
 
 **Καλώς ήρθατε στο Aspose.CAD για JavaScript**

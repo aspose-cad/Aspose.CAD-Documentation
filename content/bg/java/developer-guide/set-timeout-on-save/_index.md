@@ -2,7 +2,7 @@
 title: Задайте времево изчакване при запазване
 type: docs
 weight: 70
-url: /bg/java/set-timeout-on-save/
+url: /bg/java/developer-guide/set-timeout-on-save/
 ---
 
 ## **Задайте времево изчакване при запазване**

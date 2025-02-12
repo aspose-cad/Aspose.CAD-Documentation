@@ -2,7 +2,7 @@
 title: Обяснение на поведението на кеширането на Aspose.CAD
 type: docs
 weight: 20
-url: /bg/common/caching-behaviour-explanation
+url: /bg/common/caching-behaviour-explanation/
 ---
 
 

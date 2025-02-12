@@ -3,7 +3,7 @@ title: Jak spustit Aspose.CAD v Dockeru
 type: docs
 description: "Spusťte Aspose.CAD v kontejneru Docker pro Linux, Windows Server a jakýkoli jiný operační systém."
 weight: 71
-url: /cs/jak-spustit-aspose-cad-v-dockeru
+url: /cs/net/showcases/how-to-run-aspose-cad-in-docker/
 ---
 
 ## Předpoklady
@@ -20,9 +20,9 @@ V tomto příkladu vytvoříte jednoduchou konzolovou aplikaci Hello World, kter
 Chcete-li vytvořit program Hello World, postupujte podle níže uvedených kroků:
 1. Jakmile je Docker nainstalován, ujistěte se, že používá linuxové kontejnery (výchozí). Pokud je to nutné, vyberte možnost Přepnout na Linuxové kontejnery z nabídky Docker Desktops.
 1. V programu Visual Studio vytvořte konzolovou aplikaci NET 6.<br>
-![Dialog s projektem konzolové aplikace NET 6](/_assets/1.png)<br>
+![Dialog s projektem konzolové aplikace NET 6](/_assets/showcases/docker/1.png)<br>
 1. Nainstalujte nejnovější verzi Aspose.CAD z NuGet.<br>
-![Aspose.CAD v NuGet](/_assets/2.png)<br>
+![Aspose.CAD v NuGet](/_assets/showcases/docker/2.png)<br>
 1. Jelikož aplikace bude spuštěna na Linuxu, může být nutné nainstalovat další písma. Můžete upřednostnit ttf-mscorefonts-installer.
 1. Jakmile jsou přidány všechny potřebné závislosti, napište jednoduchý program, který vytvoří elipsu a uloží ji jako obrázek:<br>
 

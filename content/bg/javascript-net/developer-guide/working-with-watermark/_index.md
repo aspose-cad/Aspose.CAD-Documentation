@@ -2,7 +2,7 @@
 title: Работа с воден знак
 type: docs
 weight: 60
-url: /bg/javascript-net/working-with-watermark/
+url: /bg/javascript-net/developer-guide/working-with-watermark/
 ---
 
 ## **Добавяне на воден знак в DGN**

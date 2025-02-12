@@ -2,7 +2,7 @@
 title: Installing Aspose.CAD for Python
 type: docs
 weight: 20
-url: /python-net/installing-aspose-cad-for-python/
+url: /python-net/installation/installing-aspose-cad-for-python/
 ---
 
 ## **Installation of the aspose-cad package**

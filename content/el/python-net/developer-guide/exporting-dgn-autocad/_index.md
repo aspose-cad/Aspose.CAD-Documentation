@@ -2,7 +2,7 @@
 title: Εξαγωγή ΔGN AutoCAD
 type: docs
 weight: 50
-url: /el/python-net/exporting-dgn-autocad/
+url: /el/python-net/developer-guide/exporting-dgn-autocad/
 ---
 
 ## **Εξαγωγή ΔGN AutoCAD σε μορφή PDF**

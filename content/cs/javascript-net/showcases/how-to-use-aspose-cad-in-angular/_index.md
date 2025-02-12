@@ -3,7 +3,7 @@ title: Jak používat Aspose.CAD v Angularu
 type: docs
 description: "Použití Aspose.CAD v Angularu."
 weight: 71
-url: /cs/javascript-net/how-to-use-aspose-cad-in-angular
+url: /cs/javascript-net/showcases/how-to-use-aspose-cad-in-angular/
 ---
 
 ## Prerekvizity

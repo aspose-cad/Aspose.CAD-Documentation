@@ -2,7 +2,7 @@
 title: کار با واترمارک
 type: docs
 weight: 60
-url: /fa/python-net/working-with-watermark/
+url: /fa/python-net/developer-guide/working-with-watermark/
 ---
 
 ## **اضافه کردن واترمارک در یک DWG**

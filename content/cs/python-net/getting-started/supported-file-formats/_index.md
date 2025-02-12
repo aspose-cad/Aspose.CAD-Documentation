@@ -2,7 +2,7 @@
 title: Podporované formáty souborů
 type: docs
 weight: 60
-url: /cs/python-net/podporovane-formaty-souboru/
+url: /cs/python-net/getting-started/supported-file-formats/
 ---
 
 ## **Podporované formáty souborů**

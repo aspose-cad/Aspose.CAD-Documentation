@@ -2,7 +2,7 @@
 title: تبدیل نقشه‌های CAD به فرمت‌های PDF و تصویر Raster
 type: docs
 weight: 30
-url: /fa/java/converting-cad-drawings-to-pdf-and-raster-image-formats/
+url: /fa/java/developer-guide/converting-cad-drawings-to-pdf-and-raster-image-formats/
 ---
 
 {{% alert color="primary" %}} 

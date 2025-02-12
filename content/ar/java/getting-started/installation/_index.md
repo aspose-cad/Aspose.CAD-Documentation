@@ -2,7 +2,7 @@
 title: التثبيت
 type: docs
 weight: 30
-url: /ar/java/installation/
+url: /ar/java/getting-started/installation/
 ---
 
 ## **تثبيت Aspose.CAD لjava من مستودع Maven**

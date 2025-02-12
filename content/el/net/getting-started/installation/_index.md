@@ -2,7 +2,7 @@
 title: Εγκατάσταση
 type: docs
 weight: 30
-url: /el/net/installation/
+url: /el/net/getting-started/installation/
 ---
 
 ## **Εγκατάσταση του Aspose.CAD για .NET μέσω του NuGet**

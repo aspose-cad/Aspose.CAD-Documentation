@@ -2,7 +2,7 @@
 title: Licenciamiento Medido
 type: docs
 weight: 40
-url: /es/python-net/metered-licensing/
+url: /es/python-net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

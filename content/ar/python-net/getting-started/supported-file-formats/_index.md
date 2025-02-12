@@ -2,7 +2,7 @@
 title: تنسيقات الملفات المدعومة
 type: docs
 weight: 60
-url: /ar/python-net/supported-file-formats/
+url: /ar/python-net/getting-started/supported-file-formats/
 ---
 
 ## **تنسيقات الملفات المدعومة**

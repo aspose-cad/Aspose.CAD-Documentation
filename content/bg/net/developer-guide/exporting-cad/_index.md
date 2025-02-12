@@ -2,7 +2,7 @@
 title: Експортиране на CAD
 type: docs
 weight: 40
-url: /bg/net/exporting-cad/
+url: /bg/net/developer-guide/exporting-cad/
 ---
 
 ## **Експортиране на 3D изображения на AutoCAD в PDF**

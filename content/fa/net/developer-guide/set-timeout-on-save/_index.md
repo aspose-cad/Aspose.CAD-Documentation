@@ -2,7 +2,7 @@
 title: Set timeout on save
 type: docs
 weight: 70
-url: /fa/net/set-timeout-on-save/
+url: /fa/net/developer-guide/set-timeout-on-save/
 ---
 
 ## **تنظیم زمان توقف در ذخیره‌سازی**

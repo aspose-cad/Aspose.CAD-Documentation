@@ -3,7 +3,7 @@ title: Как да стартирате Aspose.CAD в мултиплатформ
 type: docs
 description: "Стартиране на Aspose.CAD в мултиплатформен App UI (MAUI)."
 weight: 71
-url: /bg/net/how-to-run-aspose-cad-in-maui
+url: /bg/net/showcases/how-to-run-aspose-cad-in-maui/
 ---
 
 ## Предварителни изисквания
@@ -27,22 +27,22 @@ url: /bg/net/how-to-run-aspose-cad-in-maui
 
 1. За да създадете .NET MAUI приложения, ще ви трябва най-новата версия на Visual Studio 2022
 1. Или инсталирайте Visual Studio, или модифицирайте съществуващата си инсталация и инсталирайте разработваща натовареност за .NET Мултиплатформен App UI с подразбиращите се опции за инсталация:<br>
-![Visual installer](/_assets/visual-installer.png)
+![Visual installer](/_assets/showcases/maui/visual-installer.png)
 
 
 ## Създаване на проект
 
 1. Стартирайте Visual Studio. В началния прозорец кликнете върху „Създаване на нов проект“, за да създадете нов проект:<br>
-![Create project](/_assets/create-project.png)<br>
+![Create project](/_assets/showcases/maui/create-project.png)<br>
 1. В прозореца „Създаване на нов проект“, изберете MAUI от падащото меню „Всички типове проекти“, изберете шаблона за .NET MAUI App и кликнете върху бутона „Следващ“:<br>
-![Select project type](/_assets/select-project.png)<br>
+![Select project type](/_assets/showcases/maui/select-project.png)<br>
 1. В прозореца „Конфигуриране на новия проект“ дайте име на проекта си, изберете подходящо местоположение за него и кликнете върху бутона „Следващ“:<br>
-![Select project path](/_assets/select-project-path.png)<br>
+![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
 1. В прозореца „Допълнителна информация“ изберете версията на .NET, която искате да целите, и кликнете върху бутона „Създаване“:<br>
-![Target Framework](/_assets/select-framework.png)<br>
+![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
 1. Изчакайте проектът да бъде създаден и зависимостите му да бъдат възстановени
 1. Инсталирайте най-новата версия на Aspose.CAD от NuGet:<br>
-![NuGet](/_assets/nuget.png)<br>
+![NuGet](/_assets/showcases/maui/nuget.png)<br>
 1. Заменете кода в MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Дебъгване на Windows машина
 
 1. В лентата с инструменти на Visual Studio използвайте падащото меню „Debug Target“, за да изберете Framework и след това записа net7.0-windows:<br>
-![Debug Target](/_assets/windows-mode.png)<br>
+![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
 1. В лентата с инструменти на Visual Studio натиснете бутона "Windows Machine", за да изградите и стартирате приложението:<br>
-![Start Debugging on Windows Machine](/_assets/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
 1. В работещото приложение натиснете бутона "Изберете файл" няколко пъти и наблюдавайте, че броят на кликванията на бутона се увеличава:<br>
-![Home Page](/_assets/windows-home-page.png)<br>
+![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
 1. Изберете необходимия файл и кликнете „отвори“:<br>
-![Select file](/_assets/select-file.png)<br>
+![Select file](/_assets/showcases/maui/select-file.png)<br>
 1. След обработката на файла изображение на конвертирания файл трябва да се появи на екрана:<br>
-![The result of debugging windows](/_assets/windows-result.png)
+![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
 
 
 ## Инсталиране на Android емулатор
 
 1. В лентата с инструменти на Visual Studio използвайте падащото меню „Debug Target“, за да изберете Android Emulators и след това записа Android Emulator
 1. В лентата с инструменти на Visual Studio натиснете бутона "Android Emulator":<br>
-![Start install Emulator button](/_assets/start-install-emulator.png)<br>
+![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. В прозореца „Лицензионно споразумение на Android SDK“ натиснете бутона "Приемам":<br>
-![Android SDK-License Agreement](/_assets/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
 1. В прозореца „Лицензионно споразумение на Android SDK“ натиснете бутона "Приемам":<br>
-![Android SDK ARM -License Agreement](/_assets/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
 1. В диалоговия прозорец на Контрол на потребителския акаунт натиснете бутона "Да":<br>
-![SDK Manager](/_assets/android-sdk-3.png)<br>
+![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
 1. В прозореца за приемане на лицензиите натиснете бутона "Приемам":<br>
-![SDK ARManagerM -License Agreement](/_assets/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
 1. В лентата с инструменти на Visual Studio натиснете бутона "Android Emulator":<br>
-![Start install Emulator button](/_assets/start-install-emulator.png)<br>
+![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. В диалоговия прозорец на Контрол на потребителския акаунт натиснете бутона "Да":<br>
-![Android Device Manager](/_assets/android-device-manager.png)<br>
+![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
 1. В прозореца "Ново устройство" натиснете бутона "Създай":<br>
-![New Android Device](/_assets/android-new-device.png)<br>
+![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
 1. Затворете прозореца на мениджъра на Android устройства
 
 
 ## Дебъгване с Android Emulator
 
 1. В лентата с инструменти на Visual Studio натиснете бутона Pixel 5 - API 33 (Android 13.0 - API 33), за да изградите и стартирате приложението:<br>
-![Select android Emulator](/_assets/select-android-emulator.png)<br>
+![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
 1. В работещото приложение в Android емулатора натиснете бутона „Изберете файл“ няколко пъти и наблюдавайте, че броят на кликванията на бутона се увеличава:<br>
-![Android Emulator Home Page](/_assets/android-home-page.png)<br>
+![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
 1. Изберете необходимия файл и кликнете „изберете“:<br>
-![Select file in andoid](/_assets/android-select-file.png)<br>
+![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
 1. След обработката на файла изображение на конвертирания файл трябва да се появи на екрана:<br>
-![The result of debugging android](/_assets/android-result.png)
+![The result of debugging android](/_assets/showcases/maui/android-result.png)
 
 
 ## Повече примери

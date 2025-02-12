@@ -2,7 +2,7 @@
 title: Χαρακτηριστικά
 type: docs
 weight: 30
-url: /el/javascript-net/features/
+url: /el/javascript-net/getting-started/features/
 ---
 
 ## **Χαρακτηριστικά Προϊόντος**

@@ -2,7 +2,7 @@
 title: الكيانات ذات بنية SAT/SAB
 type: docs
 weight: 40
-url: /ar/java/support-sat-sab/
+url: /ar/java/developer-guide/entities_with-sat-and-sab/
 ---
 
 ## **الكائنات ذات بنية SAT/SAB**

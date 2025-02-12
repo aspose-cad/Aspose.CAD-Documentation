@@ -2,7 +2,7 @@
 title: Omezení rozhraní API
 type: docs
 weight: 80
-url: /cs/net/api-limitations/
+url: /cs/net/developer-guide/api-limitations/
 ---
 
 ## **Informace o tvůrci 3D modelů CAD**

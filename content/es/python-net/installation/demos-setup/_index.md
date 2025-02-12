@@ -2,7 +2,7 @@
 title: Configuración de Demos
 type: docs
 weight: 40
-url: /es/python-net/demos-setup/
+url: /es/python-net/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

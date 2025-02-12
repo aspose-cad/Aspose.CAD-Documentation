@@ -2,7 +2,7 @@
 title: Explaining caching behaviour of Aspose.CAD
 type: docs
 weight: 20
-url: /common/caching-behaviour-explanation
+url: /common/caching-behaviour-explanation/
 ---
 
 

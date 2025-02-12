@@ -2,7 +2,7 @@
 title: Μετρούμενη Άδεια
 type: docs
 weight: 40
-url: /el/python-net/metered-licensing/
+url: /el/python-net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

@@ -2,7 +2,7 @@
 title: Поддържани файлови формати
 type: docs
 weight: 60
-url: /bg/python-net/supported-file-formats/
+url: /bg/python-net/getting-started/supported-file-formats/
 ---
 
 ## **Поддържани файлови формати**

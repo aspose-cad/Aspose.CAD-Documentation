@@ -2,7 +2,7 @@
 title: ترخيص Metered
 type: docs
 weight: 60
-url: /ar/net/metered-licensing/
+url: /ar/net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

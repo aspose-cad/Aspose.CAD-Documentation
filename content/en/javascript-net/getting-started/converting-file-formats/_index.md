@@ -2,7 +2,7 @@
 title: Сonverting File Formats
 type: docs
 weight: 20
-url: /javascript-net/converting-file-formats/
+url: /javascript-net/getting-started/converting-file-formats/
 ---
 
 ## **Сonverting File Formats**

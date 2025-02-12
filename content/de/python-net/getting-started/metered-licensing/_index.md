@@ -2,7 +2,7 @@
 title: Abgerechnete Lizenzierung
 type: docs
 weight: 40
-url: /de/python-net/metered-licensing/
+url: /de/python-net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

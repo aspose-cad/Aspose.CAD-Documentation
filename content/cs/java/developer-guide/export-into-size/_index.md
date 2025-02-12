@@ -2,7 +2,7 @@
 title: Exportování výkresů DWG/DXF a rozvržení do určené velikosti
 type: docs
 weight: 40
-url: /cs/java/export-into-size/
+url: /cs/java/developer-guide/export-into-size/
 ---
 
 ## **Export Modelu a všech rozvržení do velikosti A4 PDF**

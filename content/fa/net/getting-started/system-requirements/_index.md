@@ -2,7 +2,7 @@
 title: الزامات سیستم
 type: docs
 weight: 40
-url: /fa/net/system-requirements/
+url: /fa/net/getting-started/system-requirements/
 ---
 
 ## **سیستم‌ عامل‌های پشتیبانی شده**

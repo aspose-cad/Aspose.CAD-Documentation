@@ -2,7 +2,7 @@
 title: Nastavení časového limitu ukládání
 type: docs
 weight: 70
-url: /cs/net/set-timeout-on-save/
+url: /cs/net/developer-guide/set-timeout-on-save/
 ---
 
 ## **Nastavení časového limitu ukládání**

@@ -2,7 +2,7 @@
 title: Грешки при обратен извикване по време на експортиране и зареждане
 type: docs
 weight: 40
-url: /bg/net/callback-errors-during-export-and-loading/
+url: /bg/net/developer-guide/callback-errors-during-export-and-loading/
 ---
 
 ## **Преглед на грешките при обратен извикване по време на експортиране и зареждане**

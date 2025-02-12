@@ -2,7 +2,7 @@
 title: Απαιτήσεις Συστήματος
 type: docs
 weight: 40
-url: /el/net/system-requirements/
+url: /el/net/getting-started/system-requirements/
 ---
 
 ## **Υποστηριζόμενα Λειτουργικά Συστήματα**

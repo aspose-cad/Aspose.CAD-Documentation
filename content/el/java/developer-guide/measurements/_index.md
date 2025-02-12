@@ -2,7 +2,7 @@
 title: Μετρήσεις
 type: docs
 weight: 40
-url: /el/java/measurements/
+url: /el/java/developer-guide/measurements/
 ---
 
 ## **Μετρήσεις επιφάνειας και μήκους**

@@ -2,7 +2,7 @@
 title: تصدير تنسيق DGN لـ AutoCAD
 type: docs
 weight: 50
-url: /ar/java/exporting-dgn-autocad/
+url: /ar/java/developer-guide/exporting-dgn-autocad/
 ---
 
 ## **تصدير تنسيق DGN لـ AutoCAD إلى PDF**

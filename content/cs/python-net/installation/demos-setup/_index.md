@@ -2,7 +2,7 @@
 title: Nastavení ukázek
 type: dokumentace
 weight: 40
-url: /cs/python-net/nastaveni-ukazek/
+url: /cs/python-net/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

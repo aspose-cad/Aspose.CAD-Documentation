@@ -3,7 +3,7 @@ title: So führen Sie das Aspose.CAD Docker-Image in Azure Function aus
 type: docs
 description: "Führen Sie das Aspose.CAD Docker-Image in Azure Function aus."
 weight: 71
-url: /de/java/how-to-run-aspose-cad-docker-image-in-azure-function
+url: /de/java/getting-started/how-to-run-aspose-cad-docker-in-azure-function/
 ---
 
 ## Voraussetzungen

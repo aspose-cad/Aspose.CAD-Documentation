@@ -3,7 +3,7 @@ title: Как да стартирате Aspose.CAD в Docker
 type: docs
 description: "Стартирайте Aspose.CAD в контейнер Docker за Linux, Windows Server и всяка операционна система."
 weight: 71
-url: /bg/net/how-to-run-aspose-cad-in-docker
+url: /bg/net/showcases/how-to-run-aspose-cad-in-docker/
 ---
 
 ## Предварителни изисквания
@@ -20,9 +20,9 @@ url: /bg/net/how-to-run-aspose-cad-in-docker
 За да създадете програмата Hello World, следвайте стъпките по-долу:
 1. След като Docker е инсталиран, уверете се, че използва Linux контейнери (по подразбиране). При необходимост изберете опцията "Смяна на Linux контейнери" от менюто на Docker Desktop.
 1. В Visual Studio, създайте NET 6 конзолно приложение.<br>
-![Диалогов прозорец на проект за NET 6 конзолно приложение](/_assets/1.png)<br>
+![Диалогов прозорец на проект за NET 6 конзолно приложение](/_assets/showcases/docker/1.png)<br>
 1. Инсталирайте най-новата версия на Aspose.CAD от NuGet.<br>
-![Aspose.CAD в NuGet](/_assets/2.png)<br>
+![Aspose.CAD в NuGet](/_assets/showcases/docker/2.png)<br>
 1. Тъй като приложението ще се стартира под Linux, може да се наложи да инсталирате допълнителни шрифтове. Можете да предпочетете ttf-mscorefonts-installer.
 1. Когато всички необходими зависимости са добавени, напишете проста програма, която създава елипса и я запазва като изображение:<br>
 

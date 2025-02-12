@@ -2,7 +2,7 @@
 title: Blind watermark
 type: docs
 weight: 11
-url: /net/blind-watermark
+url: /net/developer-guide/blind-watermark/
 ---
 
 ## **Blind watermark**

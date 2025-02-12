@@ -2,7 +2,7 @@
 title: Χρεωμένο Licensing
 type: docs
 weight: 60
-url: /el/java/metered-licensing/
+url: /el/java/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

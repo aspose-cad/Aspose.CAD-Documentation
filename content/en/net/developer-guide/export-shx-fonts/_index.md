@@ -2,7 +2,7 @@
 title: Exporting SHX fonts
 type: docs
 weight: 40
-url: /net/export-shx-fonts/
+url: /net/developer-guide/export-shx-fonts/
 ---
 
 ## **Export SHX fonts for DXF/DWG drawings**

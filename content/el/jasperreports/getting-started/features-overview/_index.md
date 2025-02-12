@@ -2,7 +2,7 @@
 title: Επισκόπηση Χαρακτηριστικών
 type: docs
 weight: 20
-url: /el/jasperreports/features-overview/
+url: /el/jasperreports/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

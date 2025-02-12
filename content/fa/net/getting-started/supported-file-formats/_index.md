@@ -2,7 +2,7 @@
 title: فرمت‌های فایل پشتیبانی شده
 type: docs
 weight: 20
-url: /fa/net/supported-file-formats/
+url: /fa/net/getting-started/supported-file-formats/
 ---
 
 ## **فرمت‌های فایل پشتیبانی شده**

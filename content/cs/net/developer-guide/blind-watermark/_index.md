@@ -2,7 +2,7 @@
 title: Slepé vodoznak
 type: docs
 weight: 11
-url: /cs/net/blind-watermark
+url: /cs/net/developer-guide/blind-watermark/
 ---
 
 ## **Slepé vodoznak**

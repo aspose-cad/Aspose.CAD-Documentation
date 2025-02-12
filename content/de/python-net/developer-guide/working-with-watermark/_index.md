@@ -2,7 +2,7 @@
 title: Mit Wasserzeichen arbeiten
 type: docs
 weight: 60
-url: /de/python-net/working-with-watermark/
+url: /de/python-net/developer-guide/working-with-watermark/
 ---
 
 ## **Wasserzeichen in eine DWG hinzufügen**

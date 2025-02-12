@@ -2,7 +2,7 @@
 title: Formatos de archivo compatibles
 type: docs
 weight: 20
-url: /es/net/supported-file-formats/
+url: /es/net/getting-started/supported-file-formats/
 ---
 
 ## **Formatos de archivo compatibles**

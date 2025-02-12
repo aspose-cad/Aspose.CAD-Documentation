@@ -2,7 +2,7 @@
 title: Omezení rozhraní API
 type: docs
 weight: 80
-url: /cs/python-net/api-limitations/
+url: /cs/python-net/developer-guide/api-limitations/
 ---
 
 ## **Informace o tvůrci CAD modelu**

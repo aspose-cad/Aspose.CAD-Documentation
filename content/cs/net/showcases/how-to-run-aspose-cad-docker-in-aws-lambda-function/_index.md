@@ -3,7 +3,7 @@ title: Jak spustit obraz Aspose.CAD Docker v AWS Lambda funkci
 type: docs
 description: "Spusťte obraz Aspose.CAD Docker v AWS Lambda funkci."
 weight: 74
-url: /cs/jak-spustit-obraz-aspose-cad-docker-v-aws-lambda-funkci
+url: /cs/net/showcases/how-to-run-aspose-cad-docker-in-aws-lambda-function/
 ---
 
 ## Předpoklady
@@ -25,16 +25,16 @@ Ujistěte se, že máte dostatečná oprávnění ke vytvoření funkcí AWS Lam
 
 Chcete-li vytvořit program pro AWS Lambda Funkci, postupujte podle níže uvedených kroků:
 1. Vytvořte projekt AWS Lambda.<br>
-![Tlačítko vytvoření funkce AWS](/_assets/create-project.png)<br>
+![Tlačítko vytvoření funkce AWS](/_assets/showcases/aws/create-project.png)<br>
 1. Vyberte .NET 6 (Obraz kontejneru) a klikněte na tlačítko 'Dokončit'.<br>
-![Tlačítko vytvoření kontejnerové funkce](/_assets/create-container.png)<br>
+![Tlačítko vytvoření kontejnerové funkce](/_assets/showcases/aws/create-container.png)<br>
 1. Otevřete průzkumníka AWS ve Visual Studiu (Zobrazení-> Průzkumník AWS).
 1. Přidejte profil přístupových údajů AWS do průzkumníka AWS.<br>
-![Profil přístupových údajů](/_assets/add-aws-credentials-profile.png)<br>
+![Profil přístupových údajů](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Zadejte Identifikační ID klíče a tajný přístupový klíč, tyto klíče můžete získat v bezpečnostních přístupech nebo kontaktujte administrátora a získejte soubor CSV pro autorizaci.<br>
-![Nastavení profilu účtu](/_assets/account-profile.png)<br>
+![Nastavení profilu účtu](/_assets/showcases/aws/account-profile.png)<br>
 1. Nainstalujte nejnovější knihovny z NuGet.<br>
-![Správce NuGet](/_assets/nuget-manager.png)<br>
+![Správce NuGet](/_assets/showcases/aws/nuget-manager.png)<br>
 1. Ukázkový kód pro převod obrázku CAD na soubor PDF.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Editujte soubor DockerFile podle sekce <a href="#nastavení-dockerfile">Nastavení Dockerfile</a>.
 1. Spusťte Docker Desktop.
 1. Publikujte do AWS Lambda.<br>
-![Publikovat AWS lambda](/_assets/publish-aws.png)<br>
+![Publikovat AWS lambda](/_assets/showcases/aws/publish-aws.png)<br>
 1. Upravte konfiguraci nahrání.<br>
-![Nahrát AWS lambda](/_assets/upload-aws-lambda.png)<br>
+![Nahrát AWS lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Klikněte na tlačítko 'Nahrát'.<br>
-![Nahrát AWS lambda poslední](/_assets/upload-aws-lambda-finish.png)<br>
+![Nahrát AWS lambda poslední](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Přejděte do prostředí AWS a vyberte Lambda.<br>
-![AWS Lambda](/_assets/select-aws-lambda.png)<br>
+![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Vyberte vaši novou funkci a vytvořte funkci pro vytvoření URL adresy.<br>
-![Nastavení funkce url adresy](/_assets/create-function-url.png)<br>
+![Nastavení funkce url adresy](/_assets/showcases/aws/create-function-url.png)<br>
 1. Zvolte typ ověření
 - AWS_IAM - Pouze ověření IAM uživatelů a rolí můžou zasílat požadavky na URL adresu vaší funkce.
 - NONE - Lambda nebude provádět ověření IAM u požadavků na URL funkce. Koncový bod URL bude veřejný, pokud neimplementujete vlastní logiku autorizace ve vaší funkci.
@@ -126,7 +126,7 @@ Výše uvedený je jednoduchý Dockerfile, který obsahuje tyto pokyny:
 ## Příklad spuštění
 
 1. Nastavení v Postmanu.<br>
-![Nastavení Postmanu](/_assets/postman-settings.png)<br>
+![Nastavení Postmanu](/_assets/showcases/aws/postman-settings.png)<br>
 1. Vyberte libovolný soubor DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Klikněte na tlačítko odeslat.
 

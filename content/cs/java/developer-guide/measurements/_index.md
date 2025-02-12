@@ -2,7 +2,7 @@
 title: Měření
 type: docs
 weight: 40
-url: /cs/java/measurements/
+url: /cs/java/developer-guide/measurements/
 ---
 
 ## **Měření plochy a délky**

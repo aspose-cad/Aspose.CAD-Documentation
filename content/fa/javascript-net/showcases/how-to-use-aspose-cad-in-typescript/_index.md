@@ -3,7 +3,7 @@ title: چگونه از Aspose.CAD در TypeScript استفاده کنیم
 type: docs
 description: "استفاده از Aspose.CAD در TypeScript."
 weight: 74
-url: /fa/javascript-net/how-to-use-aspose-cad-in-typescript
+url: /fa/javascript-net/showcases/how-to-use-aspose-cad-in-typescript/
 ---
 
 ## پیش‌نیازها

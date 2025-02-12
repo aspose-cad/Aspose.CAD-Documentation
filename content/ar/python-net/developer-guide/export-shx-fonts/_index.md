@@ -2,7 +2,7 @@
 title: تصدير خطوط SHX
 type: docs
 weight: 40
-url: /ar/python-net/export-shx-fonts/
+url: /ar/python-net/developer-guide/export-shx-fonts/
 ---
 
 ## **تصدير خطوط SHX لرسومات DXF/DWG**

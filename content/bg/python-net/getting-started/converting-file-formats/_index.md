@@ -2,7 +2,7 @@
 title: Конвертиране на файлови формати
 type: docs
 weight: 60
-url: /bg/python-net/converting-file-formats/
+url: /bg/python-net/getting-started/converting-file-formats/
 ---
 
 ## **Конвертиране на файлови формати**

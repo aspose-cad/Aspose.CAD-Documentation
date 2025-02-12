@@ -2,7 +2,7 @@
 title: تبدیل فرمت های فایل
 type: docs
 weight: 20
-url: /fa/net/converting-file-formats/
+url: /fa/net/getting-started/converting-file-formats/
 ---
 
 ## **تبدیل فرمت های فایل**

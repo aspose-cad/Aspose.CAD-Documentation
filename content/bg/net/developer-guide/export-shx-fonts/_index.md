@@ -2,7 +2,7 @@
 title: Експорт на SHX шрифтове
 type: docs
 weight: 40
-url: /bg/net/export-shx-fonts/
+url: /bg/net/developer-guide/export-shx-fonts/
 ---
 
 ## **Експорт на SHX шрифтове за DXF/DWG чертежи**

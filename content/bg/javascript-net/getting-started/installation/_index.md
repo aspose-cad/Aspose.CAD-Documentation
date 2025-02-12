@@ -2,7 +2,7 @@
 title: Инсталация
 type: docs
 weight: 30
-url: /bg/javascript-net/installation/
+url: /bg/javascript-net/getting-started/installation/
 ---
 
 ## **Инсталиране на Aspose.CAD за JavaScript чрез npm**

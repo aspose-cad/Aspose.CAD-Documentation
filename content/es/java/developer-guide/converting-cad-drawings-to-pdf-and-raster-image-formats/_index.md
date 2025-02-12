@@ -2,7 +2,7 @@
 title: Conversión de dibujos CAD a formatos PDF e imagen de ráster
 type: docs
 weight: 30
-url: /es/java/converting-cad-drawings-to-pdf-and-raster-image-formats/
+url: /es/java/developer-guide/converting-cad-drawings-to-pdf-and-raster-image-formats/
 ---
 
 {{% alert color="primary" %}} 

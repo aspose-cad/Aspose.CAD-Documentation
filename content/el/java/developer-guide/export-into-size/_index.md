@@ -2,7 +2,7 @@
 title: Εξαγωγή σχεδίου DWG/DXF και διατάξεων σε καθορισμένο μέγεθος
 type: docs
 weight: 40
-url: /el/java/export-into-size/
+url: /el/java/developer-guide/export-into-size/
 ---
 
 ## **Εξαγωγή Μοντέλου και όλων των διατάξεων σε μέγεθος PDF A4**

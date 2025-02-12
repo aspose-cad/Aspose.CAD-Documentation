@@ -2,7 +2,7 @@
 title: صادرات CAD
 type: docs
 weight: 40
-url: /fa/net/exporting-cad/
+url: /fa/net/developer-guide/exporting-cad/
 ---
 
 ## **صادرات تصاویر 3D AutoCAD به PDF**

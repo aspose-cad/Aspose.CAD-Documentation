@@ -2,7 +2,7 @@
 title: Σφάλματα Callback κατά τη διάρκεια εξαγωγής και φόρτωσης
 type: docs
 weight: 40
-url: /el/net/callback-errors-during-export-and-loading/
+url: /el/net/developer-guide/callback-errors-during-export-and-loading/
 ---
 
 ## **Αξιολόγηση σφαλμάτων callback κατά τη διάρκεια εξαγωγής και φόρτωσης**

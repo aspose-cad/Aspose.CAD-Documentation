@@ -2,7 +2,7 @@
 title: مقدمه
 type: docs
 weight: 10
-url: /fa/jasperreports/introduction/
+url: /fa/jasperreports/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

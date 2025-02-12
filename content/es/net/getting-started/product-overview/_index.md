@@ -2,7 +2,7 @@
 title: Visión general del producto
 type: docs
 weight: 10
-url: /es/net/product-overview/
+url: /es/net/getting-started/product-overview/
 ---
 
 **Bienvenido a Aspose.CAD para .NET**
@@ -21,7 +21,7 @@ Utilizar Aspose.CAD para .NET en su proyecto le brinda los siguientes beneficios
 ## **A primera vista**
 Una visión general de las principales capacidades de conversión, representación e informes de Aspose.CAD para .NET.
 
-![todo:image_alt_text](/es/_assets/product-overview_2.png)
+![todo:image_alt_text](/_assets/net/product-overview_2.png)
 
 ## **Características avanzadas de la API**
 - Admite las versiones más recientes de archivos AutoCAD DWG, DWF, DWT y DXF
@@ -37,4 +37,4 @@ Aspose.CAD para .NET admite
 - .NET Framework (incluida la aplicación ASP.NET y la aplicación de Windows.)
 - .NET Core
 
-![todo:image_alt_text](/es/_assets/product-overview_3.png)
+![todo:image_alt_text](/_assets/net/product-overview_3.png)

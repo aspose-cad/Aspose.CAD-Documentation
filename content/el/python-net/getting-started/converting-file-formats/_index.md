@@ -2,7 +2,7 @@
 title: Μετατροπή Μορφών Αρχείων
 type: docs
 weight: 60
-url: /el/python-net/converting-file-formats/
+url: /el/python-net/getting-started/converting-file-formats/
 ---
 
 ## **Μετατροπή Μορφών Αρχείων**

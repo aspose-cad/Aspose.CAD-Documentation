@@ -2,7 +2,7 @@
 title: ارزیابی Aspose.CAD
 type: docs
 weight: 50
-url: /fa/python-net/evaluate-aspose-cad/
+url: /fa/python-net/getting-started/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}
@@ -13,7 +13,7 @@ url: /fa/python-net/evaluate-aspose-cad/
 
 نسخه ارزیابی Aspose.CAD برای Python (بدون مشخص کردن مجوز) قابلیت‌های محصول را تا حدی ارائه می‌دهد اما کامل نیست. یکی از محدودیت‌ها این است که همیشه واترمارک ارزیابی را روی فایل‌های خروجی تزریق می‌کند.
 
-![مثال صادرات Aspose.CAD برای Python](/fa/_assets/AreaChartReport.jpg)
+![مثال صادرات Aspose.CAD برای Python](/_assets/jasper/AreaChartReport.jpg)
 
 **شکل:** هشدار ارزیابی
 

@@ -2,7 +2,7 @@
 title: Blindes Wasserzeichen
 type: docs
 weight: 11
-url: /de/net/blind-watermark
+url: /de/net/developer-guide/blind-watermark/
 ---
 
 ## **Blindes Wasserzeichen**

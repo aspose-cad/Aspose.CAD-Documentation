@@ -2,7 +2,7 @@
 title: لایسنس متری
 type: docs
 weight: 40
-url: /fa/python-net/metered-licensing/
+url: /fa/python-net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

@@ -2,7 +2,7 @@
 title: Как да изпълните примерите
 type: документация
 weight: 70
-url: /bg/net/how-to-run-the-examples/
+url: /bg/net/showcases/how-to-run-the-examples/
 ---
 
 ## **Изисквания за софтуер**

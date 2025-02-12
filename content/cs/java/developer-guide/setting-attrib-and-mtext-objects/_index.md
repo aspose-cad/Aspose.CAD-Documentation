@@ -2,7 +2,7 @@
 title: Nastavení objektů ATTRIB a MTEXT
 type: docs
 weight: 60
-url: /cs/java/setting-attrib-and-mtext-objects/
+url: /cs/java/developer-guide/setting-attrib-and-mtext-objects/
 ---
 
 ## **Nastavení objektů ATTRIB a MTEXT**

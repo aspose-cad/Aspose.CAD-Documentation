@@ -2,7 +2,7 @@
 title: Експортиране на SHX шрифтове
 type: docs
 weight: 40
-url: /bg/python-net/export-shx-fonts/
+url: /bg/python-net/developer-guide/export-shx-fonts/
 ---
 
 ## **Експортиране на SHX шрифтове за чертежи DXF/DWG**

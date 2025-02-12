@@ -2,7 +2,7 @@
 title: التثبيت
 type: docs
 weight: 30
-url: /ar/net/installation/
+url: /ar/net/getting-started/installation/
 ---
 
 ## **تثبيت Aspose.CAD لـ .NET من خلال NuGet**

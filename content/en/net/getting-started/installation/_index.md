@@ -2,7 +2,7 @@
 title: Installation
 type: docs
 weight: 30
-url: /net/installation/
+url: /net/getting-started/installation/
 ---
 
 ## **Installing Aspose.CAD for .NET through NuGet**

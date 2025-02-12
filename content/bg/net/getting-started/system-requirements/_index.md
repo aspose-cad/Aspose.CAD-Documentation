@@ -2,7 +2,7 @@
 title: Системни изисквания
 type: docs
 weight: 40
-url: /bg/net/system-requirements/
+url: /bg/net/getting-started/system-requirements/
 ---
 
 ## **Поддържани операционни системи**

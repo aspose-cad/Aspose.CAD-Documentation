@@ -2,7 +2,7 @@
 title: Exportování CAD souborů
 type: docs
 weight: 40
-url: /cs/net/exporting-cad/
+url: /cs/net/developer-guide/exporting-cad/
 ---
 
 ## **Exportovat 3D AutoCAD obrázky do PDF**

@@ -3,7 +3,7 @@ title: چگونه تصویر Docker Aspose.CAD را در Azure Function اجرا
 type: docs
 description: "اجرا کردن تصویر Docker Aspose.CAD در Azure Function."
 weight: 73
-url: /fa/net/showcases/how-to-run-aspose-cad-docker-image-in-azure-function
+url: /fa/net/showcases/how-to-run-aspose-cad-docker-in-azure-function/
 ---
 
 ## پیش نیازها
@@ -21,11 +21,11 @@ url: /fa/net/showcases/how-to-run-aspose-cad-docker-image-in-azure-function
 برای ایجاد برنامه Azure Function، مراحل زیر را دنبال کنید:
 1. پس از نصب Docker، مطمئن شوید که از Containers لینوکس استفاده می‌کند (به صورت پیش‌فرض). در صورت لزوم، گزینه Switch to Linux containers را از منوی Docker Desktops انتخاب کنید.
 1. در Visual Studio، یک Azure Function NET 6 ایجاد کنید.<br>
-![گفتگوی پروژه Azure Function NET 6](/fa/_assets/Create-project.png)<br>
+![گفتگوی پروژه Azure Function NET 6](/_assets/showcases/azure/Create-project.png)<br>
 1. اطلاعات اضافی.<br>
-![گفتگوی پروژه Azure Function NET 6](/fa/_assets/Additional-information.png)<br>
+![گفتگوی پروژه Azure Function NET 6](/_assets/showcases/azure/Additional-information.png)<br>
 1. آخرین نسخه Aspose.CAD را از NuGet نصب کنید.<br>
-![Aspose.CAD در NuGet](/fa/_assets/NuGet.png)<br>
+![Aspose.CAD در NuGet](/_assets/showcases/azure/NuGet.png)<br>
 1. از آنجا که برنامه در لینوکس اجرا خواهد شد، ممکن است نیاز به نصب فونت‌های اضافی داشته باشید. می‌توانید ttf-mscorefonts-installer را ترجیح دهید.
 1. هنگامی که تمام وابستگی‌های مورد نیاز اضافه شدند، یک برنامه ساده بنویسید که یک بیضی ایجاد کرده و آن را به عنوان تصویر ذخیره کند:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
  مرحله بعدی ایجاد و پیکربندی Dockerfile در پوشه اصلی پروژه است.
 
 1. Dockerfile را ایجاد کرده و آن را در کنار فایل راه حل برنامه خود قرار دهید. این نام فایل را بدون پسوند نگه دارید (به صورت پیش‌فرض).
-![پوشه ریشه پروژه](/fa/_assets/root-folder.png)<br>
+![پوشه ریشه پروژه](/_assets/showcases/azure/root-folder.png)<br>
 1. در Dockerfile، مشخص کنید:
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. وارد Azure شوید.
 1. خدمات Azure را انتخاب کنید.
 1. اپلیکیشن Function را انتخاب کرده و یک تابع ایجاد کنید.<br>
-![دکمه ایجاد تابع Azure](/fa/_assets/create-function.png)<br>
+![دکمه ایجاد تابع Azure](/_assets/showcases/azure/create-function.png)<br>
 1. تنظیمات پایه را مطابق تصویر زیر تکرار کنید.<br>
-![تنظیمات ایجاد تابع Azure](/fa/_assets/create-function-setting.png)<br>
+![تنظیمات ایجاد تابع Azure](/_assets/showcases/azure/create-function-setting.png)<br>
 1. روی 'Review + create' کلیک کرده و سپس ایجاد کنید.
 1. منتظر بمانید تا استقرار به پایان برسد.
 1. روی دکمه 'Go to resource' کلیک کنید.<br>
-![دکمه منبع](/fa/_assets/azure/go-to-resource.png)<br>
+![دکمه منبع](/_assets/showcases/azure/go-to-resource.png)<br>
 1. تابع aspose-cad-docker-example را متوقف کنید.<br>
-![متوقف کردن کانتینر](/fa/_assets/stop-container.png)<br>
+![متوقف کردن کانتینر](/_assets/showcases/azure/stop-container.png)<br>
 1. به منوی مرکز استقرار بروید و تنظیمات مناسب را انجام دهید.<br>
-![مرکز استقرار](/fa/_assets/deployment-center.png)<br>
+![مرکز استقرار](/_assets/showcases/azure/deployment-center.png)<br>
 1. تنظیمات را ذخیره کنید
 1. URL Webhook را از تنظیمات مرکز استقرار کپی کنید.<br>
-![Webhook url](/fa/_assets/webhook-url.png)<br>
+![Webhook url](/_assets/showcases/azure/webhook-url.png)<br>
 1. به Docker Hub بروید، مخزن خود را انتخاب کنید و وب‌هوک‌ها را انتخاب کنید.
 1. 'Webhook url' را از Azure در URL وب‌هوک Docker Hub بچسبانید و نام آن را تنظیم کنید.<br>
-![تنظیمات Webhook در Docker](/fa/_assets/webhook.png)<br>
+![تنظیمات Webhook در Docker](/_assets/showcases/azure/webhook.png)<br>
 1. روی دکمه ایجاد کلیک کنید.
 1. به نمای کلی Azure Function بروید و کانتینر را شروع کنید.<br>
-![منوی نمای کلی](/fa/_assets/overview.png)<br>
+![منوی نمای کلی](/_assets/showcases/azure/overview.png)<br>
 
 ## مثال اجرای
 
 1. تنظیمات Postman.<br>
-![تنظیمات منوی Postman](/fa/_assets/postman-settings.png)<br>
+![تنظیمات منوی Postman](/_assets/showcases/azure/postman-settings.png)<br>
 1. هر فایل DXF، DWG، DGN، DWF، DWFX، IFC، STL، DWT، IGES، PLT، CF2، OBJ، HPGL، IGS، PCL، FBX، PDF، SVG را انتخاب کنید.
 1. روی دکمه ارسال کلیک کنید.
 

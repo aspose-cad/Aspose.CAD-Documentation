@@ -2,7 +2,7 @@
 title: صادرات فرمت DGN اتوکد
 type: docs
 weight: 50
-url: /fa/net/exporting-dgn-autocad/
+url: /fa/net/developer-guide/exporting-dgn-autocad/
 ---
 
 ## **صادرات فرمت DGN اتوکد به PDF**

@@ -2,7 +2,7 @@
 title: Επισκόπηση Προϊόντος
 type: docs
 weight: 10
-url: /el/java/product-overview/
+url: /el/java/getting-started/product-overview/
 ---
 
 **Καλώς ήρθατε στο Aspose.CAD για Java**

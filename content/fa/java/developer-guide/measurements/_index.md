@@ -2,7 +2,7 @@
 title: Measurements
 type: docs
 weight: 40
-url: /fa/java/measurements/
+url: /fa/java/developer-guide/measurements/
 ---
 
 ## **اندازه‌گیری‌های سطح و طول**

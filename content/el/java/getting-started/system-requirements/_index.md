@@ -2,7 +2,7 @@
 title: Απαιτήσεις Συστήματος
 type: docs
 weight: 40
-url: /el/java/system-requirements/
+url: /el/java/getting-started/system-requirements/
 ---
 
 ## **Επισκόπηση**

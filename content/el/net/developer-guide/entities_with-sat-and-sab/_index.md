@@ -2,7 +2,7 @@
 title: Οντότητες με δομή SAT/SAB
 type: docs
 weight: 40
-url: /el/net/support-sat-sab/
+url: /el/net/developer-guide/entities_with-sat-and-sab/
 ---
 
 ## **Οντότητες με δομή SAT/SAB**

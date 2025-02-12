@@ -2,7 +2,7 @@
 title: Podpora souborů CTB
 type: docs
 weight: 40
-url: /cs/net/support-ctb/
+url: /cs/net/developer-guide/support-ctb/
 ---
 
 ## **Podpora souborů CTB**

@@ -2,7 +2,7 @@
 title: Arbeiten mit Wasserzeichen
 type: docs
 weight: 60
-url: /de/javascript-net/working-with-watermark/
+url: /de/javascript-net/developer-guide/working-with-watermark/
 ---
 
 ## **Wasserzeichen in eine DGN hinzufügen**

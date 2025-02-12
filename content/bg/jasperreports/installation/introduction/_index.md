@@ -2,7 +2,7 @@
 title: Въведение
 type: docs
 weight: 10
-url: /bg/jasperreports/introduction/
+url: /bg/jasperreports/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

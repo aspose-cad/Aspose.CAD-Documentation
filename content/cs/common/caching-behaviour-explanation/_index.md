@@ -2,7 +2,7 @@
 title: Vysvětlení chování mezipaměti Aspose.CAD
 type: docs
 weight: 20
-url: /cs/common/caching-behaviour-explanation
+url: /cs/common/caching-behaviour-explanation/
 ---
 
 

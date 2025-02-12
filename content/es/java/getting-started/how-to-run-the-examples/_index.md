@@ -2,7 +2,7 @@
 title: Cómo ejecutar los ejemplos
 type: docs
 weight: 70
-url: /es/java/how-to-run-the-examples/
+url: /es/java/getting-started/how-to-run-the-examples/
 ---
 
 ## **Descargar de GitHub**

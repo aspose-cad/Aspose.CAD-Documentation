@@ -2,7 +2,7 @@
 title: دعم ملفات CTB
 type: docs
 weight: 40
-url: /ar/net/support-ctb/
+url: /ar/net/developer-guide/support-ctb/
 ---
 
 ## **دعم ملفات CTB**

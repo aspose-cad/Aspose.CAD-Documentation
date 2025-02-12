@@ -2,7 +2,7 @@
 title: Conversión de Formatos de Archivo
 type: docs
 weight: 20
-url: /es/net/converting-file-formats/
+url: /es/net/getting-started/converting-file-formats/
 ---
 
 ## **Conversión de Formatos de Archivo**

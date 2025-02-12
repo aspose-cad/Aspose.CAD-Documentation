@@ -3,7 +3,7 @@ title: Cómo ejecutar la imagen de Docker de Aspose.CAD en Google Cloud
 type: docs
 description: "Ejecutar la imagen de Docker de Aspose.CAD en Google Cloud."
 weight: 75
-url: /es/net/showcases/how-to-run-aspose-cad-docker-image-in-google-cloud
+url: /es/net/showcases/how-to-run-aspose-cad-docker-in-google-cloud/
 ---
 
 ## Requisitos previos
@@ -120,11 +120,11 @@ dotnet run
 1. Inicie sesión en Google Cloud.
 1. Cree un proyecto si no existe.
 1. Vaya a 'Artifact Registry' y cree un repositorio.<br>
-![Crear repositorio de artefactos](/_assets/create-artifact-repository.png)<br>
+![Crear repositorio de artefactos](/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Seleccione el nuevo repositorio en Artifact Registry.
-![Seleccionar repositorio de artefactos](/_assets/select-artifact.png)<br>
+![Seleccionar repositorio de artefactos](/_assets/showcases/google/select-artifact.png)<br>
 1. Haga clic en 'INSTRUCCIÓN DE CONFIGURACIÓN' y copie el comando 'Configurar Docker'.<br>
-![INSTRUCCIÓN DE CONFIGURACIÓN](/_assets/setup-instruction.png)<br>
+![INSTRUCCIÓN DE CONFIGURACIÓN](/_assets/showcases/google/setup-instruction.png)<br>
 1. Agregue una entrada de credHelper de Docker al archivo de configuración de Docker, o cree el archivo si no existe.
 {{< highlight plain >}}
 //ejemplo
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Vaya a Cloud Run.
 1. Cree un servicio de Cloud Run.<br>
-![Crear servicio de Cloud Run](/_assets/create-cloud-run-service.png)<br>
+![Crear servicio de Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. En el campo de URL de imagen del contenedor, seleccione el contenedor de 'ARTIFACT REGISTRY'.<br>
-![URL de imagen del contenedor](/_assets/container-url.png)<br>
+![URL de imagen del contenedor](/_assets/showcases/google/container-url.png)<br>
 1. Verifique otras configuraciones como se indica a continuación.<br>
-![Configuraciones del servicio](/_assets/cloud-run-service-settings.png)<br>
+![Configuraciones del servicio](/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Espere a que finalice la implementación.
 1. URL del servicio para trabajar con la aplicación de conversión.<br>
-![URL del servicio](/_assets/url-service.png)<br>
+![URL del servicio](/_assets/showcases/google/url-service.png)<br>
 
 ### Configurando un Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Ejemplo de ejecución
 
 1. Configuraciones de Postman.<br>
-![Menú de resumen](/_assets/postman-settings.png)<br>
+![Menú de resumen](/_assets/showcases/google/postman-settings.png)<br>
 1. Seleccione cualquier archivo DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Haga clic en el botón enviar.
 

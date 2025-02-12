@@ -2,7 +2,7 @@
 title: Set timeout on save
 type: docs
 weight: 70
-url: /net/set-timeout-on-save/
+url: /net/developer-guide/set-timeout-on-save/
 ---
 
 ## **Set timeout on save**

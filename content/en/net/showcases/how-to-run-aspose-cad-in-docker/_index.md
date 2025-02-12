@@ -3,7 +3,7 @@ title: How to Run Aspose.CAD in Docker
 type: docs
 description: "Run Aspose.CAD in a Docker container for Linux, Windows Server and any OS. "
 weight: 71
-url: /net/showcases/how-to-run-aspose-cad-in-docker
+url: /net/showcases/how-to-run-aspose-cad-in-docker/
 ---
 
 ## Prerequisites

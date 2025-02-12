@@ -2,7 +2,7 @@
 title: Инсталиране на Aspose.CAD за JasperReports
 type: docs
 weight: 20
-url: /bg/jasperreports/installing-aspose-cad-for-jasperreports/
+url: /bg/jasperreports/installation/installing-aspose-cad-for-jasperreports/
 ---
 
 За да използвате **Aspose.CAD за JasperReports** от вашето приложение, копирайте **aspose-cad-jasperreports-xx.x.jar** от папката \lib на **aspose-cad-jasperreports-xx.x.zip** в директорията JasperReports\lib или в библиотечната папка на вашето приложение. След това можете да получите достъп до експортерите програмно.

@@ -2,7 +2,7 @@
 title: Převod formátu souboru
 type: docs
 weight: 20
-url: /cs/net/converting-file-formats/
+url: /cs/net/getting-started/converting-file-formats/
 ---
 
 ## **Převod formátu souboru**

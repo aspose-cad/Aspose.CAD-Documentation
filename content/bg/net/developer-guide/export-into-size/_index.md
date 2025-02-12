@@ -2,7 +2,7 @@
 title: Износ на чертежи и оформления DWG/DXF в определен размер
 type: docs
 weight: 40
-url: /bg/net/export-into-size/
+url: /bg/net/developer-guide/export-into-size/
 ---
 
 ## **Износ на модела и всички оформления в размер A4 PDF**

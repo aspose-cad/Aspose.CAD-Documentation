@@ -3,7 +3,7 @@ title: Πώς να Εκτελέσετε την Εικόνα Docker Aspose.CAD σ
 type: docs
 description: "Εκτελέστε την εικόνα Docker Aspose.CAD σε Λειτουργία AWS Lambda."
 weight: 74
-url: /el/net/showcases/how-to-run-aspose-cad-docker-image-in-aws-lambda-function
+url: /el/net/showcases/how-to-run-aspose-cad-docker-in-aws-lambda-function/
 ---
 
 ## Προϋποθέσεις
@@ -25,16 +25,16 @@ url: /el/net/showcases/how-to-run-aspose-cad-docker-image-in-aws-lambda-function
 
 Για να δημιουργήσετε το πρόγραμμα λειτουργίας AWS Lambda, ακολουθήστε τα παρακάτω βήματα:
 1. Δημιουργήστε ένα Πρόγραμμα AWS Lambda.<br>
-![Δημιουργία κουμπιού AWS function](/_assets/create-project.png)<br>
+![Δημιουργία κουμπιού AWS function](/_assets/showcases/aws/create-project.png)<br>
 1. Επιλέξτε .NET 6(Εικόνα κοντέινερ) και κάντε κλικ στο κουμπί 'Τέλος'.<br>
-![Δημιουργία κουμπιού κοντέινερ](/_assets/create-container.png)<br>
+![Δημιουργία κουμπιού κοντέινερ](/_assets/showcases/aws/create-container.png)<br>
 1. Ανοίξτε τον AWS Explorer στο Visual Studio(Προβολή->AWS Explorer).
 1. Προσθέστε το προφίλ πιστοποίησης AWS στον AWS Explorer.<br>
-![Προφίλ πιστοποίησης](/_assets/add-aws-credentials-profile.png)<br>
+![Προφίλ πιστοποίησης](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Εισάγετε το Access Key ID και το Secret Access Key, μπορείτε να αποκτήσετε αυτά τα κλειδιά στις Πιστοποιήσεις ασφαλείας ή να επικοινωνήσετε με τον διαχειριστή και να αποκτήσετε ένα αρχεία csv για εξουσιοδότηση.<br>
-![Ρυθμίσεις προφίλ λογαριασμού](/_assets/account-profile.png)<br>
+![Ρυθμίσεις προφίλ λογαριασμού](/_assets/showcases/aws/account-profile.png)<br>
 1. Εγκαταστήστε τις τελευταίες βιβλιοθήκες από το NuGet.<br>
-![Διαχειριστής NuGet](/_assets/nuget-manager.png)<br>
+![Διαχειριστής NuGet](/_assets/showcases/aws/nuget-manager.png)<br>
 1. Παράδειγμα κώδικα για τη μετατροπή της εικόνας cad σε αρχείο pdf.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Επεξεργαστείτε το DockerFile όπως στην ενότητα <a href="#configuring-a-dockerfile">Διαμόρφωση ενός Dockerfile</a>.
 1. Εκκινήστε το Docker Desktop.
 1. Δημοσιεύστε στο AWS Lambda.<br>
-![Δημοσίευση AWS lambda](/_assets/publish-aws.png)<br>
+![Δημοσίευση AWS lambda](/_assets/showcases/aws/publish-aws.png)<br>
 1. Επεξεργαστείτε την παραμετροποίηση ανέβασμα.<br>
-![Ανέβασμα aws lambda](/_assets/upload-aws-lambda.png)<br>
+![Ανέβασμα aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Κάντε κλικ στο κουμπί 'Ανέβασμα'.<br>
-![Ανέβασμα τελευταίο aws lambda](/_assets/upload-aws-lambda-finish.png)<br>
+![Ανέβασμα τελευταίο aws lambda](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Μεταβείτε στο AWS και επιλέξτε Lambda.<br>
-![AWS Lambda](/_assets/select-aws-lambda.png)<br>
+![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Επιλέξτε τη νέα λειτουργία σας και δημιουργήστε διεύθυνση url λειτουργίας.<br>
-![Διαμόρφωση διεύθυνσης url λειτουργίας](/_assets/create-function-url.png)<br>
+![Διαμόρφωση διεύθυνσης url λειτουργίας](/_assets/showcases/aws/create-function-url.png)<br>
 1. Επιλέξτε τον τύπο αυθεντικοποίησης
 - AWS_IAM - Μόνο οι αυθεντικοποιημένοι χρήστες και ρόλοι IAM μπορούν να κάνουν αιτήματα στη διεύθυνση url της λειτουργίας σας.
 - ΚΑΝΕΝΑ - Το Lambda δεν θα εκτελέσει αυθεντικοποίηση IAM σε αιτήματα προς τη διεύθυνση url της λειτουργίας σας. Το σημείο λήξης URL θα είναι δημόσιο εκτός αν υλοποιήσετε τη δική σας λογική εξουσιοδότησης στη λειτουργία σας.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## Παράδειγμα εκτέλεσης
 
 1. Ρυθμίσεις Postman.<br>
-![Μενού επισκόπησης](/_assets/postman-settings.png)<br>
+![Μενού επισκόπησης](/_assets/showcases/aws/postman-settings.png)<br>
 1. Επιλέξτε οποιοδήποτε DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG αρχείο.
 1. Κάντε κλικ στο κουμπί αποστολής.
 

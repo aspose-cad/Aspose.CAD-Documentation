@@ -2,7 +2,7 @@
 title: Instalación
 type: docs
 weight: 30
-url: /es/javascript-net/installation/
+url: /es/javascript-net/getting-started/installation/
 ---
 
 ## **Instalación de Aspose.CAD para JavaScript a través de npm**

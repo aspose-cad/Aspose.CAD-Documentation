@@ -2,7 +2,7 @@
 title: Messungen
 type: docs
 weight: 40
-url: /de/net/measurements/
+url: /de/net/developer-guide/measurements/
 ---
 
 ## **Fläche- und Längenmessungen**

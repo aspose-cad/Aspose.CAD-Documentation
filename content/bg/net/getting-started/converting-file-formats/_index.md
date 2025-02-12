@@ -2,7 +2,7 @@
 title: Преобразуване на файлови формати
 type: docs
 weight: 20
-url: /bg/net/converting-file-formats/
+url: /bg/net/getting-started/converting-file-formats/
 ---
 
 ## **Преобразуване на файлови формати**

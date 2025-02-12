@@ -2,7 +2,7 @@
 title: Conversión de Formatos de Archivo
 type: docs
 weight: 60
-url: /es/python-net/converting-file-formats/
+url: /es/python-net/getting-started/converting-file-formats/
 ---
 
 ## **Conversión de Formatos de Archivo**

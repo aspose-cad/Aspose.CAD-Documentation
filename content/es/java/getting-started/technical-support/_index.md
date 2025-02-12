@@ -2,7 +2,7 @@
 title: Soporte Técnico
 type: docs
 weight: 80
-url: /es/java/technical-support/
+url: /es/java/getting-started/technical-support/
 ---
 
 {{% alert color="primary" %}}

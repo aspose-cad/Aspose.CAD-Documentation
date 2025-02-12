@@ -2,7 +2,7 @@
 title: Dateiformate konvertieren
 type: docs
 weight: 60
-url: /de/python-net/converting-file-formats/
+url: /de/python-net/getting-started/converting-file-formats/
 ---
 
 ## **Dateiformate konvertieren**

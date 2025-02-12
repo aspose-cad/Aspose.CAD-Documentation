@@ -2,7 +2,7 @@
 title: Сonverting File Formats
 type: docs
 weight: 20
-url: /net/converting-file-formats/
+url: /net/getting-started/converting-file-formats/
 ---
 
 ## **Сonverting File Formats**

@@ -2,7 +2,7 @@
 title: Системни изисквания
 type: docs
 weight: 40
-url: /bg/java/system-requirements/
+url: /bg/java/getting-started/system-requirements/
 ---
 
 ## **Обзор**

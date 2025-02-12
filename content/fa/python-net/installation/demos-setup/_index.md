@@ -2,7 +2,7 @@
 title: راه اندازی دموها
 type: docs
 weight: 40
-url: /fa/python-net/demos-setup/
+url: /fa/python-net/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

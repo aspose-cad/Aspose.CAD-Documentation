@@ -2,7 +2,7 @@
 title: Konvertieren von CAD-Zeichnungen in PDF- und Rasterbildformate
 type: docs
 weight: 30
-url: /de/java/converting-cad-drawings-to-pdf-and-raster-image-formats/
+url: /de/java/developer-guide/converting-cad-drawings-to-pdf-and-raster-image-formats/
 ---
 
 {{% alert color="primary" %}} 

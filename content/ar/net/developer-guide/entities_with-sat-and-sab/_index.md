@@ -2,7 +2,7 @@
 title: الكيانات ذات هيكل SAT/SAB
 type: docs
 weight: 40
-url: /ar/net/support-sat-sab/
+url: /ar/net/developer-guide/entities_with-sat-and-sab/
 ---
 
 ## **الكيانات ذات هيكل SAT/SAB**

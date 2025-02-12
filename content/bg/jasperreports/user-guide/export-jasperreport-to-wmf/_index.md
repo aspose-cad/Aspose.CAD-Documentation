@@ -2,7 +2,7 @@
 title: Експорт на JasperReport в WMF
 type: docs
 weight: 30
-url: /bg/jasperreports/export-jasperreport-to-wmf
+url: /bg/jasperreports/user-guide/export-jasperreport-to-wmf/
 ---
 
 {{% alert color="primary" %}}

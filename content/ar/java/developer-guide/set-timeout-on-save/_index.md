@@ -2,7 +2,7 @@
 title: تعيين مهلة عند الحفظ
 type: docs
 weight: 70
-url: /ar/java/set-timeout-on-save/
+url: /ar/java/developer-guide/set-timeout-on-save/
 ---
 
 ## **تعيين مهلة عند الحفظ**

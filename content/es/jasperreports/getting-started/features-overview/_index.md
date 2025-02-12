@@ -2,7 +2,7 @@
 title: Visión General de Características
 type: docs
 weight: 20
-url: /es/jasperreports/features-overview/
+url: /es/jasperreports/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: Лицензиране
 type: docs
 weight: 50
-url: /bg/java/licensing/
+url: /bg/java/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

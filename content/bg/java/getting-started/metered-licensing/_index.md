@@ -2,7 +2,7 @@
 title: Метризирано лицензиране
 type: docs
 weight: 60
-url: /bg/java/metered-licensing/
+url: /bg/java/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

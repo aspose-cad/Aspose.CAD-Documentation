@@ -2,7 +2,7 @@
 title: كيفية تشغيل الأمثلة
 type: docs
 weight: 70
-url: /ar/java/how-to-run-the-examples/
+url: /ar/java/getting-started/how-to-run-the-examples/
 ---
 
 ## **تحميل من GitHub**

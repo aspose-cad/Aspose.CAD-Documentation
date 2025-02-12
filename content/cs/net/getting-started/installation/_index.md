@@ -2,7 +2,7 @@
 title: Instalace
 type: docs
 weight: 30
-url: /cs/net/installation/
+url: /cs/net/getting-started/installation/
 ---
 
 ## **Instalace Aspose.CAD pro .NET pomocí NuGet**

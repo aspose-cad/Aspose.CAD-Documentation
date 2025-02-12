@@ -2,7 +2,7 @@
 title: Exporter JasperReport vers PSD
 type: docs
 weight: 90
-url: /fr/jasperreports/export-jasperreport-to-psd
+url: /fr/jasperreports/user-guide/export-jasperreport-to-psd/
 ---
 
 {{% alert color="primary" %}}

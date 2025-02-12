@@ -2,7 +2,7 @@
 title: Поддържани файлови формати
 type: docs
 weight: 60
-url: /bg/jasperreports/supported-file-formats/
+url: /bg/jasperreports/getting-started/supported-file-formats/
 ---
 
 |**Формат**|**Описание**|**Зареждане**|**Запис**|**Забележки**|

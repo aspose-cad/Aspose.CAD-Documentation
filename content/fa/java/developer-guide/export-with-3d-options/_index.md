@@ -2,7 +2,7 @@
 title: صادرات با گزینه‌های 3D
 type: docs
 weight: 40
-url: /fa/java/export-with-3d-options/
+url: /fa/java/developer-guide/export-with-3d-options/
 ---
 
 ## **صادرات با گزینه‌های 3D**

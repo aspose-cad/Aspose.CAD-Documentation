@@ -2,7 +2,7 @@
 title: الدمج مع JasperServer
 type: docs
 weight: 20
-url: /ar/python-net/integration-with-jasperserver/
+url: /ar/python-net/installation/integration-with-jasperserver/
 ---
 {{% alert color="primary" %}}
 لدمج Aspose.CAD لـ Python مع JasperServer، من الضروري اتخاذ عدة خطوات إضافية وتحديث ملفات إعداد JasperServer. يوضح هذا المقال كيفية القيام بذلك.
@@ -281,6 +281,6 @@ url: /ar/python-net/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. أعد تشغيل خادم Pythons وافتح أي تقرير لعرضه. إذا تم تنفيذ الخطوات السابقة بشكل صحيح، سترى خيارات إضافية في قائمة تنسيقات التصدير.
-![todo:image_alt_text](/_assets/ExportReportView.png)
+![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
 
 إذا لم تر خيارات إضافية (رموز أو خيارات)، يرجى التحقق من ملفات السجل في مجلد \apache-tomcat\logs.

@@ -2,7 +2,7 @@
 title: Měření
 type: docs
 weight: 40
-url: /cs/net/measurements/
+url: /cs/net/developer-guide/measurements/
 ---
 
 ## **Měření plochy a délky**

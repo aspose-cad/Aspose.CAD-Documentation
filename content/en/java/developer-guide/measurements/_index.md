@@ -2,7 +2,7 @@
 title: Measurements
 type: docs
 weight: 40
-url: /java/measurements/
+url: /java/developer-guide/measurements/
 ---
 
 ## **Area and length measurements**

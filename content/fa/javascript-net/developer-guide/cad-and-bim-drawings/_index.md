@@ -2,5 +2,5 @@
 title: ترسیمات CAD و BIM
 type: docs
 weight: 20
-url: /fa/javascript-net/cad-and-bim-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/
 ---

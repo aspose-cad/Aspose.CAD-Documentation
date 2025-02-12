@@ -2,7 +2,7 @@
 title: Licensing
 type: docs
 weight: 40
-url: /jasperreports/licensing/
+url: /jasperreports/getting-started/licensing/
 ---
 ## **Call setLicense**
 To apply a license:

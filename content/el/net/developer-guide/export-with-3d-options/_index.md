@@ -2,7 +2,7 @@
 title: Εξαγωγή με επιλογές 3D
 type: docs
 weight: 40
-url: /el/net/export-with-3d-options/
+url: /el/net/developer-guide/export-with-3d-options/
 ---
 
 ## **Εξαγωγή με επιλογές 3D**

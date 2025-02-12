@@ -2,7 +2,7 @@
 title: Измервания
 type: docs
 weight: 40
-url: /bg/java/measurements/
+url: /bg/java/developer-guide/measurements/
 ---
 
 ## **Измервания на площ и дължина**

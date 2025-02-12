@@ -2,7 +2,7 @@
 title: Características
 type: docs
 weight: 30
-url: /es/net/features/
+url: /es/net/getting-started/features/
 ---
 
 ## **Características del Producto**

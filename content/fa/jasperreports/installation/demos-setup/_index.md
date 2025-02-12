@@ -2,7 +2,7 @@
 title: تنظیم دموها
 type: docs
 weight: 40
-url: /fa/jasperreports/demos-setup/
+url: /fa/jasperreports/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

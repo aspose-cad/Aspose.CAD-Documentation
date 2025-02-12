@@ -2,7 +2,7 @@
 title: Nastavit časový limit ukládání
 type: docs
 weight: 70
-url: /cs/java/set-timeout-on-save/
+url: /cs/java/developer-guide/set-timeout-on-save/
 ---
 
 ## **Nastavit časový limit ukládání**

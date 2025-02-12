@@ -2,5 +2,5 @@
 title: Zeichnungs-API
 type: docs
 weight: 40
-url: /de/net/drawing-api/
+url: /de/net/developer-guide/drawing-api/
 ---

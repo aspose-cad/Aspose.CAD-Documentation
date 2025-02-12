@@ -2,7 +2,7 @@
 title: Práce s vodoznakem
 type: docs
 weight: 60
-url: /cs/javascript-net/working-with-watermark/
+url: /cs/javascript-net/developer-guide/working-with-watermark/
 ---
 
 ## **Přidání vodoznaku do souboru DGN**

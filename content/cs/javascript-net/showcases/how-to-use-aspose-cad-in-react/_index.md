@@ -3,7 +3,7 @@ title: Jak používat Aspose.CAD v Reactu
 type: docs
 description: "Použití Aspose.CAD v Reactu"
 weight: 75
-url: /cs/javascript-net/how-to-use-aspose-cad-in-react
+url: /cs/javascript-net/showcases/how-to-use-aspose-cad-in-react/
 ---
 
 ## Předpoklady

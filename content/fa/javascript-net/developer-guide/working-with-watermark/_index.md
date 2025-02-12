@@ -2,7 +2,7 @@
 title: کار با واترمارک
 type: docs
 weight: 60
-url: /fa/javascript-net/working-with-watermark/
+url: /fa/javascript-net/developer-guide/working-with-watermark/
 ---
 
 ## **اضافه کردن واترمارک در یک DGN**

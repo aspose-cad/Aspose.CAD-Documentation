@@ -2,7 +2,7 @@
 title: Εισαγωγή
 type: docs
 weight: 10
-url: /el/jasperreports/introduction/
+url: /el/jasperreports/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: Ρύθμιση χρονικού ορίου κατά την αποθήκευση
 type: docs
 weight: 70
-url: /el/java/set-timeout-on-save/
+url: /el/java/developer-guide/set-timeout-on-save/
 ---
 
 ## **Ρύθμιση χρονικού ορίου κατά την αποθήκευση**

@@ -2,7 +2,7 @@
 title: Преглед на продукта
 type: docs
 weight: 10
-url: /bg/java/product-overview/
+url: /bg/java/getting-started/product-overview/
 ---
 
 **Добре дошли в Aspose.CAD за Java**

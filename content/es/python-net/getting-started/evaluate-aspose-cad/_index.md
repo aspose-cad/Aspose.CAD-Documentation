@@ -2,7 +2,7 @@
 title: Evaluar Aspose.CAD
 type: docs
 weight: 50
-url: /es/python-net/evaluar-aspose-cad/
+url: /es/python-net/getting-started/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}
@@ -13,7 +13,7 @@ Puedes descargar fácilmente Aspose.CAD para Python para evaluación desde la [p
 
 La versión de evaluación de Aspose.CAD para Python (sin una licencia especificada) proporciona funcionalidad del producto hasta cierto punto, aunque no completa. Una limitación es que siempre inyecta la marca de agua de evaluación en los archivos de salida.
 
-![Ejemplo de exportación de Aspose.CAD para Python](/es/_assets/AreaChartReport.jpg)
+![Ejemplo de exportación de Aspose.CAD para Python](/_assets/jasper/AreaChartReport.jpg)
 
 **Figura:** Advertencia de Evaluación
 

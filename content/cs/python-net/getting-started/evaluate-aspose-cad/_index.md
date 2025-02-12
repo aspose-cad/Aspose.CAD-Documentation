@@ -2,7 +2,7 @@
 title: Zhodnoťte Aspose.CAD
 type: docs
 weight: 50
-url: /cs/python-net/zhodnotit-aspose-cad/
+url: /cs/python-net/getting-started/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}
@@ -13,7 +13,7 @@ Můžete snadno stáhnout Aspose.CAD pro Python k ohodnocení ze [stažení str�
 
 Hodnotící verze Aspose.CAD pro Python (bez určené licence) poskytuje funkčnost produktu do jisté míry, i když není úplná. Jedním omezením je, že vždy vkládá hodnotící vodoznak do výstupních souborů.
 
-![Ukázka exportu Aspose.CAD pro Python](/_assets/AreaChartReport.jpg)
+![Ukázka exportu Aspose.CAD pro Python](/_assets/jasper/AreaChartReport.jpg)
 
 **Obrázek:** Varování k hodnocení
 

@@ -2,7 +2,7 @@
 title: تحويل تنسيقات الملفات
 type: docs
 weight: 20
-url: /ar/javascript-net/converting-file-formats/
+url: /ar/javascript-net/getting-started/converting-file-formats/
 ---
 
 ## **تحويل تنسيقات الملفات**

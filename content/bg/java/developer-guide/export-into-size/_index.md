@@ -2,7 +2,7 @@
 title: Експортиране на чертежи и оформления DWG/DXF в зададен размер
 type: docs
 weight: 40
-url: /bg/java/export-into-size/
+url: /bg/java/developer-guide/export-into-size/
 ---
 
 ## **Експортиране на модел и всички оформления в размер A4 PDF**

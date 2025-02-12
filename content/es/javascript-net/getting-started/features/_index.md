@@ -2,7 +2,7 @@
 title: Características
 type: docs
 weight: 30
-url: /es/javascript-net/features/
+url: /es/javascript-net/getting-started/features/
 ---
 
 ## **Características del Producto**

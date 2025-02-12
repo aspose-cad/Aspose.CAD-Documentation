@@ -2,7 +2,7 @@
 title: تقييم Aspose.CAD
 type: docs
 weight: 50
-url: /ar/python-net/evaluate-aspose-cad/
+url: /ar/python-net/getting-started/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}
@@ -13,7 +13,7 @@ url: /ar/python-net/evaluate-aspose-cad/
 
 توفر نسخة التقييم من Aspose.CAD لـ Python (دون تحديد رخصة) بعض وظائف المنتج إلى حد ما لكنها ليست كاملة. أحد القيود هو أنها تضيف دائماً علامة مائية للتقييم على ملفات المخرجات.
 
-![مثال على تصدير Aspose.CAD لـ Python](/_assets/AreaChartReport.jpg)
+![مثال على تصدير Aspose.CAD لـ Python](/_assets/jasper/AreaChartReport.jpg)
 
 **الشكل:** تحذير التقييم
 

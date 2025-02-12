@@ -2,7 +2,7 @@
 title: API Einschränkungen
 type: docs
 weight: 80
-url: /de/net/api-limitations/
+url: /de/net/developer-guide/api-limitations/
 ---
 
 ## **Informationen zum CAD-Modellersteller**

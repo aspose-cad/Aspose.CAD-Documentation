@@ -2,7 +2,7 @@
 title: متطلبات النظام
 type: docs
 weight: 40
-url: /ar/net/system-requirements/
+url: /ar/net/getting-started/system-requirements/
 ---
 
 ## **أنظمة التشغيل المدعومة**

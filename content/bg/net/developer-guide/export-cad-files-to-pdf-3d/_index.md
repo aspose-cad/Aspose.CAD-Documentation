@@ -2,7 +2,7 @@
 title: Експорт на CAD файлове в PDF-3D
 type: docs
 weight: 40
-url: /bg/net/developer-guide/export-cad-files-to-pdf-3d
+url: /bg/net/developer-guide/export-cad-files-to-pdf-3d/
 keywords: "PDF, PDF-3D, 3D-PDF, 3D, PDF-3D C#, CAD в PDF-3D C#, конвертиране на AutoCAD, конвертиране на autocad в pdf-3d"
 description: Използвайте C# .NET конвертор на AutoCAD в PDF-3D в C#. Можете да конвертирате 3D модел в PDF-3D в C# .NET също.
 ---

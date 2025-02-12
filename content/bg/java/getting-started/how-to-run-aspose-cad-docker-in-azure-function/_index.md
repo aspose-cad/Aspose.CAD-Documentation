@@ -3,7 +3,7 @@ title: Как да стартиране на Docker изображение Aspos
 type: docs
 description: "Стартиране на Docker изображение Aspose.CAD в Azure Function."
 weight: 71
-url: /bg/java/how-to-run-aspose-cad-docker-image-in-azure-function
+url: /bg/java/getting-started/how-to-run-aspose-cad-docker-in-azure-function/
 ---
 
 ## Предварителни изисквания

@@ -2,7 +2,7 @@
 title: موجودیت‌ها با ساختار SAT/SAB
 type: docs
 weight: 40
-url: /fa/java/support-sat-sab/
+url: /fa/java/developer-guide/entities_with-sat-and-sab/
 ---
 
 ## **موجودیت‌ها با ساختار SAT/SAB**

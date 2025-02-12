@@ -3,7 +3,7 @@ title: Как да стартирате Aspose.CAD Docker изображение
 type: docs
 description: "Стартиране на Aspose.CAD Docker изображение в AWS Lambda функция."
 weight: 74
-url: /bg/net/how-to-run-aspose-cad-docker-image-in-aws-lambda-function
+url: /bg/net/showcases/how-to-run-aspose-cad-docker-in-aws-lambda-function/
 ---
 
 ## Предварителни изисквания
@@ -25,16 +25,16 @@ Lambda е услуга за изчисление, която ви позволя
 
 За да създадете програмата за AWS Lambda функция, следвайте стъпките по-долу:
 1. Създайте AWS Lambda проект.<br>
-![Създаване на бутон за AWS функция](/_assets/create-project.png)<br>
+![Създаване на бутон за AWS функция](/_assets/showcases/aws/create-project.png)<br>
 1. Изберете .NET 6 (Container Image) и кликнете върху бутона 'Finish'.<br>
-![Създаване на бутон за контейнерна функция](/_assets/create-container.png)<br>
+![Създаване на бутон за контейнерна функция](/_assets/showcases/aws/create-container.png)<br>
 1. Отворете AWS Explorer в Visual Studio (View->AWS Explorer).
 1. Добавете AWS профил с удостоверения в AWS Explorer.<br>
-![Профил на удостоверение](/_assets/add-aws-credentials-profile.png)<br>
+![Профил на удостоверение](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Въведете Access Key ID и Secret Access Key, можете да получите тези ключове в Security credentials или да се свържете с администратора и да получите csv файл за удостоверяване.<br>
-![Настройки на профил](/_assets/account-profile.png)<br>
+![Настройки на профил](/_assets/showcases/aws/account-profile.png)<br>
 1. Инсталирайте последните библиотеки от NuGet.<br>
-![Управител на NuGet](/_assets/nuget-manager.png)<br>
+![Управител на NuGet](/_assets/showcases/aws/nuget-manager.png)<br>
 1. Примерен код за конвертиране на CAD изображение в PDF файл.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Редактирайте DockerFile, както е описано в секцията <a href="#configuring-a-dockerfile">Конфигуриране на Dockerfile</a>.
 1. Стартирайте Docker Desktop.
 1. Публикувайте в AWS Lambda.<br>
-![Публикуване в AWS lambda](/_assets/publish-aws.png)<br>
+![Публикуване в AWS lambda](/_assets/showcases/aws/publish-aws.png)<br>
 1. Редактирайте конфигурацията на качване.<br>
-![Качване в aws lambda](/_assets/upload-aws-lambda.png)<br>
+![Качване в aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Кликнете върху бутона 'Upload'.<br>
-![Качване в aws lambda последно](/_assets/upload-aws-lambda-finish.png)<br>
+![Качване в aws lambda последно](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Отидете в AWS и изберете Lambda.<br>
-![AWS Lambda](/_assets/select-aws-lambda.png)<br>
+![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Изберете новата си функция и създайте URL на функцията.<br>
-![Конфигурация на URL функция](/_assets/create-function-url.png)<br>
+![Конфигурация на URL функция](/_assets/showcases/aws/create-function-url.png)<br>
 1. Изберете тип на удостоверение
 - AWS_IAM - Само удостоверени IAM потребители и роли могат да правят искания към URL на вашата функция.
 - NONE - Lambda няма да извършва IAM удостоверяване при искания към URL на вашата функция. URL краят ще бъде публичен, освен ако не внедрите собствена логика за удостоверяване във вашата функция.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## Пример за изпълнение
 
 1. Настройки на Postman.<br>
-![Преглед на менюто](/_assets/postman-settings.png)<br>
+![Преглед на менюто](/_assets/showcases/aws/postman-settings.png)<br>
 1. Изберете всеки DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG файл.
 1. Кликнете върху бутона за изпращане.
 

@@ -2,7 +2,7 @@
 title: Ορισμός χρονοδιακόπτη κατά την αποθήκευση
 type: docs
 weight: 70
-url: /el/net/set-timeout-on-save/
+url: /el/net/developer-guide/set-timeout-on-save/
 ---
 
 ## **Ορισμός χρονοδιακόπτη κατά την αποθήκευση**

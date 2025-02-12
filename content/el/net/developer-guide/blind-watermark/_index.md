@@ -2,7 +2,7 @@
 title: Τυφλό υδατογράφημα
 type: docs
 weight: 11
-url: /el/net/blind-watermark
+url: /el/net/developer-guide/blind-watermark/
 ---
 
 ## **Τυφλό υδατογράφημα**

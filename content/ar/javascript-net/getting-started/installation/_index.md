@@ -2,7 +2,7 @@
 title: التثبيت
 type: docs
 weight: 30
-url: /ar/javascript-net/installation/
+url: /ar/javascript-net/getting-started/installation/
 ---
 
 ## **تثبيت Aspose.CAD لجافا سكريبت من خلال npm**

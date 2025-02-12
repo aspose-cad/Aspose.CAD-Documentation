@@ -2,7 +2,7 @@
 title: قيود واجهة برمجة التطبيقات
 type: docs
 weight: 80
-url: /ar/net/api-limitations/
+url: /ar/net/developer-guide/api-limitations/
 ---
 
 ## **معلومات منشئ نموذج CAD**

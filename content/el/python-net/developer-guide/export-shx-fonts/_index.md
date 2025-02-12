@@ -2,7 +2,7 @@
 title: Εξαγωγή γραμματοσειρών SHX
 type: docs
 weight: 40
-url: /el/python-net/export-shx-fonts/
+url: /el/python-net/developer-guide/export-shx-fonts/
 ---
 
 ## **Εξαγωγή γραμματοσειρών SHX για σχέδια DXF/DWG**

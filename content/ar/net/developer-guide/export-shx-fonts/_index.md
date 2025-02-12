@@ -2,7 +2,7 @@
 title: تصدير خطوط SHX
 type: docs
 weight: 40
-url: /ar/net/export-shx-fonts/
+url: /ar/net/developer-guide/export-shx-fonts/
 ---
 
 ## **تصدير خطوط SHX لرسومات DXF/DWG**

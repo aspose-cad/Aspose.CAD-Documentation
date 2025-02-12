@@ -2,7 +2,7 @@
 title: Характеристики
 type: docs
 weight: 30
-url: /bg/net/features/
+url: /bg/net/getting-started/features/
 ---
 
 ## **Характеристики на продукта**

@@ -2,7 +2,7 @@
 title: Настройка на демонстрации
 type: docs
 weight: 40
-url: /bg/jasperreports/demos-setup/
+url: /bg/jasperreports/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

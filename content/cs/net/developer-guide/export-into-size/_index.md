@@ -2,7 +2,7 @@
 title: Exportování výkresu DWG/DXF a rozvržení do specifikované velikosti
 type: docs
 weight: 40
-url: /cs/net/export-into-size/
+url: /cs/net/developer-guide/export-into-size/
 ---
 
 ## **Exportování modelu a všech rozvržení do velikosti PDF ve formátu A4**

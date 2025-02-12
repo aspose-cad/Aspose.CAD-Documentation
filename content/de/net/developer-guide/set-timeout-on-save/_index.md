@@ -2,7 +2,7 @@
 title: Timeout beim Speichern festlegen
 type: docs
 weight: 70
-url: /de/net/set-timeout-on-save/
+url: /de/net/developer-guide/set-timeout-on-save/
 ---
 
 ## **Timeout beim Speichern festlegen**

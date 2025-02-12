@@ -2,7 +2,7 @@
 title: Evaluate Aspose.CAD
 type: docs
 weight: 50
-url: /python-net/evaluate-aspose-cad/
+url: /python-net/getting-started/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}

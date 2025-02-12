@@ -2,7 +2,7 @@
 title: Υποστήριξη αρχείων CTB
 type: docs
 weight: 40
-url: /el/net/support-ctb/
+url: /el/net/developer-guide/support-ctb/
 ---
 
 ## **Υποστήριξη αρχείων CTB**

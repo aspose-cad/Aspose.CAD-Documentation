@@ -2,7 +2,7 @@
 title: Measurements
 type: docs
 weight: 40
-url: /ar/net/measurements/
+url: /ar/net/developer-guide/measurements/
 ---
 
 ## **قياسات المساحة والطول**

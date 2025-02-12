@@ -2,7 +2,7 @@
 title: Požadavky na systém
 type: docs
 weight: 40
-url: /cs/net/system-requirements/
+url: /cs/net/getting-started/system-requirements/
 ---
 
 ## **Podporované operační systémy**

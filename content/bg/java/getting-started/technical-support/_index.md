@@ -2,7 +2,7 @@
 title: Техническа Поддръжка
 type: docs
 weight: 80
-url: /bg/java/technical-support/
+url: /bg/java/getting-started/technical-support/
 ---
 
 {{% alert color="primary" %}}

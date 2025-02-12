@@ -2,7 +2,7 @@
 title: Installation
 type: docs
 weight: 30
-url: /de/java/installation/
+url: /de/java/getting-started/installation/
 ---
 
 ## **Aspose.CAD für Java aus dem Maven-Repository installieren**

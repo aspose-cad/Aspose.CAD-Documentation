@@ -2,7 +2,7 @@
 title: نظرة عامة على الميزات
 type: docs
 weight: 20
-url: /ar/jasperreports/features-overview/
+url: /ar/jasperreports/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

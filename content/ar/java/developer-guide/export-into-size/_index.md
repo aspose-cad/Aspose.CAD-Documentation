@@ -2,7 +2,7 @@
 title: تصدير رسم DWG/DXF والتخطيطات إلى حجم محدد
 type: docs
 weight: 40
-url: /ar/java/export-into-size/
+url: /ar/java/developer-guide/export-into-size/
 ---
 
 ## **تصدير النموذج وجميع التخطيطات إلى حجم PDF A4**

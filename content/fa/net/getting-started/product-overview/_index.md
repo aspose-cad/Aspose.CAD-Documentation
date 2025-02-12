@@ -2,7 +2,7 @@
 title: نمای کلی محصول
 type: docs
 weight: 10
-url: /fa/net/product-overview/
+url: /fa/net/getting-started/product-overview/
 ---
 
 **به Aspose.CAD برای .NET خوش آمدید**
@@ -24,7 +24,7 @@ Aspose.CAD برای .NET به توسعه‌دهندگان این امکان را
 ## **در یک نگاه**
 بررسی اجمالی از قابلیت‌های اصلی تبدیل، رندر و گزارش‌دهی Aspose.CAD برای .NET.
 
-![todo:image_alt_text](/fa/_assets/product-overview_2.png)
+![todo:image_alt_text](/_assets/net/product-overview_2.png)
 ## **ویژگی‌های پیشرفته API**
 - پشتیبانی از آخرین نسخه‌های فایل‌های AutoCAD DWG، DWF، DWT و DXF
 - تبدیل فایل‌های AutoCAD به PDF با کیفیت بالا
@@ -38,4 +38,4 @@ Aspose.CAD برای .NET از موارد زیر پشتیبانی می‌کند:
 - .NET Framework (شامل برنامه ASP.NET و برنامه Windows)
 - .NET Core
 
-![todo:image_alt_text](/fa/_assets/product-overview_3.png)
+![todo:image_alt_text](/_assets/net/product-overview_3.png)

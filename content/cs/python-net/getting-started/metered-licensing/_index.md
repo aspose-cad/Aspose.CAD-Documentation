@@ -2,7 +2,7 @@
 title: Metered Licensing
 type: docs
 weight: 40
-url: /cs/python-net/metered-licensing/
+url: /cs/python-net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

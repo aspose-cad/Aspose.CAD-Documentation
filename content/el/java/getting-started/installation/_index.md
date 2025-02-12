@@ -2,7 +2,7 @@
 title: Εγκατάσταση
 type: docs
 weight: 30
-url: /el/java/installation/
+url: /el/java/getting-started/installation/
 ---
 
 ## **Εγκαθιστώντας το Aspose.CAD για Java από το Maven Repository**

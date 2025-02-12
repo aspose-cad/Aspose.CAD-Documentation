@@ -2,7 +2,7 @@
 title: DWG DXF σε PDF C# | Μετατροπή Αρχείων Auto CAD σε PDF JPEG PNG σε C# .NET
 type: docs
 weight: 30
-url: /el/net/converting-cad-drawings-to-pdf-and-raster-image-formats/
+url: /el/net/developer-guide/converting-cad-drawings-to-pdf-and-raster-image-formats/
 keywords: "DWG σε PDF C#, DXF σε PDF C#, DWF DWT σε PDF C#, μετατροπή AutoCAD, μετατροπή DWG, μετατροπή DWF, μετατροπή DWT, μετατροπή DXF, μετατροπή autocad σε pdf, μετατροπή DWG σε PDF, μετατροπή DWG σε PNG, μετατροπή DWG σε TIFF, μετατροπή DWG σε JPG"
 description: Χρησιμοποιήστε το πρόγραμμα μετατροπής C# .NET AutoCAD σε PDF για να μετατρέψετε DWG ή DXF σε PDF σε C#. Μπορείτε να μετατρέψετε DWG, DWF, DWT και DXF σε PDF, JPEG, PNG, BMP, GIF και TIFF σε C# .NET επίσης.
 ---

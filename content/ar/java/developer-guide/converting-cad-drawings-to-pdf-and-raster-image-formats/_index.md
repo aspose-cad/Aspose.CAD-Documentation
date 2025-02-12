@@ -2,7 +2,7 @@
 title: تحويل رسومات CAD إلى PDF وصيغ صور raster
 type: docs
 weight: 30
-url: /ar/java/converting-cad-drawings-to-pdf-and-raster-image-formats/
+url: /ar/java/developer-guide/converting-cad-drawings-to-pdf-and-raster-image-formats/
 ---
 
 {{% alert color="primary" %}} 

@@ -2,7 +2,7 @@
 title: Formatos de Archivo Soportados
 type: docs
 weight: 60
-url: /es/python-net/supported-file-formats/
+url: /es/python-net/getting-started/supported-file-formats/
 ---
 
 ## **Formatos de Archivo Soportados**

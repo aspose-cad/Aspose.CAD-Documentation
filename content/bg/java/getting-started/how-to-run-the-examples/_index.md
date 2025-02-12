@@ -2,7 +2,7 @@
 title: Как да стартирате примерите
 type: docs
 weight: 70
-url: /bg/java/how-to-run-the-examples/
+url: /bg/java/getting-started/how-to-run-the-examples/
 ---
 
 ## **Изтегляне от GitHub**

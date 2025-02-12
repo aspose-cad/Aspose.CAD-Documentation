@@ -2,7 +2,7 @@
 title: كيفية تشغيل الأمثلة
 type: docs
 weight: 70
-url: /ar/net/how-to-run-the-examples/
+url: /ar/net/showcases/how-to-run-the-examples/
 ---
 
 ## **متطلبات البرنامج**

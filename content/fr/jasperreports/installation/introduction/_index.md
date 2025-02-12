@@ -2,7 +2,7 @@
 title: Introduction
 type: docs
 weight: 10
-url: /fr/jasperreports/introduction/
+url: /fr/jasperreports/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

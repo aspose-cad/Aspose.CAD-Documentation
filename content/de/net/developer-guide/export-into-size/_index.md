@@ -2,7 +2,7 @@
 title: Exportieren von DWG/DXF-Zeichnungen und Layouts in eine bestimmte Größe
 type: docs
 weight: 40
-url: /de/net/export-into-size/
+url: /de/net/developer-guide/export-into-size/
 ---
 
 ## **Exportieren des Modells und aller Layouts in A4-PDF-Größe**

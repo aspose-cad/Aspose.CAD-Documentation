@@ -2,7 +2,7 @@
 title: Exportar JasperReport a SVG
 type: docs
 weight: 40
-url: /es/jasperreports/export-jasperreport-to-svg
+url: /es/jasperreports/user-guide/export-jasperreport-to-svg/
 ---
 
 {{% alert color="primary" %}}

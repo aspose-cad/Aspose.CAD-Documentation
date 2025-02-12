@@ -2,7 +2,7 @@
 title: پشتیبانی فنی
 type: docs
 weight: 80
-url: /fa/java/technical-support/
+url: /fa/java/getting-started/technical-support/
 ---
 
 {{% alert color="primary" %}}

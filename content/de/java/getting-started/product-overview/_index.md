@@ -2,7 +2,7 @@
 title: Produktübersicht
 type: docs
 weight: 10
-url: /de/java/product-overview/
+url: /de/java/getting-started/product-overview/
 ---
 
 **Willkommen bei Aspose.CAD für Java**

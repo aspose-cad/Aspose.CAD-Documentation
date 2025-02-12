@@ -2,7 +2,7 @@
 title: Product Overview
 type: docs
 weight: 10
-url: /net/product-overview/
+url: /net/getting-started/product-overview/
 ---
 
 **Welcome to Aspose.CAD for .NET**

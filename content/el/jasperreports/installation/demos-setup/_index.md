@@ -2,7 +2,7 @@
 title: Ρύθμιση Δειγμάτων
 type: docs
 weight: 40
-url: /el/jasperreports/demos-setup/
+url: /el/jasperreports/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

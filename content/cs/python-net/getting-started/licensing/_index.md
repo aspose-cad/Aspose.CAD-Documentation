@@ -2,7 +2,7 @@
 title: Licencování
 type: docs
 weight: 40
-url: /cs/python-net/licencovani/
+url: /cs/python-net/getting-started/licensing/
 ---
 ## **Zavolejte setLicense**
 Pro použití licence:

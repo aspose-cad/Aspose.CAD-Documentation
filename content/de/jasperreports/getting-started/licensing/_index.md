@@ -2,7 +2,7 @@
 title: Lizenzierung
 type: docs
 weight: 40
-url: /de/jasperreports/licensing/
+url: /de/jasperreports/getting-started/licensing/
 ---
 ## **Rufen Sie setLicense auf**
 Um eine Lizenz anzuwenden:

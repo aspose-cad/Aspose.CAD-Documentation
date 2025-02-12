@@ -2,7 +2,7 @@
 title: Configuration des démos
 type: docs
 weight: 40
-url: /fr/jasperreports/demos-setup/
+url: /fr/jasperreports/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

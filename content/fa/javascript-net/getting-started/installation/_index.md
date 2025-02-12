@@ -2,7 +2,7 @@
 title: نصب
 type: docs
 weight: 30
-url: /fa/javascript-net/installation/
+url: /fa/javascript-net/getting-started/installation/
 ---
 
 ## **نصب Aspose.CAD برای جاوا اسکریپت از طریق npm**

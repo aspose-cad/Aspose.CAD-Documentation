@@ -2,7 +2,7 @@
 title: Експорт с 3D опции
 type: docs
 weight: 40
-url: /bg/net/export-with-3d-options/
+url: /bg/net/developer-guide/export-with-3d-options/
 ---
 
 ## **Експорт с 3D опции**

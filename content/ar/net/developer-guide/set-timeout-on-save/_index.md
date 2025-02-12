@@ -2,7 +2,7 @@
 title: تعيين مهلة عند الحفظ
 type: docs
 weight: 70
-url: /ar/net/set-timeout-on-save/
+url: /ar/net/developer-guide/set-timeout-on-save/
 ---
 
 ## **تعيين مهلة عند الحفظ**

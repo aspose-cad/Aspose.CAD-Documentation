@@ -2,7 +2,7 @@
 title: Medidas
 type: docs
 weight: 40
-url: /es/java/measurements/
+url: /es/java/developer-guide/measurements/
 ---
 
 ## **Mediciones de área y longitud**

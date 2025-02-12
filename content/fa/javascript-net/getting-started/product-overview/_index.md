@@ -2,7 +2,7 @@
 title: بررسی محصولات
 type: docs
 weight: 10
-url: /fa/javascript-net/product-overview/
+url: /fa/javascript-net/getting-started/product-overview/
 ---
 
 **به Aspose.CAD برای جاوااسکریپت خوش آمدید**

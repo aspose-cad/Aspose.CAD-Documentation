@@ -2,7 +2,7 @@
 title: Úvod
 type: docs
 weight: 10
-url: /cs/jasperreports/introduction/
+url: /cs/jasperreports/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

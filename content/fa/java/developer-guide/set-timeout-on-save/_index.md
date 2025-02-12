@@ -2,7 +2,7 @@
 title: Set timeout on save
 type: docs
 weight: 70
-url: /fa/java/set-timeout-on-save/
+url: /fa/java/developer-guide/set-timeout-on-save/
 ---
 
 ## **تنظیم زمانبندی برای ذخیره**

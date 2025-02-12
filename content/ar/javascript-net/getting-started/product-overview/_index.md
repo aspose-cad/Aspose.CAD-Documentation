@@ -2,7 +2,7 @@
 title: نظرة عامة على المنتج
 type: docs
 weight: 10
-url: /ar/javascript-net/product-overview/
+url: /ar/javascript-net/getting-started/product-overview/
 ---
 
 **مرحباً بكم في Aspose.CAD لجافا سكريبت**

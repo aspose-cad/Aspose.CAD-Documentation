@@ -3,7 +3,7 @@ title: Jak používat Aspose.CAD v JavaScriptu
 type: docs
 description: "použijte Aspose.CAD v JavaScriptu."
 weight: 73
-url: /cs/javascript-net/how-to-run-aspose-cad-in-javascript
+url: /cs/javascript-net/showcases/how-to-use-aspose-cad-in-javascript/
 ---
 
 ## Předpoklady

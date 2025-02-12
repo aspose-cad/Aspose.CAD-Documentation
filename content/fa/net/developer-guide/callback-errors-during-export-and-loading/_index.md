@@ -2,7 +2,7 @@
 title: Callback errors during export and load
 type: docs
 weight: 40
-url: /fa/net/callback-errors-during-export-and-loading/
+url: /fa/net/developer-guide/callback-errors-during-export-and-loading/
 ---
 
 ## **بررسی خطاهای callback در طول صادرات و بارگذاری**

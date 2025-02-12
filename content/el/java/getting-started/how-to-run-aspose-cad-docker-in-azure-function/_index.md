@@ -3,7 +3,7 @@ title: Πώς να Εκτελέσετε την Εικόνα Docker Aspose.CAD σ
 type: docs
 description: "Εκτελέστε την εικόνα Docker Aspose.CAD σε Azure Function."
 weight: 71
-url: /el/java/how-to-run-aspose-cad-docker-image-in-azure-function
+url: /el/java/getting-started/how-to-run-aspose-cad-docker-in-azure-function/
 ---
 
 ## Προαπαιτούμενα

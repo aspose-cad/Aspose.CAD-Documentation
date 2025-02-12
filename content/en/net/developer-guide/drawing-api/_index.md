@@ -2,6 +2,6 @@
 title: Drawing API
 type: docs
 weight: 40
-url: /net/drawing-api/
+url: /net/developer-guide/drawing-api/
 ---
 

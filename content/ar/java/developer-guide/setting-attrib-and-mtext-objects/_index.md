@@ -2,7 +2,7 @@
 title: إعداد كائنات ATTRIB و MTEXT
 type: docs
 weight: 60
-url: /ar/java/setting-attrib-and-mtext-objects/
+url: /ar/java/developer-guide/setting-attrib-and-mtext-objects/
 ---
 
 ## **إعداد كائنات ATTRIB و MTEXT**

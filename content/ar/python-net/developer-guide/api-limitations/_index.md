@@ -2,7 +2,7 @@
 title: قيود API
 type: docs
 weight: 80
-url: /ar/python-net/api-limitations/
+url: /ar/python-net/developer-guide/api-limitations/
 ---
 
 ## **معلومات منشئ نموذج CAD**

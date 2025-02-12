@@ -2,7 +2,7 @@
 title: تبدیل فرمت‌های فایل
 type: docs
 weight: 20
-url: /fa/javascript-net/converting-file-formats/
+url: /fa/javascript-net/getting-started/converting-file-formats/
 ---
 
 ## **تبدیل فرمت‌های فایل**

@@ -2,7 +2,7 @@
 title: Licenciamiento
 type: docs
 weight: 50
-url: /es/java/licensing/
+url: /es/java/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

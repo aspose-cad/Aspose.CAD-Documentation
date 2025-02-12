@@ -3,7 +3,7 @@ title: كيفية تشغيل Aspose.CAD في Docker
 type: docs
 description: "تشغيل Aspose.CAD في حاوية Docker لنظام Linux و Windows Server وأي نظام تشغيل آخر."
 weight: 71
-url: /ar/net/how-to-run-aspose-cad-in-docker
+url: /ar/net/showcases/how-to-run-aspose-cad-in-docker/
 ---
 
 ## المتطلبات الأساسية
@@ -20,9 +20,9 @@ url: /ar/net/how-to-run-aspose-cad-in-docker
 لإنشاء برنامج مرحبا بالعالم، اتبع الخطوات أدناه:
 1. بمجرد تثبيت Docker، تأكد من أنه يستخدم حاويات لينكس (الافتراضي). إذا لزم الأمر، اختر الخيار "التبديل إلى حاويات لينكس" من قائمة Docker Desktops.
 1. في Visual Studio، أنشئ تطبيق وحدة تحكم NET 6.<br>
-![مربع حوار مشروع تطبيق وحدة تحكم NET 6](/_assets/1.png)<br>
+![مربع حوار مشروع تطبيق وحدة تحكم NET 6](/_assets/showcases/docker/1.png)<br>
 1. قم بتثبيت أحدث إصدار من Aspose.CAD من NuGet.<br>
-![Aspose.CAD على NuGet](/_assets/2.png)<br>
+![Aspose.CAD على NuGet](/_assets/showcases/docker/2.png)<br>
 1. نظرًا لأن التطبيق سيتم تشغيله على Linux، قد تحتاج إلى تثبيت خطوط إضافية. يمكنك تفضيل ttf-mscorefonts-installer.
 1. عند إضافة جميع التبعيات المطلوبة، اكتب برنامجًا بسيطًا يقوم بإنشاء دائرة وحفظها كصورة:<br>
 

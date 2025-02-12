@@ -2,7 +2,7 @@
 title: API Limitations
 type: docs
 weight: 80
-url: /fa/python-net/api-limitations/
+url: /fa/python-net/developer-guide/api-limitations/
 ---
 
 ## **اطلاعات سازنده مدل CAD**

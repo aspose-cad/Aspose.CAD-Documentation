@@ -2,7 +2,7 @@
 title: Requisitos del Sistema
 type: docs
 weight: 40
-url: /es/java/system-requirements/
+url: /es/java/getting-started/system-requirements/
 ---
 
 ## **Descripción General**

@@ -3,7 +3,7 @@ title: Πώς να εκτελέσετε το Aspose.CAD σε Docker
 type: docs
 description: "Εκτελέστε το Aspose.CAD σε ένα δοχείο Docker για Linux, Windows Server και οποιοδήποτε λειτουργικό σύστημα."
 weight: 71
-url: /el/net/showcases/how-to-run-aspose-cad-in-docker
+url: /el/net/showcases/how-to-run-aspose-cad-in-docker/
 ---
 
 ## Προαπαιτούμενα
@@ -20,9 +20,9 @@ url: /el/net/showcases/how-to-run-aspose-cad-in-docker
 Για να δημιουργήσετε το πρόγραμμα Hello World, ακολουθήστε τα παρακάτω βήματα:
 1. Μόλις εγκατασταθεί το Docker, βεβαιωθείτε ότι χρησιμοποιεί τα Linux Containers (προεπιλεγμένο). Εάν χρειαστεί, επιλέξτε την επιλογή Μετάβαση σε Linux containers από το μενού του Docker Desktop.
 1. Στο Visual Studio, δημιουργήστε μια εφαρμογή κονσόλας .NET 6.<br>
-![Διάλογος έργου εφαρμογής κονσόλας .NET 6](/_assets/1.png)<br>
+![Διάλογος έργου εφαρμογής κονσόλας .NET 6](/_assets/showcases/docker/1.png)<br>
 1. Εγκαταστήστε την τελευταία έκδοση Aspose.CAD από το NuGet.<br>
-![Aspose.CAD στο NuGet](/_assets/2.png)<br>
+![Aspose.CAD στο NuGet](/_assets/showcases/docker/2.png)<br>
 1. Δεδομένου ότι η εφαρμογή θα εκτελείται σε Linux, μπορείτε να χρειαστεί να εγκαταστήσετε επιπλέον γραμματοσειρές. Μπορείτε να προτιμήσετε το ttf-mscorefonts-installer.
 1. Όταν προστεθούν όλες οι απαιτούμενες εξαρτήσεις, γράψτε ένα απλό πρόγραμμα που δημιουργεί μια έλλειψη και την αποθηκεύει ως εικόνα:<br>
 

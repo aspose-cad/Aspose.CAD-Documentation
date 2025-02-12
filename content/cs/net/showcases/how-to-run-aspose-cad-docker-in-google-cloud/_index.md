@@ -3,7 +3,7 @@ title: Jak spustit obraz Aspose.CAD Docker v Google Cloud
 type: docs
 description: "Spusťte obraz Aspose.CAD Docker v Google Cloud."
 weight: 75
-url: /cs/jak-spustit-aspose-cad-docker-obraz-v-google-cloud
+url: /cs/net/showcases/how-to-run-aspose-cad-docker-in-google-cloud/
 ---
 
 ## Předpoklady
@@ -120,11 +120,11 @@ dotnet run
 1. Přihlaste se do Google Cloud.
 1. Vytvořte projekt, pokud neexistuje.
 1. Přejděte do „Artifact Registry“ a vytvořte repozitář.<br>
-![Vytvoření úložiště Artifact](/_assets/create-artifact-repository.png)<br>
+![Vytvoření úložiště Artifact](/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Vyberte nový repozitář v Artefaktového registru.
-![Vyberte artefaktové úložiště](/_assets/select-artifact.png)<br>
+![Vyberte artefaktové úložiště](/_assets/showcases/google/select-artifact.png)<br>
 1. Klepněte na „SADA PŘÍKAZŮ“ a zkopírujte příkaz „Konfigurovat Docker“.<br>
-![SADA PŘÍKAZŮ](/_assets/setup-instruction.png)<br>
+![SADA PŘÍKAZŮ](/_assets/showcases/google/setup-instruction.png)<br>
 1. Přidejte záznam credHelper pro Docker do konfiguračního souboru Dockeru nebo vytvořte soubor, pokud neexistuje.
 {{< highlight plain >}}
 //příklad
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Přejděte do služby Cloud Run.
 1. Vytvořte službu Cloud Run.<br>
-![Vytvoření služby Cloud Run](/_assets/create-cloud-run-service.png)<br>
+![Vytvoření služby Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. V poli URL obrázku kontejneru vyberte kontejner z „ARTIFAKTOVÉHO REGISTRU“. <br>
-![URL obrázku kontejneru](/_assets/container-url.png)<br>
+![URL obrázku kontejneru](/_assets/showcases/google/container-url.png)<br>
 1. Zkontrolujte další nastavení níže.<br>
-![Nastavení služby](/_assets/cloud-run-service-settings.png)<br>
+![Nastavení služby](/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Počkejte na dokončení nasazení.
 1. URL služby k práci s aplikací konverze.<br>
-![URL služby](/_assets/url-service.png)<br>
+![URL služby](/_assets/showcases/google/url-service.png)<br>
 
 ### Konfigurace Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Příklad provedení
 
 1. Nastavení Postmanu.<br>
-![Přehled menu](/_assets/postman-settings.png)<br>
+![Přehled menu](/_assets/showcases/google/postman-settings.png)<br>
 1. Vyberte libovolný soubor DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Klepněte na tlačítko odeslat.
 

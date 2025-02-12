@@ -2,7 +2,7 @@
 title: Features
 type: docs
 weight: 30
-url: /javascript-net/features/
+url: /javascript-net/getting-started/features/
 ---
 
 ## **Product Features**

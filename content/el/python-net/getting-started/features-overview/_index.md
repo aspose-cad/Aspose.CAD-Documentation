@@ -2,7 +2,7 @@
 title: Επισκόπηση Χαρακτηριστικών
 type: docs
 weight: 20
-url: /el/python-net/features-overview/
+url: /el/python-net/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

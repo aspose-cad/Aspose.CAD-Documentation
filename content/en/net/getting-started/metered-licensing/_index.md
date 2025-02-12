@@ -2,7 +2,7 @@
 title: Metered Licensing
 type: docs
 weight: 60
-url: /net/metered-licensing/
+url: /net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

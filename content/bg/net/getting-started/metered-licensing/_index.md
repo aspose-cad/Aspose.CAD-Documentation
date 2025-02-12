@@ -2,7 +2,7 @@
 title: Таксуване по метър
 type: docs
 weight: 60
-url: /bg/net/metered-licensing/
+url: /bg/net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

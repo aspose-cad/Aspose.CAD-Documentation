@@ -2,7 +2,7 @@
 title: Настройка на демонстрациите
 type: документация
 weight: 40
-url: /bg/python-net/setup-for-demos/
+url: /bg/python-net/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

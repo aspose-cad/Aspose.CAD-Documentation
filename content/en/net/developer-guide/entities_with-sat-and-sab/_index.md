@@ -2,7 +2,7 @@
 title: Entities with SAT/SAB structure
 type: docs
 weight: 40
-url: /net/support-sat-sab/
+url: /net/developer-guide/entities_with-sat-and-sab/
 ---
 
 ## **Entities with SAT/SAB structure**

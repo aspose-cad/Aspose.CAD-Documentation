@@ -2,7 +2,7 @@
 title: تصدير تنسيق DGN AutoCAD
 type: docs
 weight: 50
-url: /ar/net/exporting-dgn-autocad/
+url: /ar/net/developer-guide/exporting-dgn-autocad/
 ---
 
 ## **تصدير تنسيق DGN AutoCAD إلى PDF**

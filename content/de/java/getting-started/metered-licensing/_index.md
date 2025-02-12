@@ -2,7 +2,7 @@
 title: Lizenzierung nach Verbrauch
 type: docs
 weight: 60
-url: /de/java/metered-licensing/
+url: /de/java/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

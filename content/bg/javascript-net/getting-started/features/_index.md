@@ -2,7 +2,7 @@
 title: Характеристики
 type: docs
 weight: 30
-url: /bg/javascript-net/features/
+url: /bg/javascript-net/getting-started/features/
 ---
 
 ## **Характеристики на продукта**

@@ -2,7 +2,7 @@
 title: تحويل تنسيقات الملفات
 type: docs
 weight: 60
-url: /ar/python-net/converting-file-formats/
+url: /ar/python-net/getting-started/converting-file-formats/
 ---
 
 ## **تحويل تنسيقات الملفات**

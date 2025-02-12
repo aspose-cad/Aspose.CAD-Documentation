@@ -2,7 +2,7 @@
 title: Измервания
 type: docs
 weight: 40
-url: /bg/net/measurements/
+url: /bg/net/developer-guide/measurements/
 ---
 
 ## **Измервания на площ и дължина**

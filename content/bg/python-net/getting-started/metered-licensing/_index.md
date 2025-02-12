@@ -2,7 +2,7 @@
 title: Лицензиране с измерване
 type: docs
 weight: 40
-url: /bg/python-net/metered-licensing/
+url: /bg/python-net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}}

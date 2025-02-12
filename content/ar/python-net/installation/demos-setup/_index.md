@@ -2,7 +2,7 @@
 title: إعداد العروض التوضيحية
 type: docs
 weight: 40
-url: /ar/python-net/demos-setup/
+url: /ar/python-net/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

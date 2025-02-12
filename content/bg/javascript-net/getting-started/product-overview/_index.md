@@ -2,7 +2,7 @@
 title: Преглед на продукта
 type: docs
 weight: 10
-url: /bg/javascript-net/product-overview/
+url: /bg/javascript-net/getting-started/product-overview/
 ---
 
 **Добре дошли в Aspose.CAD за JavaScript**

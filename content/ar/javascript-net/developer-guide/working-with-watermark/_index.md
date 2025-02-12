@@ -2,7 +2,7 @@
 title: العمل مع علامة مائية
 type: docs
 weight: 60
-url: /ar/javascript-net/working-with-watermark/
+url: /ar/javascript-net/developer-guide/working-with-watermark/
 ---
 
 ## **إضافة علامة مائية في DGN**

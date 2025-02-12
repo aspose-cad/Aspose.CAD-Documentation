@@ -2,7 +2,7 @@
 title: صدور مجوز متر
 type: docs
 weight: 60
-url: /fa/java/metered-licensing/
+url: /fa/java/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

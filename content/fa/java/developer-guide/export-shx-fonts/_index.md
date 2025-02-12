@@ -2,7 +2,7 @@
 title: صادرات فونت‌های SHX
 type: docs
 weight: 40
-url: /fa/java/export-shx-fonts/
+url: /fa/java/developer-guide/export-shx-fonts/
 ---
 
 ## **صادرات فونت‌های SHX برای نقشه‌های DXF/DWG**

@@ -2,7 +2,7 @@
 title: Αξιολογήστε το Aspose.CAD
 type: docs
 weight: 50
-url: /el/python-net/evaluate-aspose-cad/
+url: /el/python-net/getting-started/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}
@@ -13,7 +13,7 @@ url: /el/python-net/evaluate-aspose-cad/
 
 Η έκδοση αξιολόγησης του Aspose.CAD για Python (χωρίς καθορισμένη άδεια) παρέχει λειτουργικότητα προϊόντος σε κάποιο βαθμό, όχι πλήρη ωστόσο. Ένας περιορισμός είναι ότι πάντα εισάγει το υδατογράφημα αξιολόγησης στα αρχεία εξόδου.
 
-![Παράδειγμα εξαγωγής Aspose.CAD για Python](/_assets/AreaChartReport.jpg)
+![Παράδειγμα εξαγωγής Aspose.CAD για Python](/_assets/jasper/AreaChartReport.jpg)
 
 **Εικόνα:** Προειδοποίηση Αξιολόγησης
 

@@ -2,5 +2,5 @@
 title: كيف - نصائح للمطورين
 type: docs
 weight: 20
-url: /ar/net/how-to/
+url: /ar/net/developer-guide/how-to/
 ---

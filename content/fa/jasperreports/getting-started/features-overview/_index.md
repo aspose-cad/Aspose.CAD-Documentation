@@ -2,7 +2,7 @@
 title: نمای کلی ویژگی‌ها
 type: docs
 weight: 20
-url: /fa/jasperreports/features-overview/
+url: /fa/jasperreports/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: Supported File Formats
 type: docs
 weight: 60
-url: /jasperreports/supported-file-formats/
+url: /jasperreports/getting-started/supported-file-formats/
 ---
 
 |**Format**|**Description**|**Load**|**Save**|**Remarks**|

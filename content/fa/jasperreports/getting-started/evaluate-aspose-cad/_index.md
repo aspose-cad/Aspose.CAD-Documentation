@@ -2,7 +2,7 @@
 title: ارزیابی Aspose.CAD
 type: docs
 weight: 50
-url: /fa/jasperreports/evaluate-aspose-cad/
+url: /fa/jasperreports/getting-started/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}

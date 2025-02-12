@@ -2,7 +2,7 @@
 title: Сляпо водно знаме
 type: docs
 weight: 11
-url: /bg/net/blind-watermark
+url: /bg/net/developer-guide/blind-watermark/
 ---
 
 ## **Сляпо водно знаме**

@@ -2,7 +2,7 @@
 title: Trabajando con Marca de Agua
 type: docs
 weight: 60
-url: /es/python-net/working-with-watermark/
+url: /es/python-net/developer-guide/working-with-watermark/
 ---
 
 ## **Agregar Marca de Agua en un DWG**

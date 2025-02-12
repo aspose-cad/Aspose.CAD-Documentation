@@ -2,7 +2,7 @@
 title: Exportar con opciones 3D
 type: docs
 weight: 40
-url: /es/net/export-with-3d-options/
+url: /es/net/developer-guide/export-with-3d-options/
 ---
 
 ## **Exportar con opciones 3D**

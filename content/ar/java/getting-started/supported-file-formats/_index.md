@@ -2,7 +2,7 @@
 title: تنسيقات الملفات المدعومة
 type: docs
 weight: 20
-url: /ar/java/supported-file-formats/
+url: /ar/java/getting-started/supported-file-formats/
 ---
 
 ## **تنسيقات الملفات المدعومة**

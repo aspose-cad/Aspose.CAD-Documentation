@@ -2,7 +2,7 @@
 title: الترخيص
 type: docs
 weight: 40
-url: /ar/jasperreports/licensing/
+url: /ar/jasperreports/getting-started/licensing/
 ---
 ## **استدعاء setLicense**
 لتطبيق الترخيص:

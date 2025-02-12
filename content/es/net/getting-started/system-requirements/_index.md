@@ -2,7 +2,7 @@
 title: Requisitos del Sistema
 type: docs
 weight: 40
-url: /es/net/system-requirements/
+url: /es/net/getting-started/system-requirements/
 ---
 
 ## **Sistemas Operativos Soportados**

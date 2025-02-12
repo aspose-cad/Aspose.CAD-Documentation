@@ -2,7 +2,7 @@
 title: العمل مع العلامة المائية
 type: docs
 weight: 60
-url: /ar/python-net/working-with-watermark/
+url: /ar/python-net/developer-guide/working-with-watermark/
 ---
 
 ## **إضافة علامة مائية في DWG**

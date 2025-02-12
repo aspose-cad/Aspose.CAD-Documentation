@@ -2,7 +2,7 @@
 title: Подготовка на JasperPrint за експортиране
 type: docs
 weight: 10
-url: /bg/jasperreports/prepare-jasperprint-for-export
+url: /bg/jasperreports/user-guide/prepare-jasperprint-for-export/
 ---
 
 {{% alert color="primary" %}}

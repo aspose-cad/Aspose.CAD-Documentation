@@ -2,7 +2,7 @@
 title: Εργασία με Υδατογράφημα
 type: docs
 weight: 60
-url: /el/python-net/working-with-watermark/
+url: /el/python-net/developer-guide/working-with-watermark/
 ---
 
 ## **Προσθήκη Υδατογραφήματος σε DWG**

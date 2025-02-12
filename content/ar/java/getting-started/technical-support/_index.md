@@ -2,7 +2,7 @@
 title: الدعم الفني
 type: docs
 weight: 80
-url: /ar/java/technical-support/
+url: /ar/java/getting-started/technical-support/
 ---
 
 {{% alert color="primary" %}}

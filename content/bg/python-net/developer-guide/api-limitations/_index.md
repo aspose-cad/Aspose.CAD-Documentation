@@ -2,7 +2,7 @@
 title: Ограничения на API
 type: docs
 weight: 80
-url: /bg/python-net/api-limitations/
+url: /bg/python-net/developer-guide/api-limitations/
 ---
 
 ## **Информация за създателя на CAD публикации**

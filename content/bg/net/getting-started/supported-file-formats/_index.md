@@ -2,7 +2,7 @@
 title: Поддържани файлови формати
 type: docs
 weight: 20
-url: /bg/net/supported-file-formats/
+url: /bg/net/getting-started/supported-file-formats/
 ---
 
 ## **Поддържани файлови формати**

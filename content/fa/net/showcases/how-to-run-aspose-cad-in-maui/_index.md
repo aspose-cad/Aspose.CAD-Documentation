@@ -3,7 +3,7 @@ title: چگونه Aspose.CAD را در UI برنامه چند پلتفرم (MAUI
 type: docs
 description: "اجرای Aspose.CAD در یک UI برنامه چند پلتفرم (MAUI)."
 weight: 71
-url: /fa/net/showcases/how-to-run-aspose-cad-in-maui
+url: /fa/net/showcases/how-to-run-aspose-cad-in-maui/
 ---
 
 ## پیش نیازها
@@ -25,21 +25,21 @@ url: /fa/net/showcases/how-to-run-aspose-cad-in-maui
 
 1. برای ایجاد برنامه‌های .NET MAUI، به آخرین نسخه Visual Studio 2022 نیاز خواهید داشت.
 1. یا Visual Studio را نصب کنید، یا نصب موجود خود را اصلاح کنید و بار کاری توسعه UI برنامه چند پلتفرم .NET را با گزینه‌های نصب پیش‌فرضش نصب کنید:<br>
-![نصب‌کننده_visual](/_assets/visual-installer.png)
+![نصب‌کننده_visual](/_assets/showcases/maui/visual-installer.png)
 
 ## ایجاد پروژه
 
 1. Visual Studio را راه‌اندازی کنید. در پنجره شروع، روی "Create a new project" کلیک کنید تا یک پروژه جدید ایجاد کنید:<br>
-![ایجاد پروژه](/_assets/create-project.png)<br>
+![ایجاد پروژه](/_assets/showcases/maui/create-project.png)<br>
 1. در پنجره "Create a new project"، MAUI را در منوی کشویی "All project types" انتخاب کنید، الگوی .NET MAUI App را انتخاب کنید و روی دکمه Next کلیک کنید:<br>
-![انتخاب نوع پروژه](/_assets/select-project.png)<br>
+![انتخاب نوع پروژه](/_assets/showcases/maui/select-project.png)<br>
 1. در پنجره "Configure your new project"، نام پروژه خود را انتخاب کنید، مکان مناسبی برای آن انتخاب کنید و روی دکمه Next کلیک کنید:<br>
-![انتخاب مسیر پروژه](/_assets/select-project-path.png)<br>
+![انتخاب مسیر پروژه](/_assets/showcases/maui/select-project-path.png)<br>
 1. در پنجره "Additional information"، نسخه .NET که می‌خواهید هدف قرار دهید را انتخاب کنید و روی دکمه Create کلیک کنید:<br>
-![فریم‌ورک هدف](/_assets/select-framework.png)<br>
+![فریم‌ورک هدف](/_assets/showcases/maui/select-framework.png)<br>
 1. منتظر بمانید تا پروژه ایجاد شود و وابستگی‌های آن بازگردانی شوند.
 1. آخرین نسخه Aspose.CAD را از NuGet نصب کنید:<br>
-![NuGet](/_assets/nuget.png)<br>
+![NuGet](/_assets/showcases/maui/nuget.png)<br>
 1. کد موجود در MainPage.xaml را جایگزین کنید
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -126,47 +126,47 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## اشکال‌زدایی از ماشین ویندوز
 
 1. در نوار ابزار Visual Studio، از منوی کشویی Debug Target برای انتخاب Framework و سپس ورودی net7.0-windows استفاده کنید:<br>
-![هدف اشکال‌زدایی](/_assets/windows-mode.png)<br>
+![هدف اشکال‌زدایی](/_assets/showcases/maui/windows-mode.png)<br>
 1. در نوار ابزار Visual Studio، روی دکمه Windows Machine کلیک کنید تا برنامه ساخته و اجرا شود:<br>
-![شروع اشکال‌زدایی در ماشین ویندوز](/_assets/windows-start-debug.png)<br>
+![شروع اشکال‌زدایی در ماشین ویندوز](/_assets/showcases/maui/windows-start-debug.png)<br>
 1. در برنامه در حال اجرا، چندین بار روی دکمه "انتخاب فایل" کلیک کنید و مشاهده کنید که تعداد کلیک‌های دکمه افزایش می‌یابد:<br>
-![صفحه اصلی](/_assets/windows-home-page.png)<br>
+![صفحه اصلی](/_assets/showcases/maui/windows-home-page.png)<br>
 1. فایل مورد نیاز را انتخاب کرده و روی باز کردن کلیک کنید:<br>
-![انتخاب فایل](/_assets/select-file.png)<br>
+![انتخاب فایل](/_assets/showcases/maui/select-file.png)<br>
 1. پس از پردازش فایل، تصویری از فایل تبدیل شده باید روی صفحه ظاهر شود:<br>
-![نتیجه اشکال‌زدایی ویندوز](/_assets/windows-result.png)
+![نتیجه اشکال‌زدایی ویندوز](/_assets/showcases/maui/windows-result.png)
 
 ## نصب شبیه‌ساز Android
 
 1. در نوار ابزار Visual Studio، از منوی کشویی Debug Target برای انتخاب Android Emulators و سپس ورودی Android Emulator استفاده کنید.
 1. در نوار ابزار Visual Studio، روی دکمه Android Emulator کلیک کنید:<br>
-![شروع نصب دکمه شبیه‌ساز](/_assets/start-install-emulator.png)<br>
+![شروع نصب دکمه شبیه‌ساز](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. در پنجره قرارداد مجوز Android SDK، روی دکمه Accept کلیک کنید:<br>
-![مجوز SDK Android](/_assets/android-sdk-1.png)<br>
+![مجوز SDK Android](/_assets/showcases/maui/android-sdk-1.png)<br>
 1. در پنجره قرارداد مجوز Android SDK، روی دکمه Accept کلیک کنید:<br>
-![مجوز ARM SDK Android](/_assets/android-sdk-2.png)<br>
+![مجوز ARM SDK Android](/_assets/showcases/maui/android-sdk-2.png)<br>
 1. در گفتگوی کنترل حساب کاربری، روی دکمه Yes کلیک کنید:<br>
-![مدیر SDK](/_assets/android-sdk-3.png)<br>
+![مدیر SDK](/_assets/showcases/maui/android-sdk-3.png)<br>
 1. در پنجره پذیرش مجوز، روی دکمه Accept کلیک کنید:<br>
-![مدیر مجوز SDK](/_assets/android-sdk-4.png)<br>
+![مدیر مجوز SDK](/_assets/showcases/maui/android-sdk-4.png)<br>
 1. در نوار ابزار Visual Studio، روی دکمه Android Emulator کلیک کنید:<br>
-![شروع نصب دکمه شبیه‌ساز](/_assets/start-install-emulator.png)<br>
+![شروع نصب دکمه شبیه‌ساز](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. در گفتگوی کنترل حساب کاربری، روی دکمه Yes کلیک کنید:<br>
-![مدیر دستگاه Android](/_assets/android-device-manager.png)<br>
+![مدیر دستگاه Android](/_assets/showcases/maui/android-device-manager.png)<br>
 1. در پنجره دستگاه جدید، روی دکمه Create کلیک کنید:<br>
-![دستگاه جدید Android](/_assets/android-new-device.png)<br>
+![دستگاه جدید Android](/_assets/showcases/maui/android-new-device.png)<br>
 1. پنجره مدیر دستگاه Android را ببندید.
 
 ## اشکال‌زدایی با شبیه‌ساز Android
 
 1. در نوار ابزار Visual Studio، روی دکمه Pixel 5 - API 33 (Android 13.0 - API 33) کلیک کنید تا برنامه ساخته و اجرا شود:<br>
-![انتخاب شبیه‌ساز Android](/_assets/select-android-emulator.png)<br>
+![انتخاب شبیه‌ساز Android](/_assets/showcases/maui/select-android-emulator.png)<br>
 1. در برنامه در حال اجرا در شبیه‌ساز Android، چندین بار روی دکمه "انتخاب فایل" کلیک کنید و مشاهده کنید که تعداد کلیک‌های دکمه افزایش می‌یابد:<br>
-![صفحه اصلی شبیه‌ساز Android](/_assets/android-home-page.png)<br>
+![صفحه اصلی شبیه‌ساز Android](/_assets/showcases/maui/android-home-page.png)<br>
 1. فایل مورد نیاز را انتخاب کرده و روی انتخاب کلیک کنید:<br>
-![انتخاب فایل در Android](/_assets/android-select-file.png)<br>
+![انتخاب فایل در Android](/_assets/showcases/maui/select-file-android.png)<br>
 1. پس از پردازش فایل، تصویری از فایل تبدیل شده باید روی صفحه ظاهر شود:<br>
-![نتیجه اشکال‌زدایی Android](/_assets/android-result.png)
+![نتیجه اشکال‌زدایی Android](/_assets/showcases/maui/android-result.png)
 
 ## مثال‌های بیشتر
 

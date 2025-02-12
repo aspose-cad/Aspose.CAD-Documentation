@@ -2,7 +2,7 @@
 title: Υποστηριζόμενες Μορφές Αρχείων
 type: docs
 weight: 20
-url: /el/net/supported-file-formats/
+url: /el/net/getting-started/supported-file-formats/
 ---
 
 ## **Υποστηριζόμενες Μορφές Αρχείων**

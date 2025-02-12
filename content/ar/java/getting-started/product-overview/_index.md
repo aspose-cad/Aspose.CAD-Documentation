@@ -2,7 +2,7 @@
 title: نظرة عامة على المنتج
 type: docs
 weight: 10
-url: /ar/java/product-overview/
+url: /ar/java/getting-started/product-overview/
 ---
 
 **مرحبًا بكم في Aspose.CAD لـ Java**

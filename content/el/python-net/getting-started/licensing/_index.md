@@ -2,7 +2,7 @@
 title: Άδειες
 type: docs
 weight: 40
-url: /el/python-net/licensing/
+url: /el/python-net/getting-started/licensing/
 ---
 ## **Καλέστε το setLicense**
 Για να εφαρμόσετε μια άδεια:

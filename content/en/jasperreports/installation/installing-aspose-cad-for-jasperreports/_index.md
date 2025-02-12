@@ -2,7 +2,7 @@
 title: Installing Aspose.CAD for JasperReports
 type: docs
 weight: 20
-url: /jasperreports/installing-aspose-cad-for-jasperreports/
+url: /jasperreports/installation/installing-aspose-cad-for-jasperreports/
 ---
 
 To use **Aspose.CAD for JasperReports** from your application, copy **aspose-cad-jasperreports-xx.x.jar** from the \lib folder of **aspose-cad-jasperreports-xx.x.zip** to the JasperReports\lib directory or to a library folder of your application. After that, you can access the exporters programmatically.

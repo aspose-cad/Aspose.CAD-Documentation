@@ -2,7 +2,7 @@
 title: نصب
 type: docs
 weight: 30
-url: /fa/java/installation/
+url: /fa/java/getting-started/installation/
 ---
 
 ## **نصب Aspose.CAD برای جاوا از مخزن Maven**

@@ -2,7 +2,7 @@
 title: خروجی فونت های SHX
 type: docs
 weight: 40
-url: /fa/net/export-shx-fonts/
+url: /fa/net/developer-guide/export-shx-fonts/
 ---
 
 ## **خروجی فونت های SHX برای رسم های DXF/DWG**

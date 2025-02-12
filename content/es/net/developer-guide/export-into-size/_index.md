@@ -2,7 +2,7 @@
 title: Exportando dibujo y maquetas DWG/DXF en un tamaño especificado
 type: docs
 weight: 40
-url: /es/net/export-into-size/
+url: /es/net/developer-guide/export-into-size/
 ---
 
 ## **Exportar modelo y todas las maquetas en tamaño A4 PDF**

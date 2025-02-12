@@ -2,7 +2,7 @@
 title: القياسات
 type: docs
 weight: 40
-url: /ar/java/measurements/
+url: /ar/java/developer-guide/measurements/
 ---
 
 ## **قياسات المساحة والطول**

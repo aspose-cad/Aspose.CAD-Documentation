@@ -2,7 +2,7 @@
 title: الترخيص
 type: docs
 weight: 50
-url: /ar/net/licensing/
+url: /ar/net/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

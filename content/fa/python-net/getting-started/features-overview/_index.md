@@ -2,7 +2,7 @@
 title: مرور کلی ویژگی ها
 type: docs
 weight: 20
-url: /fa/python-net/features-overview/
+url: /fa/python-net/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

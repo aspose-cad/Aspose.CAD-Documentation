@@ -2,7 +2,7 @@
 title: Оценете Aspose.CAD
 type: документация
 weight: 50
-url: /bg/python-net/оценете-aspose-cad/
+url: /bg/python-net/getting-started/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}
@@ -13,7 +13,7 @@ url: /bg/python-net/оценете-aspose-cad/
 
 Версията за оценка на Aspose.CAD за Python (без посочена лиценз) предоставя функционалност на продукта до известна степен, но не напълно. Едно ограничение е, че винаги вгражда водния знак за оценка в изходните файлове.
 
-![Пример за износ с Aspose.CAD за Python](/_assets/AreaChartReport.jpg)
+![Пример за износ с Aspose.CAD за Python](/_assets/jasper/AreaChartReport.jpg)
 
 **Фигура:** Предупреждение за оценка
 

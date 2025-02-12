@@ -2,7 +2,7 @@
 title: Άδειες
 type: docs
 weight: 40
-url: /el/jasperreports/licensing/
+url: /el/jasperreports/getting-started/licensing/
 ---
 ## **Κλήση setLicense**
 Για να εφαρμόσετε μια άδεια:

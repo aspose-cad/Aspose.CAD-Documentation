@@ -2,7 +2,7 @@
 title: Funkce
 type: docs
 weight: 30
-url: /cs/javascript-net/features/
+url: /cs/javascript-net/getting-started/features/
 ---
 
 ## **Funkce produktu**

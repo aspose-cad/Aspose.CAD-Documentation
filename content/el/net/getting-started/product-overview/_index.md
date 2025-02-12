@@ -2,7 +2,7 @@
 title: Επισκόπηση Προϊόντος
 type: docs
 weight: 10
-url: /el/net/product-overview/
+url: /el/net/getting-started/product-overview/
 ---
 
 **Καλώς ήρθατε στο Aspose.CAD για .NET**
@@ -21,7 +21,7 @@ url: /el/net/product-overview/
 ## **Εν μία Νυκτί**
 Μια επισκόπηση των κύριων δυνατοτήτων μετατροπής, απόδοσης και αναφοράς του Aspose.CAD για .NET.
 
-![todo:image_alt_text](/_assets/product-overview_2.png)
+![todo:image_alt_text](/_assets/net/product-overview_2.png)
 ## **Προηγμένες Δυνατότητες API**
 - Υποστηρίζει τις τελευταίες εκδόσεις των αρχείων AutoCAD DWG, DWF, DWT και DXF
 - Μετατροπή των αρχείων AutoCAD σε υψηλής ποιότητας PDF
@@ -35,4 +35,4 @@ url: /el/net/product-overview/
 - .NET Framework (συμπεριλαμβανομένων των Εφαρμογών ASP.NET και Εφαρμογών Windows.)
 - .NET Core
 
-![todo:image_alt_text](/_assets/product-overview_3.png)
+![todo:image_alt_text](/_assets/net/product-overview_3.png)

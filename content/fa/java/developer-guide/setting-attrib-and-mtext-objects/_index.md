@@ -2,7 +2,7 @@
 title: تنظیم اشیاء ATTRIB و MTEXT
 type: docs
 weight: 60
-url: /fa/java/setting-attrib-and-mtext-objects/
+url: /fa/java/developer-guide/setting-attrib-and-mtext-objects/
 ---
 
 ## **تنظیم اشیاء ATTRIB و MTEXT**

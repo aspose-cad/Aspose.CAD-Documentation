@@ -2,7 +2,7 @@
 title: Επεξήγηση της συμπεριφοράς της προσωρινής μνήμης του Aspose.CAD
 type: docs
 weight: 20
-url: /el/common/caching-behaviour-explanation
+url: /el/common/caching-behaviour-explanation/
 ---
 
 ## **Πώς η Aspose.CAD αποθηκεύει δεδομένα στην προσωρινή μνήμη**

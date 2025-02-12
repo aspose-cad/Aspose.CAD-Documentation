@@ -2,7 +2,7 @@
 title: Lizenzierung
 type: docs
 weight: 50
-url: /de/net/licensing/
+url: /de/net/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

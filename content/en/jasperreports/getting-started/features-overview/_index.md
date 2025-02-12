@@ -2,7 +2,7 @@
 title: Features Overview
 type: docs
 weight: 20
-url: /jasperreports/features-overview/
+url: /jasperreports/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

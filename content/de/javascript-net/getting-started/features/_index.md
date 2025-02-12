@@ -2,7 +2,7 @@
 title: Funktionen
 type: docs
 weight: 30
-url: /de/javascript-net/features/
+url: /de/javascript-net/getting-started/features/
 ---
 
 ## **Produktfunktionen**

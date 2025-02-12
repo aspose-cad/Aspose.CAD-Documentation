@@ -2,7 +2,7 @@
 title: Експортиране на SHX шрифтове
 type: docs
 weight: 40
-url: /bg/java/export-shx-fonts/
+url: /bg/java/developer-guide/export-shx-fonts/
 ---
 
 ## **Експортиране на SHX шрифтове за DXF/DWG чертежи**

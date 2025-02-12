@@ -2,7 +2,7 @@
 title: Ρυθμίσεις Δοκιμών
 type: docs
 weight: 40
-url: /el/python-net/demos-setup/
+url: /el/python-net/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

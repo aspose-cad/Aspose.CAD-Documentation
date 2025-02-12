@@ -2,7 +2,7 @@
 title: تصدير مع خيارات ثلاثية الأبعاد
 type: docs
 weight: 40
-url: /ar/java/export-with-3d-options/
+url: /ar/java/developer-guide/export-with-3d-options/
 ---
 
 ## **تصدير مع خيارات ثلاثية الأبعاد**

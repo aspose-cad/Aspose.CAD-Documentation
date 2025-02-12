@@ -2,7 +2,7 @@
 title: Licenciamiento Medido
 type: docs
 weight: 60
-url: /es/net/metered-licensing/
+url: /es/net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

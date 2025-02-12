@@ -2,7 +2,7 @@
 title: Demos Setup
 type: docs
 weight: 40
-url: /jasperreports/demos-setup/
+url: /jasperreports/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

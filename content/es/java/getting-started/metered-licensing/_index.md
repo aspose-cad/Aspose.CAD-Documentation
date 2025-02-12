@@ -2,7 +2,7 @@
 title: Licenciamiento Medido
 type: docs
 weight: 60
-url: /es/java/metered-licensing/
+url: /es/java/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

@@ -2,7 +2,7 @@
 title: Vue d'ensemble des fonctionnalités
 type: docs
 weight: 20
-url: /fr/jasperreports/features-overview/
+url: /fr/jasperreports/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

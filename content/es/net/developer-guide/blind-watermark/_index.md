@@ -2,7 +2,7 @@
 title: Marca de agua ciega
 type: docs
 weight: 11
-url: /es/net/blind-watermark
+url: /es/net/developer-guide/blind-watermark/
 ---
 
 ## **Marca de agua ciega**

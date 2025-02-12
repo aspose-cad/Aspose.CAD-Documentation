@@ -2,7 +2,7 @@
 title: Поддържани файлови формати
 type: docs
 weight: 20
-url: /bg/java/supported-file-formats/
+url: /bg/java/getting-started/supported-file-formats/
 ---
 
 ## **Поддържани файлови формати**

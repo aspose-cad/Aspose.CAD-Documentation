@@ -2,7 +2,7 @@
 title: Същности с структура SAT/SAB
 type: docs
 weight: 40
-url: /bg/java/support-sat-sab/
+url: /bg/java/developer-guide/entities_with-sat-and-sab/
 ---
 
 ## **Същности с структура SAT/SAB**

@@ -2,7 +2,7 @@
 title: إعداد العروض التوضيحية
 type: docs
 weight: 40
-url: /ar/jasperreports/demos-setup/
+url: /ar/jasperreports/installation/demos-setup/
 ---
 
 {{% alert color="primary" %}}

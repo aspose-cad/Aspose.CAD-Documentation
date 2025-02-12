@@ -2,7 +2,7 @@
 title: Entitáty s SAT/SAB strukturou
 type: docs
 weight: 40
-url: /cs/net/support-sat-sab/
+url: /cs/net/developer-guide/entities_with-sat-and-sab/
 ---
 
 ## **Entitáty s SAT/SAB strukturou**

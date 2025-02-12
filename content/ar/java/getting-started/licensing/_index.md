@@ -2,7 +2,7 @@
 title: الترخيص
 type: docs
 weight: 50
-url: /ar/java/licensing/
+url: /ar/java/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

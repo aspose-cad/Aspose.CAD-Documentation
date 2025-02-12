@@ -2,7 +2,7 @@
 title: Schriften im SHX-Format exportieren
 type: docs
 weight: 40
-url: /de/java/export-shx-fonts/
+url: /de/java/developer-guide/export-shx-fonts/
 ---
 
 ## **SHX-Schriften für DXF/DWG-Zeichnungen exportieren**

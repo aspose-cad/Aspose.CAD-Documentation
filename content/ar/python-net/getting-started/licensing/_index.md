@@ -2,7 +2,7 @@
 title: الترخيص
 type: docs
 weight: 40
-url: /ar/python-net/licensing/
+url: /ar/python-net/getting-started/licensing/
 ---
 ## **استدعاء setLicense**
 لتطبيق ترخيص:

@@ -2,7 +2,7 @@
 title: Metered Licensing
 type: docs
 weight: 60
-url: /java/metered-licensing/
+url: /java/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

@@ -2,7 +2,7 @@
 title: Establecer tiempo de espera al guardar
 type: docs
 weight: 70
-url: /es/java/set-timeout-on-save/
+url: /es/java/developer-guide/set-timeout-on-save/
 ---
 
 ## **Establecer tiempo de espera al guardar**

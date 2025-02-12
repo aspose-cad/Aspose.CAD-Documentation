@@ -2,7 +2,7 @@
 title: Descripción del Producto
 type: docs
 weight: 10
-url: /es/javascript-net/product-overview/
+url: /es/javascript-net/getting-started/product-overview/
 ---
 
 **Bienvenido a Aspose.CAD para JavaScript**

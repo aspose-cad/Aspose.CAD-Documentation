@@ -2,7 +2,7 @@
 title: شرح سلوك التخزين المؤقت لـ Aspose.CAD
 type: docs
 weight: 20
-url: /ar/common/caching-behaviour-explanation
+url: /ar/common/caching-behaviour-explanation/
 ---
 
 ## **كيف يقوم Aspose.CAD بتخزين البيانات مؤقتًا**

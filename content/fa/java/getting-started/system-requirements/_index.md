@@ -2,7 +2,7 @@
 title: الزامات سیستم
 type: docs
 weight: 40
-url: /fa/java/system-requirements/
+url: /fa/java/getting-started/system-requirements/
 ---
 
 ## **بررسی کلی**

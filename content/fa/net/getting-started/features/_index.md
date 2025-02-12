@@ -2,7 +2,7 @@
 title: ویژگی‌ها
 type: docs
 weight: 30
-url: /fa/net/features/
+url: /fa/net/getting-started/features/
 ---
 
 ## **ویژگی‌های محصول**

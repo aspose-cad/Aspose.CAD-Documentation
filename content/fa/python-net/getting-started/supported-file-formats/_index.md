@@ -2,7 +2,7 @@
 title: فرمت‌های فایل پشتیبانی شده
 type: docs
 weight: 60
-url: /fa/python-net/supported-file-formats/
+url: /fa/python-net/getting-started/supported-file-formats/
 ---
 
 ## **فرمت‌های فایل پشتیبانی شده**

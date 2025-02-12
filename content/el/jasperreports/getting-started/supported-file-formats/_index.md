@@ -2,7 +2,7 @@
 title: Υποστηριζόμενοι Τύποι Αρχείων
 type: docs
 weight: 60
-url: /el/jasperreports/supported-file-formats/
+url: /el/jasperreports/getting-started/supported-file-formats/
 ---
 
 |**Τύπος**|**Περιγραφή**|**Φόρτωση**|**Αποθήκευση**|**Σημειώσεις**|

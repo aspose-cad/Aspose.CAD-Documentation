@@ -2,7 +2,7 @@
 title: Exportování SHX písma
 type: docs
 weight: 40
-url: /cs/python-net/export-shx-fonts/
+url: /cs/python-net/developer-guide/export-shx-fonts/
 ---
 
 ## **Exportování SHX písma pro výkresy DXF/DWG**

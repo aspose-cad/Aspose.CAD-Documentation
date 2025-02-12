@@ -2,7 +2,7 @@
 title: Πώς να Εκτελέσετε τα Παραδείγματα
 type: docs
 weight: 70
-url: /el/java/how-to-run-the-examples/
+url: /el/java/getting-started/how-to-run-the-examples/
 ---
 
 ## **Λήψη από το GitHub**

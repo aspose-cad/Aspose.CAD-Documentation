@@ -2,7 +2,7 @@
 title: System Requirements
 type: docs
 weight: 40
-url: /net/system-requirements/
+url: /net/getting-started/system-requirements/
 ---
 
 ## **Supported Operating Systems**

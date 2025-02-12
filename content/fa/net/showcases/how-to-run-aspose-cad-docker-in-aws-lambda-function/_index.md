@@ -3,7 +3,7 @@ title: چگونه در توابع AWS Lambda تصویر Docker Aspose.CAD را �
 type: docs
 description: "اجرای تصویر Docker Aspose.CAD در توابع AWS Lambda."
 weight: 74
-url: /fa/net/showcases/how-to-run-aspose-cad-docker-image-in-aws-lambda-function
+url: /fa/net/showcases/how-to-run-aspose-cad-docker-in-aws-lambda-function/
 ---
 
 ## پیش نیازها
@@ -25,16 +25,16 @@ Lambda یک سرویس محاسباتی است که به شما اجازه می�
 
 برای ایجاد برنامه تابع AWS Lambda، مراحل زیر را دنبال کنید:
 1. پروژه AWS Lambda را ایجاد کنید.<br>
-![دکمه ایجاد تابع AWS](/_assets/create-project.png)<br>
+![دکمه ایجاد تابع AWS](/_assets/showcases/aws/create-project.png)<br>
 1. .NET 6 (Container Image) را انتخاب کرده و روی دکمه 'پایان' کلیک کنید.<br>
-![دکمه ایجاد تابع کانتینر](/_assets/create-container.png)<br>
+![دکمه ایجاد تابع کانتینر](/_assets/showcases/aws/create-container.png)<br>
 1. AWS Explorer را در Visual Studio باز کنید (View->AWS Explorer).
 1. پروفایل اعتبارنامه AWS را در AWS Explorer اضافه کنید.<br>
-![پروفایل اعتبارنامه](/_assets/add-aws-credentials-profile.png)<br>
+![پروفایل اعتبارنامه](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Access Key ID و Secret Access Key را وارد کنید، می‌توانید این کلیدها را در اعتبارنامه امنیتی پیدا کنید یا با مدیر تماس بگیرید و یک فایل csv برای مجوز دریافت کنید.<br>
-![تنظیمات پروفایل حساب](/_assets/account-profile.png)<br>
+![تنظیمات پروفایل حساب](/_assets/showcases/aws/account-profile.png)<br>
 1. آخرین کتابخانه‌ها را از NuGet نصب کنید.<br>
-![مدیریت NuGet](/_assets/nuget-manager.png)<br>
+![مدیریت NuGet](/_assets/showcases/aws/nuget-manager.png)<br>
 1. مثال کد برای تبدیل تصویر cad به فایل pdf.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. فایل Docker را مانند بخش <a href="#configuring-a-dockerfile">پیکربندی Dockerfile</a> ویرایش کنید.
 1. Docker Desktop را راه‌اندازی کنید.
 1. به AWS Lambda منتشر کنید.<br>
-![انتشار AWS Lambda](/_assets/publish-aws.png)<br>
+![انتشار AWS Lambda](/_assets/showcases/aws/publish-aws.png)<br>
 1. پیکربندی بارگذاری را ویرایش کنید.<br>
-![بارگذاری AWS Lambda](/_assets/upload-aws-lambda.png)<br>
+![بارگذاری AWS Lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. روی دکمه 'بارگذاری' کلیک کنید.<br>
-![بارگذاری آخرین AWS Lambda](/_assets/upload-aws-lambda-finish.png)<br>
+![بارگذاری آخرین AWS Lambda](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. به AWS بروید و Lambda را انتخاب کنید.<br>
-![AWS Lambda](/_assets/select-aws-lambda.png)<br>
+![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. تابع جدید خود را انتخاب کرده و URL تابع را ایجاد کنید.<br>
-![ایجاد URL تابع](/_assets/create-function-url.png)<br>
+![ایجاد URL تابع](/_assets/showcases/aws/create-function-url.png)<br>
 1. نوع احراز هویت را انتخاب کنید
 - AWS_IAM - تنها کاربران و نقش‌های معتبر IAM می‌توانند درخواست‌هایی به URL تابع شما ارسال کنند.
 - NONE - Lambda احراز هویت IAM را برای درخواست‌های URL تابع شما انجام نخواهد داد. نقطه پایانی URL عمومی خواهد بود، مگر اینکه منطق مجوز خود را در تابع خود پیاده‌سازی کنید.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## مثال اجرای
 
 1. تنظیمات Postman.<br>
-![منوی Overview](/_assets/postman-settings.png)<br>
+![منوی Overview](/_assets/showcases/aws/postman-settings.png)<br>
 1. هر فایل DXF، DWG، DGN، DWF، DWFX، IFC، STL، DWT، IGES، PLT، CF2، OBJ، HPGL، IGS، PCL، FBX، PDF، SVG را انتخاب کنید.
 1. روی دکمه ارسال کلیک کنید.
 

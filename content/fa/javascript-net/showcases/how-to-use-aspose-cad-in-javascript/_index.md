@@ -3,7 +3,7 @@ title: نحوه استفاده از Aspose.CAD در جاوا اسکریپت
 type: docs
 description: "استفاده از Aspose.CAD در جاوا اسکریپت."
 weight: 73
-url: /fa/javascript-net/how-to-run-aspose-cad-in-javascript
+url: /fa/javascript-net/showcases/how-to-use-aspose-cad-in-javascript/
 ---
 
 ## پیش نیازها

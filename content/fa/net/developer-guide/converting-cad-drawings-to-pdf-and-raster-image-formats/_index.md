@@ -2,7 +2,7 @@
 title: تبدیل DWG DXF به PDF C# | تبدیل فایل‌های اتو کد به PDF JPEG PNG در C# .NET
 type: docs
 weight: 30
-url: /fa/net/converting-cad-drawings-to-pdf-and-raster-image-formats/
+url: /fa/net/developer-guide/converting-cad-drawings-to-pdf-and-raster-image-formats/
 keywords: "DWG به PDF C#, DXF به PDF C#, DWF DWT به PDF C#, تبدیل اتو کد, تبدیل DWG, تبدیل DWF, تبدیل DWT, تبدیل DXF, تبدیل اتو کد به pdf, تبدیل DWG به PDF, تبدیل DWG به PNG, تبدیل DWG به TIFF, تبدیل DWG به JPG"
 description: از تبدیل‌کننده DWG یا DXF به PDF در C# .NET استفاده کنید. شما می‌توانید DWG، DWF، DWT و DXF را به PDF، JPEG، PNG، BMP، GIF و TIFF در C# .NET تبدیل کنید.
 ---

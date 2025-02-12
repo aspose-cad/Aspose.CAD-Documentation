@@ -2,7 +2,7 @@
 title: مجوزها
 type: docs
 weight: 50
-url: /fa/java/licensing/
+url: /fa/java/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

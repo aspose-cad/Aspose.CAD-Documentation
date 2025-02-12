@@ -2,7 +2,7 @@
 title: Задайте изчакване при запазване
 type: docs
 weight: 70
-url: /bg/net/set-timeout-on-save/
+url: /bg/net/developer-guide/set-timeout-on-save/
 ---
 
 ## **Задайте изчакване при запазване**

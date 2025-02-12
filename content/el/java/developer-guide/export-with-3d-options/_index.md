@@ -2,7 +2,7 @@
 title: Εξαγωγή με 3D επιλογές
 type: docs
 weight: 40
-url: /el/java/export-with-3d-options/
+url: /el/java/developer-guide/export-with-3d-options/
 ---
 
 ## **Εξαγωγή με 3D επιλογές**

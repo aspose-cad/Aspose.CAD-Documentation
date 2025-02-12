@@ -3,7 +3,7 @@ title: كيفية تشغيل Aspose.CAD في واجهة تطبيق متعددة 
 type: docs
 description: "تشغيل Aspose.CAD في واجهة تطبيق متعددة المنصات (MAUI)."
 weight: 71
-url: /ar/net/how-to-run-aspose-cad-in-maui
+url: /ar/net/showcases/how-to-run-aspose-cad-in-maui/
 ---
 
 ## المتطلبات السابقة
@@ -27,22 +27,22 @@ url: /ar/net/how-to-run-aspose-cad-in-maui
 
 1. لإنشاء تطبيقات .NET MAUI، سوف تحتاج إلى أحدث إصدار من Visual Studio 2022
 1. إما تثبيت Visual Studio، أو تعديل تثبيتك الحالي، وتثبيت مجموعة أدوات تطوير واجهة التطبيقات متعددة المنصات (.NET MAUI) مع خيارات التثبيت الافتراضية الخاصة بها:<br>
-![مثبت Visual](/_assets/visual-installer.png)
+![مثبت Visual](/_assets/showcases/maui/visual-installer.png)
 
 
 ## إنشاء مشروع
 
 1. قم بتشغيل Visual Studio. في نافذة البدء، انقر فوق "إنشاء مشروع جديد" لإنشاء مشروع جديد:<br>
-![إنشاء مشروع](/_assets/create-project.png)<br>
+![إنشاء مشروع](/_assets/showcases/maui/create-project.png)<br>
 1. في نافذة "إنشاء مشروع جديد"، اختر MAUI من قائمة "جميع أنواع المشاريع"، اختر قالب .NET MAUI App، وانقر على زر Next:<br>
-![اختيار نوع المشروع](/_assets/select-project.png)<br>
+![اختيار نوع المشروع](/_assets/showcases/maui/select-project.png)<br>
 1. في نافذة "تكوين مشروعك الجديد"، قم بتسمية مشروعك، واختر موقعًا مناسبًا له، وانقر على زر Next:<br>
-![اختيار مسار المشروع](/_assets/select-project-path.png)<br>
+![اختيار مسار المشروع](/_assets/showcases/maui/select-project-path.png)<br>
 1. في نافذة "معلومات إضافية"، اختر نسخة .NET التي ترغب باستهدافها وانقر على زر Create:<br>
-![توجيه الإطار](/_assets/select-framework.png)<br>
+![توجيه الإطار](/_assets/showcases/maui/select-framework.png)<br>
 1. انتظر حتى يتم إنشاء المشروع واستعادة تبعياته
 1. قم بتثبيت أحدث إصدار من Aspose.CAD من NuGet:<br>
-![NuGet](/_assets/nuget.png)<br>
+![NuGet](/_assets/showcases/maui/nuget.png)<br>
 1. استبدل الكود في MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## تصحيح على جهاز Windows
 
 1. في شريط أدوات Visual Studio، استخدم قائمة خيارات التصحيح للاختيار من بين الإطارات وقم بتحديد إدخال net7.0-windows:<br>
-![تصحيح الهدف](/_assets/windows-mode.png)<br>
+![تصحيح الهدف](/_assets/showcases/maui/windows-mode.png)<br>
 1. في شريط أدوات Visual Studio، اضغط على زر "جهاز Windows" لبناء وتشغيل التطبيق:<br>
-![بدء التصحيح على جهاز Windows](/_assets/windows-start-debug.png)<br>
+![بدء التصحيح على جهاز Windows](/_assets/showcases/maui/windows-start-debug.png)<br>
 1. في التطبيق الذي يتم تشغيله، اضغط على زر "اختر ملف" عدة مرات ولاحظ أن عدد نقرات الأزرار يتزايد:<br>
-![الصفحة الرئيسية](/_assets/windows-home-page.png)<br>
+![الصفحة الرئيسية](/_assets/showcases/maui/windows-home-page.png)<br>
 1. اختر الملف المطلوب وانقر على فتح:<br>
-![اختر الملف](/_assets/select-file.png)<br>
+![اختر الملف](/_assets/showcases/maui/select-file.png)<br>
 1. بعد معالجة الملف، يجب أن تظهر صورة الملف المحول على الشاشة:<br>
-![نتيجة تصحيح Windows](/_assets/windows-result.png)
+![نتيجة تصحيح Windows](/_assets/showcases/maui/windows-result.png)
 
 
 ## تثبيت محاكي Android
 
 1. في شريط أدوات Visual Studio، استخدم قائمة خيارات التصحيح للاختيار من بين محاكيات Android ثم اختر إدخال المحاكي الخاص بـ Android
 1. في شريط أدوات Visual Studio، اضغط على زر محاكي Android:<br>
-![بدء تثبيت زر المحاكي](/_assets/start-install-emulator.png)<br>
+![بدء تثبيت زر المحاكي](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. في نافذة "اتفاقية ترخيص SDK Android"، اضغط على زر قبول:<br>
-![SDK Android - اتفاقية الترخيص](/_assets/android-sdk-1.png)<br>
+![SDK Android - اتفاقية الترخيص](/_assets/showcases/maui/android-sdk-1.png)<br>
 1. في نافذة "اتفاقية ترخيص SDK Android"، اضغط على زر قبول:<br>
-![SDK ARM - اتفاقية الترخيص](/_assets/android-sdk-2.png)<br>
+![SDK ARM - اتفاقية الترخيص](/_assets/showcases/maui/android-sdk-2.png)<br>
 1. في مربع حوار "تحكم حساب المستخدم"، اضغط على زر نعم:<br>
-![مدير SDK](/_assets/android-sdk-3.png)<br>
+![مدير SDK](/_assets/showcases/maui/android-sdk-3.png)<br>
 1. في نافذة قبول الترخيص، اضغط على زر قبول:<br>
-![مدير SDK AR - اتفاقية الترخيص](/_assets/android-sdk-4.png)<br>
+![مدير SDK AR - اتفاقية الترخيص](/_assets/showcases/maui/android-sdk-4.png)<br>
 1. في شريط أدوات Visual Studio، اضغط على زر محاكي Android:<br>
-![بدء تثبيت زر المحاكي](/_assets/start-install-emulator.png)<br>
+![بدء تثبيت زر المحاكي](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. في مربع حوار "تحكم حساب المستخدم"، اضغط على زر نعم:<br>
-![مدير جهاز Android](/_assets/android-device-manager.png)<br>
+![مدير جهاز Android](/_assets/showcases/maui/android-device-manager.png)<br>
 1. في نافذة "جهاز جديد"، اضغط على زر إنشاء:<br>
-![جهاز Android جديد](/_assets/android-new-device.png)<br>
+![جهاز Android جديد](/_assets/showcases/maui/android-new-device.png)<br>
 1. أغلق نافذة مدير جهاز Android
 
 
 ## تصحيح باستخدام محاكي Android
 
 1. في شريط أدوات Visual Studio، اضغط على زر Pixel 5 - API 33 (Android 13.0 - API 33) لبناء وتشغيل التطبيق:<br>
-![اختيار محاكي Android](/_assets/select-android-emulator.png)<br>
+![اختيار محاكي Android](/_assets/showcases/maui/select-android-emulator.png)<br>
 1. في التطبيق الذي يتم تشغيله في محاكي Android، اضغط على زر "اختر ملف" عدة مرات ولاحظ أن عدد نقرات الأزرار يتزايد:<br>
-![الصفحة الرئيسية لمحاكي Android](/_assets/android-home-page.png)<br>
+![الصفحة الرئيسية لمحاكي Android](/_assets/showcases/maui/android-home-page.png)<br>
 1. اختر الملف المطلوب وانقر على اختيار:<br>
-![اختر ملف في Android](/_assets/android-select-file.png)<br>
+![اختر ملف في Android](/_assets/showcases/maui/select-file-android.png)<br>
 1. بعد معالجة الملف، يجب أن تظهر صورة الملف المحول على الشاشة:<br>
-![نتيجة تصحيح Android](/_assets/android-result.png)
+![نتيجة تصحيح Android](/_assets/showcases/maui/android-result.png)
 
 
 ## المزيد من الأمثلة

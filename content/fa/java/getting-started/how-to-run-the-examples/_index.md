@@ -2,7 +2,7 @@
 title: چگونه نمونه‌ها را اجرا کنیم
 type: docs
 weight: 70
-url: /fa/java/how-to-run-the-examples/
+url: /fa/java/getting-started/how-to-run-the-examples/
 ---
 
 ## **دانلود از گیت‌هاب**

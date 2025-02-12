@@ -2,7 +2,7 @@
 title: Jak spustit příklady
 type: docs
 weight: 70
-url: /cs/java/how-to-run-the-examples/
+url: /cs/java/getting-started/how-to-run-the-examples/
 ---
 
 ## **Stáhněte si z GitHubu**

@@ -2,7 +2,7 @@
 title: تنسيقات الملفات المدعومة
 type: docs
 weight: 60
-url: /ar/jasperreports/supported-file-formats/
+url: /ar/jasperreports/getting-started/supported-file-formats/
 ---
 
 |**التنسيق**|**الوصف**|**تحميل**|**حفظ**|**ملاحظات**|

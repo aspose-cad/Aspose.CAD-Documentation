@@ -2,7 +2,7 @@
 title: Преглед на функциите
 type: docs
 weight: 20
-url: /bg/python-net/преглед-на-функциите/
+url: /bg/python-net/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

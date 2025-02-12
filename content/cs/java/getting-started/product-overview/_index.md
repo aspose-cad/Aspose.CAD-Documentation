@@ -2,7 +2,7 @@
 title: Přehled produktu
 type: docs
 weight: 10
-url: /cs/java/product-overview/
+url: /cs/java/getting-started/product-overview/
 ---
 
 **Vítejte v Aspose.CAD pro Javu**

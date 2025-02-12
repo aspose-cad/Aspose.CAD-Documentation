@@ -2,7 +2,7 @@
 title: واترمارک پنهان
 type: docs
 weight: 11
-url: /fa/net/blind-watermark
+url: /fa/net/developer-guide/blind-watermark/
 ---
 
 ## **واترمارک پنهان**

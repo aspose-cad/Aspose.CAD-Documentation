@@ -2,7 +2,7 @@
 title: Άδειες
 type: docs
 weight: 50
-url: /el/java/licensing/
+url: /el/java/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

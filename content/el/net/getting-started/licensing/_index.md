@@ -2,7 +2,7 @@
 title: Άδειες Χρήσης
 type: docs
 weight: 50
-url: /el/net/licensing/
+url: /el/net/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

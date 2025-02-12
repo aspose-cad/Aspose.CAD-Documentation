@@ -25,14 +25,26 @@ public class MdUrlsSynchronizationProcessor
         {
             string enContent = File.ReadAllText(enFile);
             Match enMatch = UrlRegex.Match(enContent);
+            string enUrl = enMatch.Groups[1].Value.Trim();
+            
+            var relPath = ("/" + Path
+                .GetRelativePath(_contentDir, Path.GetDirectoryName(enFile)! + '/')
+                .Replace('\\', '/'))
+                .Replace("/en/", "/");
+            
+            if (enUrl != relPath)
+            {
+                enContent = UrlRegex.Replace(enContent, $"url: {relPath}");
+                File.WriteAllText(enFile, enContent);
+            }
+            
             var enRelImageMatches = ImageRelLinkRegex.Matches(enContent);
             
-            string enUrl = enMatch.Groups[1].Value.Trim();
             string relativePath = Path.GetRelativePath(enDir, enFile);
             
             foreach (var langDir in Directory.GetDirectories(_contentDir).Where(x => !x.EndsWith("en")))
             {
-                ProcessLocale(langDir, relativePath, enUrl, enRelImageMatches);
+                ProcessLocale(langDir, relativePath, relPath, enRelImageMatches);
             }
         }
     }

@@ -2,7 +2,7 @@
 title: Υποστηριζόμενες Μορφές Αρχείων
 type: docs
 weight: 20
-url: /el/java/supported-file-formats/
+url: /el/java/getting-started/supported-file-formats/
 ---
 
 ## **Υποστηριζόμενες Μορφές Αρχείων**

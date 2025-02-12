@@ -2,7 +2,7 @@
 title: Licenciamiento
 type: docs
 weight: 40
-url: /es/python-net/licensing/
+url: /es/python-net/getting-started/licensing/
 ---
 ## **Llamar setLicense**
 Para aplicar una licencia:

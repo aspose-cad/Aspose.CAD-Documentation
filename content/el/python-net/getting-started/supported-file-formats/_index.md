@@ -2,7 +2,7 @@
 title: Υποστηριζόμενες Μορφές Αρχείων
 type: docs
 weight: 60
-url: /el/python-net/supported-file-formats/
+url: /el/python-net/getting-started/supported-file-formats/
 ---
 
 ## **Υποστηριζόμενες Μορφές Αρχείων**

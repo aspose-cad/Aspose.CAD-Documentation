@@ -2,7 +2,7 @@
 title: فرمت‌های فایل پشتیبانی‌شده
 type: docs
 weight: 20
-url: /fa/java/supported-file-formats/
+url: /fa/java/getting-started/supported-file-formats/
 ---
 
 ## **فرمت‌های فایل پشتیبانی‌شده**

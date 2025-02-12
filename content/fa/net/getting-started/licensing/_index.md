@@ -2,7 +2,7 @@
 title: لایسنس
 type: docs
 weight: 50
-url: /fa/net/licensing/
+url: /fa/net/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: Abgerechnete Lizenzierung
 type: docs
 weight: 60
-url: /de/net/metered-licensing/
+url: /de/net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

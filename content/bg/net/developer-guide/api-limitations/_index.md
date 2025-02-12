@@ -2,7 +2,7 @@
 title: Ограничения на API
 type: docs
 weight: 80
-url: /bg/net/api-limitations/
+url: /bg/net/developer-guide/api-limitations/
 ---
 
 ## **Информация за създателя на CAD модела**

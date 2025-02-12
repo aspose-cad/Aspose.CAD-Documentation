@@ -2,7 +2,7 @@
 title: Export with 3D options
 type: docs
 weight: 40
-url: /net/export-with-3d-options/
+url: /net/developer-guide/export-with-3d-options/
 ---
 
 ## **Export with 3D options**

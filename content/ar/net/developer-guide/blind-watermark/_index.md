@@ -2,7 +2,7 @@
 title: العلامة المائية الخفية
 type: docs
 weight: 11
-url: /ar/net/blind-watermark
+url: /ar/net/developer-guide/blind-watermark/
 ---
 
 ## **العلامة المائية الخفية**

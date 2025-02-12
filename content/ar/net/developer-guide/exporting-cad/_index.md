@@ -2,7 +2,7 @@
 title: تصدير CAD
 type: docs
 weight: 40
-url: /ar/net/exporting-cad/
+url: /ar/net/developer-guide/exporting-cad/
 ---
 
 ## **تصدير صور AutoCAD ثلاثية الأبعاد إلى PDF**

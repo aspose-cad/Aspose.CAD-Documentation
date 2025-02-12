@@ -2,7 +2,7 @@
 title: توضیح رفتار کش Aspose.CAD
 type: docs
 weight: 20
-url: /fa/common/caching-behaviour-explanation
+url: /fa/common/caching-behaviour-explanation/
 ---
 
 

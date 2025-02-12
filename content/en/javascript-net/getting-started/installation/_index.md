@@ -2,7 +2,7 @@
 title: Installation
 type: docs
 weight: 30
-url: /javascript-net/installation/
+url: /javascript-net/getting-started/installation/
 ---
 
 ## **Installing Aspose.CAD for JavaScript through npm**

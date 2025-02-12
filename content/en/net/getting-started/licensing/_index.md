@@ -2,7 +2,7 @@
 title: Licensing
 type: docs
 weight: 50
-url: /net/licensing/
+url: /net/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}

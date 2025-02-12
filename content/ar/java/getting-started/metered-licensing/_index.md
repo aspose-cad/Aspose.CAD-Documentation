@@ -2,7 +2,7 @@
 title: الترخيص المقنن
 type: docs
 weight: 60
-url: /ar/java/metered-licensing/
+url: /ar/java/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

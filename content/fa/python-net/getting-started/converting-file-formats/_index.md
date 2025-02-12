@@ -2,7 +2,7 @@
 title: تبدیل فرمت‌های فایل
 type: docs
 weight: 60
-url: /fa/python-net/converting-file-formats/
+url: /fa/python-net/getting-started/converting-file-formats/
 ---
 
 ## **تبدیل فرمت‌های فایل**

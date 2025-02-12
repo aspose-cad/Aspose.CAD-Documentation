@@ -3,7 +3,7 @@ title: How to Run Aspose.CAD in Multi-platform App UI(MAUI)
 type: docs
 description: "Run Aspose.CAD in a Multi-platform App UI(MAUI)."
 weight: 71
-url: /net/showcases/how-to-run-aspose-cad-in-maui
+url: /net/showcases/how-to-run-aspose-cad-in-maui/
 ---
 
 ## Prerequisites

@@ -2,7 +2,7 @@
 title: Exportování SHX písem
 type: docs
 weight: 40
-url: /cs/java/export-shx-fonts/
+url: /cs/java/developer-guide/export-shx-fonts/
 ---
 
 ## **Exportování SHX písem pro výkresy DXF/DWG**

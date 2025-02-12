@@ -2,7 +2,7 @@
 title: Entitáty se strukturou SAT/SAB
 type: docs
 weight: 40
-url: /cs/java/support-sat-sab/
+url: /cs/java/developer-guide/entities_with-sat-and-sab/
 ---
 
 ## **Entitáty se strukturou SAT/SAB**

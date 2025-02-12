@@ -2,7 +2,7 @@
 title: Export mit 3D-Optionen
 type: docs
 weight: 40
-url: /de/java/export-with-3d-options/
+url: /de/java/developer-guide/export-with-3d-options/
 ---
 
 ## **Export mit 3D-Optionen**

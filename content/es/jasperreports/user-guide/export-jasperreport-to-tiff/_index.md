@@ -2,7 +2,7 @@
 title: Exportar JasperReport a TIFF
 type: docs
 weight: 100
-url: /es/jasperreports/export-jasperreport-to-tiff
+url: /es/jasperreports/user-guide/export-jasperreport-to-tiff/
 ---
 
 {{% alert color="primary" %}}

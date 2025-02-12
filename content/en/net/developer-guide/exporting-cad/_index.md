@@ -2,7 +2,7 @@
 title: Exporting CAD
 type: docs
 weight: 40
-url: /net/exporting-cad/
+url: /net/developer-guide/exporting-cad/
 ---
 
 ## **Export 3D AutoCAD Images to PDF**

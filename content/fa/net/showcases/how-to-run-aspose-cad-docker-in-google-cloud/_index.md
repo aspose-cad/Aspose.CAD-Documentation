@@ -3,7 +3,7 @@ title: نحوه اجرای تصویر Docker Aspose.CAD در Google Cloud
 type: docs
 description: "اجرای تصویر Docker Aspose.CAD در Google Cloud."
 weight: 75
-url: /fa/net/showcases/how-to-run-aspose-cad-docker-image-in-google-cloud
+url: /fa/net/showcases/how-to-run-aspose-cad-docker-in-google-cloud/
 ---
 
 ## پیش‌نیازها
@@ -120,11 +120,11 @@ dotnet run
 1. به Google Cloud وارد شوید.
 1. اگر پروژه‌ای وجود ندارد، آن را ایجاد کنید.
 1. به 'Artifact Registry' بروید و یک مخزن بسازید.<br>
-![Create Artifact Repository](/fa/_assets/create-artifact-repository.png)<br>
+![Create Artifact Repository](/_assets/showcases/google/create-artifact-repository.png)<br>
 1. مخزن جدید را در Artifact Registry انتخاب کنید.
-![Select artifact repository](/fa/_assets/select-artifact.png)<br>
+![Select artifact repository](/_assets/showcases/google/select-artifact.png)<br>
 1. روی 'SETUP INSTRUCTION' کلیک کنید و دستور 'Configure Docker' را کپی کنید.<br>
-![SETUP INSTRUCTION](/fa/_assets/setup-instruction.png)<br>
+![SETUP INSTRUCTION](/_assets/showcases/google/setup-instruction.png)<br>
 1. یک ورودی credHelper Docker به فایل پیکربندی Docker اضافه کنید، یا اگر وجود ندارد، آن را ایجاد کنید.
 {{< highlight plain >}}
 //مثال
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. به Cloud Run بروید.
 1. سرویس Cloud Run را ایجاد کنید.<br>
-![Create Cloud Run service](/fa/_assets/create-cloud-run-service.png)<br>
+![Create Cloud Run service](/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. در فیلد URL تصویر کانتینر، کانتینر را از 'ARTIFACT REGISTRY' انتخاب کنید.<br>
-![Container Image URL](/fa/_assets/container-url.png)<br>
+![Container Image URL](/_assets/showcases/google/container-url.png)<br>
 1. سایر تنظیمات را همان‌طور که در زیر نشان داده شده بررسی کنید.<br>
-![Settings service](/fa/_assets/cloud-run-service-settings.png)<br>
+![Settings service](/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. برای اتمام استقرار صبر کنید.
 1. URL سرویس برای کار با برنامه تبدیل.<br>
-![Url service](/fa/_assets/url-service.png)<br>
+![Url service](/_assets/showcases/google/url-service.png)<br>
 
 ### پیکربندی Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## مثال اجرایی
 
 1. تنظیمات Postman.<br>
-![Overview menu](/fa/_assets/postman-settings.png)<br>
+![Overview menu](/_assets/showcases/google/postman-settings.png)<br>
 1. هر فایل DXF، DWG، DGN، DWF، DWFX، IFC، STL، DWT، IGES، PLT، CF2، OBJ، HPGL، IGS، PCL، FBX، PDF، SVG را انتخاب کنید.
 1. روی دکمه ارسال کلیک کنید.
 

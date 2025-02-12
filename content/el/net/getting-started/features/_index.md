@@ -2,7 +2,7 @@
 title: Χαρακτηριστικά
 type: docs
 weight: 30
-url: /el/net/features/
+url: /el/net/getting-started/features/
 ---
 
 ## **Χαρακτηριστικά Προϊόντος**

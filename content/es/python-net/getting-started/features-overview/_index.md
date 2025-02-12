@@ -2,7 +2,7 @@
 title: Descripción General de Características
 type: docs
 weight: 20
-url: /es/python-net/features-overview/
+url: /es/python-net/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

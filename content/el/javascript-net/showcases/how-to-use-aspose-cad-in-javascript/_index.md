@@ -3,7 +3,7 @@ title: Πώς να χρησιμοποιήσετε το Aspose.CAD στο JavaScr
 type: docs
 description: "χρησιμοποιήστε το Aspose.CAD στο JavaScript."
 weight: 73
-url: /el/javascript-net/how-to-run-aspose-cad-in-javascript
+url: /el/javascript-net/showcases/how-to-use-aspose-cad-in-javascript/
 ---
 
 ## Προαπαιτούμενα

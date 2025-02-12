@@ -2,7 +2,7 @@
 title: Работа с Воден Знак
 type: docs
 weight: 60
-url: /bg/python-net/работа-с-воден-знак/
+url: /bg/python-net/developer-guide/working-with-watermark/
 ---
 
 ## **Добавяне на Воден Знак в DWG**

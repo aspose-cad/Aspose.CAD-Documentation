@@ -2,7 +2,7 @@
 title: Explication du comportement de mise en cache d'Aspose.CAD
 type: docs
 weight: 20
-url: /fr/common/caching-behaviour-explanation
+url: /fr/common/caching-behaviour-explanation/
 ---
 
 

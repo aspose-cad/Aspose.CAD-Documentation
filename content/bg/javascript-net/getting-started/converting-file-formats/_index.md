@@ -2,7 +2,7 @@
 title: Сменяне на файлови формати
 type: docs
 weight: 20
-url: /bg/javascript-net/converting-file-formats/
+url: /bg/javascript-net/getting-started/converting-file-formats/
 ---
 
 ## **Сменяне на файлови формати**

@@ -2,7 +2,7 @@
 title: API Limitations
 type: docs
 weight: 80
-url: /net/api-limitations/
+url: /net/developer-guide/api-limitations/
 ---
 
 ## **CAD model creator information**

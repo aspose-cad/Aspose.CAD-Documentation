@@ -2,7 +2,7 @@
 title: Υποστηριζόμενες Μορφές Αρχείων
 type: docs
 weight: 20
-url: /el/javascript-net/supported-file-formats/
+url: /el/javascript-net/getting-started/supported-file-formats/
 ---
 
 ## **Υποστηριζόμενες Μορφές Αρχείων**

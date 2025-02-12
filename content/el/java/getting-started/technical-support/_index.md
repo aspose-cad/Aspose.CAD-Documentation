@@ -2,7 +2,7 @@
 title: Τεχνική Υποστήριξη
 type: docs
 weight: 80
-url: /el/java/technical-support/
+url: /el/java/getting-started/technical-support/
 ---
 
 {{% alert color="primary" %}}

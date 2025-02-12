@@ -2,7 +2,7 @@
 title: Funktionenübersicht
 type: docs
 weight: 20
-url: /de/python-net/features-overview/
+url: /de/python-net/getting-started/features-overview/
 ---
 
 {{% alert color="primary" %}}

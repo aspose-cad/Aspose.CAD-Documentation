@@ -2,7 +2,7 @@
 title: Licencias
 type: docs
 weight: 40
-url: /es/jasperreports/licensing/
+url: /es/jasperreports/getting-started/licensing/
 ---
 ## **Llamar a setLicense**
 Para aplicar una licencia:

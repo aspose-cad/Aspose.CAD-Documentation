@@ -2,7 +2,7 @@
 title: Exportando DGN AutoCAD
 type: docs
 weight: 50
-url: /es/python-net/exporting-dgn-autocad/
+url: /es/python-net/developer-guide/exporting-dgn-autocad/
 ---
 
 ## **Exportando el Formato DGN AutoCAD a PDF**

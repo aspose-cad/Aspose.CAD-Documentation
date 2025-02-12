@@ -2,7 +2,7 @@
 title: التصدير مع خيارات 3D
 type: docs
 weight: 40
-url: /ar/net/export-with-3d-options/
+url: /ar/net/developer-guide/export-with-3d-options/
 ---
 
 ## **التصدير مع خيارات 3D**

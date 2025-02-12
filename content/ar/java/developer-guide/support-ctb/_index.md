@@ -2,7 +2,7 @@
 title: دعم ملفات CTB
 type: docs
 weight: 40
-url: /ar/java/support-ctb/
+url: /ar/java/developer-guide/support-ctb/
 ---
 
 ## **دعم ملفات CTB**

@@ -2,7 +2,7 @@
 title: Μετρήσεις
 type: docs
 weight: 40
-url: /el/net/measurements/
+url: /el/net/developer-guide/measurements/
 ---
 
 ## **Μετρήσεις επιφάνειας και μήκους**

@@ -2,7 +2,7 @@
 title: Μετατροπή Σχεδίων CAD σε PDF και Μορφές Ραστερικής Εικόνας
 type: docs
 weight: 30
-url: /el/java/converting-cad-drawings-to-pdf-and-raster-image-formats/
+url: /el/java/developer-guide/converting-cad-drawings-to-pdf-and-raster-image-formats/
 ---
 
 {{% alert color="primary" %}} 

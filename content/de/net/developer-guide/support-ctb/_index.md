@@ -2,7 +2,7 @@
 title: Unterstützung von CTB-Dateien
 type: docs
 weight: 40
-url: /de/net/support-ctb/
+url: /de/net/developer-guide/support-ctb/
 ---
 
 ## **Unterstützung von CTB-Dateien**

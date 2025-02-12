@@ -2,7 +2,7 @@
 title: Поддръжка на CTB файлове
 type: docs
 weight: 40
-url: /bg/net/support-ctb/
+url: /bg/net/developer-guide/support-ctb/
 ---
 
 ## **Поддръжка на CTB файлове**

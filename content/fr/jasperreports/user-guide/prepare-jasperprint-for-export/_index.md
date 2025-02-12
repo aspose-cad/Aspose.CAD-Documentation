@@ -2,7 +2,7 @@
 title: Préparer JasperPrint pour l'exportation
 type: docs
 weight: 10
-url: /fr/jasperreports/prepare-jasperprint-for-export
+url: /fr/jasperreports/user-guide/prepare-jasperprint-for-export/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: Mediciones
 type: docs
 weight: 40
-url: /es/net/measurements/
+url: /es/net/developer-guide/measurements/
 ---
 
 ## **Mediciones de área y longitud**

@@ -2,7 +2,7 @@
 title: الترخيص المتناقص
 type: docs
 weight: 40
-url: /ar/python-net/metered-licensing/
+url: /ar/python-net/getting-started/metered-licensing/
 ---
 
 {{% alert color="primary" %}} 

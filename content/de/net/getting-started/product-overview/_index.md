@@ -2,7 +2,7 @@
 title: Produktübersicht
 type: docs
 weight: 10
-url: /de/net/product-overview/
+url: /de/net/getting-started/product-overview/
 ---
 
 **Willkommen bei Aspose.CAD für .NET**
@@ -21,7 +21,7 @@ Die Verwendung von Aspose.CAD für .NET in Ihrem Projekt bietet Ihnen folgende V
 ## **Auf einen Blick**
 Eine Übersicht über die Hauptfunktionen zur Konvertierung, Darstellung und Berichterstattung von Aspose.CAD für .NET.
 
-![todo:image_alt_text](/_assets/product-overview_2.png)
+![todo:image_alt_text](/_assets/net/product-overview_2.png)
 ## **Erweiterte API-Funktionen**
 - Unterstützt die neuesten Versionen von AutoCAD DWG, DWF, DWT und DXF-Dateien
 - Konvertieren Sie die AutoCAD-Dateien in hochwertige PDF
@@ -35,4 +35,4 @@ Aspose.CAD für .NET unterstützt
 - .NET Framework (einschließlich ASP.NET-Anwendung und Windows-Anwendung.)
 - .NET Core
 
-![todo:image_alt_text](/_assets/product-overview_3.png)
+![todo:image_alt_text](/_assets/net/product-overview_3.png)

@@ -2,7 +2,7 @@
 title: Jak spustit příklady
 type: docs
 weight: 70
-url: /cs/jak-spustit-priklady/
+url: /cs/net/showcases/how-to-run-the-examples/
 ---
 
 ## **Požadavky na software**

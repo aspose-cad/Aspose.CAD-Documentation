@@ -2,7 +2,7 @@
 title: Exportando DGN AutoCAD
 type: docs
 weight: 50
-url: /es/net/exporting-dgn-autocad/
+url: /es/net/developer-guide/exporting-dgn-autocad/
 ---
 
 ## **Exportando el formato DGN de AutoCAD a PDF**

@@ -2,7 +2,7 @@
 title: ادغام با JasperServer
 type: docs
 weight: 20
-url: /fa/jasperreports/integration-with-jasperserver/
+url: /fa/jasperreports/installation/integration-with-jasperserver/
 ---
 {{% alert color="primary" %}}
 برای ادغام Aspose.CAD برای JasperReports با JasperServer، لازم است چند مرحله اضافی انجام شده و فایل‌های پیکربندی JasperServer به‌روزرسانی شوند. این مقاله توضیح می‌دهد که چگونه این کار انجام می‌شود.

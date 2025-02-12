@@ -2,7 +2,7 @@
 title: Конвертиране на CAD чертежи в PDF и растерни формати
 type: docs
 weight: 30
-url: /bg/java/converting-cad-drawings-to-pdf-and-raster-image-formats/
+url: /bg/java/developer-guide/converting-cad-drawings-to-pdf-and-raster-image-formats/
 ---
 
 {{% alert color="primary" %}} 

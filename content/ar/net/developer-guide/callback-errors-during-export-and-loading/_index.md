@@ -2,7 +2,7 @@
 title: أخطاء الاستدعاء أثناء التصدير والتحميل
 type: docs
 weight: 40
-url: /ar/net/callback-errors-during-export-and-loading/
+url: /ar/net/developer-guide/callback-errors-during-export-and-loading/
 ---
 
 ## **مراجعة أخطاء الاستدعاء أثناء التصدير والتحميل**

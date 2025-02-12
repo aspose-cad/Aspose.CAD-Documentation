@@ -2,7 +2,7 @@
 title: Licencování
 type: docs
 weight: 50
-url: /cs/net/licensing/
+url: /cs/net/getting-started/licensing/
 ---
 
 {{% alert color="primary" %}}
