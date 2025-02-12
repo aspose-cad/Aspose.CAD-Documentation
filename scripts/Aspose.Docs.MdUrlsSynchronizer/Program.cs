@@ -1,5 +1,9 @@
 ﻿using Aspose.Docs.MdUrlsSynchronizer;
 
+/// <summary>
+/// Sync 'URL' hugo attributes and IMAGE relative links on LOCALIZED files to 'en'
+/// </summary>
+
 #if DEBUG
 args = new[]
 {
@@ -14,5 +18,5 @@ if (!Directory.Exists(rootDir))
     return;
 }
 
-var processor = new MdUrlsSynchronizer(rootDir);
+var processor = new MdUrlsSynchronizationProcessor(rootDir);
 processor.Process();

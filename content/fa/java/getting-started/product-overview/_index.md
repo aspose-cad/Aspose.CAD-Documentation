@@ -39,7 +39,7 @@ Aspose.CAD برای جاوا به توسعه‌دهندگان اجازه می‌
 
 Aspose.CAD برای جاوا از فرمت‌های محبوب DWG، DWF، DXF، DWT، PDF و تصاویر Raster پشتیبانی می‌کند.
 
-![todo:image_alt_text](/fa/_assets/product-overview_1.png)
+![todo:image_alt_text](/_assets/java/product-overview_1.png)
 ### **پشتیبانی از DXF / DWG / DGN**
 - جامدات 3D (مخروطی، کره، توری، سیلندر، جعبه، لوزی)
 ### **پشتیبانی از DXF / DWG**

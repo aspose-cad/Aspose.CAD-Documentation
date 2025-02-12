@@ -122,10 +122,10 @@ La bandera --open abre un navegador en http://localhost:4200.
 ## Ejemplo de ejecución
 
 1. Elegir archivo.<br>
-![Elegir archivo](/_assets/choose-file.png)<br>
+![Elegir archivo](/_assets/javascript-net/angular/choose-file.png)<br>
 1. Seleccionar cualquier archivo DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Si la respuesta es exitosa, el archivo se mostrará en la pantalla y ofrecerá descargarlo.<br>
-![Convertir imagen](/_assets/convert-image.png)<br>
+![Convertir imagen](/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## Véase también
 

@@ -2,14 +2,14 @@
 title: Instalace
 type: docs
 weight: 30
-url: /cs/instalace/
+url: /cs/net/installation/
 ---
 
 ## **Instalace Aspose.CAD pro .NET pomocí NuGet**
 
 NuGet je nejjednodušší způsob, jak stáhnout a nainstalovat Aspose API pro .NET. Otevřete Microsoft Visual Studio a správce balíčků NuGet. Vyhledejte "aspose", abyste našli požadované Aspose API. Klepnutím na tlačítko "Instalovat" se vybrané API stáhne a bude odkazováno ve vašem projektu.
 
-![todo:image_alt_text](/_assets/installation_1.png)
+![todo:image_alt_text](/_assets/install/installation_1.png)
 
 ## **Odkazování na Aspose.CAD z projektu .NET**
 
@@ -21,7 +21,7 @@ Postupujte podle těchto kroků (pokud používáte Microsoft Visual Studio):
 1. Vyberte soubor DLL *Aspose.CAD* a klepněte na tlačítko **OK**.
 1. Odkaz *Aspose.CAD* se objeví pod uzlem **Odkazy** vašeho projektu.
 
-![todo:image_alt_text](/_assets/installation_2.png)
+![todo:image_alt_text](/_assets/install/installation_2.png)
 
 ### **Instalace nebo Aktualizace Aspose.CAD pomocí konzole správce balíčků**
 
@@ -30,23 +30,23 @@ Následujte následující kroky pro odkazování na [Aspose.CAD API](https://ww
 1. Otevřete vaše řešení/projekt v aplikaci Visual Studio.
 1. Vyberte Nástroje -> Správce balíčků -> Konzole správce balíčků z menu pro otevření konzole správce balíčků.
 
-![todo:image_alt_text](/_assets/installation_3.png)
+![todo:image_alt_text](/_assets/install/installation_3.png)
 
 Zadejte příkaz “**Install-Package Aspose.CAD**” a stiskněte enter pro instalaci nejnovější plné verze do vaší aplikace. Volitelně můžete k příkazu přidat sufix "**-prerelease**" pro specifikaci, že má být nainstalována také nejnovější verze včetně oprav chyb.
 
-![todo:image_alt_text](/_assets/installation_4.png)
+![todo:image_alt_text](/_assets/install/installation_4.png)
 
 Uvidíte, že se zobrazí zpráva "Stahuji Aspose.CAD..." v levém spodním rohu okna, což naznačuje, že probíhá stahování. 
 
-![todo:image_alt_text](/_assets/installation_5.png)
+![todo:image_alt_text](/_assets/install/installation_5.png)
 
 Po stažení uvidíte následující potvrzovací zprávy. Pokud neznáte [EULA Aspose](https://about.aspose.com/legal/eula), je dobrý nápad přečíst licenci, na kterou je odkazováno v URL.
 
-![todo:image_alt_text](/_assets/installation_6.png)
+![todo:image_alt_text](/_assets/install/installation_6.png)
 
 Nyní byste měli zjistit, že byl Aspose.CAD úspěšně přidán a odkazován ve vaší aplikaci.
 
-![todo:image_alt_text](/_assets/installation_7.png)
+![todo:image_alt_text](/_assets/install/installation_7.png)
 
 V konzoli správce balíčků můžete také použít příkaz “**Update-Package Aspose.CAD**” a stisknout enter pro zjištění aktualizací balíčku Aspose.CAD a jejich nainstalování, pokud jsou k dispozici. Můžete také přidat sufix "-prerelease" k aktualizaci nejnovější verze.
 

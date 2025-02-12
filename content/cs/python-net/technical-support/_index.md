@@ -2,7 +2,7 @@
 title: Technická podpora
 type: docs
 weight: 60
-url: /cs/python-net/technicka-podpora/
+url: /cs/python-net/technical-support/
 ---
 
 ## **Podpora pro Aspose.CAD pro Python**

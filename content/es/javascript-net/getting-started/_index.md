@@ -2,5 +2,5 @@
 title: Comenzando
 type: docs
 weight: 10
-url: /es/javascript-net/comenzando/
+url: /es/javascript-net/getting-started/
 ---

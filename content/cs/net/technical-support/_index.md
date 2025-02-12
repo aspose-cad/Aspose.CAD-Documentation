@@ -2,7 +2,7 @@
 title: Technická podpora
 type: docs
 weight: 60
-url: /cs/technical-support/
+url: /cs/net/technical-support/
 ---
 
 Aspose poskytuje neomezenou bezplatnou technickou podporu pro všechny své produkty. Podpora je k dispozici všem uživatelům, včetně těch ve fázi hodnocení. Hlavní cestou podpory je [Aspose.Forums](https://forum.aspose.com/c/cad/19).

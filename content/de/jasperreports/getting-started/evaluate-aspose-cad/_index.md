@@ -13,7 +13,7 @@ Sie können Aspose.CAD für JasperReports zur Evaluierung einfach von der [Downl
 
 Die Evaluierungsversion von Aspose.CAD für JasperReports (ohne spezifizierte Lizenz) ermöglicht die Produktfunktionalität nur teilweise. Eine Einschränkung besteht darin, dass sie immer das Evaluierungswasserzeichen auf Ausgabedateien einfügt.
 
-![Beispiel für den Export von Aspose.CAD für JasperReports](/_assets/AreaChartReport.jpg)
+![Beispiel für den Export von Aspose.CAD für JasperReports](/_assets/jasper/AreaChartReport.jpg)
 
 **Abbildung:** Evaluierungswarnung
 

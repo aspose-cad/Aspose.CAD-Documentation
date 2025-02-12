@@ -282,6 +282,6 @@ url: /el/jasperreports/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. Επανεκκινήστε τον server JasperReports και ανοίξτε οποιαδήποτε αναφορά για να την δείτε. Αν τα προηγούμενα βήματα ολοκληρώθηκαν σωστά, θα δείτε επιπλέον επιλογές στη λίστα μορφών εξαγωγής.
-![todo:image_alt_text](/_assets/ExportReportView.png)
+![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
 
 Εάν δεν βλέπετε επιπλέον μορφές (εικόνες ή επιλογές), παρακαλώ ελέγξτε τα αρχεία καταγραφής στον φάκελο \apache-tomcat\logs.

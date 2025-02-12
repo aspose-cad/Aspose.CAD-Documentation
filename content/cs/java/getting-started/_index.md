@@ -2,5 +2,5 @@
 title: Začínáme
 type: docs
 weight: 10
-url: /cs/java/zaciname/
+url: /cs/java/getting-started/
 ---

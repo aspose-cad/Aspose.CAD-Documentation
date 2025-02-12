@@ -2,7 +2,7 @@
 title: Příprava JasperPrint pro export
 type: docs
 weight: 10
-url: /cs/jasperreports/priprava-jasperprint-pro-export
+url: /cs/jasperreports/prepare-jasperprint-for-export
 ---
 
 {{% alert color="primary" %}}

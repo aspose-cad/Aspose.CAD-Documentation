@@ -2,7 +2,7 @@
 title: Technická podpora
 type: docs
 weight: 80
-url: /cs/technicka-podpora/
+url: /cs/java/technical-support/
 ---
 
 {{% alert color="primary" %}}

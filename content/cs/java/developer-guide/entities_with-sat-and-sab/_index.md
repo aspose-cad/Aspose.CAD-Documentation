@@ -2,7 +2,7 @@
 title: Entitáty se strukturou SAT/SAB
 type: docs
 weight: 40
-url: /cs/java/podpora-sat-sab/
+url: /cs/java/support-sat-sab/
 ---
 
 ## **Entitáty se strukturou SAT/SAB**
@@ -15,7 +15,7 @@ Některé entitáty ukládají svá strukturální data ve formátu ACIS SAT/SAB
 
 Níže je příklad exportního výsledku (soubor DWG v levé části, výsledek PDF v pravé části).
 
-![Export kuželu a sfér](/_assets/coneAndSpheres.png)
+![Export kuželu a sfér](/_assets/guide/coneAndSpheres.png)
 
 Exportování entit ACIS nevyžaduje žádné speciální možnosti. Pro optimalizaci velikosti výkresu, zejména pokud výkres obsahuje výhradně entity ACIS, zvažte použití funkce cadImage.updateSize() k přesnému nastavení počátečních rozměrů výkresu.
 

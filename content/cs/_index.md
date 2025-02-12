@@ -100,7 +100,7 @@ Následují odkazy na některé užitečné zdroje, které můžete potřebovat 
 
 **Aspose.CAD pro Python**
 
-![Aspose.CAD pro Python produktové logo](/_assets/home_5.png)
+![Aspose.CAD pro Python produktové logo](/_assets/home_4.png)
 
 Aspose.CAD pro Python je knihovna kompatibilní s platformami Python 3.x, s bohatou sadou funkcí a schopností popsaných výše. Je dostupná ke stažení přímo nebo jako balíček PyPi.
 

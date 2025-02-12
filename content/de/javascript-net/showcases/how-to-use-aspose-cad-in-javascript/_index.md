@@ -3,7 +3,7 @@ title: Wie man Aspose.CAD in JavaScript verwendet
 type: docs
 description: "Aspose.CAD in JavaScript verwenden."
 weight: 73
-url: /de/javascript-net/wie-man-aspose-cad-in-javascript-ausfuhrt
+url: /de/javascript-net/how-to-run-aspose-cad-in-javascript
 ---
 
 ## Voraussetzungen
@@ -88,10 +88,10 @@ npm run serve
 ## Ausführungsbeispiel
 
 1. Datei auswählen.<br>
-![Datei auswählen](/_assets/choose-file.png)<br>
+![Datei auswählen](/_assets/javascript-net/javascript-net/choose-file.png)<br>
 1. Wählen Sie eine beliebige DXF-, DWG-, DGN-, DWF-, DWFX-, IFC-, STL-, DWT-, IGES-, PLT-, CF2-, OBJ-, HPGL-, IGS-, PCL-, FBX-, PDF-, SVG-Datei aus.
 1. Wenn die Antwort erfolgreich ist, wird die Datei auf dem Bildschirm angezeigt und es wird angeboten, sie herunterzuladen.<br>
-![Bild konvertieren](/_assets/convert-image.png)<br>
+![Bild konvertieren](/_assets/javascript-net/javascript-net/convert-image.png)<br>
 
 ## Siehe auch
 

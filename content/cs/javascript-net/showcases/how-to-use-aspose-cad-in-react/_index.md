@@ -3,7 +3,7 @@ title: Jak používat Aspose.CAD v Reactu
 type: docs
 description: "Použití Aspose.CAD v Reactu"
 weight: 75
-url: /cs/javascript-net/jak-pouzivat-aspose-cad-v-reactu
+url: /cs/javascript-net/how-to-use-aspose-cad-in-react
 ---
 
 ## Předpoklady
@@ -94,10 +94,10 @@ npm start
 ## Příklad provedení
 
 1. Vyberte soubor.<br>
-![Vybrat soubor](/_assets/choose-file.png)<br>
+![Vybrat soubor](/_assets/javascript-net/react/choose-file.png)<br>
 1. Vyberte libovolný DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG soubor.
 1. Pokud odpověď bude úspěšná, soubor bude zobrazen na obrazovce a nabídne možnost jeho stažení.<br>
-![Převést obrázek](/_assets/convert-image.png)<br>
+![Převést obrázek](/_assets/javascript-net/react/convert-image.png)<br>
 
 ## Viz také
 

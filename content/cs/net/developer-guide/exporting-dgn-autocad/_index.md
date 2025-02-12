@@ -2,7 +2,7 @@
 title: Exportování DGN AutoCADu
 type: docs
 weight: 50
-url: /cs/exportovani-dgn-autocadu/
+url: /cs/net/exporting-dgn-autocad/
 ---
 
 ## **Export formátu DGN AutoCAD do PDF**

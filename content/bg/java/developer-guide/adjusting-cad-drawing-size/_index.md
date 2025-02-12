@@ -2,7 +2,7 @@
 title: Коригиране на размера на CAD чертежа
 type: docs
 weight: 10
-url: /bg/java/adjusting-cad-drawing-size/
+url: /bg/java/developer-guide/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

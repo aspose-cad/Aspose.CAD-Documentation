@@ -2,7 +2,7 @@
 title: Konverze výkresů CAD do formátů PDF a rastrových obrázků
 type: docs
 weight: 30
-url: /cs/jak-konvertovat-vykresy-cad-do-pdf-a-rastrovych-obrazku/
+url: /cs/java/converting-cad-drawings-to-pdf-and-raster-image-formats/
 ---
 
 {{% alert color="primary" %}} 

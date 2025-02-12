@@ -2,7 +2,7 @@
 title: Upravení velikosti CAD kresby
 type: docs
 weight: 10
-url: /cs/upraveni-velikosti-cad-kresby/
+url: /cs/java/developer-guide/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

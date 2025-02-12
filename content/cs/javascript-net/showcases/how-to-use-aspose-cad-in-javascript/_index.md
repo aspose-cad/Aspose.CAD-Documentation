@@ -3,7 +3,7 @@ title: Jak používat Aspose.CAD v JavaScriptu
 type: docs
 description: "použijte Aspose.CAD v JavaScriptu."
 weight: 73
-url: /cs/javascript-net/jak-spustit-aspose-cad-v-javascriptu
+url: /cs/javascript-net/how-to-run-aspose-cad-in-javascript
 ---
 
 ## Předpoklady
@@ -88,10 +88,10 @@ npm run serve
 ## Příklad provedení
 
 1. Vyberte soubor.<br>
-![Vyberte soubor](/_assets/choose-file.png)<br>
+![Vyberte soubor](/_assets/javascript-net/javascript-net/choose-file.png)<br>
 1. Vyberte libovolný soubor DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Pokud je odpověď úspěšná, soubor bude zobrazen na obrazovce a nabídne možnost stáhnout ho.<br>
-![Převod obrazu](/_assets/convert-image.png)<br>
+![Převod obrazu](/_assets/javascript-net/javascript-net/convert-image.png)<br>
 ## Viz také
 
 - [Instalovat Visual Code](https://code.visualstudio.com/)

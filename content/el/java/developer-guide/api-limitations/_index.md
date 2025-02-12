@@ -2,7 +2,7 @@
 title: Περιορισμοί API
 type: docs
 weight: 80
-url: /el/java/api-limitations/
+url: /el/java/developer-guide/api-limitations/
 ---
 
 ## **Πληροφορίες δημιουργού μοντέλου CAD**

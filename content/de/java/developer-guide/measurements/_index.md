@@ -2,7 +2,7 @@
 title: Maße
 type: docs
 weight: 40
-url: /de/measurements/
+url: /de/java/measurements/
 ---
 
 ## **Flächen- und Längenmessungen**

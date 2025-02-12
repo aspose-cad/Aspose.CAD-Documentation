@@ -3,7 +3,7 @@ title: Jak používat Aspose.CAD v Angularu
 type: docs
 description: "Použití Aspose.CAD v Angularu."
 weight: 71
-url: /cs/javascript-net/jak-pouzivat-aspose-cad-v-angularu
+url: /cs/javascript-net/how-to-use-aspose-cad-in-angular
 ---
 
 ## Prerekvizity
@@ -122,10 +122,10 @@ Pomocí příznaku --open se otevře prohlížeč na adrese http://localhost:420
 ## Příklad provedení
 
 1. Vyberte soubor.<br>
-![Vyberte soubor](/_assets/vybrat-soubor.png)<br>
+![Vyberte soubor](/_assets/javascript-net/angular/choose-file.png)<br>
 1. Vyberte jakýkoliv soubor DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Pokud je odpověď úspěšná, soubor bude zobrazen na obrazovce a nabídne možnost jeho stažení.<br>
-![Konvertovat obrázek](/_assets/konvertovat-obrazek.png)<br>
+![Konvertovat obrázek](/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## Viz také
 

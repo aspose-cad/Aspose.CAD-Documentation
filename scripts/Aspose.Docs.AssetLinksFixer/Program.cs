@@ -2,6 +2,10 @@
 using System.IO;
 using Aspose.Docs.AssetLinksFixer;
 
+/// <summary>
+/// Validate and fix RELATIVE IMAGE LINKS
+/// </summary>
+
 #if DEBUG
 args = new[]
 {

@@ -2,7 +2,7 @@
 title: API Limitationen
 type: docs
 weight: 80
-url: /de/java/api-limitations/
+url: /de/java/developer-guide/api-limitations/
 ---
 
 ## **Informationen zum CAD-Modellersteller**

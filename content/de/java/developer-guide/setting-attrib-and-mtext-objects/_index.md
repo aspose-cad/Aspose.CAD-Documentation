@@ -2,7 +2,7 @@
 title: Festlegung von ATTRIB- und MTEXT-Objekten
 type: docs
 weight: 60
-url: /de/festlegung-von-attrib-und-mtext-objekten/
+url: /de/java/setting-attrib-and-mtext-objects/
 ---
 
 ## **Festlegung von ATTRIB- und MTEXT-Objekten**

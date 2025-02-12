@@ -2,7 +2,7 @@
 title: Podporované formáty souborů
 type: docs
 weight: 20
-url: /cs/javascript-net/podporovane-formaty-souboru/
+url: /cs/javascript-net/supported-file-formats/
 ---
 
 ## **Podporované formáty souborů**

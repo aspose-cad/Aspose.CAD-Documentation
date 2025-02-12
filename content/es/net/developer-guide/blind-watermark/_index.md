@@ -20,9 +20,9 @@ Puedes usar un texto o imagen para una marca de agua ciega, la biblioteca Apose.
 Un ejemplo de la apariencia de un archivo usando texto para una marca de agua ciega.
 
 1. El archivo antes de agregar la marca de agua ciega de texto<br>
-![Imagen de entrada](/es/_assets/Tyrannosaurus.dxf_input.png)<br>
+![Imagen de entrada](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. El resultado de agregar la marca de agua ciega de texto<br>
-![Imagen incrustada](/es/_assets/Tyrannosaurus.dxf_embedded.png)
+![Imagen incrustada](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **Usando otra imagen como marca de agua ciega**
 
@@ -35,6 +35,6 @@ Un ejemplo de la apariencia de un archivo usando texto para una marca de agua ci
 Un ejemplo de la vista de un archivo usando otra imagen para agregar una marca de agua ciega.
 
 1. El archivo antes de agregar la imagen como marca de agua ciega<br>
-![Imagen de entrada](/es/_assets/robot_handling_cell.dwg_input.png)<br>
+![Imagen de entrada](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. El resultado después de agregar la imagen como marca de agua ciega<br>
-![Imagen incrustada](/es/_assets/robot_handling_cell.dwg_embedded.png)
+![Imagen incrustada](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

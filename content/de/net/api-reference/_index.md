@@ -2,7 +2,7 @@
 title: API-Referenz
 type: docs
 weight: 50
-url: /de/net/api-referenz/
+url: /de/net/api-reference/
 ---
 
 Aspose.CAD für .NET ist eine eigenständige CAD- und BIM-Dateiverarbeitungs-API, die für .Net Core, Xamarin für Android und iOS geeignet ist.

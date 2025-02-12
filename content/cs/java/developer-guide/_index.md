@@ -2,5 +2,5 @@
 title: Průvodce vývojáře
 type: docs
 weight: 20
-url: /cs/java/pruvodce-vyvojare/
+url: /cs/java/developer-guide/
 ---

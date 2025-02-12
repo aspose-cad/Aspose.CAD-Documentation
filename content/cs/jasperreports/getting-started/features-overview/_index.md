@@ -2,7 +2,7 @@
 title: Přehled funkcí
 type: docs
 weight: 20
-url: /cs/jasperreports/prehled-funkci/
+url: /cs/jasperreports/features-overview/
 ---
 
 {{% alert color="primary" %}}

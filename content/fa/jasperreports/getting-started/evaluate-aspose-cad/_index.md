@@ -13,7 +13,7 @@ url: /fa/jasperreports/evaluate-aspose-cad/
 
 نسخه ارزیابی Aspose.CAD برای JasperReports (بدون مشخص کردن مجوز) به برخی از عملکردهای محصول تا حدی که کامل نیست، ارائه می‌دهد. یکی از محدودیت‌ها این است که همیشه واترمارک ارزیابی را بر روی فایل‌های خروجی وارد می‌کند.
 
-![مثال صادرات Aspose.CAD برای JasperReports](/fa/_assets/AreaChartReport.jpg)
+![مثال صادرات Aspose.CAD برای JasperReports](/_assets/jasper/AreaChartReport.jpg)
 
 **شکل:** هشدار ارزیابی
 

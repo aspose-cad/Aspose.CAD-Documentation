@@ -2,7 +2,7 @@
 title: Instalace
 type: docs
 weight: 30
-url: /cs/javascript-net/instalace/
+url: /cs/javascript-net/installation/
 ---
 
 ## **Instalace Aspose.CAD pro JavaScript pomocí npm**

@@ -23,9 +23,9 @@ description: استخدم محول PDF-3D من C# .NET AutoCAD. يمكنك تح�
 
 مثال على مظهر ملف PDF بمحتوى ثلاثي الأبعاد، بالإضافة إلى عرض التدوير والتضخيم.
 
-![PDF-3D](/_assets/result.png)
-![تدوير معدل](/_assets/rotate.png)
-![تضخيم](/_assets/scaling.png)
+![PDF-3D](/_assets/guide/pdf-3d/result.png)
+![تدوير معدل](/_assets/guide/pdf-3d/rotate.png)
+![تضخيم](/_assets/guide/pdf-3d/scaling.png)
 
 ## **موارد Aspose.CAD لـ .NET**
 

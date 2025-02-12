@@ -2,7 +2,7 @@
 title: Omezení API
 type: docs
 weight: 80
-url: /cs/java/omezeni-api/
+url: /cs/java/developer-guide/api-limitations/
 ---
 
 ## **Informace o vytváření CAD modelu**

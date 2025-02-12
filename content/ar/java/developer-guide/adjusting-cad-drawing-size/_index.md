@@ -2,7 +2,7 @@
 title: تعديل حجم رسم CAD
 type: docs
 weight: 10
-url: /ar/java/adjusting-cad-drawing-size/
+url: /ar/java/developer-guide/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

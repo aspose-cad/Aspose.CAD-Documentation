@@ -7,7 +7,7 @@ url: /fa/javascript-net/product-overview/
 
 **به Aspose.CAD برای جاوااسکریپت خوش آمدید**
 
-![todo:image_alt_text](/_assets/product-overview_1.png)
+![todo:image_alt_text](/_assets/home_5.png)
 
 Aspose.CAD برای جاوااسکریپت به توسعه‌دهندگان این امکان را می‌دهد که فایل‌های AutoCAD DWG، DWF، DWT و DXF را به PDF و تصاویر Raster تبدیل کنند. این یک API بومی است و نیازی به نصب AutoCAD یا هر نرم‌افزار دیگری ندارد. شما همچنین می‌توانید لایه‌ها و طرح‌های انتخابی را از فایل‌های AutoCAD تبدیل کنید. کیفیت تبدیل به PDF و تصاویر Raster بسیار بالا است.
 
@@ -21,7 +21,7 @@ Aspose.CAD برای جاوااسکریپت به توسعه‌دهندگان ای
 ## **نگاهی اجمالی**
 مروری بر قابلیت‌های اصلی تبدیل، رندر و گزارش‌گیری Aspose.CAD برای جاوااسکریپت.
 
-![todo:image_alt_text](/_assets/product-overview_2.png)
+![todo:image_alt_text](/_assets/javascript-net/product-overview_2.png)
 
 ## **ویژگی‌های پیشرفته API**
 - از آخرین نسخه‌های فایل‌های AutoCAD DWG، DWF، DWT و DXF پشتیبانی می‌کند
@@ -39,4 +39,4 @@ Aspose.CAD برای جاوااسکریپت از
 - Vue
 - TypeScript معمولی
 
-![todo:image_alt_text](/_assets/product-overview_3.png)
+![todo:image_alt_text](/_assets/javascript-net/product-overview_3.png)

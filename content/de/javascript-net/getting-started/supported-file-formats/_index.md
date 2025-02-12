@@ -2,7 +2,7 @@
 title: Unterstützte Dateiformate
 type: docs
 weight: 20
-url: /de/javascript-net/unterstutzte-dateiformate/
+url: /de/javascript-net/supported-file-formats/
 ---
 
 ## **Unterstützte Dateiformate**

@@ -2,7 +2,7 @@
 title: Hodnotit Aspose.CAD
 type: docs
 weight: 50
-url: /cs/jasperreports/hodnotit-aspose-cad/
+url: /cs/jasperreports/evaluate-aspose-cad/
 ---
 
 {{% alert color="primary" %}}
@@ -13,7 +13,7 @@ Můžete snadno stáhnout Aspose.CAD pro JasperReports ke zhodnocení ze [staže
 
 Zkušební verze Aspose.CAD pro JasperReports (bez určené licence) poskytuje funkcionalitu produktu do určité míry, i když ne úplně. Jedním omezením je, že vždy vkládá zkušební vodoznak do výstupních souborů.
 
-![Příklad exportu Aspose.CAD pro JasperReports](/_assets/AreaChartReport.jpg)
+![Příklad exportu Aspose.CAD pro JasperReports](/_assets/jasper/AreaChartReport.jpg)
 
 **Obrázek:** Varování o hodnocení
 

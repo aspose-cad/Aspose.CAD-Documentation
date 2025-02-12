@@ -2,7 +2,7 @@
 title: Licencování
 type: docs
 weight: 40
-url: /cs/jasperreports/licencovani/
+url: /cs/jasperreports/licensing/
 ---
 ## **Volání metody setLicense**
 Pro aplikaci licence:

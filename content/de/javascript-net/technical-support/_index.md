@@ -2,7 +2,7 @@
 title: Technischer Support
 type: docs
 weight: 60
-url: /de/javascript-net/technischer-support/
+url: /de/javascript-net/technical-support/
 ---
 
 ## **Aspose.CAD für JavaScript Support**

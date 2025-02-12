@@ -100,7 +100,7 @@ Im Folgenden finden Sie Links zu einigen nützlichen Ressourcen, die Ihnen bei d
 
 **Aspose.CAD für Python**
 
-![Aspose.CAD für Python Produktlogo](/_assets/home_5.png)
+![Aspose.CAD für Python Produktlogo](/_assets/home_4.png)
 
 Aspose.CAD für Python ist eine plattformübergreifende Bibliothek, kompatibel mit Python 3.x, mit einem umfangreichen Funktionsumfang und den oben beschriebenen Fähigkeiten. Es ist sowohl als Direktdownload als auch als PyPi-Paket verfügbar.
 

@@ -2,7 +2,7 @@
 title: Podporované formáty souborů
 type: docs
 weight: 20
-url: /cs/java/podporovane-formaty-souboru/
+url: /cs/java/supported-file-formats/
 ---
 
 ## **Podporované formáty souborů**

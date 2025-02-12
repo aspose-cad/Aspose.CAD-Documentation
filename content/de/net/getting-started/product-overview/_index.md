@@ -7,7 +7,7 @@ url: /de/net/product-overview/
 
 **Willkommen bei Aspose.CAD für .NET**
 
-![todo:image_alt_text](product-overview_1)
+![todo:image_alt_text](/_assets/home_1.png)
 
 Aspose.CAD für .NET ermöglicht Entwicklern die Konvertierung von AutoCAD DWG, DWF, DWT und DXF-Dateien in PDF und Rasterbilder. Es handelt sich um eine native API, die keine Installation von AutoCAD oder anderer Software erfordert. Sie können auch die ausgewählten Ebenen und Layouts aus den AutoCAD-Dateien konvertieren. Die Konvertierung in PDF und Rasterbilder hat eine sehr hohe Qualität.
 

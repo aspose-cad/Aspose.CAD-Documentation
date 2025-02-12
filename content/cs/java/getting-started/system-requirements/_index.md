@@ -2,7 +2,7 @@
 title: Požadavky na systém
 type: docs
 weight: 40
-url: /cs/java/pozadavky-na-system/
+url: /cs/java/system-requirements/
 ---
 
 ## **Přehled**

@@ -2,7 +2,7 @@
 title: Funktionenübersicht
 type: docs
 weight: 20
-url: /de/jasperreports/funktionenuebersicht/
+url: /de/jasperreports/features-overview/
 ---
 
 {{% alert color="primary" %}}

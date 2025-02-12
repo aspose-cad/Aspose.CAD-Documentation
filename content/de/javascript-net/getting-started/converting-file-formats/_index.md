@@ -2,7 +2,7 @@
 title: Dateiformate konvertieren
 type: docs
 weight: 20
-url: /de/javascript-net/dateiformate-konvertieren/
+url: /de/javascript-net/converting-file-formats/
 ---
 
 ## **Dateiformate konvertieren**

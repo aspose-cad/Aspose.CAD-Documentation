@@ -2,7 +2,7 @@
 title: Unterstützte Dateiformate
 type: docs
 weight: 20
-url: /de/java/unterstuetzte-dateiformate/
+url: /de/java/supported-file-formats/
 ---
 
 ## **Unterstützte Dateiformate**

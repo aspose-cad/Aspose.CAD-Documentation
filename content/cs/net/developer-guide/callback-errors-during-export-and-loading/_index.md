@@ -2,7 +2,7 @@
 title: Callback chyby při exportu a načítání
 type: docs
 weight: 40
-url: /cs/callback-chyby-pri-exportu-a-nacitani/
+url: /cs/net/callback-errors-during-export-and-loading/
 ---
 
 ## **Přehled callback chyb při exportu a načítání**

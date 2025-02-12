@@ -2,7 +2,7 @@
 title: API Ограничения
 type: docs
 weight: 80
-url: /bg/java/api-limitations/
+url: /bg/java/developer-guide/api-limitations/
 ---
 
 ## **Информация за създателя на CAD модела**

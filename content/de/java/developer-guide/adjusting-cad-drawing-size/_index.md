@@ -2,7 +2,7 @@
 title: Anpassen der Größe einer CAD-Zeichnung
 type: docs
 weight: 10
-url: /de/java/anpassen-der-cad-zeichnungsgröße/
+url: /de/java/developer-guide/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: Funkce
 type: docs
 weight: 30
-url: /cs/funkce/
+url: /cs/net/features/
 ---
 
 ## **Funkce produktu**

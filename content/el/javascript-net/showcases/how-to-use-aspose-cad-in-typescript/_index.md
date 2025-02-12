@@ -120,10 +120,10 @@ npm run serve
 ## Παράδειγμα εκτέλεσης
 
 1. Επιλέξτε αρχείο.<br>
-![Επιλέξτε αρχείο](/_assets/choose-file.png)<br>
+![Επιλέξτε αρχείο](/_assets/javascript-net/typescript/choose-file.png)<br>
 1. Επιλέξτε οποιοδήποτε αρχείο DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Εάν η απάντηση είναι επιτυχής, το αρχείο θα εμφανιστεί στην οθόνη και θα προσφερθεί για λήψη.<br>
-![Μετατροπή εικόνας](/_assets/convert-image.png)<br>
+![Μετατροπή εικόνας](/_assets/javascript-net/typescript/convert-image.png)<br>
 ## Δείτε επίσης
 
 - [Εγκαταστήστε το Visual Code](https://code.visualstudio.com/)

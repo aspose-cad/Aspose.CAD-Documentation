@@ -2,7 +2,7 @@
 title: Převod souborů CAD do PDF-3D
 type: docs
 weight: 40
-url: /cs/developer-guide/export-cad-files-to-pdf-3d
+url: /cs/net/developer-guide/export-cad-files-to-pdf-3d
 keywords: "PDF, PDF-3D, 3D-PDF, 3D, PDF-3D C#, CAD na PDF-3D C#, převést AutoCAD, převod autocad na pdf-3d"
 description: Použijte konvertor AutoCAD do PDF-3D v jazyce C# .NET. Můžete také převést 3D model na PDF-3D v C# .NET.
 ---
@@ -23,9 +23,9 @@ Pro převedení vašeho 3D výkresu do PDF-3D musíte spustit kód z příkladu 
 
 Příklad vzhledu PDF souboru s 3D obsahem a demonstrace rotace a škálování.
 
-![PDF-3D](/_assets/result.png)
-![Změna rotace](/_assets/rotate.png)
-![Škálování](/_assets/scaling.png)
+![PDF-3D](/_assets/guide/pdf-3d/result.png)
+![Změna rotace](/_assets/guide/pdf-3d/rotate.png)
+![Škálování](/_assets/guide/pdf-3d/scaling.png)
 
 ## **Zdroje Aspose.CAD pro .NET**
 

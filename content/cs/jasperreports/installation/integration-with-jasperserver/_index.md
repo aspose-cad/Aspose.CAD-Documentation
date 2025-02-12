@@ -2,7 +2,7 @@
 title: Integrace s JasperServerem
 type: docs
 weight: 20
-url: /cs/jasperreports/integrace-s-jasperserverem/
+url: /cs/jasperreports/integration-with-jasperserver/
 ---
 {{% alert color="primary" %}}
 Pro integrování Aspose.CAD pro JasperReports s JasperServerem je nutné provést několik dalších kroků a aktualizovat konfigurační soubory JasperServeru. Tento článek vysvětluje jak na to.
@@ -57,6 +57,6 @@ Hodnotu vlastnosti můžete změnit na Batch, SinglePage nebo Multipage pomocí 
 {{< /highlight >}}
 
 5. Restartujte server JasperReports a otevřete libovolný report k zobrazení. Pokud byly předchozí kroky provedeny správně, uvidíte další možnosti v seznamu formátů exportu.
-![todo:image_alt_text](/_assets/ExportReportView.png)
+![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
 
 Pokud nevidíte další formáty (ikony nebo možnosti), zkontrolujte protokolovací soubory v adresáři \apache-tomcat\logs.

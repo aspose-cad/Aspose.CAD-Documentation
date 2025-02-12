@@ -2,7 +2,7 @@
 title: Ρυθμίζοντας το Μέγεθος Σχεδίου CAD
 type: docs
 weight: 10
-url: /el/java/adjusting-cad-drawing-size/
+url: /el/java/developer-guide/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

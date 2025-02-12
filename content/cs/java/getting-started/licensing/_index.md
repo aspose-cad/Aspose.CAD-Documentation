@@ -2,7 +2,7 @@
 title: Licencování
 type: docs
 weight: 50
-url: /cs/java/licencing/
+url: /cs/java/licensing/
 ---
 
 {{% alert color="primary" %}}

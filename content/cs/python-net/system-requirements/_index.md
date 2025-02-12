@@ -2,7 +2,7 @@
 title: Požadavky Na Systém
 type: docs
 weight: 20
-url: /cs/python-net/pozadavky-na-system/
+url: /cs/python-net/system-requirements/
 ---
 
 ## **Požadavky Na Systém**

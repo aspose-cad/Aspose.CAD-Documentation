@@ -3,7 +3,7 @@ title: Jak spustit obraz Aspose.CAD Docker v Azure Function
 type: docs
 description: "Spusťte obraz Aspose.CAD Docker v Azure Function."
 weight: 71
-url: /cs/jak-spustit-obraz-aspose-cad-docker-v-azure-function
+url: /cs/java/how-to-run-aspose-cad-docker-image-in-azure-function
 ---
 
 ## Předpoklady
@@ -21,14 +21,14 @@ V tomto příkladu vytvoříte jednoduchou konverzní funkci, která převede so
 Pro vytvoření programu Azure Function postupujte podle následujících kroků:
 1. Jakmile je nainstalován Docker, ujistěte se, že používá kontejnery Linux (výchozí). Pokud je to nutné, z nabídky Docker Desktop vyberte možnost Přepnout na linuxové kontejnery.
 1. Vytvoříte projekt Azure Function v IntelliJ IDEA.<br>
-![Vytvoření projektu Azure Function](/_assets/create-function-ide-1.png)<br>
-![Vytvoření projektu Azure Function - finální](/_assets/create-function-ide-2.png)<br>
+![Vytvoření projektu Azure Function](/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Vytvoření projektu Azure Function - finální](/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Nástroje-> Azure-> Přihlásit se a vybrat ověření OAuth 2.0.<br>
-![Přihlášení do Azure](/_assets/sign-in-azure.png)<br>
+![Přihlášení do Azure](/_assets/java/java-azure/sign-in-azure.png)<br>
 1. Přihlaste se v prohlížeči.
 1. Vyberte název odběru.
 1. Přidejte podporu Dockeru.<br>
-![Přihlášení do Azure](/_assets/add-docker-support.png)<br>
+![Přihlášení do Azure](/_assets/java/java-azure/add-docker-support.png)<br>
 1. Upravte soubor Dockerfile, jak je uvedeno v sekci <a href="#configuring-a-dockerfile">Konfigurace Dockerfile</a>.
 1. Přidejte bloky pro repozitář aspose.cad do souboru pom.xml.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Spusťte soubor Dockerfile v IDE a po zaslání do Docker Hubu.<br>
-![Spuštění Dockeru v IDE](/_assets/docker-run-in-ide.png)<br>
+![Spuštění Dockeru v IDE](/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. Zadejte název obrazu, jako je uvedeno v repozitáři Docker Hubu.<br>
-![Spuštění Dockeru v IDE - pokračování](/_assets/docker-run-in-ide-1.png)<br>
+![Spuštění Dockeru v IDE - pokračování](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. Počkejte na dokončení.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push user/aspose-cad-java:latest
 1. Přihlásit se do Azure.
 1. Vyberte služby Azure.
 1. Vyberte Funkci aplikace a vytvořte funkci.<br>
-![Tlačítko Vytvořit funkci v Azure](/_assets/create-function-azure.png)<br>
+![Tlačítko Vytvořit funkci v Azure](/_assets/java/java-azure/create-function-azure.png)<br>
 1. Opakujte základní nastavení, jak je znázorněno na následujícím obrázku.<br>
-![Nastavení vytvoření funkce v Azure](/_assets/create-function-settings.png)<br>
+![Nastavení vytvoření funkce v Azure](/_assets/java/java-azure/create-function-settings.png)<br>
 1. Klepněte na 'Zkontrolovat + vytvořit' -> Vytvořit.
 1. Počkejte na dokončení nasazení.
 1. Klepněte na tlačítko 'Přejít na zdroj'.<br>
-![Tlačítko zdroje](/_assets/azure/go-to-resource.png)<br>
+![Tlačítko zdroje](/_assets/java/java-azure/go-to-resource.png)<br>
 1. Zastavte funkci aspose-cad-docker-example.<br>
-![Zastavení kontejneru](/_assets/stop-container.png)<br>
+![Zastavení kontejneru](/_assets/java/java-azure/stop-container.png)<br>
 1. Přejděte do nabídky střediska pro nasazení a proveďte příslušná nastavení.<br>
-![Středisko pro nasazení](/_assets/deployment-center.png)<br>
+![Středisko pro nasazení](/_assets/java/java-azure/deployment-center.png)<br>
 1. Uložte nastavení
 1. Zkopírujte Webhook URL ze nastavení střediska pro nasazení.<br>
-![Webhook URL](/_assets/webhook-url.png)<br>
+![Webhook URL](/_assets/java/java-azure/webhook-url.png)<br>
 1. Přejděte do Docker Hubu, vyberte svůj repozitář a vyberte webhooks.
 1. Vložte „Webhook url“ z Azure do pole "Webhook url" v Docker Hubu a nastavte název.<br>
-![Nastavení webhooku v Dockeru](/_assets/webhook.png)<br>
+![Nastavení webhooku v Dockeru](/_assets/java/java-azure/webhook.png)<br>
 1. Klepněte na tlačítko vytvořit.
 1. Vraťte se zpět na přehled funkce Azure a spusťte kontejner.<br>
-![Přehled menu](/_assets/overview.png)<br>
+![Přehled menu](/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 Může trvat několik minut, než funkce začne fungovat.
 {{% /alert %}}
@@ -193,11 +193,11 @@ Může trvat několik minut, než funkce začne fungovat.
 ## Příklad provedení
 
 1. Nastavení Postmana.<br>
-![Přehled menu](/_assets/postman-settings.png)<br>
+![Přehled menu](/_assets/java/java-azure/postman-settings.png)<br>
 1. Vyberte jakýkoliv soubor DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Klepněte na tlačítko odeslat.
 1. Uložte výsledek
-![Uložení odpovědi](/_assets/response-postman.png)<br>
+![Uložení odpovědi](/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Pokud je odpověď úspěšná, klepněte na Uložit do souboru a obdržíte konvertovaný soubor ve formátu png

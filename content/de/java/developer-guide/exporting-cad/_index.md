@@ -2,7 +2,7 @@
 title: Exportieren von CAD
 type: docs
 weight: 40
-url: /de/java/exportieren-von-cad/
+url: /de/java/developer-guide/exporting-cad/
 ---
 
 ## **3D AutoCAD-Bilder in PDF exportieren**

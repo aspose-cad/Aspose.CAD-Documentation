@@ -36,7 +36,7 @@ Una visión general de las principales capacidades de conversión, renderizació
 
 Aspose.CAD para Java soporta los populares DWG, DWF, DXF, DWT, PDF e imágenes rasterizadas.
 
-![todo:image_alt_text](/es/_assets/product-overview_1.png)
+![todo:image_alt_text](/_assets/java/product-overview_1.png)
 ### **Soporte para DXF / DWG / DGN**
 - Sólidos 3D (Cónico, Esfera, Toro, Cilindro, Caja, Cuña)
 ### **Soporte para DXF / DWG**

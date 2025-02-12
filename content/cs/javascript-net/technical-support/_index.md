@@ -2,7 +2,7 @@
 title: Technická podpora
 type: docs
 weight: 60
-url: /cs/javascript-net/technicka-podpora/
+url: /cs/javascript-net/technical-support/
 ---
 
 ## **Podpora pro Aspose.CAD pro JavaScript**

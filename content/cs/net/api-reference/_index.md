@@ -2,7 +2,7 @@
 title: API Referenční příručka
 type: docs
 weight: 50
-url: /cs/api-referenční-příručka/
+url: /cs/net/api-reference/
 ---
 
 Aspose.CAD pro .NET je samostatné rozhraní API pro zpracování souborů CAD a BIM vhodné pro .Net Core, Xamarin pro Android a iOS.
