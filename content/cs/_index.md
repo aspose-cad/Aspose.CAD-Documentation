@@ -124,7 +124,7 @@ Následují odkazy na některé užitečné zdroje, které můžete potřebovat 
 
 ## **Aspose.CAD pro JavaScript**
 
-![Aspose.CAD pro JavaScript produktové logo](/_assets/home_6.png)
+![Aspose.CAD pro JavaScript produktové logo](/_assets/home_5.png)
 
 Aspose.CAD pro JavaScript je nativní API pro konverzi CAD bez závislostí na softwaru. Umožňuje vývojářům konverzi souborů DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES (IGS), CF2, Collada (DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP do rastrových formátů obrazu a PDF.
 Během procesu konverze mohou vývojáři vybrat a konvertovat konkrétní vrstvy a rozložení a sledovat proces konverze souboru.

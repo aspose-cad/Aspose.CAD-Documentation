@@ -13,7 +13,7 @@ url: /ar/jasperreports/evaluate-aspose-cad/
 
 توفر النسخة التجريبية من Aspose.CAD لجاسبر ريبورتس (بدون ترخيص محدد) وظائف المنتج إلى حد ما، على الرغم من عدم كمالها. إحدى القيود هي أنه يتم دائمًا إدخال علامة مائية للتقييم على ملفات الإخراج.
 
-![مثال تصدير Aspose.CAD لجاسبر ريبورتس](/_assets/AreaChartReport.jpg)
+![مثال تصدير Aspose.CAD لجاسبر ريبورتس](/_assets/jasper/AreaChartReport.jpg)
 
 **الشكل:** تحذير التقييم
 

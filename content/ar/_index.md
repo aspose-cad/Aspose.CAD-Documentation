@@ -101,7 +101,7 @@ Aspose.CAD لـ JasperReports هي مكتبة متوافقة مع إصدار Jas
 
 **Aspose.CAD لـ Python**
 
-![شعار Aspose.CAD لـ Python](/_assets/home_5.png)
+![شعار Aspose.CAD لـ Python](/_assets/home_4.png)
 
 Aspose.CAD لـ Python هي مكتبة متعددة المنصات ، متوافقة مع Python 3.x ، مع مجموعة غنية من الميزات والقدرات الموصوفة أعلاه. وهي متاحة للتنزيل المباشر وكحزمة PyPi.
 
@@ -125,7 +125,7 @@ Aspose.CAD لـ Python هي مكتبة متعددة المنصات ، متواف
 
 ## **Aspose.CAD لـ JavaScript**
 
-![شعار Aspose.CAD لـ JavaScript](/_assets/home_6.png)
+![شعار Aspose.CAD لـ JavaScript](/_assets/home_5.png)
 
 Aspose.CAD لـ JavaScript هي واجهة برمجة تطبيقات تحويل CAD أصلية بدون أي اعتمادات برمجية. يسمح للمطورين بتحويل ملفات DXF و DWG و DWT و DGN و IFC و DWF و DWFX و STL و IGES (IGS) و CF2 و Collada (DAE) و PLT و OBJ و SVG و DXB و FBX و U3D و 3DS و STP إلى تنسيقات صور نقطية و PDF.
 أثناء عملية التحويل ، يمكن للمطورين اختيار وتحويل طبقات وتخطيطات محددة بالإضافة إلى تتبع عملية تحويل الملفات.

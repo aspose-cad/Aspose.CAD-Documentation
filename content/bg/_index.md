@@ -50,7 +50,7 @@ Aspose.CAD за .NET е крос-платформена библиотека, с
 
 **Aspose.CAD за Java**
 
-![Aspose.CAD за Java Лого на продукта](/_assets/../_assets/home_2.png)
+![Aspose.CAD за Java Лого на продукта](/_assets/home_2.png)
 
 Aspose.CAD за Java е крос-платформена библиотека, съвместима с Java версия 1.6 и по-нови, с богат набор от функции и възможности, описани по-горе. Налична е за директно изтегляне и като Maven пакет.
 
@@ -77,7 +77,7 @@ Aspose.CAD за Java е крос-платформена библиотека, с
 
 **Aspose.CAD за JasperReports**
 
-![Aspose.CAD за JasperReports Лого на продукта](/_assets/../_assets/home_3.png)
+![Aspose.CAD за JasperReports Лого на продукта](/_assets/home_3.png)
 
 Aspose.CAD за JasperReports е библиотека, съвместима с JasperReports версия 6.3 и по-нови, с богат набор от функции и възможности, описани по-горе. Налична е за директно изтегляне и като Maven пакет.
 
@@ -100,7 +100,7 @@ Aspose.CAD за JasperReports е библиотека, съвместима с J
 
 **Aspose.CAD за Python**
 
-![Aspose.CAD за Python Лого на продукта](/_assets/../_assets/home_4.png)
+![Aspose.CAD за Python Лого на продукта](/_assets/home_4.png)
 
 Aspose.CAD за Python е крос-платформена библиотека, съвместима с Python 3.x, с богат набор от функции и възможности, описани по-горе. Налична е за директно изтегляне и като PyPi пакет.
 
@@ -124,7 +124,7 @@ Aspose.CAD за Python е крос-платформена библиотека, 
 
 ## **Aspose.CAD за JavaScript**
 
-![Aspose.CAD за JavaScript Лого на продукта](/_assets/../_assets/home_5.png)
+![Aspose.CAD за JavaScript Лого на продукта](/_assets/home_5.png)
 
 Aspose.CAD за JavaScript е нативно API за конвертиране на CAD без зависимости от софтуер. Позволява на разработчиците да конвертират DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP файлове в растерни формати на изображения и PDF.  
 По време на процеса на конвертиране, разработчиците могат да избират и конвертират специфични слоеве и оформления, както и да проследяват процеса на конвертиране на файла.

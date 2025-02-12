@@ -89,6 +89,7 @@ class SitemapProcessor
         {
             return;
         }
+        
         _visitedPages.Add(pageUrl);
 
         await _throttle.WaitAsync();
@@ -102,6 +103,11 @@ class SitemapProcessor
                 .Select(node => node.GetAttributeValue("href", ""))
                 .Where(href => !string.IsNullOrEmpty(href) && !href.StartsWith("http"))
                 .ToList() ?? new List<string>();
+            
+            var images = doc.DocumentNode.SelectNodes("//img[@src]")?
+                .Select(node => node.GetAttributeValue("src", ""))
+                .Where(src => !string.IsNullOrEmpty(src) && !src.StartsWith("http"))
+                .ToList() ?? new List<string>();
 
             foreach (var relativeLink in links)
             {
@@ -110,6 +116,16 @@ class SitemapProcessor
                 {
                     _brokenLinks.Add(absoluteUrl);
                     Console.WriteLine($"Broken relative link on {pageUrl}: {absoluteUrl}");
+                }
+            }
+            
+            foreach (var relativeImage in images)
+            {
+                string absoluteUrl = new Uri(new Uri(pageUrl), relativeImage).ToString();
+                if (!await IsLinkValid(absoluteUrl))
+                {
+                    _brokenLinks.Add(absoluteUrl);
+                    Console.WriteLine($"Broken image relative link on {pageUrl}: {absoluteUrl}");
                 }
             }
         }
