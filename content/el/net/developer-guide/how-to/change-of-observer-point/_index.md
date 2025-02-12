@@ -2,7 +2,7 @@
 title: Αλλαγή του σημείου παρατήρησης
 type: docs
 weight: 19
-url: /el/net/how-to/change-of-observer-point/
+url: /el/net/developer-guide/how-to/change-of-observer-point/
 ---
 
 ## **Πώς να αλλάξετε το σημείο παρατήρησης**

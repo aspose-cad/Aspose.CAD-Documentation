@@ -2,7 +2,7 @@
 title: چرخش و تغییر فرم دوربین
 type: docs
 weight: 10
-url: /fa/net/how-to/work-with-file/camera-view-rotation-and-transform
+url: /fa/net/developer-guide/how-to/work-with-file/camera-view-rotation-and-transform/
 ---
 
 ## **چگونه چرخش و تغییر فرم دوربین را تغییر دهیم**

@@ -2,7 +2,7 @@
 title: Práce s formátem souboru OBJ
 type: docs
 weight: 180
-url: /cs/python-net/prace-s-formatem-souboru-obj/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

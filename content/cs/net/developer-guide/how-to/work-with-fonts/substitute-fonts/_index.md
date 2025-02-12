@@ -2,7 +2,7 @@
 title: Nahrazení písem
 type: docs
 weight: 20
-url: /cs/jak-na-praci-s-písmy/nahrazeni-písem
+url: /cs/net/developer-guide/how-to/work-with-fonts/substitute-fonts/
 ---
 
 

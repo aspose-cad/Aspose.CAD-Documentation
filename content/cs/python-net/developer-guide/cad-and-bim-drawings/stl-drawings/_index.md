@@ -2,7 +2,7 @@
 title: Technické výkresy STL
 type: docs
 weight: 150
-url: /cs/python-net/technicke-vykresy-stl/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Exportování formátu STL do PNG**

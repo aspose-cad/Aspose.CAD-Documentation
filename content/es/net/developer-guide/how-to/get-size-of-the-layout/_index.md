@@ -2,7 +2,7 @@
 title: Obtener el tamaño del diseño
 type: docs
 weight: 37
-url: /es/net/how-to/get-size-of-the-layout/
+url: /es/net/developer-guide/how-to/get-size-of-the-layout/
 ---
 
 ## **Cómo obtener el tamaño del diseño **

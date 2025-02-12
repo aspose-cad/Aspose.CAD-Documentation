@@ -2,7 +2,7 @@
 title: Dibujo DWF
 type: docs
 weight: 20
-url: /es/net/dwf-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Exportar Dibujo DWF a PDF**

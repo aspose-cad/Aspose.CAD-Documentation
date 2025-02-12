@@ -2,7 +2,7 @@
 title: الحصول على قيمة سمة الكتلة لمرجع خارجي
 type: docs
 weight: 60
-url: /ar/python/get-block-attribute-value-of-external-reference/
+url: /ar/python-net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **الحصول على قيمة سمة الكتلة**

@@ -2,7 +2,7 @@
 title: العمل مع تنسيق ملف OBJ
 type: docs
 weight: 180
-url: /ar/python-net/working-with-obj-file-format/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

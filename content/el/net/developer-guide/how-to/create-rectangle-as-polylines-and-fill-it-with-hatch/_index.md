@@ -2,7 +2,7 @@
 title: Δημιουργία παραλληλόγραμμου ως πολύγωνα και γέμισμα με διαγράμμιση
 type: docs
 weight: 24
-url: /el/net/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
+url: /el/net/developer-guide/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
 ---
 
 ## **Πώς να δημιουργήσετε παραλληλόγραμμο ως πολύγωνα και να το γεμίσετε με διαγράμμιση**

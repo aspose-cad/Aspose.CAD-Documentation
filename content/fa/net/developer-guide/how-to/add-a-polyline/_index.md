@@ -2,7 +2,7 @@
 title: افزودن یک پلی‌لاین
 type: docs
 weight: 13
-url: /fa/net/how-to/add-a-polyline/
+url: /fa/net/developer-guide/how-to/add-a-polyline/
 ---
 
 ## **چگونه یک پلی‌لاین اضافه کنیم**

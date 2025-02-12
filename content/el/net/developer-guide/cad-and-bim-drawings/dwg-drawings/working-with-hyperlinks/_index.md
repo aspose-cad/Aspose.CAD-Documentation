@@ -2,7 +2,7 @@
 title: Εργασία με Υπερσυνδέσμους
 type: docs
 weight: 50
-url: /el/net/working-with-hyperlinks/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Ενημέρωση Υπερσυνδέσμου σε ένα DWG**

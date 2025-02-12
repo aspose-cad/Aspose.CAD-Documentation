@@ -2,7 +2,7 @@
 title: رسومات DWF
 type: docs
 weight: 20
-url: /ar/javascript-net/dwf-drawings/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **تصدير تنسيق DWF إلى PNG**

@@ -2,7 +2,7 @@
 title: رسومات DWG
 type: docs
 weight: 70
-url: /ar/python-net/dwg-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **تصدير رسومات DWG إلى PDF**

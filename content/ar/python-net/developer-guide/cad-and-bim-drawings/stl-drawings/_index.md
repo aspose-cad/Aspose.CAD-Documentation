@@ -2,7 +2,7 @@
 title: رسومات STL
 type: docs
 weight: 150
-url: /ar/python-net/stl-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **تصدير تنسيق STL إلى PNG**

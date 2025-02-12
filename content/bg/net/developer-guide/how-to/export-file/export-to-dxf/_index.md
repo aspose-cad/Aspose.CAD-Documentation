@@ -2,7 +2,7 @@
 title: Експорт към DXF
 type: docs
 weight: 20
-url: /bg/how-to/export-file/export-to-dxf
+url: /bg/net/developer-guide/how-to/export-file/export-to-dxf/
 ---
 
 ## **Как да експортирате към DXF**

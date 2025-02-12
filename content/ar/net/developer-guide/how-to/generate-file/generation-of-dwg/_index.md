@@ -2,7 +2,7 @@
 title: إنشاء ملف DWG
 type: docs
 weight: 20
-url: /ar/net/how-to/generate-file/generation-of-dwg
+url: /ar/net/developer-guide/how-to/generate-file/generation-of-dwg/
 ---
 
 ## **كيفية إنشاء ملف DWG**

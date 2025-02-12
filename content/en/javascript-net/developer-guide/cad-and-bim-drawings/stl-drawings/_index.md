@@ -2,7 +2,7 @@
 title: STL Drawings
 type: docs
 weight: 100
-url: /njavascript/stl-drawings/
+url: /javascript-net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Exporting STL Format To PNG**

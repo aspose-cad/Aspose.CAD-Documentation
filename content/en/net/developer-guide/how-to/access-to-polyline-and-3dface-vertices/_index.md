@@ -2,7 +2,7 @@
 title: Access to polyline and 3DFace vertices
 type: docs
 weight: 12
-url: /net/how-to/access-to-polyline-and-3dface-vertices/
+url: /net/developer-guide/how-to/access-to-polyline-and-3dface-vertices/
 ---
 
 ## **How to access to polyline and 3DFace vertices**

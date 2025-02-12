@@ -2,7 +2,7 @@
 title: صادر کردن هر لایه در فایل PNG جداگانه
 type: docs
 weight: 20
-url: /fa/net/how-to/work-with-layout/export-each-layout-in-separate-png-file
+url: /fa/net/developer-guide/how-to/work-with-layout/export-each-layout-in-separate-png-file/
 ---
 
 

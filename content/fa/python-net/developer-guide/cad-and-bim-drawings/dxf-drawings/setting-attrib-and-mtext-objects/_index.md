@@ -2,7 +2,7 @@
 title: تنظیم اشیاء ATTRIB و MTEXT
 type: docs
 weight: 10
-url: /fa/python-net/setting-attrib-and-mtext-objects/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **تنظیم اشیاء ATTRIB و MTEXT**

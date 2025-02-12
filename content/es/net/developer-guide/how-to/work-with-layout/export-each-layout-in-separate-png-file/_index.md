@@ -2,7 +2,7 @@
 title: Exportar cada diseño en un archivo PNG separado
 type: docs
 weight: 20
-url: /es/net/how-to/work-with-layout/export-each-layout-in-separate-png-file
+url: /es/net/developer-guide/how-to/work-with-layout/export-each-layout-in-separate-png-file/
 ---
 
 

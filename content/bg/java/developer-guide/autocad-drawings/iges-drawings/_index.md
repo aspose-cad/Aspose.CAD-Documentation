@@ -2,7 +2,7 @@
 title: ИГЕС чертежи
 type: docs
 weight: 80
-url: /bg/iges-drawings/
+url: /bg/java/developer-guide/autocad-drawings/iges-drawings/
 ---
 
 ## **Експортиране на ИГЕС в PDF**

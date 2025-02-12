@@ -2,7 +2,7 @@
 title: Δημιουργία DXF
 type: docs
 weight: 20
-url: /el/net/how-to/generate-file/generation-of-dxf
+url: /el/net/developer-guide/how-to/generate-file/generation-of-dxf/
 ---
 
 ## **Πώς να δημιουργήσετε DXF**

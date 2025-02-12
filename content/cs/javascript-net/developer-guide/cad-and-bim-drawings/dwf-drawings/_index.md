@@ -2,7 +2,7 @@
 title: Výkresy DWF
 type: docs
 weight: 20
-url: /cs/javascript-net/dwf-drawings/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Exportování formátu DWF do PNG**

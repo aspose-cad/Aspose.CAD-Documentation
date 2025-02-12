@@ -2,7 +2,7 @@
 title: رسومات STL
 type: docs
 weight: 100
-url: /ar/net/stl-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **تصدير صيغة STL إلى PNG**

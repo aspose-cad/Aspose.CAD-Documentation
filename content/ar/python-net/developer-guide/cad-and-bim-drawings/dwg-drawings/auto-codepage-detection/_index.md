@@ -2,7 +2,7 @@
 title: الكشف التلقائي عن ترميز الصفحات
 type: docs
 weight: 10
-url: /ar/python-net/auto-codepage-detection/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **الكشف التلقائي عن ترميز الصفحات**

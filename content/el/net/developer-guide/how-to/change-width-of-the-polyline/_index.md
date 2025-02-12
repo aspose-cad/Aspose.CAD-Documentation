@@ -2,7 +2,7 @@
 title: Αλλαγή πλάτους της πολυγραμμής
 type: docs
 weight: 20
-url: /el/net/how-to/change-width-of-the-polyline/
+url: /el/net/developer-guide/how-to/change-width-of-the-polyline/
 ---
 
 ## **Πώς να αλλάξετε το πλάτος της πολυγραμμής**

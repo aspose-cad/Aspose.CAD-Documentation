@@ -2,7 +2,7 @@
 title: DWFx Drawing
 type: docs
 weight: 30
-url: /fa/net/dwfx-drawing/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **DWFx Drawing**

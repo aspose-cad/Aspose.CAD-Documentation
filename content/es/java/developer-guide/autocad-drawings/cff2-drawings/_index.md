@@ -2,7 +2,7 @@
 title: CFF2 Drawings
 type: docs
 weight: 110
-url: /es/java/developer-guide/cff2-drawings/
+url: /es/java/developer-guide/autocad-drawings/cff2-drawings/
 ---
 
 ## **Convertir CF2 a PDF**

@@ -2,7 +2,7 @@
 title: Σχέδια DXF
 type: docs
 weight: 10
-url: /el/python-net/dxf-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Εξαγωγή Σχεδίων DXF σε PDF**

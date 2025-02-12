@@ -2,7 +2,7 @@
 title: Edición de hiperenlaces en objetos 
 type: docs
 weight: 28
-url: /es/net/how-to/edit-of-hyperlinks-on-objects/
+url: /es/net/developer-guide/how-to/edit-of-hyperlinks-on-objects/
 ---
 
 ## **Cómo editar hiperenlaces en objetos**

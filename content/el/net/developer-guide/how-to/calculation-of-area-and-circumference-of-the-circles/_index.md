@@ -2,7 +2,7 @@
 title: Υπολογισμός επιφάνειας και περιφέρειας των κύκλων
 type: docs
 weight: 18
-url: /el/net/how-to/сalculation-of-area-and-circumference-of-the-circles/
+url: /el/net/developer-guide/how-to/calculation-of-area-and-circumference-of-the-circles/
 ---
 
 ## **Πώς να υπολογίσετε την επιφάνεια και την περιφέρεια των κύκλων**

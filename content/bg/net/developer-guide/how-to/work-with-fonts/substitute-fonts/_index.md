@@ -2,7 +2,7 @@
 title: Подмяна на шрифтове
 type: docs
 weight: 20
-url: /bg/net/how-to/work-with-fonts/substitute-fonts
+url: /bg/net/developer-guide/how-to/work-with-fonts/substitute-fonts/
 ---
 
 

@@ -2,7 +2,7 @@
 title: Alle Texte extrahieren
 type: docs
 weight: 20
-url: /de/net/how-to/work-with-text/extract-all-text
+url: /de/net/developer-guide/how-to/work-with-text/extract-all-text/
 ---
 
 

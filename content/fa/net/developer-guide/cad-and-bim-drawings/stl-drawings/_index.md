@@ -2,7 +2,7 @@
 title: نقشه‌های STL
 type: docs
 weight: 100
-url: /fa/net/stl-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **صادرات فرمت STL به PNG**

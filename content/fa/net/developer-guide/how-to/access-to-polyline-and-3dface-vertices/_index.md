@@ -2,7 +2,7 @@
 title: دسترسی به رئوس پلی‌لاین و 3DFace
 type: docs
 weight: 12
-url: /fa/net/how-to/access-to-polyline-and-3dface-vertices/
+url: /fa/net/developer-guide/how-to/access-to-polyline-and-3dface-vertices/
 ---
 
 ## **چگونه به رئوس پلی‌لاین و 3DFace دسترسی پیدا کنیم**

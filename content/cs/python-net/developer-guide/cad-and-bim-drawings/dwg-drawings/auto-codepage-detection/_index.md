@@ -2,7 +2,7 @@
 title: Detekce kódování automaticky
 type: docs
 weight: 10
-url: /cs/python-net/auto-codepage-detection/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Detekce kódování automaticky**

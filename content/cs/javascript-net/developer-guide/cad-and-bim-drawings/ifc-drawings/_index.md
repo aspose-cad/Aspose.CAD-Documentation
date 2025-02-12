@@ -2,7 +2,7 @@
 title: Kresby IFC
 type: docs
 weight: 70
-url: /cs/javascript-net/ifc-drawings/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Exportování formátu FBX do PNG**

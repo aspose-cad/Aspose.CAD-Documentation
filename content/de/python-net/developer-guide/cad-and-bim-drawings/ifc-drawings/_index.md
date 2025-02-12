@@ -2,7 +2,7 @@
 title: IFC Zeichnungen
 type: docs
 weight: 120
-url: /de/python-net/ifc-drawings/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Exportieren des IFC-Formats nach PNG**

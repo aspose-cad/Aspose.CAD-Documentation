@@ -2,7 +2,7 @@
 title: Lesen von Tabellen aus DWG/DXF
 type: docs
 weight: 12
-url: /de/net/how-to/work-with-file/reading-of-tables-from-dwg-dxf
+url: /de/net/developer-guide/how-to/work-with-file/reading-of-tables-from-dwg-dxf/
 ---
 
 ## **Wie man Tabellen aus DWG/DXF liest**

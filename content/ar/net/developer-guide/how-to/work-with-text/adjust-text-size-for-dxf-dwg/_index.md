@@ -2,7 +2,7 @@
 title: ضبط حجم النص لـ DXF/DWG
 type: docs
 weight: 20
-url: /ar/net/how-to/work-with-text/adjust-text-size-for-dxf-dwg
+url: /ar/net/developer-guide/how-to/work-with-text/adjust-text-size-for-dxf-dwg/
 ---
 
 ## **كيفية ضبط حجم النص لـ DXF/DWG**

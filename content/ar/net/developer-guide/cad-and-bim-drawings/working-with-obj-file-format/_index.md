@@ -2,7 +2,7 @@
 title: العمل مع تنسيق ملف OBJ
 type: docs
 weight: 120
-url: /ar/net/working-with-obj-file-format/
+url: /ar/net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: DWT Σχεδιασμοί
 type: docs
 weight: 50
-url: /el/java/dwt-drawings/
+url: /el/java/developer-guide/autocad-drawings/dwt-drawings/
 ---
 
 ## **Υποστήριξη για αρχεία DWT**

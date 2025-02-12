@@ -2,7 +2,7 @@
 title: اضافه کردن خواص سفارشی
 type: docs
 weight: 20
-url: /fa/net/add-custom-properties/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: DRC Drawings
 type: docs
 weight: 40
-url: /python-net/drc-drawings/
+url: /python-net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **Exporting DRC Format To PDF**

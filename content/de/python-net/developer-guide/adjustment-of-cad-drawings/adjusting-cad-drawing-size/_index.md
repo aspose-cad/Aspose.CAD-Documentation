@@ -2,7 +2,7 @@
 title: Anpassung der CAD-Zeichnungsgröße
 type: docs
 weight: 10
-url: /de/python-net/anpassung-der-cad-zeichnungsgröße/
+url: /de/python-net/developer-guide/adjustment-of-cad-drawings/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

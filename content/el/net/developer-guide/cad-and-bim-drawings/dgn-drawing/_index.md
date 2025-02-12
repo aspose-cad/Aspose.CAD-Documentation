@@ -2,7 +2,7 @@
 title: Σχέδιο DGN
 type: docs
 weight: 10
-url: /el/net/dgn-drawing/
+url: /el/net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Σχέδιο Διάταξης DGN ως Μέρος του DWG**

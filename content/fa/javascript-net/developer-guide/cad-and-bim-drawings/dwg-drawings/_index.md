@@ -2,7 +2,7 @@
 title: نقاشی‌های DWG
 type: docs
 weight: 40
-url: /fa/javascript-net/dwg-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **صادرات فرمت DWG به PNG**

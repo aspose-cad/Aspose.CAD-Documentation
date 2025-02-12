@@ -2,7 +2,7 @@
 title: Detección Automática de Código de Página
 type: docs
 weight: 10
-url: /es/python-net/auto-codepage-detection/
+url: /es/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Detección Automática de Código de Página**

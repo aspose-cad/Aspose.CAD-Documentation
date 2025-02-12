@@ -2,7 +2,7 @@
 title: Layoutnamen abrufen
 type: docs
 weight: 34
-url: /de/net/how-to/get-layout-names/
+url: /de/net/developer-guide/how-to/get-layout-names/
 ---
 
 ## **Layoutnamen abrufen**

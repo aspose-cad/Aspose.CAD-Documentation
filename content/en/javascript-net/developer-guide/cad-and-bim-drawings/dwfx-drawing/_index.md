@@ -2,7 +2,7 @@
 title: DWFx Drawing
 type: docs
 weight: 30
-url: /javascript-net/dwfx-drawing/
+url: /javascript-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **Exporting DWFX Format To PNG**

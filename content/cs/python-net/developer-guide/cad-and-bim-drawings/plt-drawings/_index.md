@@ -2,7 +2,7 @@
 title: Vykreslení PLT
 type: docs
 weight: 140
-url: /cs/python-net/plt-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Export PLT do obrázku**

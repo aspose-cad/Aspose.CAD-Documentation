@@ -2,7 +2,7 @@
 title: Práce s formátem souboru OBJ
 type: docs
 weight: 120
-url: /cs/javascript-net/prace-s-formatem-souboru-obj/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

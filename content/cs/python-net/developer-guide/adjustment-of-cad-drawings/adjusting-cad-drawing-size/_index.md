@@ -2,7 +2,7 @@
 title: Upravení velikosti CAD výkresu
 type: docs
 weight: 10
-url: /cs/python-net/upraveni-velikosti-cad-vykresu/
+url: /cs/python-net/developer-guide/adjustment-of-cad-drawings/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

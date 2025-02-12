@@ -2,7 +2,7 @@
 title: صادرات تمام محتوا در طراحی بدون توجه به ناحیه نمودار
 type: docs
 weight: 29
-url: /fa/net/how-to/export-of-all-content-in-layout-regardless-plot-area/
+url: /fa/net/developer-guide/how-to/export-of-all-content-in-layout-regardless-plot-area/
 ---
 
 ## **چگونه تمام محتوا را در طراحی بدون توجه به ناحیه نمودار صادر کنیم**

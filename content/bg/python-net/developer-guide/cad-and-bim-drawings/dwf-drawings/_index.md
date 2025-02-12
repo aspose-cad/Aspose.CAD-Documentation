@@ -2,7 +2,7 @@
 title: Изображения DWF
 type: документация
 weight: 50
-url: /python-net/izobrajeniya-dwf/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Експортиране на изображения DWF към PDF**

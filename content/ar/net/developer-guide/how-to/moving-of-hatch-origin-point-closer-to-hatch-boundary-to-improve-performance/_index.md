@@ -2,7 +2,7 @@
 title: نقل نقطة أصل الفتحة أقرب إلى حدود الفتحة لتحسين الأداء
 type: docs
 weight: 41
-url: /ar/net/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
+url: /ar/net/developer-guide/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
 ---
 
 ## **كيفية نقل نقطة أصل الفتحة أقرب إلى حدود الفتحة لتحسين الأداء**

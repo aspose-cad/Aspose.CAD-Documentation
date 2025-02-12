@@ -2,7 +2,7 @@
 title: Изчертания в DXF формат
 type: docs
 weight: 60
-url: /bg/net/dxf-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Експорт на изчертания от DXF към PDF**

@@ -2,7 +2,7 @@
 title: Remove of an entity
 type: docs
 weight: 43
-url: /net/how-to/remove-of-an-entity/
+url: /net/developer-guide/how-to/remove-of-an-entity/
 ---
 
 ## **How to remove of an entity**

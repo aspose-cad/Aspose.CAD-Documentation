@@ -2,7 +2,7 @@
 title: Εργασία με Υπερσυνδέσμους
 type: docs
 weight: 40
-url: /el/java/working-with-hyperlinks/
+url: /el/java/developer-guide/autocad-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Ενημέρωση Υπερσυνδέσμου σε ένα DWG**

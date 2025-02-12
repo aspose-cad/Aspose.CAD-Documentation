@@ -2,7 +2,7 @@
 title: Schriftarten ersetzen
 type: docs
 weight: 20
-url: /de/net/how-to/work-with-fonts/substitute-fonts
+url: /de/net/developer-guide/how-to/work-with-fonts/substitute-fonts/
 ---
 
 

@@ -2,7 +2,7 @@
 title: Преобразуване на DWG в PDF с координати
 type: docs
 weight: 80
-url: /bg/java/convert-dwg-to-pdf-with-coordinates/
+url: /bg/java/developer-guide/autocad-drawings/dwg-drawings/convert-dwg-to-dwf-with-coordinatesconvert-dwg-to-pdf-with-coordinates/
 ---
 
 ## **Как да преобразувате DWG в PDF с координати**

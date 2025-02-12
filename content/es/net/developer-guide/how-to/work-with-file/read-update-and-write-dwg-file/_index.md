@@ -2,7 +2,7 @@
 title: Leer, actualizar y escribir archivo DWG
 type: docs
 weight: 11
-url: /es/net/how-to/work-with-file/read-update-and-write-dwg-file
+url: /es/net/developer-guide/how-to/work-with-file/read-update-and-write-dwg-file/
 ---
 
 ## **Cómo leer, actualizar y escribir un archivo DWG**

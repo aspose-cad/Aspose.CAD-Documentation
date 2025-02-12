@@ -2,7 +2,7 @@
 title: نقشه‌های DWG
 type: docs
 weight: 40
-url: /fa/java/dwg-drawings/
+url: /fa/java/developer-guide/autocad-drawings/dwg-drawings/
 ---
 
 ## **صادرات نقشه‌های DWG به PDF**

@@ -2,7 +2,7 @@
 title: نقاشی‌های DWF
 type: docs
 weight: 50
-url: /fa/python-net/dwf-drawings/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **صادرات نقاشی‌های DWF به PDF**

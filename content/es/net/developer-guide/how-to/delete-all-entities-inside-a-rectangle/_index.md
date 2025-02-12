@@ -2,7 +2,7 @@
 title: Eliminar todas las entidades dentro de un rectángulo 
 type: docs
 weight: 25
-url: /es/net/how-to/delete-all-entities-inside-a-rectangle/
+url: /es/net/developer-guide/how-to/delete-all-entities-inside-a-rectangle/
 ---
 
 ## **Cómo eliminar todas las entidades dentro de un rectángulo**

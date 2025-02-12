@@ -2,7 +2,7 @@
 title: DWG in PDF mit Koordinaten konvertieren
 type: docs
 weight: 80
-url: /de/java/convert-dwg-to-pdf-with-coordinates/
+url: /de/java/developer-guide/autocad-drawings/dwg-drawings/convert-dwg-to-dwf-with-coordinatesconvert-dwg-to-pdf-with-coordinates/
 ---
 
 ## **Wie man DWG in PDF mit Koordinaten konvertiert**

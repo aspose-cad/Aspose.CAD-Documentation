@@ -2,7 +2,7 @@
 title: تحويل DWG إلى PDF مع الإحداثيات
 type: docs
 weight: 80
-url: /ar/net/convert-dwg-to-pdf-with-coordinates/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dwg-drawings/convert-dwg-to-dwf-with-coordinatesconvert-dwg-to-pdf-with-coordinates/
 ---
 
 

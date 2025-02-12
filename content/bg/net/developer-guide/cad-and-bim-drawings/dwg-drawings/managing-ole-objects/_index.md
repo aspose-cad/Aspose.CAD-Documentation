@@ -2,7 +2,7 @@
 title: Управление на обектите OLE
 type: docs
 weight: 30
-url: /bg/управление-на-обектите-ole/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}}

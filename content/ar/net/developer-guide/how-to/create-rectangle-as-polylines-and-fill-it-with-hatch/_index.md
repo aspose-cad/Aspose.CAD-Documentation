@@ -2,7 +2,7 @@
 title: إنشاء مستطيل كخطوط متعددة وملؤه بالخطوط المتقاطعة
 type: docs
 weight: 24
-url: /ar/net/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
+url: /ar/net/developer-guide/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
 ---
 
 ## **كيفية إنشاء مستطيل كخطوط متعددة وملؤه بالخطوط المتقاطعة**

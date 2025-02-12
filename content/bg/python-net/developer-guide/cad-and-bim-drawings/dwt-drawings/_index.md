@@ -2,7 +2,7 @@
 title: Изчертания DWT
 type: docs
 weight: 80
-url: /bg/python-net/dwt-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **Поддръжка за файлове DWT**

@@ -2,7 +2,7 @@
 title: نقشه های DWT
 type: docs
 weight: 50
-url: /fa/net/dwt-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **پشتیبانی از فایل های DWT**

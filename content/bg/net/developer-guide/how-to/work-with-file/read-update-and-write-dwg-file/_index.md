@@ -2,7 +2,7 @@
 title: Прочетете, актуализирайте и запишете DWG файл
 type: docs
 weight: 11
-url: /bg/net/how-to/work-with-file/read-update-and-write-dwg-file
+url: /bg/net/developer-guide/how-to/work-with-file/read-update-and-write-dwg-file/
 ---
 
 ## **Как да прочетете, актуализирате и запишете DWG файл**

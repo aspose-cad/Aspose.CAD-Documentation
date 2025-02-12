@@ -2,7 +2,7 @@
 title: Εργασία με Υδατογράφημα
 type: docs
 weight: 50
-url: /el/java/working-with-watermark/
+url: /el/java/developer-guide/autocad-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Προσθήκη Υδατογραφήματος σε DWG**

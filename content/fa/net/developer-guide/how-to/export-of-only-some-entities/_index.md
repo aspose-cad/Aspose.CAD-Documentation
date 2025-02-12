@@ -2,7 +2,7 @@
 title: صادرات تنها برخی از موجودیت‌ها
 type: docs
 weight: 30
-url: /fa/net/how-to/export-of-only-some-entities/
+url: /fa/net/developer-guide/how-to/export-of-only-some-entities/
 ---
 
 ## **صادرات تنها برخی از موجودیت‌ها**

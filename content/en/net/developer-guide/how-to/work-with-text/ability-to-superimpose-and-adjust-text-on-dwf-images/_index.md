@@ -2,7 +2,7 @@
 title: Ability to superimpose and adjust text on DWF images, thus allowing some degree of editing the resulting render output
 type: docs
 weight: 20
-url: /net/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images
+url: /net/developer-guide/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images/
 ---
 
 ## **How to ability to superimpose and adjust text on DWF images**

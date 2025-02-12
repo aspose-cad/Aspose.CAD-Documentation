@@ -2,7 +2,7 @@
 title: اندازه‌گیری اندازه‌ی طرح
 type: docs
 weight: 37
-url: /fa/net/how-to/get-size-of-the-layout/
+url: /fa/net/developer-guide/how-to/get-size-of-the-layout/
 ---
 
 ## **چگونه اندازه‌ی طرح را به‌دست آوریم**

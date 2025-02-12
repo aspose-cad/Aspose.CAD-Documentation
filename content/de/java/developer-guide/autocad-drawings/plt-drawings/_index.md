@@ -2,7 +2,7 @@
 title: PLT-Zeichnungen
 type: docs
 weight: 90
-url: /de/java/plt-drawings/
+url: /de/java/developer-guide/autocad-drawings/plt-drawings/
 ---
 
 ## **PLT in JPEG exportieren**

@@ -2,7 +2,7 @@
 title: Možnost překrytí a úprava textu na obrázcích DWF, což umožňuje určitou úroveň úpravy výsledného vykresleného výstupu
 type: docs
 weight: 20
-url: /cs/jak-na/prace-s-textem/moznost-prekryti-a-uprava-textu-na-obrazcich-dwf
+url: /cs/net/developer-guide/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images/
 ---
 
 ## Jak na možnost překrytí a úpravu textu na obrázcích DWF

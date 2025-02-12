@@ -2,7 +2,7 @@
 title: ترسیم DWFX
 type: docs
 weight: 30
-url: /fa/javascript-net/dwfx-drawing/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **خروجی گرفتن از فرمت DWFX به PNG**

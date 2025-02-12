@@ -2,7 +2,7 @@
 title: Работа със стандарта за файлов формат OBJ
 type: docs
 weight: 120
-url: /bg/работа-със-стандарта-за-файлов-формат-obj/
+url: /bg/java/developer-guide/autocad-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

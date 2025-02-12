@@ -2,7 +2,7 @@
 title: Рисунки FBX
 type: документация
 weight: 70
-url: /bg/net/fbx-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **Експортиране на формата FBX към PDF**

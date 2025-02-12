@@ -2,7 +2,7 @@
 title: Добавяне на полилиния
 type: docs
 weight: 13
-url: /bg/net/how-to/add-a-polyline/
+url: /bg/net/developer-guide/how-to/add-a-polyline/
 ---
 
 ## **Как да добавите полилиния**

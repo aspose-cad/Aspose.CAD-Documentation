@@ -2,7 +2,7 @@
 title: Рисунки DXB
 type: docs
 weight: 90
-url: /python-net/risunki-dxb/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **Експортиране на формат DXB към PDF**

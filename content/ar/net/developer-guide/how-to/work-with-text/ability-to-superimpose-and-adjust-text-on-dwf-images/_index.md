@@ -2,7 +2,7 @@
 title: القدرة على تراكب النص وضبطه على صور DWF، مما يسمح ببعض درجة من تحرير الناتج النهائي
 type: docs
 weight: 20
-url: /ar/net/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images
+url: /ar/net/developer-guide/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images/
 ---
 
 ## **كيفية القدرة على تراكب النص وضبطه على صور DWF**

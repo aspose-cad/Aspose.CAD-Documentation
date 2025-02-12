@@ -2,7 +2,7 @@
 title: Σχέδια FBX
 type: docs
 weight: 70
-url: /el/net/fbx-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **Εξαγωγή μορφής FBX σε PDF**

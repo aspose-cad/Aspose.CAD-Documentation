@@ -2,7 +2,7 @@
 title: Práce s vodoznakem
 type: docs
 weight: 50
-url: /cs/prace-s-vodoznakem/
+url: /cs/java/developer-guide/autocad-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Přidání vodoznaku do DWG**

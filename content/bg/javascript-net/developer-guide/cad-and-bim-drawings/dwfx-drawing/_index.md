@@ -2,7 +2,7 @@
 title: Изчертаване DWFx
 type: документация
 weight: 30
-url: /javascript-net/dwfx-drawing/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **Експортиране на формата DWFX към PNG**

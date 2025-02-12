@@ -2,7 +2,7 @@
 title: رسومات DWG
 type: docs
 weight: 40
-url: /ar/net/dwg-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **تصدير رسومات DWG إلى PDF**

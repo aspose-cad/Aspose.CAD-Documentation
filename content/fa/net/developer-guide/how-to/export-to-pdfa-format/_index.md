@@ -2,7 +2,7 @@
 title: صادرات به فرمت PDF/A
 type: docs
 weight: 33
-url: /fa/net/how-to/export-to-pdfa-format/
+url: /fa/net/developer-guide/how-to/export-to-pdfa-format/
 ---
 
 ## **چگونه به فرمت PDF/A صادر کنیم**

@@ -2,7 +2,7 @@
 title: Coloring of inserts with new added layers
 type: docs
 weight: 23
-url: /net/how-to/coloring-of-inserts-with-new-added-layers/
+url: /net/developer-guide/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 
 ## **How to coloring of inserts with new added layers (CADNET-1146)**

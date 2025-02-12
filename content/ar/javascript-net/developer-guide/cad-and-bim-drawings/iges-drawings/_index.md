@@ -2,7 +2,7 @@
 title: رسومات IGES
 type: docs
 weight: 80
-url: /ar/javascript-net/iges-drawings/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **تصدير تنسيق IGES إلى PNG**

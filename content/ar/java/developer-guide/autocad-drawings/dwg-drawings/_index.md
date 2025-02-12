@@ -2,7 +2,7 @@
 title: رسومات DWG
 type: docs
 weight: 40
-url: /ar/java/dwg-drawings/
+url: /ar/java/developer-guide/autocad-drawings/dwg-drawings/
 ---
 
 ## **تصدير رسومات DWG إلى PDF**

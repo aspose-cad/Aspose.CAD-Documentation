@@ -2,7 +2,7 @@
 title: ИГЕС Чертежи
 type: документация
 weight: 80
-url: /bg/net/iges-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **Експортиране на ИГЕС към PDF**

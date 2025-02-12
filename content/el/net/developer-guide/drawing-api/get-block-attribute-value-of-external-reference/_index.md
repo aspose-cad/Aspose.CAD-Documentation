@@ -2,7 +2,7 @@
 title: Λάβετε την τιμή του χαρακτηριστικού μπλοκ από εξωτερική αναφορά
 type: docs
 weight: 60
-url: /el/net/get-block-attribute-value-of-external-reference/
+url: /el/net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **Λάβετε την τιμή του χαρακτηριστικού μπλοκ**

@@ -2,7 +2,7 @@
 title: Ändern der Notfallschriftart und Schriftarten in den Stilen
 type: docs
 weight: 21
-url: /de/net/how-to/changing-of-the-emergency-font-and-font-in-styles/
+url: /de/net/developer-guide/how-to/changing-of-the-emergency-font-and-font-in-styles/
 ---
 
 ## **Wie man die Notfallschriftart und Schriftarten in den Stilen ändert**

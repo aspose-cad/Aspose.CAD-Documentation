@@ -2,7 +2,7 @@
 title: Práce s odkazy
 type: docs
 weight: 40
-url: /cs/prace-s-odkazy/
+url: /cs/java/developer-guide/autocad-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Aktualizace odkazu v DWG souboru**

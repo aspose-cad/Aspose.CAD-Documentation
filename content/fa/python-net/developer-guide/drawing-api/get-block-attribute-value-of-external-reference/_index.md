@@ -2,7 +2,7 @@
 title: دریافت مقدار ویژگی بلوک از مرجع خارجی
 type: docs
 weight: 60
-url: /fa/Python/get-block-attribute-value-of-external-reference/
+url: /fa/python-net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **دریافت مقدار ویژگی بلوک**

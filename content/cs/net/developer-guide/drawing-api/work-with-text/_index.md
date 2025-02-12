@@ -2,7 +2,7 @@
 title: Práce s textem
 type: docs
 weight: 40
-url: /cs/prace-s-textem/
+url: /cs/net/developer-guide/drawing-api/work-with-text/
 ---
 
 ## **Práce s textem**

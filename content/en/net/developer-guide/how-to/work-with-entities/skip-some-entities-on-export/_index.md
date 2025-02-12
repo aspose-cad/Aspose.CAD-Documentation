@@ -2,7 +2,7 @@
 title: Skip some entities on export
 type: docs
 weight: 20
-url: /net/how-to/work-with-entities/skip-some-entities-on-export
+url: /net/developer-guide/how-to/work-with-entities/skip-some-entities-on-export/
 ---
 
 

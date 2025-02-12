@@ -2,7 +2,7 @@
 title: Změna šířky polygonové čáry 
 type: docs
 weight: 20
-url: /cs/jak-na/zmena-sirky-polygonove-cary/
+url: /cs/net/developer-guide/how-to/change-width-of-the-polyline/
 ---
 
 ## **Jak změnit šířku polygonové čáry**

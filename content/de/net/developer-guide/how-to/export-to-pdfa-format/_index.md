@@ -2,7 +2,7 @@
 title: Exportieren im PDF/A-Format
 type: docs
 weight: 33
-url: /de/net/how-to/export-to-pdfa-format/
+url: /de/net/developer-guide/how-to/export-to-pdfa-format/
 ---
 
 ## **So exportieren Sie im PDF/A-Format**

@@ -2,7 +2,7 @@
 title: PLT Рисунки
 type: docs
 weight: 90
-url: /bg/java/plt-risunki/
+url: /bg/java/developer-guide/autocad-drawings/plt-drawings/
 ---
 
 ## **Експорт на PLT към JPEG**

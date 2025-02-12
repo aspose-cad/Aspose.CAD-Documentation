@@ -2,7 +2,7 @@
 title: كشف تلقائي لصفحة الترميز
 type: docs
 weight: 10
-url: /ar/java/auto-codepage-detection/
+url: /ar/java/developer-guide/autocad-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **كشف تلقائي لصفحة الترميز**

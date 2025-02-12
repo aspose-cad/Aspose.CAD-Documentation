@@ -2,7 +2,7 @@
 title: Ρύθμιση μεγέθους κειμένου για DXF/DWG
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-text/adjust-text-size-for-dxf-dwg
+url: /el/net/developer-guide/how-to/work-with-text/adjust-text-size-for-dxf-dwg/
 ---
 
 

@@ -2,7 +2,7 @@
 title: الحصول على أسماء التخطيطات
 type: docs
 weight: 34
-url: /ar/net/how-to/get-layout-names/
+url: /ar/net/developer-guide/how-to/get-layout-names/
 ---
 
 ## **كيفية الحصول على أسماء التخطيطات**

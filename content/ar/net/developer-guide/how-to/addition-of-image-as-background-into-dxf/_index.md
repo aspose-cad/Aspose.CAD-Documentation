@@ -2,7 +2,7 @@
 title: إضافة صورة كخلفية في DXF
 type: docs
 weight: 16
-url: /ar/net/how-to/addition-of-image-as-background-into-dxf/
+url: /ar/net/developer-guide/how-to/addition-of-image-as-background-into-dxf/
 ---
 
 ## **كيفية إضافة صورة كخلفية في DXF**

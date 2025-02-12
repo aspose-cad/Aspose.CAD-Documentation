@@ -2,7 +2,7 @@
 title: Dibujos DWG
 type: docs
 weight: 70
-url: /es/python-net/dwg-drawings/
+url: /es/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Exportando Dibujos DWG a PDF**

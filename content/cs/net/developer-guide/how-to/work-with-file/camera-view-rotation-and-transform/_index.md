@@ -2,7 +2,7 @@
 title: Otočení a transformace pohledu kamery
 type: docs
 weight: 10
-url: /cs/how-to/work-with-file/camera-view-rotation-and-transform
+url: /cs/net/developer-guide/how-to/work-with-file/camera-view-rotation-and-transform/
 ---
 
 ## **Jak změnit rotaci a transformaci kamery**

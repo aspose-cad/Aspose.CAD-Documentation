@@ -2,7 +2,7 @@
 title: Σχέδια DXB
 type: docs
 weight: 70
-url: /el/javascript-net/dxb-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **Εξαγωγή Μορφής DXB σε PNG**

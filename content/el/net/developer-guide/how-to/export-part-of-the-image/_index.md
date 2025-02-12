@@ -2,7 +2,7 @@
 title: Εξαγωγή μέρους της εικόνας
 type: docs
 weight: 32
-url: /el/net/how-to/export-part-of-the-image/
+url: /el/net/developer-guide/how-to/export-part-of-the-image/
 ---
 
 ## **Πώς να εξάγετε μέρος της εικόνας**

@@ -2,7 +2,7 @@
 title: حذف حاشیه‌ها در بوم نتیجه
 type: docs
 weight: 42
-url: /fa/net/how-to/remove-borders-in-result-canvas/
+url: /fa/net/developer-guide/how-to/remove-borders-in-result-canvas/
 ---
 
 ## **چگونه حاشیه‌ها را در بوم نتیجه حذف کنیم**

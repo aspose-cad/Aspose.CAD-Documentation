@@ -2,7 +2,7 @@
 title: Рисунки COLLADA
 type: документация
 weight: 70
-url: /bg/net/collada-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Експортиране на Формат COLLADA в PDF**

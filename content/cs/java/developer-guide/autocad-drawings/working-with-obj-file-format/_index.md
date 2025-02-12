@@ -2,7 +2,7 @@
 title: Práce s formátem souboru OBJ
 type: docs
 weight: 120
-url: /cs/prace-s-formatem-souboru-obj/
+url: /cs/java/developer-guide/autocad-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

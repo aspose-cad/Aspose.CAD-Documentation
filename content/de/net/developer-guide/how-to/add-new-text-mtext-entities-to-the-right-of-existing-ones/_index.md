@@ -2,7 +2,7 @@
 title: Neue TEXT/MTEXT-Entitäten rechts von bestehenden hinzufügen
 type: docs
 weight: 17
-url: /de/net/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
+url: /de/net/developer-guide/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
 ---
 
 ## **Wie man neue TEXT/MTEXT-Entitäten rechts von bestehenden hinzufügt**

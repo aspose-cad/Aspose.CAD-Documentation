@@ -2,7 +2,7 @@
 title: Износ само на някои слоеве с преоразмеряване
 type: docs
 weight: 31
-url: /bg/net/how-to/export-of-only-some-layers-with-rescaling/
+url: /bg/net/developer-guide/how-to/export-of-only-some-layers-with-rescaling/
 ---
 
 ## **Износ само на някои слоеве с преоразмеряване (CADNET-559)**

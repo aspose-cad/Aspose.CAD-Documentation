@@ -2,7 +2,7 @@
 title: Managing OLE Objects
 type: docs
 weight: 30
-url: /net/managing-ole-objects/
+url: /net/developer-guide/cad-and-bim-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

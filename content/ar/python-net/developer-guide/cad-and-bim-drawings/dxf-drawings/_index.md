@@ -2,7 +2,7 @@
 title: رسومات DXF
 type: docs
 weight: 10
-url: /ar/python-net/dxf-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **تصدير رسومات DXF إلى PDF**

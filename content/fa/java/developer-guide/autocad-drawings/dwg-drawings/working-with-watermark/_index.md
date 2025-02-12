@@ -2,7 +2,7 @@
 title: کار با واترمارک
 type: docs
 weight: 50
-url: /fa/java/working-with-watermark/
+url: /fa/java/developer-guide/autocad-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **اضافه کردن واترمارک در یک DWG**

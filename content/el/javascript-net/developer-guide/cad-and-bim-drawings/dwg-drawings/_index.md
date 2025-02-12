@@ -2,7 +2,7 @@
 title: DWG Σχέδια
 type: docs
 weight: 40
-url: /el/javascript-net/dwg-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Εξαγωγή μορφής DWG σε PNG**

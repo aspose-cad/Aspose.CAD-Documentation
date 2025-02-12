@@ -2,7 +2,7 @@
 title: Работа със Воден Знак
 type: docs
 weight: 50
-url: /bg/работа-със-воден-знак/
+url: /bg/java/developer-guide/autocad-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Добавяне на Воден Знак в DWG**

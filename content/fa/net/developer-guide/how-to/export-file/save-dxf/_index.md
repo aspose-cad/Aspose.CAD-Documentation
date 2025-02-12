@@ -2,7 +2,7 @@
 title: Save DXF
 type: docs
 weight: 24
-url: /fa/net/how-to/export-file/save-dxf/
+url: /fa/net/developer-guide/how-to/export-file/save-dxf/
 ---
 
 ## **چگونه فایل DXF را ذخیره کنیم**

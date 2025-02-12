@@ -2,7 +2,7 @@
 title: Add a new TEXT/MTEXT item
 type: docs
 weight: 20
-url: /net/how-to/work-with-entities/add-new-text-mtext-item
+url: /net/developer-guide/how-to/work-with-entities/add-new-text-mtext-item/
 ---
 
 

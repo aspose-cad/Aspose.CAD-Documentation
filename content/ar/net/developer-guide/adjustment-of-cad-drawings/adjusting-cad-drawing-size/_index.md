@@ -2,7 +2,7 @@
 title: ضبط حجم رسم CAD
 type: docs
 weight: 10
-url: /ar/net/adjusting-cad-drawing-size/
+url: /ar/net/developer-guide/adjustment-of-cad-drawings/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

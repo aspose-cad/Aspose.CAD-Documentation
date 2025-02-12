@@ -2,7 +2,7 @@
 title: رسم DWFx
 type: docs
 weight: 30
-url: /ar/java/dwfx-drawing/
+url: /ar/java/developer-guide/autocad-drawings/dwfx-drawing/
 ---
 
 ## **رسم DWFx**

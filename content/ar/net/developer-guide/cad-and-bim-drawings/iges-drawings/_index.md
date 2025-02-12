@@ -2,7 +2,7 @@
 title: رسومات IGES
 type: docs
 weight: 80
-url: /ar/net/iges-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **تصدير IGES إلى PDF**

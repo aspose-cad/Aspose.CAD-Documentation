@@ -2,7 +2,7 @@
 title: Verwalten von OLE-Objekten
 type: docs
 weight: 30
-url: /de/java/verwalten-von-ole-objekten/
+url: /de/java/developer-guide/autocad-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

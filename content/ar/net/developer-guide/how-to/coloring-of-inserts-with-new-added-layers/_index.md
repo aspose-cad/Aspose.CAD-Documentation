@@ -2,7 +2,7 @@
 title: تلوين الإدخالات مع الطبقات الجديدة المضافة
 type: docs
 weight: 23
-url: /ar/net/how-to/coloring-of-inserts-with-new-added-layers/
+url: /ar/net/developer-guide/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 
 ## **كيف تلوين الإدخالات مع الطبقات الجديدة المضافة (CADNET-1146)**

@@ -2,7 +2,7 @@
 title: Export of only some layers with rescaling 
 type: docs
 weight: 31
-url: /net/how-to/export-of-only-some-layers-with-rescaling/
+url: /net/developer-guide/how-to/export-of-only-some-layers-with-rescaling/
 ---
 
 ## **Export of only some layers with rescaling (CADNET-559)**

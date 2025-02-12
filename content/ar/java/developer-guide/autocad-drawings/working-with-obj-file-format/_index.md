@@ -2,7 +2,7 @@
 title: العمل مع تنسيق ملف OBJ
 type: docs
 weight: 120
-url: /ar/java/working-with-obj-file-format/
+url: /ar/java/developer-guide/autocad-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

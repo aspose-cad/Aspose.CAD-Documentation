@@ -2,7 +2,7 @@
 title: Jak vytvořit obdélník jako lomenou čáru a vyplnit ho vzorkem
 type: docs
 weight: 24
-url: /cs/jak-na/vytvoreni-obdelniku-jako-lomena-caru-a-vyplneni-vzorkem/
+url: /cs/net/developer-guide/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
 ---
 
 ## **Jak vytvořit obdélník jako lomenou čáru a vyplnit ho vzorkem**

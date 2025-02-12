@@ -2,7 +2,7 @@
 title: تغییر وزن خطوط برای DWG/DXF
 type: docs
 weight: 20
-url: /fa/net/how-to/work-with-entities/change-lines-weight-for-dwg-dxf
+url: /fa/net/developer-guide/how-to/work-with-entities/change-lines-weight-for-dwg-dxf/
 ---
 
 ## **چگونه وزن خطوط را برای DWG/DXF تغییر دهیم**

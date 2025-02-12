@@ -2,7 +2,7 @@
 title: رسم نافذة العرض للرسم بدلاً من المحتوى بالكامل
 type: docs
 weight: 27
-url: /ar/net/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/
+url: /ar/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/ content/
 ---
 
 ## **كيفية رسم نافذة العرض للرسم بدلاً من المحتوى بالكامل**

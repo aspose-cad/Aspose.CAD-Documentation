@@ -2,7 +2,7 @@
 title: Práce s vodoznakem
 type: docs
 weight: 60
-url: /cs/prace-s-vodoznakem/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Přidání vodoznaku do souboru DWG**

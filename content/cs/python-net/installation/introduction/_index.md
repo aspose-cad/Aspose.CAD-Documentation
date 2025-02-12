@@ -2,7 +2,7 @@
 title: Úvod
 type: docs
 weight: 10
-url: /cs/python-net/introduction/
+url: /cs/python-net/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: Изчертания DXB
 type: документи
 weight: 70
-url: /bg/net/dxb-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **Експортиране на формат DXB към PDF**

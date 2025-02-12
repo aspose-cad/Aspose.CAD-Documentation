@@ -2,7 +2,7 @@
 title: Рисуване на DGN формат като част от DWG
 type: документация
 weight: 10
-url: /bg/java/dgn-drawing/
+url: /bg/java/developer-guide/autocad-drawings/dgn-drawing/
 ---
 
 ## **Рисуване на DGN формат като част от DWG**

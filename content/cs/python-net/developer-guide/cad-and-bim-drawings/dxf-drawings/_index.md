@@ -2,7 +2,7 @@
 title: Vykreslení DXF
 type: docs
 weight: 10
-url: /cs/python-net/dxf-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Exportování vykreslení DXF do PDF**

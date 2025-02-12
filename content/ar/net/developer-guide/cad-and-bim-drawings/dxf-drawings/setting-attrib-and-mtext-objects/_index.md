@@ -2,7 +2,7 @@
 title: تعيين كائنات ATTRIB و MTEXT
 type: docs
 weight: 10
-url: /ar/net/setting-attrib-and-mtext-objects/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **تعيين كائنات ATTRIB و MTEXT**

@@ -2,7 +2,7 @@
 title: رسومات COLLADA
 type: docs
 weight: 20
-url: /ar/python-net/collada-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **تصدير تنسيق COLLADA إلى PDF**

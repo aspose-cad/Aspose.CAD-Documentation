@@ -2,7 +2,7 @@
 title: DXF Zeichnungen
 type: docs
 weight: 60
-url: /de/net/dxf-drawings/
+url: /de/net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Exportieren von DXF Zeichnungen nach PDF**

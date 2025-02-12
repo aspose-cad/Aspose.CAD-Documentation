@@ -2,7 +2,7 @@
 title: ИГЕС Чертежи
 type: docs
 weight: 130
-url: /bg/python-net/iges-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **Експорт на ИГЕС в PDF**

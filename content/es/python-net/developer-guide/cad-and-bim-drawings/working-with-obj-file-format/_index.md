@@ -2,7 +2,7 @@
 title: Trabajando con el formato de archivo OBJ
 type: docs
 weight: 180
-url: /es/python-net/working-with-obj-file-format/
+url: /es/python-net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

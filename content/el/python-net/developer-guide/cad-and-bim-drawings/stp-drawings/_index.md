@@ -2,7 +2,7 @@
 title: Σχέδια STP
 type: docs
 weight: 160
-url: /el/python-net/stp-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Εξαγωγή μορφής STP σε PDF**

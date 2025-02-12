@@ -2,7 +2,7 @@
 title: Λάβετε τη λίστα όλων των επιπέδων
 type: docs
 weight: 35
-url: /el/net/how-to/get-list-of-all-layers/
+url: /el/net/developer-guide/how-to/get-list-of-all-layers/
 ---
 
 ## **Πώς να λάβετε τη λίστα όλων των επιπέδων**

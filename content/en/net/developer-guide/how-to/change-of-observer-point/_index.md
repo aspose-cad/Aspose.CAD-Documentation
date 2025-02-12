@@ -2,7 +2,7 @@
 title: Change of observer point
 type: docs
 weight: 19
-url: /net/how-to/change-of-observer-point/
+url: /net/developer-guide/how-to/change-of-observer-point/
 ---
 
 ## **How to change the observer point**

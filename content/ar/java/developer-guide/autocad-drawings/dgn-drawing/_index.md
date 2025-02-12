@@ -2,7 +2,7 @@
 title: رسم DGN
 type: docs
 weight: 10
-url: /ar/java/dgn-drawing/
+url: /ar/java/developer-guide/autocad-drawings/dgn-drawing/
 ---
 
 ## **رسم تنسيق DGN كجزء من DWG**

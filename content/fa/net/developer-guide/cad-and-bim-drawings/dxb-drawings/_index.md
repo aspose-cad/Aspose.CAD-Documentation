@@ -2,7 +2,7 @@
 title: نقشه های DXB
 type: docs
 weight: 70
-url: /fa/net/dxb-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **صادرات فرمت DXB به PDF**

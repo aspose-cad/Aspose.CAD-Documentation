@@ -2,7 +2,7 @@
 title: STP Drawings
 type: docs
 weight: 70
-url: /fa/net/stp-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **صادرات فرمت STP به PDF**

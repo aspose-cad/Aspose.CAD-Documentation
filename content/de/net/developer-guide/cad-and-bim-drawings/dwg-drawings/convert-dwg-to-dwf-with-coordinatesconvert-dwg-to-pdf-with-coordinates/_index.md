@@ -2,7 +2,7 @@
 title: DWG in PDF mit Koordinaten konvertieren
 type: docs
 weight: 80
-url: /de/net/convert-dwg-to-pdf-with-coordinates/
+url: /de/net/developer-guide/cad-and-bim-drawings/dwg-drawings/convert-dwg-to-dwf-with-coordinatesconvert-dwg-to-pdf-with-coordinates/
 ---
 
 ## **Wie man DWG in PDF mit Koordinaten konvertiert**

@@ -2,7 +2,7 @@
 title: Εργασία με το κείμενο
 type: docs
 weight: 40
-url: /el/python-net/work-with-text/
+url: /el/python-net/developer-guide/drawing-api/work-with-text/
 ---
 
 ## **Εργασία με το κείμενο**

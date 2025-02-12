@@ -2,7 +2,7 @@
 title: Výkresy STP
 type: docs
 weight: 160
-url: /cs/python-net/stp-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Exportování formátu STP do PDF**

@@ -2,7 +2,7 @@
 title: Obtener el Valor del Atributo de Bloque de una Referencia Externa
 type: docs
 weight: 60
-url: /es/net/get-block-attribute-value-of-external-reference/
+url: /es/net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **Obtener el Valor del Atributo de Bloque**

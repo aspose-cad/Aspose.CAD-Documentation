@@ -2,7 +2,7 @@
 title: Εργασία με τη μορφή αρχείου OBJ
 type: docs
 weight: 120
-url: /el/java/working-with-obj-file-format/
+url: /el/java/developer-guide/autocad-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

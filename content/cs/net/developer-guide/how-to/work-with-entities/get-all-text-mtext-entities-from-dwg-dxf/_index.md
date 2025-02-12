@@ -2,7 +2,7 @@
 title: Získejte všechny entity TEXT/MTEXT z DWG/DXF
 type: docs
 weight: 20
-url: /cs/jak-na/prace-s-entitami/ziskejte-vsechny-text-mtext-entity-z-dwg-dxf
+url: /cs/net/developer-guide/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf/
 ---
 
 

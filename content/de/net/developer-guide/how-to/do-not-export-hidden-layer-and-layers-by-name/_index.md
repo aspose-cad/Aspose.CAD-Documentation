@@ -2,7 +2,7 @@
 title: Versteckte Ebene und Ebenen nach Namen nicht exportieren
 type: docs
 weight: 26
-url: /de/net/how-to/do-not-export-hidden-layer-and-layers-by-name/
+url: /de/net/developer-guide/how-to/do-not-export-hidden-layer-and-layers-by-name/
 ---
 
 ## **Wie man versteckte Ebene und Ebenen nach Namen nicht exportiert**

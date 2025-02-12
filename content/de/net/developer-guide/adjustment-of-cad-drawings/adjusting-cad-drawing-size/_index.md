@@ -2,7 +2,7 @@
 title: Anpassen der Größe von CAD-Zeichnungen
 type: docs
 weight: 10
-url: /de/net/anpassen-der-groesse-von-cad-zeichnungen/
+url: /de/net/developer-guide/adjustment-of-cad-drawings/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

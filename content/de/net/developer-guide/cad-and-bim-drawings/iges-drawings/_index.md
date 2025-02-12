@@ -2,7 +2,7 @@
 title: IGES-Zeichnungen
 type: docs
 weight: 80
-url: /de/net/iges-drawings/
+url: /de/net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **IGES in PDF exportieren**

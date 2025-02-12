@@ -2,7 +2,7 @@
 title: دریافت لیست تمام لایه‌ها
 type: docs
 weight: 35
-url: /fa/net/how-to/get-list-of-all-layers/
+url: /fa/net/developer-guide/how-to/get-list-of-all-layers/
 ---
 
 ## **چگونه لیست تمام لایه‌ها را دریافت کنیم**

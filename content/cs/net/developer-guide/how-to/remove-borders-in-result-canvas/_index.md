@@ -2,7 +2,7 @@
 title: Odstraňte ohraničení výsledného plátna
 type: docs
 weight: 42
-url: /cs/net/how-to/remove-borders-in-result-canvas/
+url: /cs/net/developer-guide/how-to/remove-borders-in-result-canvas/
 ---
 
 ## **Jak odstranit ohraničení výsledného plátna**

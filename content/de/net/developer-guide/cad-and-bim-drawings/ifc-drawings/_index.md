@@ -2,7 +2,7 @@
 title: IFC Zeichnungen
 type: docs
 weight: 70
-url: /de/net/ifc-drawings/
+url: /de/net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **IFC-Format nach PNG exportieren**

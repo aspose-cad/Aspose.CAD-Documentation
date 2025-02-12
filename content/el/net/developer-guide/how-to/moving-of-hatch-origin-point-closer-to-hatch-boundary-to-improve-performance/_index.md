@@ -2,7 +2,7 @@
 title: Μετακίνηση του σημείου προέλευσης του γεμίσματος πιο κοντά στα όρια του γεμίσματος για τη βελτίωση απόδοσης
 type: docs
 weight: 41
-url: /el/net/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
+url: /el/net/developer-guide/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
 ---
 
 ## **Πώς να μετακινήσετε το σημείο προέλευσης του γεμίσματος πιο κοντά στα όρια του γεμίσματος για τη βελτίωση απόδοσης**

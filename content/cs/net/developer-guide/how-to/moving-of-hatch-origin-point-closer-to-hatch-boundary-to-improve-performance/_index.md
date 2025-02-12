@@ -2,7 +2,7 @@
 title: Přesunutí počátečního bodu vývoje bližšího ke hranici vývoje pro zlepšení výkonu
 type: docs
 weight: 41
-url: /cs/how-to/presunuti-pocatecniho-bodu-vyvoje-blizsiho-ke-hranici-vyvoje-pro-zlepseni-vykonu/
+url: /cs/net/developer-guide/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
 ---
 
 ## **Jak přesunout počáteční bod vývoje bližší ke hranici vývoje pro zlepšení výkonu**

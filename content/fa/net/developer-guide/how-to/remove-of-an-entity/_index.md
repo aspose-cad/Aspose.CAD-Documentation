@@ -2,7 +2,7 @@
 title: حذف یک موجودیت
 type: docs
 weight: 43
-url: /fa/net/how-to/remove-of-an-entity/
+url: /fa/net/developer-guide/how-to/remove-of-an-entity/
 ---
 
 ## **چگونه یک موجودیت را حذف کنیم**

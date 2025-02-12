@@ -2,7 +2,7 @@
 title: Verweise auf externe Dateien erhalten
 type: docs
 weight: 36
-url: /de/net/how-to/get-references-to-external-files/
+url: /de/net/developer-guide/how-to/get-references-to-external-files/
 ---
 
 ## **Wie man Verweise auf externe Dateien erhält**

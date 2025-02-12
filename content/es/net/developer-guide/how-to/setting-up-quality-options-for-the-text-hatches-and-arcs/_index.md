@@ -2,7 +2,7 @@
 title: Configuración de opciones de calidad para el texto, tramas y arcos
 type: docs
 weight: 46
-url: /es/net/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
+url: /es/net/developer-guide/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
 ---
 
 ## **Cómo configurar opciones de calidad para el texto, tramas y arcos**

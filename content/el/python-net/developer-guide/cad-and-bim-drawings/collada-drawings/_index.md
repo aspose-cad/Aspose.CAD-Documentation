@@ -2,7 +2,7 @@
 title: Σχέδια COLLADA
 type: docs
 weight: 20
-url: /el/python-net/collada-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Εξαγωγή Δεδομένων COLLADA σε PDF**

@@ -2,7 +2,7 @@
 title: Изчисляване на лице и обиколка на окръжностите
 type: docs
 weight: 18
-url: /bg/net/how-to/изчисляване-на-лице-и-обиколка-на-окръжностите/
+url: /bg/net/developer-guide/how-to/calculation-of-area-and-circumference-of-the-circles/
 ---
 
 ## **Как да изчислите лице и обиколка на окръжностите**

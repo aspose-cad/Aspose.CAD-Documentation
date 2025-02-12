@@ -2,7 +2,7 @@
 title: إزالة الحدود في نتيجة اللوحة
 type: docs
 weight: 42
-url: /ar/net/how-to/remove-borders-in-result-canvas/
+url: /ar/net/developer-guide/how-to/remove-borders-in-result-canvas/
 ---
 
 ## **كيفية إزالة الحدود في نتيجة اللوحة**

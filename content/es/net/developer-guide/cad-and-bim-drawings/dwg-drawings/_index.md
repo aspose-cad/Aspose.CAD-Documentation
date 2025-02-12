@@ -2,7 +2,7 @@
 title: DWG Drawings
 type: docs
 weight: 40
-url: /es/net/dwg-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Exportando Dibujos DWG a PDF**

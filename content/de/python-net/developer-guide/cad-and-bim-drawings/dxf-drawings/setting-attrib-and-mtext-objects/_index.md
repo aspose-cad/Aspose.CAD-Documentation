@@ -2,7 +2,7 @@
 title: ATTRIB- und MTEXT-Objekte festlegen
 type: docs
 weight: 10
-url: /de/python-net/setting-attrib-and-mtext-objects/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **ATTRIB- und MTEXT-Objekte festlegen**

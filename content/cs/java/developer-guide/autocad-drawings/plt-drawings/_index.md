@@ -2,7 +2,7 @@
 title: PLT Kresby
 type: docs
 weight: 90
-url: /cs/java/plt-kresby/
+url: /cs/java/developer-guide/autocad-drawings/plt-drawings/
 ---
 
 ## **Export PLT do formátu JPEG**

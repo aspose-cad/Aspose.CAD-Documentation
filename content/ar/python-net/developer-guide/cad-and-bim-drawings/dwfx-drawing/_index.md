@@ -2,7 +2,7 @@
 title: رسم DWFx
 type: docs
 weight: 60
-url: /ar/python-net/dwfx-drawing/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **رسم DWFx**

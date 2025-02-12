@@ -2,7 +2,7 @@
 title: Calculation of area and circumference of the circles
 type: docs
 weight: 18
-url: /net/how-to/сalculation-of-area-and-circumference-of-the-circles/
+url: /net/developer-guide/how-to/calculation-of-area-and-circumference-of-the-circles/
 ---
 
 ## **How to сalculation of area and circumference of the circles**

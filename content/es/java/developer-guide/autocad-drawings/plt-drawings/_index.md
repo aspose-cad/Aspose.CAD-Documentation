@@ -2,7 +2,7 @@
 title: Dibujos PLT
 type: docs
 weight: 90
-url: /es/java/plt-drawings/
+url: /es/java/developer-guide/autocad-drawings/plt-drawings/
 ---
 
 ## **Exportar PLT a JPEG**

@@ -2,7 +2,7 @@
 title: Smazat všechny entity uvnitř obdélníku
 type: docs
 weight: 25
-url: /cs/jak-na/smazat-vsechny-entity-uvnitr-obdelniku/
+url: /cs/net/developer-guide/how-to/delete-all-entities-inside-a-rectangle/
 ---
 
 ## **Jak smazat všechny entity uvnitř obdélníku**

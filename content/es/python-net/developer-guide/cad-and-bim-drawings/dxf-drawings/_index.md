@@ -2,7 +2,7 @@
 title: Dibujos DXF
 type: docs
 weight: 10
-url: /es/python-net/dxf-drawings/
+url: /es/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Exportando dibujos DXF a PDF**

@@ -2,7 +2,7 @@
 title: Eliminar bordes en el lienzo de resultado
 type: docs
 weight: 42
-url: /es/net/how-to/remove-borders-in-result-canvas/
+url: /es/net/developer-guide/how-to/remove-borders-in-result-canvas/
 ---
 
 ## **Cómo eliminar bordes en el lienzo de resultado**

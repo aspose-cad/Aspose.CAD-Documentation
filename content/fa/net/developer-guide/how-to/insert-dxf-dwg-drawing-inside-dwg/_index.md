@@ -2,7 +2,7 @@
 title: درج نقاشی DXF/DWG در داخل DWG
 type: docs
 weight: 38
-url: /fa/net/how-to/insert-dxf-dwg-drawing-inside-dwg/
+url: /fa/net/developer-guide/how-to/insert-dxf-dwg-drawing-inside-dwg/
 ---
 
 ## **چگونه نقاشی DXF/DWG را در داخل DWG درج کنیم**

@@ -2,7 +2,7 @@
 title: نقشه‌های DWG
 type: docs
 weight: 40
-url: /fa/net/dwg-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **صادرات نقشه‌های DWG به PDF**

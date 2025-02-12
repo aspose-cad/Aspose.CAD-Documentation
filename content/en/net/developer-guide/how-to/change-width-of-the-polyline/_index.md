@@ -2,7 +2,7 @@
 title: Change width of the polyline 
 type: docs
 weight: 20
-url: /net/how-to/change-width-of-the-polyline/
+url: /net/developer-guide/how-to/change-width-of-the-polyline/
 ---
 
 ## **How to change width of the polyline**

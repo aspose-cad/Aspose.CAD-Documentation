@@ -2,7 +2,7 @@
 title: Alle TEXT/MTEXT-Entitäten aus DWG/DXF abrufen
 type: docs
 weight: 20
-url: /de/net/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf
+url: /de/net/developer-guide/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf/
 ---
 
 ## **So rufen Sie alle TEXT/MTEXT-Entitäten aus DWG/DXF ab**

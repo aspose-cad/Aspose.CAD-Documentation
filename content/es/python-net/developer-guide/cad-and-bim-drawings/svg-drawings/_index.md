@@ -2,7 +2,7 @@
 title: Dibujos SVG
 type: docs
 weight: 170
-url: /es/python-net/svg-drawings/
+url: /es/python-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Exportar formato SVG a PDF**

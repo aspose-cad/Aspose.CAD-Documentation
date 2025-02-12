@@ -2,7 +2,7 @@
 title: Работа с хипервръзки
 type: docs
 weight: 40
-url: /bg/работа-с-хипервръзки/
+url: /bg/java/developer-guide/autocad-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Актуализиране на хипервръзката в DWG файл**

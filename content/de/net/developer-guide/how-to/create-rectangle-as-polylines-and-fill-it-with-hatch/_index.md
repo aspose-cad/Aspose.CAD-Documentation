@@ -2,7 +2,7 @@
 title: Erstellen Sie ein Rechteck als Polylinien und füllen Sie es mit Schraffur
 type: docs
 weight: 24
-url: /de/net/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
+url: /de/net/developer-guide/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
 ---
 
 ## **Wie man ein Rechteck als Polylinien erstellt und es mit Schraffur füllt**

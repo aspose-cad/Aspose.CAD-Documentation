@@ -2,5 +2,5 @@
 title: Mit Text arbeiten
 type: docs
 weight: 10
-url: /de/net/how-to/work-with-text
+url: /de/net/developer-guide/how-to/work-with-text/
 ---

@@ -2,7 +2,7 @@
 title: Přidání obrázku jako pozadí do DWG
 type: docs
 weight: 15
-url: /cs/how-to/pridani-obrazku-jako-pozadi-do-dwg/
+url: /cs/net/developer-guide/how-to/addition-of-image-as-background-into-dwg/
 ---
 
 ## Jak přidat obrázek jako pozadí do DWG

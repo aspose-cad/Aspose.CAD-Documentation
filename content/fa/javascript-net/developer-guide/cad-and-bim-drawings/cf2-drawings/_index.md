@@ -2,7 +2,7 @@
 title: CF2 Drawings
 type: docs
 weight: 110
-url: /fa/javascript-net/cf2-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **صادرات فرمت CF2 به PNG**

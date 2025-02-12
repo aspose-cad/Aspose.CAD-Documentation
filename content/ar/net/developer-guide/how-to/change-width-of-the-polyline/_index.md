@@ -2,7 +2,7 @@
 title: تغيير عرض الخط المتعدد
 type: docs
 weight: 20
-url: /ar/net/how-to/change-width-of-the-polyline/
+url: /ar/net/developer-guide/how-to/change-width-of-the-polyline/
 ---
 
 ## **كيفية تغيير عرض الخط المتعدد**

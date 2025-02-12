@@ -2,7 +2,7 @@
 title: العمل مع الروابط التشعبية
 type: docs
 weight: 40
-url: /ar/java/working-with-hyperlinks/
+url: /ar/java/developer-guide/autocad-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **تحديث الرابط التشعبي في ملف DWG**

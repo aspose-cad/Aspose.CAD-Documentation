@@ -2,7 +2,7 @@
 title: Χρωματισμός των προσθηκών με νέες προστιθέμενες στρώσεις
 type: docs
 weight: 23
-url: /el/net/how-to/coloring-of-inserts-with-new-added-layers/
+url: /el/net/developer-guide/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 
 ## **Πώς να χρωματίσετε τις προσθήκες με νέες προστιθέμενες στρώσεις (CADNET-1146)**

@@ -2,7 +2,7 @@
 title: إعداد خيارات القلم
 type: docs
 weight: 45
-url: /ar/net/how-to/setting-up-of-the-pen-options/
+url: /ar/net/developer-guide/how-to/setting-up-of-the-pen-options/
 ---
 
 ## **كيفية إعداد خيارات القلم**

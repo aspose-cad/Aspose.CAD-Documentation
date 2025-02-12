@@ -2,7 +2,7 @@
 title: Výkresy IGES
 type: docs
 weight: 80
-url: /cs/iges-drawings/
+url: /cs/java/developer-guide/autocad-drawings/iges-drawings/
 ---
 
 ## **Exportovat IGES do PDF**

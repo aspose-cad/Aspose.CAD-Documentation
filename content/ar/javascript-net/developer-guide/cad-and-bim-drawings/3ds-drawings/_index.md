@@ -2,7 +2,7 @@
 title: رسومات 3DS
 type: docs
 weight: 70
-url: /ar/javascript-net/3ds-drawings/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **تصدير صيغة 3DS إلى PNG**

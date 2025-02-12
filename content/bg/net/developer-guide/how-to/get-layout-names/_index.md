@@ -2,7 +2,7 @@
 title: Получаване на имена на оформления
 type: docs
 weight: 34
-url: /bg/net/how-to/get-layout-names/
+url: /bg/net/developer-guide/how-to/get-layout-names/
 ---
 
 ## **Как да получите имена на оформления**

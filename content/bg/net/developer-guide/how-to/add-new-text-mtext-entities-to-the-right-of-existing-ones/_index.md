@@ -2,7 +2,7 @@
 title: Добавяне на нови същества за ТЕКСТ/МТЕКСТ отдясно на съществуващите
 type: документация
 weight: 17
-url: /bg/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
+url: /bg/net/developer-guide/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
 ---
 
 ## **Как да добавите нови същества за ТЕКСТ/МТЕКСТ отдясно на съществуващите**

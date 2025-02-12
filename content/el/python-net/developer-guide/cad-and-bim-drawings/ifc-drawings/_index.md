@@ -2,7 +2,7 @@
 title: IFC Σχέδια
 type: docs
 weight: 120
-url: /el/python-net/ifc-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Εξαγωγή IFC Μορφής σε PNG**

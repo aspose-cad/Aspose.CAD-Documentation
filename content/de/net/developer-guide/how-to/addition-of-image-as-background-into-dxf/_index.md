@@ -2,7 +2,7 @@
 title: Hinzufügen eines Bildes als Hintergrund in DXF
 type: docs
 weight: 16
-url: /de/net/how-to/addition-of-image-as-background-into-dxf/
+url: /de/net/developer-guide/how-to/addition-of-image-as-background-into-dxf/
 ---
 
 ## **Wie man ein Bild als Hintergrund in DXF hinzufügt**

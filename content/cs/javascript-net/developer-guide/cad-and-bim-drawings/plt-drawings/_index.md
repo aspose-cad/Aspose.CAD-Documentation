@@ -2,7 +2,7 @@
 title: Vykreslení PLT
 type: docs
 weight: 90
-url: /cs/javascript-net/plt-drawings/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Export formátu PLT do PNG**

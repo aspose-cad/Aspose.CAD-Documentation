@@ -2,7 +2,7 @@
 title: DWT Drawings
 type: docs
 weight: 50
-url: /es/javascript-net/dwt-drawings/
+url: /es/javascript-net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **Exportando el formato DWT a PNG**

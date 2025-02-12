@@ -2,7 +2,7 @@
 title: البحث عن السمة داخل الإدراج
 type: docs
 weight: 44
-url: /ar/net/how-to/search-for-the-attribute-inside-insert/
+url: /ar/net/developer-guide/how-to/search-for-the-attribute-inside-insert/
 ---
 
 ## **كيفية البحث عن سمة داخل الإدراج**

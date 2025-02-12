@@ -2,7 +2,7 @@
 title: Генериране на DWG
 type: docs
 weight: 20
-url: /bg/net/how-to/generate-file/generation-of-dwg
+url: /bg/net/developer-guide/how-to/generate-file/generation-of-dwg/
 ---
 
 ## **Как да генерирате DWG файл**

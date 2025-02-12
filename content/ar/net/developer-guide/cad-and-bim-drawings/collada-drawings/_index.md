@@ -2,7 +2,7 @@
 title: رسومات COLLADA
 type: docs
 weight: 70
-url: /ar/net/collada-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **تصدير تنسيق COLLADA إلى PDF**

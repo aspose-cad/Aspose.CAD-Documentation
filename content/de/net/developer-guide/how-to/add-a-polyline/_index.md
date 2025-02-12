@@ -2,7 +2,7 @@
 title: Fügen Sie eine Polyline hinzu
 type: docs
 weight: 13
-url: /de/net/how-to/add-a-polyline/
+url: /de/net/developer-guide/how-to/add-a-polyline/
 ---
 
 ## **Wie man eine Polyline hinzufügt**

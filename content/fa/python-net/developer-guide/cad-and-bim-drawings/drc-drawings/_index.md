@@ -2,7 +2,7 @@
 title: نقشه‌های DRC
 type: docs
 weight: 40
-url: /fa/python-net/drc-drawings/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **اکسپورت فرمت DRC به PDF**

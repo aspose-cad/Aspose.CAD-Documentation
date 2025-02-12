@@ -2,7 +2,7 @@
 title: Илюстрации CFF2
 type: docs
 weight: 110
-url: /bg/java/cff2-drawings/
+url: /bg/java/developer-guide/autocad-drawings/cff2-drawings/
 ---
 
 ## **Преобразуване на CF2 в PDF**

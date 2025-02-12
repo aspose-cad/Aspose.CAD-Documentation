@@ -2,7 +2,7 @@
 title: STP Zeichnungen
 type: docs
 weight: 160
-url: /de/python-net/stp-drawings/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Exportieren im STP-Format nach PDF**

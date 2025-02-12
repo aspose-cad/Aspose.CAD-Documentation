@@ -2,7 +2,7 @@
 title: Guardar DXF
 type: docs
 weight: 24
-url: /es/net/how-to/export-file/save-dxf/
+url: /es/net/developer-guide/how-to/export-file/save-dxf/
 ---
 
 ## **Cómo guardar un archivo DXF**

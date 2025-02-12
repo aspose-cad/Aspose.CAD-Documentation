@@ -2,7 +2,7 @@
 title: Рисунки FBX
 type: docs
 weight: 110
-url: /bg/python-net/fbx-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **Експортиране на формат FBX към PDF**

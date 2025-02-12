@@ -2,7 +2,7 @@
 title: تصدير كل تخطيط في ملف PNG منفصل
 type: docs
 weight: 20
-url: /ar/net/how-to/work-with-layout/export-each-layout-in-separate-png-file
+url: /ar/net/developer-guide/how-to/work-with-layout/export-each-layout-in-separate-png-file/
 ---
 
 

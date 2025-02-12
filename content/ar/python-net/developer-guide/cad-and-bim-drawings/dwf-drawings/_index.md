@@ -2,7 +2,7 @@
 title: رسومات DWF
 type: docs
 weight: 50
-url: /ar/python-net/dwf-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **تصدير رسومات DWF إلى PDF**

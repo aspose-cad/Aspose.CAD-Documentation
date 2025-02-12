@@ -2,7 +2,7 @@
 title: Dibujar el área visible del dibujo en lugar de todo el contenido
 type: docs
 weight: 27
-url: /es/net/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/
+url: /es/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/ content/
 ---
 
 ## **Cómo dibujar el área visible del dibujo en lugar de todo el contenido**

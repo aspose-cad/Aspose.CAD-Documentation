@@ -2,7 +2,7 @@
 title: Рисунки SVG
 type: docs
 weight: 70
-url: /bg/javascript-net/svg-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Експортиране на формат SVG към PNG**

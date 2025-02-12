@@ -2,7 +2,7 @@
 title: Πρόσβαση σε οντότητες μέσα σε αντικείμενα μπλοκ
 type: docs
 weight: 11
-url: /el/net/how-to/access-to-entities-inside-block-objects/
+url: /el/net/developer-guide/how-to/access-to-entities-inside-block-objects/
 ---
 
 ## **Πώς να αποκτήσετε πρόσβαση σε οντότητες μέσα σε αντικείμενα μπλοκ**

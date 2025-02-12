@@ -2,7 +2,7 @@
 title: Kresba DGN
 type: docs
 weight: 30
-url: /cs/python-net/dgn-drawing/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Exportování kreseb DGN do PDF**

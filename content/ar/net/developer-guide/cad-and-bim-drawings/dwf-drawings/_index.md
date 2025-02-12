@@ -2,7 +2,7 @@
 title: رسومات DWF
 type: docs
 weight: 20
-url: /ar/net/dwf-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **تصدير رسومات DWF إلى PDF**

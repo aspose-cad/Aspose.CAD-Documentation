@@ -2,7 +2,7 @@
 title: رسومات PLT
 type: docs
 weight: 90
-url: /ar/javascript-net/plt-drawings/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **تصدير صيغة PLT إلى PNG**

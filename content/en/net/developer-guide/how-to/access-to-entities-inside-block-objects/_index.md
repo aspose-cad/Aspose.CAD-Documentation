@@ -2,7 +2,7 @@
 title: Access to entities inside block objects
 type: docs
 weight: 11
-url: /net/how-to/access-to-entities-inside-block-objects/
+url: /net/developer-guide/how-to/access-to-entities-inside-block-objects/
 ---
 
 ## **How to access to entities inside block objects**

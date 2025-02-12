@@ -2,7 +2,7 @@
 title: Auto Codepage Detection
 type: docs
 weight: 10
-url: /de/python-net/auto-codepage-detection/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Auto Codepage Detection**

@@ -2,7 +2,7 @@
 title: حذف جميع الكيانات داخل مستطيل
 type: docs
 weight: 25
-url: /ar/net/how-to/delete-all-entities-inside-a-rectangle/
+url: /ar/net/developer-guide/how-to/delete-all-entities-inside-a-rectangle/
 ---
 
 ## **كيف تحذف جميع الكيانات داخل مستطيل**

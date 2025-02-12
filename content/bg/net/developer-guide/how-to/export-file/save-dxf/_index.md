@@ -2,7 +2,7 @@
 title: Запазване на DXF
 type: docs
 weight: 24
-url: /bg/how-to/export-file/save-dxf/
+url: /bg/net/developer-guide/how-to/export-file/save-dxf/
 ---
 
 ## **Как да запазите DXF файл**

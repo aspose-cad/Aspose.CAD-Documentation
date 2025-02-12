@@ -2,7 +2,7 @@
 title: نقاشی‌های COLLADA
 type: docs
 weight: 70
-url: /fa/net/collada-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **صادرات فرمت COLLADA به PDF**

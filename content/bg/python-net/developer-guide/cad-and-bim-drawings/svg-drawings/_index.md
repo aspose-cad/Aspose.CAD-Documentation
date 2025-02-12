@@ -2,7 +2,7 @@
 title: Изчертавания на SVG
 type: документи
 weight: 170
-url: /bg/python-net/svg-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Експортиране на формат SVG към PDF**

@@ -2,7 +2,7 @@
 title: Detección Automática de Codepage
 type: docs
 weight: 10
-url: /es/net/auto-codepage-detection/
+url: /es/net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Detección Automática de Codepage**

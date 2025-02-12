@@ -2,7 +2,7 @@
 title: رسومات CF2
 type: docs
 weight: 110
-url: /ar/net/cf2-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **تحويل CF2 إلى PDF**

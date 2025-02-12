@@ -2,7 +2,7 @@
 title: DWFx Drawing
 type: docs
 weight: 60
-url: /python-net/dwfx-drawing/
+url: /python-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **DWFx Drawing**

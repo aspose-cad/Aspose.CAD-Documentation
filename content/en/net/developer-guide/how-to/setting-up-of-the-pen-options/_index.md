@@ -2,7 +2,7 @@
 title: Setting up of the pen options
 type: docs
 weight: 45
-url: /net/how-to/setting-up-of-the-pen-options/
+url: /net/developer-guide/how-to/setting-up-of-the-pen-options/
 ---
 
 ## **How to setting up of the pen options**

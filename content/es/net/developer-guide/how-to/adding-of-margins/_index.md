@@ -2,7 +2,7 @@
 title: Agregar márgenes
 type: docs
 weight: 14
-url: /es/net/how-to/adding-of-margins/
+url: /es/net/developer-guide/how-to/adding-of-margins/
 ---
 
 ## **Cómo agregar márgenes**

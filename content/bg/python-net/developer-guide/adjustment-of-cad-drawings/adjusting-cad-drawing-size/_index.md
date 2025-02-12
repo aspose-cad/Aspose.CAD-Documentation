@@ -2,7 +2,7 @@
 title: Промяна на размера на CAD чертеж
 type: docs
 weight: 10
-url: /bg/python-net/adjusting-cad-drawing-size/
+url: /bg/python-net/developer-guide/adjustment-of-cad-drawings/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

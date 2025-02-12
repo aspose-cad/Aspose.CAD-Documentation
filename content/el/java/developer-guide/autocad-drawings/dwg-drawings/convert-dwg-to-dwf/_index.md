@@ -2,7 +2,7 @@
 title: Μετατροπή DWG σε DWF
 type: docs
 weight: 20
-url: /el/java/convert-dwg-to-dwf/
+url: /el/java/developer-guide/autocad-drawings/dwg-drawings/convert-dwg-to-dwf/
 ---
 
 ## **Πώς να μετατρέψετε DWG σε DWF**

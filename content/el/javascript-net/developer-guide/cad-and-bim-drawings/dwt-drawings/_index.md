@@ -2,7 +2,7 @@
 title: Σχέδια DWT
 type: docs
 weight: 50
-url: /el/javascript-net/dwt-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **Εξαγωγή μορφής DWT σε PNG**

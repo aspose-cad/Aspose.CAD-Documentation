@@ -2,7 +2,7 @@
 title: Възможност за наслагване и настройка на текст върху изображения DWF, което позволява определена степен на редактиране на получения изход за визуализация
 type: docs
 weight: 20
-url: /bg/net/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images
+url: /bg/net/developer-guide/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images/
 ---
 
 ## **Как да наложите и настроите текст върху изображения DWF**

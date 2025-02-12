@@ -2,7 +2,7 @@
 title: Δημιουργία DWG
 type: docs
 weight: 20
-url: /el/net/how-to/generate-file/generation-of-dwg
+url: /el/net/developer-guide/how-to/generate-file/generation-of-dwg/
 ---
 
 ## **Πώς να δημιουργήσετε αρχείο DWG**

@@ -2,7 +2,7 @@
 title: Färbung von Einfügungen mit neu hinzugefügten Ebenen
 type: docs
 weight: 23
-url: /de/net/how-to/coloring-of-inserts-with-new-added-layers/
+url: /de/net/developer-guide/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 
 ## **Wie man Einfügungen mit neu hinzugefügten Ebenen färbt (CADNET-1146)**

@@ -2,7 +2,7 @@
 title: DXB Zeichnungen
 type: docs
 weight: 90
-url: /de/python-net/dxb-drawings/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **DXB-Format nach PDF exportieren**

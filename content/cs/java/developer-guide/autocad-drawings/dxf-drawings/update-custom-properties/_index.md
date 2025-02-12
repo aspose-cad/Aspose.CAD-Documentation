@@ -2,7 +2,7 @@
 title: Přidání vlastních vlastností
 type: docs
 weight: 20
-url: /cs/java/pridani-vlastnich-vlastnosti/
+url: /cs/java/developer-guide/autocad-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

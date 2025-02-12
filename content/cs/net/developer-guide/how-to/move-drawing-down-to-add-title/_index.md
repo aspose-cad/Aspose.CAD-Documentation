@@ -2,7 +2,7 @@
 title: Přesunutí kresby dolů pro přidání nadpisu
 type: docs
 weight: 40
-url: /cs/net/how-to/move-drawing-down-to-add-title/
+url: /cs/net/developer-guide/how-to/move-drawing-down-to-add-title/
 ---
 
 ## **Jak přesunout kresbu dolů pro přidání nadpisu**

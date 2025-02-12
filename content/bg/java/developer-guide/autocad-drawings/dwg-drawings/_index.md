@@ -2,7 +2,7 @@
 title: Изчертания DWG
 type: docs
 weight: 40
-url: /bg/java/dwg-drawings/
+url: /bg/java/developer-guide/autocad-drawings/dwg-drawings/
 ---
 
 ## **Експортиране на изчертания DWG към PDF**

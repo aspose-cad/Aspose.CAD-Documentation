@@ -2,7 +2,7 @@
 title: Získání seznamu všech vrstev
 type: docs
 weight: 35
-url: /cs/net/how-to/get-list-of-all-layers/
+url: /cs/net/developer-guide/how-to/get-list-of-all-layers/
 ---
 
 ## **Jak získat seznam všech vrstev**

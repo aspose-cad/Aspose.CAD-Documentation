@@ -2,7 +2,7 @@
 title: دسترسی به موجودیت‌ها در داخل اشیاء بلوک
 type: docs
 weight: 11
-url: /fa/net/how-to/access-to-entities-inside-block-objects/
+url: /fa/net/developer-guide/how-to/access-to-entities-inside-block-objects/
 ---
 
 ## **چگونه به موجودیت‌ها در داخل اشیاء بلوک دسترسی پیدا کنیم**

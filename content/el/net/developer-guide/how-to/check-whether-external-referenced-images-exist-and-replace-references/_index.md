@@ -2,7 +2,7 @@
 title: Ελέγξτε εάν οι εξωτερικές αναφερόμενες εικόνες υπάρχουν και αντικαταστήστε τις αναφορές
 type: docs
 weight: 22
-url: /el/net/how-to/check-whether-external-referenced-images-exist-and-replace-references/
+url: /el/net/developer-guide/how-to/check-whether-external-referenced-images-exist-and-replace-references/
 ---
 
 ## **Πώς να επεξεργαστείτε τους υπερσυνδέσμους σε αντικείμενα**

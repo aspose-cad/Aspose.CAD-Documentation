@@ -2,7 +2,7 @@
 title: Σχέδια DWF
 type: docs
 weight: 50
-url: /el/python-net/dwf-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Εξαγωγή Σχεδίων DWF σε PDF**

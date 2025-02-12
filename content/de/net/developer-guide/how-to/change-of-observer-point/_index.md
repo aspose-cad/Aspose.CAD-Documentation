@@ -2,7 +2,7 @@
 title: Änderung des Beobachtungspunkts
 type: docs
 weight: 19
-url: /de/net/how-to/change-of-observer-point/
+url: /de/net/developer-guide/how-to/change-of-observer-point/
 ---
 
 ## **Wie man den Beobachtungspunkt ändert**

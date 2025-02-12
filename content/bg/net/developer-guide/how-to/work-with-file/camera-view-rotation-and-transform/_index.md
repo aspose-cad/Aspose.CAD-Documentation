@@ -2,7 +2,7 @@
 title: Завъртане и трансформация на изгледа на камерата
 type: docs
 weight: 10
-url: /bg/how-to/work-with-file/camera-view-rotation-and-transform
+url: /bg/net/developer-guide/how-to/work-with-file/camera-view-rotation-and-transform/
 ---
 
 ## **Как да промените завъртането и трансформацията на камерата**

@@ -2,7 +2,7 @@
 title: IFC Drawings
 type: docs
 weight: 70
-url: /java/ifc-drawings/
+url: /java/developer-guide/autocad-drawings/ifc-drawings/
 ---
 
 ## **Exporting IFC Format To PNG**

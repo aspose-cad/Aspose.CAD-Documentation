@@ -2,7 +2,7 @@
 title: Převod DWG do PDF s souřadnicemi
 type: docs
 weight: 80
-url: /cs/převod-dwg-do-pdf-souřadnicemi/
+url: /cs/java/developer-guide/autocad-drawings/dwg-drawings/convert-dwg-to-dwf-with-coordinatesconvert-dwg-to-pdf-with-coordinates/
 ---
 
 

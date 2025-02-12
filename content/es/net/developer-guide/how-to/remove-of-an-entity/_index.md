@@ -2,7 +2,7 @@
 title: Eliminar una entidad
 type: docs
 weight: 43
-url: /es/net/how-to/remove-of-an-entity/
+url: /es/net/developer-guide/how-to/remove-of-an-entity/
 ---
 
 ## **Cómo eliminar una entidad**

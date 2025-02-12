@@ -2,7 +2,7 @@
 title: Výkresy DWF
 type: docs
 weight: 20
-url: /cs/vykresy-dwf/
+url: /cs/java/developer-guide/autocad-drawings/dwf-drawings/
 ---
 
 ## **Exportování výkresů DWF do PDF**

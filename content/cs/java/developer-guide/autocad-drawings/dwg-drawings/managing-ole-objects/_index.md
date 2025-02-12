@@ -2,7 +2,7 @@
 title: Správa OLE objektů
 type: docs
 weight: 30
-url: /cs/sprava-ole-objektu/
+url: /cs/java/developer-guide/autocad-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

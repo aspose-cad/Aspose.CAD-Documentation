@@ -2,7 +2,7 @@
 title: Διαγραφή όλων των οντοτήτων μέσα σε ένα ορθογώνιο
 type: docs
 weight: 25
-url: /el/net/how-to/delete-all-entities-inside-a-rectangle/
+url: /el/net/developer-guide/how-to/delete-all-entities-inside-a-rectangle/
 ---
 
 ## **Πώς να διαγράψετε όλες τις οντότητες μέσα σε ένα ορθογώνιο**

@@ -2,7 +2,7 @@
 title: Exportación de solo algunas capas con reescalado 
 type: docs
 weight: 31
-url: /es/net/how-to/export-of-only-some-layers-with-rescaling/
+url: /es/net/developer-guide/how-to/export-of-only-some-layers-with-rescaling/
 ---
 
 ## **Exportación de solo algunas capas con reescalado (CADNET-559)**

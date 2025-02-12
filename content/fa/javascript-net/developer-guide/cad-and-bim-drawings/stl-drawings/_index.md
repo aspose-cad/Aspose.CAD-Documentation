@@ -2,7 +2,7 @@
 title: نقاشی‌های STL
 type: docs
 weight: 100
-url: /fa/njavascript/stl-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **صادر کردن فرمت STL به PNG**

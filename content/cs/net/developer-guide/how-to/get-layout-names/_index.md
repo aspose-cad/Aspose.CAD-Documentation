@@ -2,7 +2,7 @@
 title: Získat názvy rozvržení
 type: docs
 weight: 34
-url: /cs/net/how-to/ziskat-nazvy-rozvrzeni/
+url: /cs/net/developer-guide/how-to/get-layout-names/
 ---
 
 ## **Jak získat názvy rozvržení**

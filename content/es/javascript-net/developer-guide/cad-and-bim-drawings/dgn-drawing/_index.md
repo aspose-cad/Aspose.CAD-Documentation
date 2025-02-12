@@ -2,7 +2,7 @@
 title: Dibujo DGN
 type: docs
 weight: 10
-url: /es/javascript-net/dgn-drawing/
+url: /es/javascript-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Exportando el formato DGN a PNG**

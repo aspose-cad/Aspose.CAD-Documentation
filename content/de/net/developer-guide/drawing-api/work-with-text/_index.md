@@ -2,7 +2,7 @@
 title: Arbeiten mit Text
 type: docs
 weight: 40
-url: /de/net/work-with-text/
+url: /de/net/developer-guide/drawing-api/work-with-text/
 ---
 
 ## **Arbeiten mit Text**

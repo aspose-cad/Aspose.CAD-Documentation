@@ -2,7 +2,7 @@
 title: رسومات CF2
 type: docs
 weight: 110
-url: /ar/javascript-net/cf2-drawings/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **تصدير تنسيق CF2 إلى PNG**

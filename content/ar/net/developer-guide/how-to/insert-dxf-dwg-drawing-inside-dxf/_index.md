@@ -2,7 +2,7 @@
 title: إدراج رسم DXF/DWG داخل DXF
 type: docs
 weight: 39
-url: /ar/net/how-to/insert-dxf-dwg-drawing-inside-dxf/
+url: /ar/net/developer-guide/how-to/insert-dxf-dwg-drawing-inside-dxf/
 ---
 
 ## **كيفية إدراج رسم DXF/DWG داخل DXF**

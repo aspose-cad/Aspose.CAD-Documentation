@@ -2,7 +2,7 @@
 title: نقشه‌های CF2
 type: docs
 weight: 10
-url: /fa/python-net/cf2-drawings/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **تبدیل CF2 به PDF**

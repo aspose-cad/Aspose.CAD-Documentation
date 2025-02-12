@@ -2,7 +2,7 @@
 title: Автоматично откриване на кодираща страница
 type: docs
 weight: 10
-url: /bg/net/auto-codepage-detection/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Автоматично откриване на кодираща страница**

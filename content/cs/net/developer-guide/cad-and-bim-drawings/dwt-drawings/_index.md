@@ -2,7 +2,7 @@
 title: Výkresy DWT
 type: docs
 weight: 50
-url: /cs/net/dwt-drawings/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **Podpora pro soubory DWT**

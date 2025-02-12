@@ -2,7 +2,7 @@
 title: Ρυθμίζοντας τα αντικείμενα ATTRIB και MTEXT
 type: docs
 weight: 10
-url: /el/python-net/setting-attrib-and-mtext-objects/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **Ρυθμίζοντας τα αντικείμενα ATTRIB και MTEXT**

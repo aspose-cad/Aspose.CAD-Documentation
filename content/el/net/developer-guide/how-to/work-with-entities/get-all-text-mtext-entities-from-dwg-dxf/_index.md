@@ -2,7 +2,7 @@
 title: Πώς να αποκτήσετε όλες τις οντότητες TEXT/MTEXT από DWG/DXF
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf
+url: /el/net/developer-guide/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf/
 ---
 
 

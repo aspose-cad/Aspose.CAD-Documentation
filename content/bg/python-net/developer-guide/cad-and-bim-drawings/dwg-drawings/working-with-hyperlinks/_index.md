@@ -2,7 +2,7 @@
 title: Работа с хипервръзки
 type: docs
 weight: 50
-url: /bg/python-net/работа-с-хипервръзки/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Актуализиране на хипервръзка в DWG**

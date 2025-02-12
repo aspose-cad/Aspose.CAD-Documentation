@@ -2,7 +2,7 @@
 title: Получаване на списък с всички слоеве
 type: docs
 weight: 35
-url: /bg/net/how-to/get-list-of-all-layers/
+url: /bg/net/developer-guide/how-to/get-list-of-all-layers/
 ---
 
 ## **Как да получите списък с всички слоеве**

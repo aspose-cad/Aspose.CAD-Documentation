@@ -2,7 +2,7 @@
 title: Премахване на граници в резултатния платно
 type: документация
 weight: 42
-url: /bg/net/how-to/remove-borders-in-result-canvas/
+url: /bg/net/developer-guide/how-to/remove-borders-in-result-canvas/
 ---
 
 ## **Как да премахнете граници в резултатното платно**

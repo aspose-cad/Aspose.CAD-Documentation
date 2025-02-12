@@ -2,7 +2,7 @@
 title: رسوم IFC
 type: docs
 weight: 70
-url: /ar/javascript-net/ifc-drawings/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **تصدير تنسيق FBX إلى PNG**

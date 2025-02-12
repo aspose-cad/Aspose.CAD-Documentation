@@ -2,7 +2,7 @@
 title: DWG Drawings
 type: docs
 weight: 40
-url: /java/dwg-drawings/
+url: /java/developer-guide/autocad-drawings/dwg-drawings/
 ---
 
 ## **Exporting DWG Drawings to PDF**

@@ -2,7 +2,7 @@
 title: STL Zeichnungen
 type: docs
 weight: 100
-url: /de/javascript/stl-zeichnungen/
+url: /de/javascript-net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **STL-Format in PNG exportieren**

@@ -55,6 +55,17 @@ public class MdUrlsSynchronizationProcessor
         string enUrl,
         MatchCollection enRelImageMatches)
     {
+        var localeFiles = Directory.GetFiles(langDir, "*.md", SearchOption.AllDirectories);
+        foreach (var localeFile in localeFiles)
+        {
+            var rel = Path.GetRelativePath(langDir, localeFile);
+            var enAbs = Path.Combine(Path.GetDirectoryName(langDir) + "/en/" + rel);
+            if (!File.Exists(enAbs))
+            {
+                File.Delete(localeFile);
+            }
+        }
+        
         string langCode = Path.GetFileName(langDir);
         string langFile = Path.Combine(langDir, relativePath);
         if (!File.Exists(langFile))

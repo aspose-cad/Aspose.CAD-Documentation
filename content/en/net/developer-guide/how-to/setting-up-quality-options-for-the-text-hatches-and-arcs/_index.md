@@ -2,7 +2,7 @@
 title: Setting up quality options for the text, hatches and arcs
 type: docs
 weight: 46
-url: /net/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
+url: /net/developer-guide/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
 ---
 
 ## **How to setting up quality options for the text, hatches and arcs**

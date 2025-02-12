@@ -2,7 +2,7 @@
 title: Výkresy DWG
 type: docs
 weight: 40
-url: /cs/java/dwg-drawings/
+url: /cs/java/developer-guide/autocad-drawings/dwg-drawings/
 ---
 
 ## **Export DWG Výkresů do PDF**

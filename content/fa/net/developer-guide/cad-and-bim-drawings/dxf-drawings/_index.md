@@ -2,7 +2,7 @@
 title: نقشه‌های DXF
 type: docs
 weight: 60
-url: /fa/net/dxf-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **صادرات نقشه‌های DXF به PDF**

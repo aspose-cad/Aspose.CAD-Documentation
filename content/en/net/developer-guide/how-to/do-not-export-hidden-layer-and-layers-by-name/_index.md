@@ -2,7 +2,7 @@
 title: Do not export hidden layer and layers by name
 type: docs
 weight: 26
-url: /net/how-to/do-not-export-hidden-layer-and-layers-by-name/
+url: /net/developer-guide/how-to/do-not-export-hidden-layer-and-layers-by-name/
 ---
 
 ## **How not to export hidden layer and layers by name**

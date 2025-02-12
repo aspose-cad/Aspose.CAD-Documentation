@@ -2,7 +2,7 @@
 title: Εξαγωγή μόνο ορισμένων οντοτήτων
 type: docs
 weight: 30
-url: /el/net/how-to/export-of-only-some-entities/
+url: /el/net/developer-guide/how-to/export-of-only-some-entities/
 ---
 
 ## **Εξαγωγή μόνο ορισμένων οντοτήτων**

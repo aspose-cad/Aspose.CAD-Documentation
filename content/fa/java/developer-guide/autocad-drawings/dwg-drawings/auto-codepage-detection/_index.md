@@ -2,7 +2,7 @@
 title: تشخیص خودکار کد صفحه
 type: docs
 weight: 10
-url: /fa/java/auto-codepage-detection/
+url: /fa/java/developer-guide/autocad-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **تشخیص خودکار کد صفحه**

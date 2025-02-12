@@ -2,7 +2,7 @@
 title: Čtení tabulek z DWG/DXF
 type: docs
 weight: 12
-url: /cs/how-to/work-with-file/reading-of-tables-from-dwg-dxf
+url: /cs/net/developer-guide/how-to/work-with-file/reading-of-tables-from-dwg-dxf/
 ---
 
 ## **Jak číst tabulky z DWG/DXF**

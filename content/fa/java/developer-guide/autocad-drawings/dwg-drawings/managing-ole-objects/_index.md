@@ -2,7 +2,7 @@
 title: مدیریت اشیاء OLE
 type: docs
 weight: 30
-url: /fa/java/managing-ole-objects/
+url: /fa/java/developer-guide/autocad-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

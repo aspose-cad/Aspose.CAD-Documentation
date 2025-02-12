@@ -2,7 +2,7 @@
 title: نقاشی‌های DXF
 type: docs
 weight: 60
-url: /fa/javascript-net/dxf-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **صادرات فرمت DXF به PNG**

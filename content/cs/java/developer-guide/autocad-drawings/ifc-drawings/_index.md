@@ -2,7 +2,7 @@
 title: Výkresy IFC
 type: docs
 weight: 70
-url: /cs/java/ifc-drawings/
+url: /cs/java/developer-guide/autocad-drawings/ifc-drawings/
 ---
 
 ## **Exportování formátu IFC do PNG**

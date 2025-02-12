@@ -2,7 +2,7 @@
 title: راه اندازی گزینه های قلم
 type: docs
 weight: 45
-url: /fa/net/how-to/setting-up-of-the-pen-options/
+url: /fa/net/developer-guide/how-to/setting-up-of-the-pen-options/
 ---
 
 ## **چگونه گزینه های قلم را راه اندازی کنیم**

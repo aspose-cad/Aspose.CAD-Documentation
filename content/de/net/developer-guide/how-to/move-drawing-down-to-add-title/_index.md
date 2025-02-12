@@ -2,7 +2,7 @@
 title: Zeichnung nach unten verschieben, um Titel hinzuzufügen
 type: docs
 weight: 40
-url: /de/net/how-to/move-drawing-down-to-add-title/
+url: /de/net/developer-guide/how-to/move-drawing-down-to-add-title/
 ---
 
 ## **Wie man die Zeichnung nach unten verschiebt, um einen Titel hinzuzufügen**

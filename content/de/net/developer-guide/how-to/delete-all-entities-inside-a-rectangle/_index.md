@@ -2,7 +2,7 @@
 title: Alle Entitäten innerhalb eines Rechtecks löschen
 type: docs
 weight: 25
-url: /de/net/how-to/delete-all-entities-inside-a-rectangle/
+url: /de/net/developer-guide/how-to/delete-all-entities-inside-a-rectangle/
 ---
 
 ## **Wie man alle Entitäten innerhalb eines Rechtecks löscht**

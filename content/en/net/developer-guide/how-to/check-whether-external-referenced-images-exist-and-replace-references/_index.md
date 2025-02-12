@@ -2,7 +2,7 @@
 title: Check whether external referenced images exist and replace references
 type: docs
 weight: 22
-url: /net/how-to/check-whether-external-referenced-images-exist-and-replace-references/
+url: /net/developer-guide/how-to/check-whether-external-referenced-images-exist-and-replace-references/
 ---
 
 ## **How to edit of hyperlinks on objects**

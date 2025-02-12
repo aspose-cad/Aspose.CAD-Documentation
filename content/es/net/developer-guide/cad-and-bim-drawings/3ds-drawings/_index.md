@@ -2,7 +2,7 @@
 title: Dibujos 3DS
 type: docs
 weight: 70
-url: /es/net/3ds-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **Exportando formato 3DS a PDF**

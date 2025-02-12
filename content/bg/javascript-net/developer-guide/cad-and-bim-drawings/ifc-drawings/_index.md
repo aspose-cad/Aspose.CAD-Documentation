@@ -2,7 +2,7 @@
 title: Чертежи IFC
 type: docs
 weight: 70
-url: /bg/javascript-net/ifc-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Експортиране на формата FBX към PNG**

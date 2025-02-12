@@ -2,7 +2,7 @@
 title: DWF Σχέδια
 type: docs
 weight: 20
-url: /el/java/dwf-drawings/
+url: /el/java/developer-guide/autocad-drawings/dwf-drawings/
 ---
 
 ## **Εξαγωγή Σχεδίων DWF σε PDF**

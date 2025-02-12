@@ -2,7 +2,7 @@
 title: Coloración de insertos con nuevas capas añadidas
 type: docs
 weight: 23
-url: /es/net/how-to/coloring-of-inserts-with-new-added-layers/
+url: /es/net/developer-guide/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 
 ## **Cómo colorear insertos con nuevas capas añadidas (CADNET-1146)**

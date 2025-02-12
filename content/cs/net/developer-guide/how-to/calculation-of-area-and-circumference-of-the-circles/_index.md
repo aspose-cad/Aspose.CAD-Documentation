@@ -2,7 +2,7 @@
 title: Výpočet plochy a obvodu kruhů
 type: docs
 weight: 18
-url: /cs/net/how-to/сalculation-of-area-and-circumference-of-the-circles/
+url: /cs/net/developer-guide/how-to/calculation-of-area-and-circumference-of-the-circles/
 ---
 
 ## **Jak vypočítat plochu a obvod kruhů**

@@ -2,7 +2,7 @@
 title: DGN-Zeichnung
 type: docs
 weight: 10
-url: /de/javascript-net/dgn-zeichnung/
+url: /de/javascript-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Exportieren des DGN-Formats nach PNG**

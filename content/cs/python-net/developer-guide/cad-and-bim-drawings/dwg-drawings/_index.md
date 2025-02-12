@@ -2,7 +2,7 @@
 title: Kresby DWG
 type: docs
 weight: 70
-url: /cs/python-net/kresby-dwg/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Exportování kreseb DWG do formátu PDF**

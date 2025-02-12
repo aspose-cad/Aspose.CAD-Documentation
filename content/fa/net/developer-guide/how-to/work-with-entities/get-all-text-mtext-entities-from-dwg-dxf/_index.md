@@ -2,7 +2,7 @@
 title: دریافت تمام موجودیت‌های TEXT/MTEXT از DWG/DXF
 type: docs
 weight: 20
-url: /fa/net/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf
+url: /fa/net/developer-guide/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf/
 ---
 
 

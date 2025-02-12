@@ -2,7 +2,7 @@
 title: قابلیت قرار دادن و تنظیم متن بر روی تصاویر DWF، به طوری که برخی از درجات ویرایش خروجی رندر شده امکان‌پذیر باشد
 type: docs
 weight: 20
-url: /fa/net/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images
+url: /fa/net/developer-guide/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images/
 ---
 
 ## **چگونه می‌توان متن را روی تصاویر DWF قرار داد و تنظیم کرد**

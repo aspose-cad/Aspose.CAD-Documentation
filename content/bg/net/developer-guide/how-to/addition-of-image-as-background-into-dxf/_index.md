@@ -2,7 +2,7 @@
 title: Добавяне на изображение като фон в DXF
 type: docs
 weight: 16
-url: /bg/how-to/addition-of-image-as-background-into-dxf/
+url: /bg/net/developer-guide/how-to/addition-of-image-as-background-into-dxf/
 ---
 
 ## **Как да добавите изображение като фон в DXF**

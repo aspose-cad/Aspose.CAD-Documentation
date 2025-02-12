@@ -2,7 +2,7 @@
 title: Change lines weight for DWG/DXF
 type: docs
 weight: 20
-url: /net/how-to/work-with-entities/change-lines-weight-for-dwg-dxf
+url: /net/developer-guide/how-to/work-with-entities/change-lines-weight-for-dwg-dxf/
 ---
 
 ## **How to change lines weight for DWG/DXF**

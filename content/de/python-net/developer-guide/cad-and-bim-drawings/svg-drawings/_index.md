@@ -2,7 +2,7 @@
 title: SVG Zeichnungen
 type: docs
 weight: 170
-url: /de/python-net/svg-drawings/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Exportieren von SVG-Formaten nach PDF**

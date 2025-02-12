@@ -2,7 +2,7 @@
 title: Добавяне на изображение като фон в DWG
 type: docs
 weight: 15
-url: /bg/how-to/addition-of-image-as-background-into-dwg/
+url: /bg/net/developer-guide/how-to/addition-of-image-as-background-into-dwg/
 ---
 
 ## **Как да добавите изображение като фон в DWG**

@@ -2,7 +2,7 @@
 title: دریافت مراجع به فایل های خارجی
 type: docs
 weight: 36
-url: /fa/net/how-to/get-references-to-external-files/
+url: /fa/net/developer-guide/how-to/get-references-to-external-files/
 ---
 
 ## **چگونه به مراجع فایل های خارجی دسترسی پیدا کنیم**

@@ -2,7 +2,7 @@
 title: Рисунки DWT
 type: docs
 weight: 50
-url: /bg/java/dwt-drawings/
+url: /bg/java/developer-guide/autocad-drawings/dwt-drawings/
 ---
 
 ## **Поддръжка на файлове DWT**

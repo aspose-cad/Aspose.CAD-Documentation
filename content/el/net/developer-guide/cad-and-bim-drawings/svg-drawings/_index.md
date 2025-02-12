@@ -2,7 +2,7 @@
 title: SVG Σχεδίαση
 type: docs
 weight: 70
-url: /el/net/svg-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Εξαγωγή SVG Μορφής σε PDF**

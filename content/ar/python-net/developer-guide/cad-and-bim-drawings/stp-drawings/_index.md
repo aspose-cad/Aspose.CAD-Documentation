@@ -2,7 +2,7 @@
 title: رسومات STP
 type: docs
 weight: 160
-url: /ar/python-net/stp-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **تصدير تنسيق STP إلى PDF**

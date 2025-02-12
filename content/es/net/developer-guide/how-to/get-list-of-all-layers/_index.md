@@ -2,7 +2,7 @@
 title: Obtener la lista de todas las capas
 type: docs
 weight: 35
-url: /es/net/how-to/get-list-of-all-layers/
+url: /es/net/developer-guide/how-to/get-list-of-all-layers/
 ---
 
 ## **Cómo obtener la lista de todas las capas**

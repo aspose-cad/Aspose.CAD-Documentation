@@ -2,7 +2,7 @@
 title: Чертежи на IFC
 type: docs
 weight: 120
-url: /bg/python-net/ifc-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Изнасяне на формат IFC в PNG**

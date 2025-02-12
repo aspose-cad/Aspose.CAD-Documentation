@@ -2,7 +2,7 @@
 title: نقشه‌های IFC
 type: docs
 weight: 70
-url: /fa/javascript-net/ifc-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **صادرات فرمت FBX به PNG**

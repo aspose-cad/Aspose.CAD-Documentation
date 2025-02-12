@@ -2,7 +2,7 @@
 title: Není exportována skrytá vrstva a vrstvy podle názvu
 type: docs
 weight: 26
-url: /cs/jak-neni-exportovana-skryta-vrstva-a-vrstvy-podle-nazvu/
+url: /cs/net/developer-guide/how-to/do-not-export-hidden-layer-and-layers-by-name/
 ---
 
 ## **Jak neexportovat skrytou vrstvu a vrstvy podle názvu**

@@ -2,7 +2,7 @@
 title: DWT Dibujos
 type: docs
 weight: 80
-url: /es/python-net/dwt-drawings/
+url: /es/python-net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **Soporte para archivos DWT**

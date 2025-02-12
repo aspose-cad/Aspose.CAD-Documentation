@@ -2,7 +2,7 @@
 title: DWG Zeichnungen
 type: docs
 weight: 70
-url: /de/python-net/dwg-drawings/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Exportieren von DWG Zeichnungen nach PDF**

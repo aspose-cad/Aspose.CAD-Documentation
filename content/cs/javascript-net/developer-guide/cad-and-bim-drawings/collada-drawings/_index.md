@@ -2,7 +2,7 @@
 title: Kresby COLLADA
 type: docs
 weight: 70
-url: /cs/javascript-net/kresby-collada-drawings/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Exportování formátu COLLADA do PNG**

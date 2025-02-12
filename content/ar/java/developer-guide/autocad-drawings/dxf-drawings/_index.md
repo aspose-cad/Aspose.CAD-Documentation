@@ -2,7 +2,7 @@
 title: رسومات DXF
 type: docs
 weight: 60
-url: /ar/java/dxf-drawings/
+url: /ar/java/developer-guide/autocad-drawings/dxf-drawings/
 ---
 
 ## **تصدير رسومات DXF إلى PDF**

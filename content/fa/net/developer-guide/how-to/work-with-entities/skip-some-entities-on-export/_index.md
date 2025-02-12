@@ -2,7 +2,7 @@
 title: نادیده گرفتن برخی موجودیت‌ها در صادرات
 type: docs
 weight: 20
-url: /fa/net/how-to/work-with-entities/skip-some-entities-on-export
+url: /fa/net/developer-guide/how-to/work-with-entities/skip-some-entities-on-export/
 ---
 
 

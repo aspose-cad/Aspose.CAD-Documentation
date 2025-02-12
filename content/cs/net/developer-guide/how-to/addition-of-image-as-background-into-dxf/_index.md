@@ -2,7 +2,7 @@
 title: Přidání obrázku jako pozadí do DXF
 type: docs
 weight: 16
-url: /cs/how-to/pridani-obrazku-jako-pozadi-do-dxf/
+url: /cs/net/developer-guide/how-to/addition-of-image-as-background-into-dxf/
 ---
 
 ## **Jak přidat obrázek jako pozadí v DXF**

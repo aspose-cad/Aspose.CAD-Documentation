@@ -2,7 +2,7 @@
 title: Trabajando con Hipervínculos
 type: docs
 weight: 50
-url: /es/net/working-with-hyperlinks/
+url: /es/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Actualizar Hipervínculo en un DWG**

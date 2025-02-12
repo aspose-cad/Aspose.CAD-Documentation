@@ -2,7 +2,7 @@
 title: Benutzerdefinierte Eigenschaften hinzufügen
 type: docs
 weight: 20
-url: /de/net/add-custom-properties/
+url: /de/net/developer-guide/cad-and-bim-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

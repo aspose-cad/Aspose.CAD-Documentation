@@ -2,7 +2,7 @@
 title: نقشه‌های DXF
 type: docs
 weight: 60
-url: /fa/java/dxf-drawings/
+url: /fa/java/developer-guide/autocad-drawings/dxf-drawings/
 ---
 
 ## **صادرات نقشه‌های DXF به PDF**

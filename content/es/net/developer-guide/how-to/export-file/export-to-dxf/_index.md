@@ -2,7 +2,7 @@
 title: Exportar a DXF
 type: docs
 weight: 20
-url: /es/net/how-to/export-file/export-to-dxf
+url: /es/net/developer-guide/how-to/export-file/export-to-dxf/
 ---
 
 ## **Cómo exportar a DXF**

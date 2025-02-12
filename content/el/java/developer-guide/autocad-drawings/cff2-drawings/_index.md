@@ -2,7 +2,7 @@
 title: CFF2 Σχέδια
 type: docs
 weight: 110
-url: /el/java/cff2-drawings/
+url: /el/java/developer-guide/autocad-drawings/cff2-drawings/
 ---
 
 ## **Μετατροπή CF2 σε PDF**

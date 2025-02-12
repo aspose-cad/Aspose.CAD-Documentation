@@ -2,7 +2,7 @@
 title: Смяна на аварийния шрифт и шрифт в стиловете
 type: docs
 weight: 21
-url: /bg/net/how-to/changing-of-the-emergency-font-and-font-in-styles/
+url: /bg/net/developer-guide/how-to/changing-of-the-emergency-font-and-font-in-styles/
 ---
 
 ## **Как да смените аварийния шрифт и шрифта в стиловете**

@@ -2,7 +2,7 @@
 title: Změna písemné polohy a písma v stylech
 type: docs
 weight: 21
-url: /cs/how-to/zmena-pisemne-polohy-a-pisma-v-stylech/
+url: /cs/net/developer-guide/how-to/changing-of-the-emergency-font-and-font-in-styles/
 ---
 
 ## **Jak změnit písemnou polohu a písmo v stylech**

@@ -2,7 +2,7 @@
 title: Dibujos STL
 type: docs
 weight: 100
-url: /es/net/stl-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Exportando el formato STL a PNG**

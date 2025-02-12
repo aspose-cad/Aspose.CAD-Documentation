@@ -2,7 +2,7 @@
 title: Kreslení DWFx
 type: docs
 weight: 30
-url: /cs/javascript-net/dwfx-drawing/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **Exportování formátu DWFX do PNG**

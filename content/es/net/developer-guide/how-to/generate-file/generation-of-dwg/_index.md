@@ -2,7 +2,7 @@
 title: Generación de DWG
 type: docs
 weight: 20
-url: /es/net/how-to/generate-file/generation-of-dwg
+url: /es/net/developer-guide/how-to/generate-file/generation-of-dwg/
 ---
 
 ## **Cómo generar un archivo DWG**

@@ -2,7 +2,7 @@
 title: Εξαγωγή σε μορφή PDF/A
 type: docs
 weight: 33
-url: /el/net/how-to/export-to-pdfa-format/
+url: /el/net/developer-guide/how-to/export-to-pdfa-format/
 ---
 
 ## **Πώς να εξάγετε σε μορφή PDF/A**

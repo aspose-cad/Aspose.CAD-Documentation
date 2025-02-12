@@ -2,7 +2,7 @@
 title: نقشه‌های DWT
 type: docs
 weight: 50
-url: /fa/javascript-net/dwt-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **صادرات فرمت DWT به PNG**

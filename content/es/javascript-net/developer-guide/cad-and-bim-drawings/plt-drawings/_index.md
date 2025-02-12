@@ -2,7 +2,7 @@
 title: Dibujos PLT
 type: docs
 weight: 90
-url: /es/javascript-net/plt-drawings/
+url: /es/javascript-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Exportando Formato PLT a PNG**

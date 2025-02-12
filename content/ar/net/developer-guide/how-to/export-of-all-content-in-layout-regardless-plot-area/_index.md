@@ -2,7 +2,7 @@
 title: تصدير كافة المحتويات في التخطيط بغض النظر عن منطقة الرسم
 type: docs
 weight: 29
-url: /ar/net/how-to/export-of-all-content-in-layout-regardless-plot-area/
+url: /ar/net/developer-guide/how-to/export-of-all-content-in-layout-regardless-plot-area/
 ---
 
 ## **كيفية تصدير كافة المحتويات في التخطيط بغض النظر عن منطقة الرسم**

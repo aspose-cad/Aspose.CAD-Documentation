@@ -2,7 +2,7 @@
 title: رسومات FBX
 type: docs
 weight: 70
-url: /ar/net/fbx-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **تصدير تنسيق FBX إلى PDF**

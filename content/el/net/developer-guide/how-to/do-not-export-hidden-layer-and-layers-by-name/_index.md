@@ -2,7 +2,7 @@
 title: Μη εξαγωγή κρυφού επιπέδου και επιπέδων κατά όνομα
 type: docs
 weight: 26
-url: /el/net/how-to/do-not-export-hidden-layer-and-layers-by-name/
+url: /el/net/developer-guide/how-to/do-not-export-hidden-layer-and-layers-by-name/
 ---
 
 ## **Πώς να μη εξαγάγετε κρυφό επίπεδο και επίπεδα κατά όνομα**

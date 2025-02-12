@@ -2,7 +2,7 @@
 title: Verschieben des Ursprungspunkts der Schraffur näher an die Schraffurgrenze zur Leistungsverbesserung
 type: docs
 weight: 41
-url: /de/net/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
+url: /de/net/developer-guide/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
 ---
 
 ## **So verschieben Sie den Ursprungspunkt der Schraffur näher an die Schraffurgrenze zur Leistungsverbesserung**

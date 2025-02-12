@@ -2,7 +2,7 @@
 title: إعداد كائنات ATTRIB و MTEXT
 type: docs
 weight: 10
-url: /ar/python-net/setting-attrib-and-mtext-objects/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **إعداد كائنات ATTRIB و MTEXT**

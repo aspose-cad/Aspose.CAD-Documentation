@@ -2,7 +2,7 @@
 title: Извличане на целия текст
 type: docs
 weight: 20
-url: /bg/net/how-to/work-with-text/extract-all-text
+url: /bg/net/developer-guide/how-to/work-with-text/extract-all-text/
 ---
 
 

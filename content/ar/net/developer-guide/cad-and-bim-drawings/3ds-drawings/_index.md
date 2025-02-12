@@ -2,7 +2,7 @@
 title: رسومات 3DS
 type: docs
 weight: 70
-url: /ar/net/3ds-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **تصدير تنسيق 3DS إلى PDF**

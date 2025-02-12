@@ -2,7 +2,7 @@
 title: Kresby CFF2
 type: docs
 weight: 110
-url: /cs/java/cff2-drawings/
+url: /cs/java/developer-guide/autocad-drawings/cff2-drawings/
 ---
 
 ## **Převod CF2 na PDF**

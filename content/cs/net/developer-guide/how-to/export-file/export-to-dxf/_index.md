@@ -2,7 +2,7 @@
 title: Exportovat do DXF
 type: docs
 weight: 20
-url: /cs/how-to/export-file/export-to-dxf
+url: /cs/net/developer-guide/how-to/export-file/export-to-dxf/
 ---
 
 ## **Jak exportovat do DXF**

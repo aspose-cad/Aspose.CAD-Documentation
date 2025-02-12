@@ -2,7 +2,7 @@
 title: Obtener referencias a archivos externos
 type: docs
 weight: 36
-url: /es/net/how-to/get-references-to-external-files/
+url: /es/net/developer-guide/how-to/get-references-to-external-files/
 ---
 
 ## **Cómo obtener referencias a archivos externos**

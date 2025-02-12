@@ -2,7 +2,7 @@
 title: Überprüfen, ob externe referenzierte Bilder existieren und Referenzen ersetzen
 type: docs
 weight: 22
-url: /de/net/how-to/check-whether-external-referenced-images-exist-and-replace-references/
+url: /de/net/developer-guide/how-to/check-whether-external-referenced-images-exist-and-replace-references/
 ---
 
 ## **So bearbeiten Sie Hyperlinks auf Objekten**

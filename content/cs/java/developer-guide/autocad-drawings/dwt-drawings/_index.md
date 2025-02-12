@@ -2,7 +2,7 @@
 title: Výkresy DWT
 type: docs
 weight: 50
-url: /cs/java/dwt-vykresy/
+url: /cs/java/developer-guide/autocad-drawings/dwt-drawings/
 ---
 
 ## **Podpora pro soubory DWT**

@@ -2,7 +2,7 @@
 title: شناسایی خودکار صفحه کد
 type: docs
 weight: 10
-url: /fa/net/auto-codepage-detection/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **شناسایی خودکار صفحه کد**

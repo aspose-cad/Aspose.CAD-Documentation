@@ -2,7 +2,7 @@
 title: DWFx رسم
 type: docs
 weight: 30
-url: /ar/javascript-net/dwfx-drawing/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **تصدير تنسيق DWFX إلى PNG**

@@ -2,7 +2,7 @@
 title: تغيير نقطة المراقبة
 type: docs
 weight: 19
-url: /ar/net/how-to/change-of-observer-point/
+url: /ar/net/developer-guide/how-to/change-of-observer-point/
 ---
 
 ## **كيفية تغيير نقطة المراقبة**

@@ -2,7 +2,7 @@
 title: Πώς να αποκτήσετε αναφορές σε εξωτερικά αρχεία
 type: docs
 weight: 36
-url: /el/net/how-to/get-references-to-external-files/
+url: /el/net/developer-guide/how-to/get-references-to-external-files/
 ---
 
 ## **Πώς να αποκτήσετε αναφορές σε εξωτερικά αρχεία**

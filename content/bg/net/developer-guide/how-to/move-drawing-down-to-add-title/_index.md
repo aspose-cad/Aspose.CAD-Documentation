@@ -2,7 +2,7 @@
 title: Преместване на чертежа надолу, за да се добави заглавие
 type: документация
 weight: 40
-url: /bg/net/how-to/move-drawing-down-to-add-title/
+url: /bg/net/developer-guide/how-to/move-drawing-down-to-add-title/
 ---
 
 ## **Как да преместите чертежа надолу, за да добавите заглавие**

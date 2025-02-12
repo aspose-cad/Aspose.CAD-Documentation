@@ -2,5 +2,5 @@
 title: Práce s textem
 type: docs
 weight: 10
-url: /cs/net/how-to/prace-s-textem
+url: /cs/net/developer-guide/how-to/work-with-text/
 ---

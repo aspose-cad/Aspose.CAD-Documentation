@@ -2,7 +2,7 @@
 title: Рисунки CF2
 type: docs
 weight: 110
-url: /bg/javascript-net/cf2-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **Експортиране на формат CF2 към PNG**

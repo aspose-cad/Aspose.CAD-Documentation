@@ -2,7 +2,7 @@
 title: Výkresy CF2
 type: docs
 weight: 10
-url: /cs/python-net/cf2-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **Převod CF2 do PDF**

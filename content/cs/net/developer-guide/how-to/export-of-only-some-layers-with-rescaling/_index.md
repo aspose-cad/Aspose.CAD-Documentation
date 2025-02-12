@@ -2,7 +2,7 @@
 title: Export pouze některých vrstev s přizpůsobením měřítka
 type: docs
 weight: 31
-url: /cs/how-to/export-of-only-some-layers-with-rescaling/
+url: /cs/net/developer-guide/how-to/export-of-only-some-layers-with-rescaling/
 ---
 
 ## **Export pouze některých vrstev s přizpůsobením měřítka (CADNET-559)**

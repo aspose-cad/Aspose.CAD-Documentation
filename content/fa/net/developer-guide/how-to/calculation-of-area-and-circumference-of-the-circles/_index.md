@@ -2,7 +2,7 @@
 title: محاسبه مساحت و محیط دایره‌ها
 type: docs
 weight: 18
-url: /fa/net/how-to/сalculation-of-area-and-circumference-of-the-circles/
+url: /fa/net/developer-guide/how-to/calculation-of-area-and-circumference-of-the-circles/
 ---
 
 ## **چگونه مساحت و محیط دایره‌ها را محاسبه کنیم**

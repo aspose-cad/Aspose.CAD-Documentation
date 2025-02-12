@@ -2,7 +2,7 @@
 title: Kresby DWT
 type: docs
 weight: 50
-url: /cs/javascript-net/dwt-kresby/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **Export formátu DWT do PNG**

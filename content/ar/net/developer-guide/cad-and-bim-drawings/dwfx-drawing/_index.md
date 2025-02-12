@@ -2,7 +2,7 @@
 title: رسم DWFx
 type: docs
 weight: 30
-url: /ar/net/dwfx-drawing/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **رسم DWFx**

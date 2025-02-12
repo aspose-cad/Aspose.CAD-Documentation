@@ -2,7 +2,7 @@
 title: Adición de imagen como fondo en DWG
 type: docs
 weight: 15
-url: /es/net/how-to/adicion-de-imagen-como-fondo-en-dwg/
+url: /es/net/developer-guide/how-to/addition-of-image-as-background-into-dwg/
 ---
 
 ## **Cómo agregar una imagen como fondo en DWG**

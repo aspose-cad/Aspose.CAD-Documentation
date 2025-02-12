@@ -2,7 +2,7 @@
 title: SVG Δεδομένα
 type: docs
 weight: 170
-url: /el/python-net/svg-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Εξαγωγή SVG Μορφής σε PDF**

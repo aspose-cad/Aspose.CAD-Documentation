@@ -2,7 +2,7 @@
 title: نقشه‌های PLT
 type: docs
 weight: 90
-url: /fa/java/plt-drawings/
+url: /fa/java/developer-guide/autocad-drawings/plt-drawings/
 ---
 
 ## **صادرات PLT به JPEG**

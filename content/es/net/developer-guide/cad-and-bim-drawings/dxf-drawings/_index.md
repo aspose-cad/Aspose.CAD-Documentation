@@ -2,7 +2,7 @@
 title: Dibujos DXF
 type: docs
 weight: 60
-url: /es/net/dxf-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Exportando Dibujos DXF a PDF**

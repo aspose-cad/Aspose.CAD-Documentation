@@ -2,7 +2,7 @@
 title: STL-Zeichnungen
 type: docs
 weight: 100
-url: /de/java/stl-zeichnungen/
+url: /de/java/developer-guide/autocad-drawings/stl-drawings/
 ---
 
 ## **STL in das PNG-Format exportieren**

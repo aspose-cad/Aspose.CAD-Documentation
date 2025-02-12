@@ -2,7 +2,7 @@
 title: Δ Drawing DGN
 type: docs
 weight: 10
-url: /el/java/dgn-drawing/
+url: /el/java/developer-guide/autocad-drawings/dgn-drawing/
 ---
 
 ## **Σχεδίαση Μορφής DGN Ως Μέρος του DWG**

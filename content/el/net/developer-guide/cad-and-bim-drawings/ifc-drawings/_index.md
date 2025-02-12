@@ -2,7 +2,7 @@
 title: IFC Drawings
 type: docs
 weight: 70
-url: /el/net/ifc-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Εξαγωγή Μορφής IFC σε PNG**

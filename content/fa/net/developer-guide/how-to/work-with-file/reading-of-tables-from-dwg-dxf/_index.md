@@ -2,7 +2,7 @@
 title: خواندن جداول از DWG/DXF
 type: docs
 weight: 12
-url: /fa/net/how-to/work-with-file/reading-of-tables-from-dwg-dxf
+url: /fa/net/developer-guide/how-to/work-with-file/reading-of-tables-from-dwg-dxf/
 ---
 
 ## **چگونه جداول را از DWG/DXF بخوانیم**

@@ -2,7 +2,7 @@
 title: Рисунки CF2
 type: документация
 weight: 10
-url: /bg/python-net/cf2-рисунки/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **Преобразуване на CF2 в PDF**

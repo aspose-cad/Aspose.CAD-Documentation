@@ -2,7 +2,7 @@
 title: Export všeho obsahu v rozvržení bez ohledu na oblast výsečky
 type: docs
 weight: 29
-url: /cs/how-to/export-vseho-obsahu-v-rozvrzeni-bez-ohledu-na-oblast-vysecky/
+url: /cs/net/developer-guide/how-to/export-of-all-content-in-layout-regardless-plot-area/
 ---
 
 ## **Jak exportovat všechny obsah v rozvržení bez ohledu na oblast výsečky**

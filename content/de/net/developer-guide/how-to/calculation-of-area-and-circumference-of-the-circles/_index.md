@@ -2,7 +2,7 @@
 title: Berechnung von Fläche und Umfang der Kreise
 type: docs
 weight: 18
-url: /de/net/how-to/berechnung-von-flaeche-und-umfang-der-kreise/
+url: /de/net/developer-guide/how-to/calculation-of-area-and-circumference-of-the-circles/
 ---
 
 ## **Wie man die Fläche und den Umfang der Kreise berechnet**

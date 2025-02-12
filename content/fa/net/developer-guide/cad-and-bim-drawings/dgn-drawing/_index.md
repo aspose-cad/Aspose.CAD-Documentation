@@ -2,7 +2,7 @@
 title: ترسیم DGN
 type: docs
 weight: 10
-url: /fa/net/dgn-drawing/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **ترسیم فرمت DGN به عنوان بخشی از DWG**

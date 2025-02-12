@@ -2,7 +2,7 @@
 title: Výkres formátu DGN
 type: docs
 weight: 10
-url: /cs/java/dgn-drawing/
+url: /cs/java/developer-guide/autocad-drawings/dgn-drawing/
 ---
 
 ## **Kreslení formátu DGN jako součást DWG**

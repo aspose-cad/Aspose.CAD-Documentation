@@ -2,7 +2,7 @@
 title: Получаване на стойност на атрибут на блок от външна референция
 type: docs
 weight: 60
-url: /bg/net/get-block-attribute-value-of-external-reference/
+url: /bg/net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **Получаване на стойност на атрибут на блок**

@@ -2,7 +2,7 @@
 title: Vložení výkresu DXF/DWG do souboru DWG
 type: docs
 weight: 38
-url: /cs/jak-na/vlozeni-vykresu-dxf-dwg-do-dwg/
+url: /cs/net/developer-guide/how-to/insert-dxf-dwg-drawing-inside-dwg/
 ---
 
 ## **Jak vložit výkres DXF/DWG do souboru DWG**

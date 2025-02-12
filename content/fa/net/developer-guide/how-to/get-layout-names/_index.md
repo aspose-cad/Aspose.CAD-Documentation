@@ -2,7 +2,7 @@
 title: دریافت نام‌های طرح
 type: docs
 weight: 34
-url: /fa/net/how-to/get-layout-names/
+url: /fa/net/developer-guide/how-to/get-layout-names/
 ---
 
 ## **چگونه نام‌های طرح را دریافت کنیم**

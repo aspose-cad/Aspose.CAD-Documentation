@@ -2,7 +2,7 @@
 title: Úprava hyper odkazů na objekty
 type: docs
 weight: 28
-url: /cs/how-to/edit-of-hyperlinks-on-objects/
+url: /cs/net/developer-guide/how-to/edit-of-hyperlinks-on-objects/
 ---
 
 ## **Jak upravit hyper odkazy na objekty**

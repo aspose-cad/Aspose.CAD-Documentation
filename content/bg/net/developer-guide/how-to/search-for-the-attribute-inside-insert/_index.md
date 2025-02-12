@@ -2,7 +2,7 @@
 title: Търсене на атрибут вътре в инсерт
 type: docs
 weight: 44
-url: /bg/net/how-to/search-for-the-attribute-inside-insert/
+url: /bg/net/developer-guide/how-to/search-for-the-attribute-inside-insert/
 ---
 
 ## **Как да търсим за атрибут вътре в инсерт**

@@ -2,7 +2,7 @@
 title: Kresba DWFx
 type: docs
 weight: 30
-url: /cs/net/dwfx-drawing/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **Kresba DWFx**

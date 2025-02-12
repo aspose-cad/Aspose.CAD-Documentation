@@ -2,7 +2,7 @@
 title: Einstellung von ATTRIB- und MTEXT-Objekten
 type: docs
 weight: 10
-url: /de/net/setting-attrib-and-mtext-objects/
+url: /de/net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **Einstellung von ATTRIB- und MTEXT-Objekten**

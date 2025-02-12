@@ -2,7 +2,7 @@
 title: تغییر عرض خط پلی‌لاین 
 type: docs
 weight: 20
-url: /fa/net/how-to/change-width-of-the-polyline/
+url: /fa/net/developer-guide/how-to/change-width-of-the-polyline/
 ---
 
 ## **چگونه عرض خط پلی‌لاین را تغییر دهیم**

@@ -2,7 +2,7 @@
 title: DWFx Σχέδιο
 type: docs
 weight: 30
-url: /el/net/dwfx-drawing/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **DWFx Σχέδιο**

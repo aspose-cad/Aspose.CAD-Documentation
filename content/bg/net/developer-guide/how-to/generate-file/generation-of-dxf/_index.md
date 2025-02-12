@@ -2,7 +2,7 @@
 title: Генериране на DXF
 type: docs
 weight: 20
-url: /bg/how-to/generate-file/generation-of-dxf
+url: /bg/net/developer-guide/how-to/generate-file/generation-of-dxf/
 ---
 
 ## **Как да генерирате DXF**

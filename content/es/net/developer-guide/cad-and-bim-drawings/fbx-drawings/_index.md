@@ -2,7 +2,7 @@
 title: Dibujos FBX
 type: docs
 weight: 70
-url: /es/net/fbx-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **Exportando Formato FBX a PDF**

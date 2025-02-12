@@ -2,7 +2,7 @@
 title: Πώς να αποκτήσετε ονόματα διάταξης
 type: docs
 weight: 34
-url: /el/net/how-to/get-layout-names/
+url: /el/net/developer-guide/how-to/get-layout-names/
 ---
 
 ## **Πώς να αποκτήσετε ονόματα διάταξης**

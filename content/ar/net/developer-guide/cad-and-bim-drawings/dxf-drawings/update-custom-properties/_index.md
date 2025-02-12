@@ -2,7 +2,7 @@
 title: إضافة خصائص مخصصة
 type: docs
 weight: 20
-url: /ar/net/add-custom-properties/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

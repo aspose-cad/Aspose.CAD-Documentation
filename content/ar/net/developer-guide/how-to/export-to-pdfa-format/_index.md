@@ -2,7 +2,7 @@
 title: تصدير إلى تنسيق PDF/A
 type: docs
 weight: 33
-url: /ar/net/how-to/export-to-pdfa-format/
+url: /ar/net/developer-guide/how-to/export-to-pdfa-format/
 ---
 
 ## **كيفية التصدير إلى تنسيق PDF/A**

@@ -2,7 +2,7 @@
 title: Игес Чертежи
 type: docs
 weight: 80
-url: /bg/javascript-net/iges-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **Експорт на IGES формат към PNG**

@@ -2,7 +2,7 @@
 title: Рисунки COLLADA
 type: docs
 weight: 20
-url: /bg/python-net/collada-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Изнасяне на Формат COLLADA в PDF**

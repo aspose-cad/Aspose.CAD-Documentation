@@ -2,7 +2,7 @@
 title: جایگزینی فونت‌ها
 type: docs
 weight: 20
-url: /fa/net/how-to/work-with-fonts/substitute-fonts
+url: /fa/net/developer-guide/how-to/work-with-fonts/substitute-fonts/
 ---
 
 

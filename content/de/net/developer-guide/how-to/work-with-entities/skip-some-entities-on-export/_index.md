@@ -2,7 +2,7 @@
 title: Überspringen Sie einige Entitäten beim Export
 type: docs
 weight: 20
-url: /de/net/how-to/work-with-entities/skip-some-entities-on-export
+url: /de/net/developer-guide/how-to/work-with-entities/skip-some-entities-on-export/
 ---
 
 

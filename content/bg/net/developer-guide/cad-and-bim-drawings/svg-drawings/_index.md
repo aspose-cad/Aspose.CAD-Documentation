@@ -2,7 +2,7 @@
 title: Графични изображения SVG
 type: документация
 weight: 70
-url: /bg/net/svg-изображения/
+url: /bg/net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Експортиране на формат SVG в PDF**

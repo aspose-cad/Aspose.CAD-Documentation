@@ -2,7 +2,7 @@
 title: Σχέδιο DGN
 type: docs
 weight: 30
-url: /el/python-net/dgn-drawing/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Εξαγωγή Σχεδίων DGN σε PDF**

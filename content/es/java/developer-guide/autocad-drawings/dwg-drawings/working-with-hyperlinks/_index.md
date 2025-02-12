@@ -2,7 +2,7 @@
 title: Trabajando con hiperenlaces
 type: docs
 weight: 40
-url: /es/java/working-with-hyperlinks/
+url: /es/java/developer-guide/autocad-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Actualizar hiperenlace en un DWG**

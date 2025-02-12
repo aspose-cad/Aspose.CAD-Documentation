@@ -2,7 +2,7 @@
 title: ایجاد مستطیل به عنوان پلی‌لاین و پر کردن آن با طرح
 type: docs
 weight: 24
-url: /fa/net/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
+url: /fa/net/developer-guide/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
 ---
 
 ## **چگونه مستطیل را به عنوان پلی‌لاین ایجاد کرده و آن را با طرح پر کنیم**

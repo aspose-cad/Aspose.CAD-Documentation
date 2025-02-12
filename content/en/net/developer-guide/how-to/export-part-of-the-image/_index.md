@@ -2,7 +2,7 @@
 title: Export part of the image
 type: docs
 weight: 32
-url: /net/how-to/export-part-of-the-image/
+url: /net/developer-guide/how-to/export-part-of-the-image/
 ---
 
 ## **How to export part of the image**

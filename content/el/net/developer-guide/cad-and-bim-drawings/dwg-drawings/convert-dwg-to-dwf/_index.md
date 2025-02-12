@@ -2,7 +2,7 @@
 title: Μετατροπή DWG σε DWF
 type: docs
 weight: 20
-url: /el/net/convert-dwg-to-dwf/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwg-drawings/convert-dwg-to-dwf/
 ---
 
 ## **Πώς να μετατρέψετε DWG σε DWF**

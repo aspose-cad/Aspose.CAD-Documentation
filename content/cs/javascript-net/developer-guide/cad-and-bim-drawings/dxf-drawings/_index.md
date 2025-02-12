@@ -2,7 +2,7 @@
 title: Výkresy DXF
 type: docs
 weight: 60
-url: /cs/javascript-net/vykresy-dxf/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Exportování formátu DXF do PNG**

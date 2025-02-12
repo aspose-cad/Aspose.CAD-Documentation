@@ -2,7 +2,7 @@
 title: Dibujo DWF
 type: docs
 weight: 20
-url: /es/javascript-net/dwf-drawings/
+url: /es/javascript-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Exportando formato DWF a PNG**

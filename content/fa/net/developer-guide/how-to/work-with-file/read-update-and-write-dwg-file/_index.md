@@ -2,7 +2,7 @@
 title: خواندن، به‌روزرسانی و نوشتن فایل DWG
 type: docs
 weight: 11
-url: /fa/net/how-to/work-with-file/read-update-and-write-dwg-file
+url: /fa/net/developer-guide/how-to/work-with-file/read-update-and-write-dwg-file/
 ---
 
 ## **چگونه فایل DWG را بخوانیم، به‌روزرسانی کنیم و بنویسیم**

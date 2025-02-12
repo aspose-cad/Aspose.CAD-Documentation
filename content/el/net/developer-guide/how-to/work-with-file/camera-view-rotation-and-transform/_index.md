@@ -2,7 +2,7 @@
 title: Περιστροφή και μετασχηματισμός προβολής κάμερας
 type: docs
 weight: 10
-url: /el/net/how-to/work-with-file/camera-view-rotation-and-transform
+url: /el/net/developer-guide/how-to/work-with-file/camera-view-rotation-and-transform/
 ---
 
 ## **Πώς να αλλάξετε την περιστροφή και τον μετασχηματισμό της κάμερας**

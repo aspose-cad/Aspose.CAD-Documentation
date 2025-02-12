@@ -2,7 +2,7 @@
 title: Qualitätsoptionen für Text, Schraffuren und Bögen einrichten
 type: docs
 weight: 46
-url: /de/net/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
+url: /de/net/developer-guide/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
 ---
 
 ## **So richten Sie die Qualitätsoptionen für Text, Schraffuren und Bögen ein**

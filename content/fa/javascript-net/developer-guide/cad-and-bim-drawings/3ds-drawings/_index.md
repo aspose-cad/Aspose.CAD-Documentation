@@ -2,7 +2,7 @@
 title: ۳D طراحی‌ها
 type: docs
 weight: 70
-url: /fa/javascript-net/3ds-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **صادرات فرمت ۳DS به PNG**

@@ -2,7 +2,7 @@
 title: نقشه‌های STP
 type: docs
 weight: 70
-url: /fa/javascript-net/stp-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **صادرات فرمت STP به PNG**

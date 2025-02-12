@@ -2,7 +2,7 @@
 title: Αναζήτηση Κειμένου σε Αρχείο DWG AutoCAD
 type: docs
 weight: 40
-url: /el/net/search-text-in-dwg-autocad-file/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwg-drawings/search-text-in-dwg-autocad-file/
 ---
 
 ## **Αναζήτηση Κειμένου σε Αρχείο DWG AutoCAD**

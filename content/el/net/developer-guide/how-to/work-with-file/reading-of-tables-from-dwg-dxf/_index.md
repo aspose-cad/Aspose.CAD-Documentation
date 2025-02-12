@@ -2,7 +2,7 @@
 title: Ανάγνωση πινάκων από DWG/DXF
 type: docs
 weight: 12
-url: /el/net/how-to/work-with-file/reading-of-tables-from-dwg-dxf
+url: /el/net/developer-guide/how-to/work-with-file/reading-of-tables-from-dwg-dxf/
 ---
 
 ## **Πώς να διαβάσετε πίνακες από DWG/DXF**

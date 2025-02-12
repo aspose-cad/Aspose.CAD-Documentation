@@ -2,7 +2,7 @@
 title: Въведение
 type: docs
 weight: 10
-url: /bg/python-net/въведение/
+url: /bg/python-net/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

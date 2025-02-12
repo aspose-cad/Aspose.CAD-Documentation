@@ -2,7 +2,7 @@
 title: Bearbeitung von Hyperlinks in Objekten
 type: docs
 weight: 28
-url: /de/net/how-to/edit-of-hyperlinks-on-objects/
+url: /de/net/developer-guide/how-to/edit-of-hyperlinks-on-objects/
 ---
 
 ## **Wie man Hyperlinks in Objekten bearbeitet**

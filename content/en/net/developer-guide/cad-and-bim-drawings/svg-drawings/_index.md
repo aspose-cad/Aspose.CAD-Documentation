@@ -2,7 +2,7 @@
 title: SVG Drawings
 type: docs
 weight: 70
-url: /net/svg-drawings/
+url: /net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Exporting SVG Format To PDF**

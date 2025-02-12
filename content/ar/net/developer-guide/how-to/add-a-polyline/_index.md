@@ -2,7 +2,7 @@
 title: إضافة خط متقطع
 type: docs
 weight: 13
-url: /ar/net/how-to/add-a-polyline/
+url: /ar/net/developer-guide/how-to/add-a-polyline/
 ---
 
 ## **كيفية إضافة خط متقطع**

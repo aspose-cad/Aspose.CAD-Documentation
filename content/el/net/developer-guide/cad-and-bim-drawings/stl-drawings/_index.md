@@ -2,7 +2,7 @@
 title: Σχέδια STL
 type: docs
 weight: 100
-url: /el/net/stl-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Εξαγωγή μορφής STL σε PNG**

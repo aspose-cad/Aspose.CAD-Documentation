@@ -2,7 +2,7 @@
 title: تحويل DWG إلى PDF مع الإحداثيات
 type: docs
 weight: 80
-url: /ar/java/convert-dwg-to-pdf-with-coordinates/
+url: /ar/java/developer-guide/autocad-drawings/dwg-drawings/convert-dwg-to-dwf-with-coordinatesconvert-dwg-to-pdf-with-coordinates/
 ---
 
 

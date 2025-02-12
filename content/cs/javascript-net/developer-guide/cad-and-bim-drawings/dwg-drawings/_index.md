@@ -2,7 +2,7 @@
 title: Výkresy DWG
 type: docs
 weight: 40
-url: /cs/javascript-net/dwg-drawings/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Exportování formátu DWG do PNG**

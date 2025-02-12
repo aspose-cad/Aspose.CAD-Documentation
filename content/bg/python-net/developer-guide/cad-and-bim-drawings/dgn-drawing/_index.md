@@ -2,7 +2,7 @@
 title: Изчертаване на DGN чертежи
 type: docs
 weight: 30
-url: /bg/python-net/dgn-drawing/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Експорт на DGN чертежи към PDF**

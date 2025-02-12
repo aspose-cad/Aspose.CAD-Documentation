@@ -2,7 +2,7 @@
 title: Určení režimu vykreslování pro soubory DWG a DXF
 type: docs
 weight: 13
-url: /cs/how-to/work-with-file/urceni-rezimu-vykreslovani-pro-soubory-dwg-dxf
+url: /cs/net/developer-guide/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files/
 ---
 
 

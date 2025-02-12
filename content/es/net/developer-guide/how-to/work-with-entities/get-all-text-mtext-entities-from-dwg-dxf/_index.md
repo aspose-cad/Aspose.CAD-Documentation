@@ -2,7 +2,7 @@
 title: Obtener todas las entidades TEXT/MTEXT de DWG/DXF
 type: docs
 weight: 20
-url: /es/net/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf
+url: /es/net/developer-guide/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf/
 ---
 
 

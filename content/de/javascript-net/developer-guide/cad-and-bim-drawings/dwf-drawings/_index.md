@@ -2,7 +2,7 @@
 title: DWF Zeichnungen
 type: docs
 weight: 20
-url: /de/javascript-net/dwf-zeichnungen/
+url: /de/javascript-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Exportieren im DWF-Format nach PNG**

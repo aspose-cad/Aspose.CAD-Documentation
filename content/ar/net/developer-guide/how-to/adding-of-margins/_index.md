@@ -2,7 +2,7 @@
 title: إضافة الهوامش
 type: docs
 weight: 14
-url: /ar/net/how-to/adding-of-margins/
+url: /ar/net/developer-guide/how-to/adding-of-margins/
 ---
 
 ## **كيفية إضافة الهوامش**

@@ -2,7 +2,7 @@
 title: Export of all content in layout regardless plot area
 type: docs
 weight: 29
-url: /net/how-to/export-of-all-content-in-layout-regardless-plot-area/
+url: /net/developer-guide/how-to/export-of-all-content-in-layout-regardless-plot-area/
 ---
 
 ## **How to export of all content in layout regardless plot area**

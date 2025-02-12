@@ -2,7 +2,7 @@
 title: FBX Σχέδια
 type: docs
 weight: 70
-url: /el/javascript-net/fbx-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **Εξαγωγή FBX Μορφής σε PNG**

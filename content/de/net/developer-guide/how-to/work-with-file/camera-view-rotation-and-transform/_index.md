@@ -2,7 +2,7 @@
 title: Kamerasichtrotation und Transformation
 type: docs
 weight: 10
-url: /de/net/how-to/work-with-file/camera-view-rotation-and-transform
+url: /de/net/developer-guide/how-to/work-with-file/camera-view-rotation-and-transform/
 ---
 
 ## **Wie man die Kamerarotation und Transformation ändert**

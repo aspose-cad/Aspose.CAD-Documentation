@@ -2,7 +2,7 @@
 title: Moving of hatch origin point closer to hatch boundary to improve performance
 type: docs
 weight: 41
-url: /fa/net/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
+url: /fa/net/developer-guide/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
 ---
 
 ## **چگونه نقطه مبدا هچ را به مرز هچ نزدیکتر کنیم تا عملکرد را بهبود بخشیم**

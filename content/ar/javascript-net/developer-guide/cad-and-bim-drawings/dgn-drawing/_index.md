@@ -2,7 +2,7 @@
 title: رسم DGN
 type: docs
 weight: 10
-url: /ar/javascript-net/dgn-drawing/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **تصدير تنسيق DGN إلى PNG**

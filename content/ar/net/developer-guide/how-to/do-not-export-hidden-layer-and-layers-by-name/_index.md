@@ -2,7 +2,7 @@
 title: لا تصدر الطبقة المخفية والطبقات حسب الاسم
 type: docs
 weight: 26
-url: /ar/net/how-to/do-not-export-hidden-layer-and-layers-by-name/
+url: /ar/net/developer-guide/how-to/do-not-export-hidden-layer-and-layers-by-name/
 ---
 
 ## **كيفية عدم تصدير الطبقة المخفية والطبقات حسب الاسم**

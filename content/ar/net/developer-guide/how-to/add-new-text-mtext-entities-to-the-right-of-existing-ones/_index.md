@@ -2,7 +2,7 @@
 title: إضافة كائنات TEXT/MTEXT جديدة إلى يمين الكائنات الموجودة 
 type: docs
 weight: 17
-url: /ar/net/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
+url: /ar/net/developer-guide/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
 ---
 
 ## **كيفية إضافة كائنات TEXT/MTEXT جديدة إلى يمين الكائنات الموجودة**

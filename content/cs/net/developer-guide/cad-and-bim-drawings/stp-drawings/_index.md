@@ -2,7 +2,7 @@
 title: Výkresy STP
 type: docs
 weight: 70
-url: /cs/net/stp-kresby/
+url: /cs/net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Export formátu STP do PDF**

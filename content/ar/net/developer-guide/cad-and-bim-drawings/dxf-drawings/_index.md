@@ -2,7 +2,7 @@
 title: رسومات DXF
 type: docs
 weight: 60
-url: /ar/net/dxf-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **تصدير رسومات DXF إلى PDF**

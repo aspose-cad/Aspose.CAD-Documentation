@@ -2,7 +2,7 @@
 title: درج نقشه DXF/DWG درون DXF
 type: docs
 weight: 39
-url: /fa/net/how-to/insert-dxf-dwg-drawing-inside-dxf/
+url: /fa/net/developer-guide/how-to/insert-dxf-dwg-drawing-inside-dxf/
 ---
 
 ## **نحوه درج نقشه DXF/DWG درون DXF**

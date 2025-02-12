@@ -2,7 +2,7 @@
 title: Εξαγωγή όλου του κειμένου
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-text/extract-all-text
+url: /el/net/developer-guide/how-to/work-with-text/extract-all-text/
 ---
 
 

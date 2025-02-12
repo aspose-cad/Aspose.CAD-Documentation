@@ -2,7 +2,7 @@
 title: Získání velikosti rozložení
 type: docs
 weight: 37
-url: /cs/net/how-to/ziskani-velikosti-rozlozeni/
+url: /cs/net/developer-guide/how-to/get-size-of-the-layout/
 ---
 
 ## **Jak získat velikost rozložení**

@@ -2,7 +2,7 @@
 title: کار با فرمت فایل OBJ
 type: docs
 weight: 120
-url: /fa/javascript-net/working-with-obj-file-format/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

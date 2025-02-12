@@ -2,7 +2,7 @@
 title: Barevné zvýraznění vkládaných prvků s nově přidanými vrstvami
 type: docs
 weight: 23
-url: /cs/jak-na/barevne-zvýraznění-vkládaných-prvků-s-nově-přidanými-vrstvami/
+url: /cs/net/developer-guide/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 
 ## **Jak zvýraznit vkládané prvky s nově přidanými vrstvami (CADNET-1146)**

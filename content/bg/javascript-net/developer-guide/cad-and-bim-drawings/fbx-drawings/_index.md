@@ -2,7 +2,7 @@
 title: Рисунки FBX
 type: docs
 weight: 70
-url: /bg/javascript-net/fbx-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **Експортиране на формат FBX към PNG**

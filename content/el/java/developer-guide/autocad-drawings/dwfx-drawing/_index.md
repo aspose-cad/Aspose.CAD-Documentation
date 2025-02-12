@@ -2,7 +2,7 @@
 title: DWFx Σχέδιο
 type: docs
 weight: 30
-url: /el/java/dwfx-drawing/
+url: /el/java/developer-guide/autocad-drawings/dwfx-drawing/
 ---
 
 ## **DWFx Σχέδιο**

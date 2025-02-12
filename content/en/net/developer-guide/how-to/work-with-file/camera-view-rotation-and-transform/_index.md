@@ -2,7 +2,7 @@
 title: Camera view rotation and transform
 type: docs
 weight: 10
-url: /net/how-to/work-with-file/camera-view-rotation-and-transform
+url: /net/developer-guide/how-to/work-with-file/camera-view-rotation-and-transform/
 ---
 
 ## **How to change camera rotation and transform**

@@ -2,7 +2,7 @@
 title: DXF Σχέδια
 type: docs
 weight: 60
-url: /el/javascript-net/dxf-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Εξαγωγή Δεδομένων DXF σε PNG**

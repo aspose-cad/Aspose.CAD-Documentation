@@ -2,7 +2,7 @@
 title: Trabajando con Marca de Agua
 type: docs
 weight: 50
-url: /es/java/working-with-watermark/
+url: /es/java/developer-guide/autocad-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Agregar Marca de Agua en un DWG**

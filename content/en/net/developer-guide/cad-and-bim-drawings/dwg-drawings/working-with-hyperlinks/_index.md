@@ -2,7 +2,7 @@
 title: Working with Hyperlinks
 type: docs
 weight: 50
-url: /net/working-with-hyperlinks/
+url: /net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Update Hyperlink in a DWG**

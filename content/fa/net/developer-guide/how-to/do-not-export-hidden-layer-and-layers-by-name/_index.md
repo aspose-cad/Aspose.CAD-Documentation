@@ -2,7 +2,7 @@
 title: لایه‌های پنهان و لایه‌ها را بر اساس نام صادر نکنید
 type: docs
 weight: 26
-url: /fa/net/how-to/do-not-export-hidden-layer-and-layers-by-name/
+url: /fa/net/developer-guide/how-to/do-not-export-hidden-layer-and-layers-by-name/
 ---
 
 ## **چگونه لایه‌های پنهان و لایه‌ها را بر اساس نام صادر نکنیم**

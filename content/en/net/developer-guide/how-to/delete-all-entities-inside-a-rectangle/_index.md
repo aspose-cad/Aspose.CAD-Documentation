@@ -2,7 +2,7 @@
 title: Delete all entities inside a rectangle 
 type: docs
 weight: 25
-url: /net/how-to/delete-all-entities-inside-a-rectangle/
+url: /net/developer-guide/how-to/delete-all-entities-inside-a-rectangle/
 ---
 
 ## **How to delete all entities inside a rectangle**

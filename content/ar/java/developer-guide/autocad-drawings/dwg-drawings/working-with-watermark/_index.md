@@ -2,7 +2,7 @@
 title: العمل مع العلامة المائية
 type: docs
 weight: 50
-url: /ar/java/working-with-watermark/
+url: /ar/java/developer-guide/autocad-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **إضافة علامة مائية في DWG**

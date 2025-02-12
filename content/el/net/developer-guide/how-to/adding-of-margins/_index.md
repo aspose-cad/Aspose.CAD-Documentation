@@ -2,7 +2,7 @@
 title: Προσθήκη περιθωρίων
 type: docs
 weight: 14
-url: /el/net/how-to/adding-of-margins/
+url: /el/net/developer-guide/how-to/adding-of-margins/
 ---
 
 ## **Πώς να προσθέσετε περιθώρια**

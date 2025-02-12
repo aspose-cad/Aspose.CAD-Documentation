@@ -2,7 +2,7 @@
 title: تعیین حالت رندر برای فایل‌های DWG و DXF
 type: docs
 weight: 13
-url: /fa/net/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files
+url: /fa/net/developer-guide/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files/
 ---
 
 

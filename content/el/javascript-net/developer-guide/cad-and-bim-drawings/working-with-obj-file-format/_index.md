@@ -2,7 +2,7 @@
 title: Εργασία με τη μορφή αρχείου OBJ
 type: docs
 weight: 120
-url: /el/javascript-net/working-with-obj-file-format/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

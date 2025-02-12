@@ -2,7 +2,7 @@
 title: Ρύθμιση των αντικειμένων ATTRIB και MTEXT
 type: docs
 weight: 10
-url: /el/net/setting-attrib-and-mtext-objects/
+url: /el/net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **Ρύθμιση των αντικειμένων ATTRIB και MTEXT**

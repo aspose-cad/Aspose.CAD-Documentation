@@ -2,7 +2,7 @@
 title: Exportación de todo el contenido en el diseño independientemente del área de trama
 type: docs
 weight: 29
-url: /es/net/how-to/export-of-all-content-in-layout-regardless-plot-area/
+url: /es/net/developer-guide/how-to/export-of-all-content-in-layout-regardless-plot-area/
 ---
 
 ## **Cómo exportar todo el contenido en el diseño independientemente del área de trama**

@@ -2,7 +2,7 @@
 title: العمل مع النصوص
 type: docs
 weight: 40
-url: /ar/net/work-with-text/
+url: /ar/net/developer-guide/drawing-api/work-with-text/
 ---
 
 ## **العمل مع النصوص**

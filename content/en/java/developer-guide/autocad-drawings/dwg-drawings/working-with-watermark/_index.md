@@ -2,7 +2,7 @@
 title: Working with Watermark
 type: docs
 weight: 50
-url: /java/working-with-watermark/
+url: /java/developer-guide/autocad-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Add Watermark in a DWG**

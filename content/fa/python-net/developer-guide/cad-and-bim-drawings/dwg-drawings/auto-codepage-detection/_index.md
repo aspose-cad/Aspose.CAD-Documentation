@@ -2,7 +2,7 @@
 title: شناسایی خودکار کدگذاری
 type: docs
 weight: 10
-url: /fa/python-net/auto-codepage-detection/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **شناسایی خودکار کدگذاری**

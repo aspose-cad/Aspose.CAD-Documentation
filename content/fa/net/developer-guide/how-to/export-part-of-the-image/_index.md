@@ -2,7 +2,7 @@
 title: صادرات بخشی از تصویر
 type: docs
 weight: 32
-url: /fa/net/how-to/export-part-of-the-image/
+url: /fa/net/developer-guide/how-to/export-part-of-the-image/
 ---
 
 ## **چگونه بخشی از تصویر را صادر کنیم**

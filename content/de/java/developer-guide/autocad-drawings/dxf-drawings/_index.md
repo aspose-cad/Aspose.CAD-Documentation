@@ -2,7 +2,7 @@
 title: DXF-Zeichnungen
 type: docs
 weight: 60
-url: /de/java/dxf-zeichnungen/
+url: /de/java/developer-guide/autocad-drawings/dxf-drawings/
 ---
 
 ## **Exportieren von DXF-Zeichnungen als PDF**

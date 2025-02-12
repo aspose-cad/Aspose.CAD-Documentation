@@ -2,7 +2,7 @@
 title: Zugriff auf Polyline und 3DFace-Ecken
 type: docs
 weight: 12
-url: /de/net/how-to/access-to-polyline-and-3dface-vertices/
+url: /de/net/developer-guide/how-to/access-to-polyline-and-3dface-vertices/
 ---
 
 ## **So greifen Sie auf Polyline und 3DFace-Ecken zu**

@@ -2,7 +2,7 @@
 title: إضافة خصائص مخصصة
 type: docs
 weight: 20
-url: /ar/java/add-custom-properties/
+url: /ar/java/developer-guide/autocad-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

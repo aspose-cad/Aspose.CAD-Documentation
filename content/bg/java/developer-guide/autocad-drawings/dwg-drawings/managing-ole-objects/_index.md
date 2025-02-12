@@ -2,7 +2,7 @@
 title: Управление на OLE обекти
 type: docs
 weight: 30
-url: /bg/java/управление-ole-обекти/
+url: /bg/java/developer-guide/autocad-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: الحصول على مراجع للملفات الخارجية
 type: docs
 weight: 36
-url: /ar/net/how-to/get-references-to-external-files/
+url: /ar/net/developer-guide/how-to/get-references-to-external-files/
 ---
 
 ## **كيفية الحصول على مراجع للملفات الخارجية**

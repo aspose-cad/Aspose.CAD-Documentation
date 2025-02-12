@@ -2,7 +2,7 @@
 title: Exportovat část obrázku
 type: docs
 weight: 32
-url: /cs/net/jak-na/exportovat-cast-obrazku/
+url: /cs/net/developer-guide/how-to/export-part-of-the-image/
 ---
 
 ## **Jak exportovat část obrázku**

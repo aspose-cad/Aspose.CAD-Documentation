@@ -2,7 +2,7 @@
 title: Оцветяване на вмъквания с нови добавени слоеве
 type: docs
 weight: 23
-url: /bg/net/how-to/coloring-of-inserts-with-new-added-layers/
+url: /bg/net/developer-guide/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 
 ## **Как се оцветяват вмъкванията с нови добавени слоеве (CADNET-1146)**

@@ -2,7 +2,7 @@
 title: Upravování velikosti výkresu CAD
 type: docs
 weight: 10
-url: /cs/uprava-velikosti-cad-vykresu/
+url: /cs/net/developer-guide/adjustment-of-cad-drawings/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: حساب مساحة ومحيط الدوائر
 type: docs
 weight: 18
-url: /ar/net/how-to/сalculation-of-area-and-circumference-of-the-circles/
+url: /ar/net/developer-guide/how-to/calculation-of-area-and-circumference-of-the-circles/
 ---
 
 ## **كيفية حساب مساحة ومحيط الدوائر**

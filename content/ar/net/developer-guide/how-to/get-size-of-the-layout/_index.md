@@ -2,7 +2,7 @@
 title: الحصول على حجم التخطيط
 type: docs
 weight: 37
-url: /ar/net/how-to/get-size-of-the-layout/
+url: /ar/net/developer-guide/how-to/get-size-of-the-layout/
 ---
 
 ## **كيفية الحصول على حجم التخطيط **

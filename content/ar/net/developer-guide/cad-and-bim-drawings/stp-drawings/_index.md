@@ -2,7 +2,7 @@
 title: رسومات STP
 type: docs
 weight: 70
-url: /ar/net/stp-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **تصدير تنسيق STP إلى PDF**

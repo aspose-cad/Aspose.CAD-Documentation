@@ -2,7 +2,7 @@
 title: رسومات DXF
 type: docs
 weight: 60
-url: /ar/javascript-net/dxf-drawings/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **تصدير تنسيق DXF إلى PNG**

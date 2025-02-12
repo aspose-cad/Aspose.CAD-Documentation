@@ -2,7 +2,7 @@
 title: Ověřte, zda existují externě odkazované obrázky a nahraďte odkazy
 type: docs
 weight: 22
-url: /cs/net/how-to/check-whether-external-referenced-images-exist-and-replace-references/
+url: /cs/net/developer-guide/how-to/check-whether-external-referenced-images-exist-and-replace-references/
 ---
 
 ## **Jak upravit hyperodkazy na objekty**

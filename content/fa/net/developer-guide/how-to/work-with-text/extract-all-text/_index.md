@@ -2,7 +2,7 @@
 title: استخراج تمام متن
 type: docs
 weight: 20
-url: /fa/net/how-to/work-with-text/extract-all-text
+url: /fa/net/developer-guide/how-to/work-with-text/extract-all-text/
 ---
 
 

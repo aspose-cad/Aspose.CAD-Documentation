@@ -2,7 +2,7 @@
 title: CF2 Drawings
 type: docs
 weight: 110
-url: /net/cf2-drawings/
+url: /net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **Convert CF2 to PDF**

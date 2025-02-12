@@ -2,7 +2,7 @@
 title: Επεξεργασία υπερσυνδέσμων σε αντικείμενα
 type: docs
 weight: 28
-url: /el/net/how-to/edit-of-hyperlinks-on-objects/
+url: /el/net/developer-guide/how-to/edit-of-hyperlinks-on-objects/
 ---
 
 ## **Πώς να επεξεργαστείτε υπερσυνδέσμους σε αντικείμενα**

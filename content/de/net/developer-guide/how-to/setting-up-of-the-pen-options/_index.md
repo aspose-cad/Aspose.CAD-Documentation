@@ -2,7 +2,7 @@
 title: Einrichtung der Stiftoptionen
 type: docs
 weight: 45
-url: /de/net/how-to/einrichtung-der-stiftoptionen/
+url: /de/net/developer-guide/how-to/setting-up-of-the-pen-options/
 ---
 
 ## **Wie man die Stiftoptionen einrichtet**

@@ -2,7 +2,7 @@
 title: Extrahovat veškerý text
 type: docs
 weight: 20
-url: /cs/net/how-to/work-with-text/extract-all-text
+url: /cs/net/developer-guide/how-to/work-with-text/extract-all-text/
 ---
 
 

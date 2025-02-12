@@ -2,7 +2,7 @@
 title: Рисунки DWG
 type: docs
 weight: 40
-url: /bg/javascript-net/dwg-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Експортиране на формата DWG към PNG**

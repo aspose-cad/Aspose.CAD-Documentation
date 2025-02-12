@@ -2,7 +2,7 @@
 title: Edit of hyperlinks on objects 
 type: docs
 weight: 28
-url: /net/how-to/edit-of-hyperlinks-on-objects/
+url: /net/developer-guide/how-to/edit-of-hyperlinks-on-objects/
 ---
 
 ## **How to edit of hyperlinks on objects**

@@ -2,7 +2,7 @@
 title: Dibujos IFC
 type: docs
 weight: 70
-url: /es/javascript-net/ifc-drawings/
+url: /es/javascript-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Exportando formato FBX a PNG**

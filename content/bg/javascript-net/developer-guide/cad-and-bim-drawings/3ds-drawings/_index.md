@@ -2,7 +2,7 @@
 title: Изчертавания на 3DS
 type: docs
 weight: 70
-url: /bg/javascript-net/3ds-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **Експортиране на формат 3DS към PNG**

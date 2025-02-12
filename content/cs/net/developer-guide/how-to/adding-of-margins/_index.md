@@ -2,7 +2,7 @@
 title: Přidání okrajů
 type: docs
 weight: 14
-url: /cs/net/jak-na/pridani-okraju/
+url: /cs/net/developer-guide/how-to/adding-of-margins/
 ---
 
 ## **Jak přidat okraje**

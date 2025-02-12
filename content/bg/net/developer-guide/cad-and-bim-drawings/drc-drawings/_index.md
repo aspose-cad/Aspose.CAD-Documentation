@@ -2,7 +2,7 @@
 title: Рисунки за DRC
 type: docs
 weight: 15
-url: /bg/net/drc-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **Експортиране на рисунките за DRC в PDF формат**

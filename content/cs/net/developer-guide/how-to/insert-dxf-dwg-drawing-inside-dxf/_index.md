@@ -2,7 +2,7 @@
 title: Vložení kresby DXF/DWG do souboru DXF
 type: docs
 weight: 39
-url: /cs/jak-na/vlozeni-kresby-dxf-dwg-do-souboru-dxf/
+url: /cs/net/developer-guide/how-to/insert-dxf-dwg-drawing-inside-dxf/
 ---
 
 ## **Jak vložit kresbu DXF/DWG do souboru DXF**

@@ -2,7 +2,7 @@
 title: الكشف التلقائي لصفحات الرموز
 type: docs
 weight: 10
-url: /ar/net/auto-codepage-detection/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **الكشف التلقائي لصفحات الرموز**

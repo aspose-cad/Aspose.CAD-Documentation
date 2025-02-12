@@ -2,7 +2,7 @@
 title: تغییر نقطه ناظر
 type: docs
 weight: 19
-url: /fa/net/how-to/change-of-observer-point/
+url: /fa/net/developer-guide/how-to/change-of-observer-point/
 ---
 
 ## **چگونه نقطه ناظر را تغییر دهیم**

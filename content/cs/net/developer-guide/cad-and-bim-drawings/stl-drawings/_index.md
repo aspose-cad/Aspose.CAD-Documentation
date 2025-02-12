@@ -2,7 +2,7 @@
 title: Výkresy STL
 type: docs
 weight: 100
-url: /cs/net/stl-drawings/
+url: /cs/net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Exportování formátu STL do PNG**

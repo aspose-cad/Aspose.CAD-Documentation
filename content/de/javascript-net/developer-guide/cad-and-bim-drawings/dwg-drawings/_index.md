@@ -2,7 +2,7 @@
 title: DWG Zeichnungen
 type: docs
 weight: 40
-url: /de/javascript-net/dwg-zeichnungen/
+url: /de/javascript-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **DWG-Format in PNG exportieren**

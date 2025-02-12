@@ -2,7 +2,7 @@
 title: Κλίμακα γραμμών σε SVG
 type: docs
 weight: 20
-url: /el/net/adjust-cad-properties/svg-line-scale
+url: /el/net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 ---
 
 
@@ -19,6 +19,6 @@ url: /el/net/adjust-cad-properties/svg-line-scale
 
 ## Ένα αρχείο που χρησιμοποιεί γραμμική κλίμακα
 1. Το αρχείο αν η παράμετρος LineScale είναι ρυθμισμένη στο 0.25.<br>
-![Εικόνα εισόδου](/_assets/line_scale_0.25.png)<br>
+![Εικόνα εισόδου](/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Αρχείο αν δεν χρησιμοποιείτε κλίμακα γραμμών.<br>
-![Εικόνα εισόδου](/_assets/basic_options.png)<br>
+![Εικόνα εισόδου](/_assets/guide/svg/basic_options.png)<br>

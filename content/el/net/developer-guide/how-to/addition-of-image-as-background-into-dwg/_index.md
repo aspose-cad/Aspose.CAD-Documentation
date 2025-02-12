@@ -2,7 +2,7 @@
 title: Προσθήκη εικόνας ως φόντο στο DWG
 type: docs
 weight: 15
-url: /el/net/how-to/addition-of-image-as-background-into-dwg/
+url: /el/net/developer-guide/how-to/addition-of-image-as-background-into-dwg/
 ---
 
 ## **Πώς να προσθέσετε μια εικόνα ως φόντο στο DWG**

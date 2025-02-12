@@ -2,7 +2,7 @@
 title: IFC Σχέδια
 type: docs
 weight: 70
-url: /el/javascript-net/ifc-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Εξαγωγή Μορφής FBX Σε PNG**

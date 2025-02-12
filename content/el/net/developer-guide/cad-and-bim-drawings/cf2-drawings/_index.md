@@ -2,7 +2,7 @@
 title: CF2 Σχέδια
 type: docs
 weight: 110
-url: /el/net/cf2-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **Μετατροπή CF2 σε PDF**

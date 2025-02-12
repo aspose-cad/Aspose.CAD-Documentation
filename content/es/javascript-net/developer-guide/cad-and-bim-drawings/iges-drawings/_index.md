@@ -2,7 +2,7 @@
 title: Dibujos IGES
 type: docs
 weight: 80
-url: /es/javascript-net/iges-drawings/
+url: /es/javascript-net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **Exportar formato IGES a PNG**

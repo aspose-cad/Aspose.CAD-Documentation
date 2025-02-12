@@ -2,7 +2,7 @@
 title: COLLADA Σχέδια
 type: docs
 weight: 70
-url: /el/javascript-net/collada-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Εξαγωγή της μορφής COLLADA σε PNG**

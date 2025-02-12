@@ -2,7 +2,7 @@
 title: Чертежи PLT
 type: docs
 weight: 140
-url: /bg/python-net/plt-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Експортиране на PLT към Изображение**

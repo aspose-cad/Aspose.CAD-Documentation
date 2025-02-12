@@ -2,7 +2,7 @@
 title: Agregar una polilínea
 type: docs
 weight: 13
-url: /es/net/how-to/add-a-polyline/
+url: /es/net/developer-guide/how-to/add-a-polyline/
 ---
 
 ## **Cómo agregar una polilínea**

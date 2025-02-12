@@ -2,7 +2,7 @@
 title: ترسیمات DWF
 type: docs
 weight: 20
-url: /fa/net/dwf-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **صادرات ترسیمات DWF به PDF**

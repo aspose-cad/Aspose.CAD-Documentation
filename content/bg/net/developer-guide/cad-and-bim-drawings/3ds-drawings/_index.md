@@ -2,7 +2,7 @@
 title: Рисунки 3DS
 type: docs
 weight: 70
-url: /bg/net/3ds-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **Експортиране на формат 3DS в PDF**

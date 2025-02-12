@@ -2,7 +2,7 @@
 title: نقاشی‌های IGES
 type: docs
 weight: 80
-url: /fa/java/iges-drawings/
+url: /fa/java/developer-guide/autocad-drawings/iges-drawings/
 ---
 
 ## **خروجی IGES به PDF**

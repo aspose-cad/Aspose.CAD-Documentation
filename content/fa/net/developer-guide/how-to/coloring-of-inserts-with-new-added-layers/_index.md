@@ -2,7 +2,7 @@
 title: رنگ‌آمیزی ورودی‌ها با لایه‌های جدید اضافه شده
 type: docs
 weight: 23
-url: /fa/net/how-to/coloring-of-inserts-with-new-added-layers/
+url: /fa/net/developer-guide/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 
 ## **چگونه ورودی‌ها را با لایه‌های جدید اضافه شده رنگ‌آمیزی کنیم (CADNET-1146)**

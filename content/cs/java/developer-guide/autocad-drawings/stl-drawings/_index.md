@@ -2,7 +2,7 @@
 title: Výkresy STL
 type: docs
 weight: 100
-url: /cs/java/stl-drawings/
+url: /cs/java/developer-guide/autocad-drawings/stl-drawings/
 ---
 
 ## **Exportování formátu STL do PNG**

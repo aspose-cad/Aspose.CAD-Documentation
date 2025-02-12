@@ -2,7 +2,7 @@
 title: Převod DWG na PDF s souřadnicemi
 type: docs
 weight: 80
-url: /cs/prevod-dwg-na-pdf-s-souradnicemi/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwg-drawings/convert-dwg-to-dwf-with-coordinatesconvert-dwg-to-pdf-with-coordinates/
 ---
 
 

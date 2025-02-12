@@ -2,7 +2,7 @@
 title: DXB Drawings
 type: docs
 weight: 70
-url: /es/net/dxb-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **Exportando el Formato DXB a PDF**

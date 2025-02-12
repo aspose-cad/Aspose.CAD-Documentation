@@ -2,7 +2,7 @@
 title: رسومات SVG
 type: docs
 weight: 70
-url: /ar/javascript-net/svg-drawings/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **تصدير تنسيق SVG إلى PNG**

@@ -2,7 +2,7 @@
 title: Рисунки DXF
 type: документация
 weight: 60
-url: /bg/javascript-net/dxf-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Експортиране на формат DXF към PNG**

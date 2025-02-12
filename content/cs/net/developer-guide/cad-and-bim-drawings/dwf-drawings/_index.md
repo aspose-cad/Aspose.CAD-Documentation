@@ -2,7 +2,7 @@
 title: Výkresy DWF
 type: docs
 weight: 20
-url: /cs/net/dwf-drawings/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Exportování výkresů DWF do PDF**

@@ -2,7 +2,7 @@
 title: Upravit velikost textu pro DXF/DWG
 type: docs
 weight: 20
-url: /cs/how-to/work-with-text/upravit-velikost-textu-pro-dxf-dwg
+url: /cs/net/developer-guide/how-to/work-with-text/adjust-text-size-for-dxf-dwg/
 ---
 
 ## **Jak upravit velikost textu pro DXF/DWG**

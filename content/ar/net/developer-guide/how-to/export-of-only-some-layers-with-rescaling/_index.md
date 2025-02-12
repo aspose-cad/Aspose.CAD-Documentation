@@ -2,7 +2,7 @@
 title: تصدير بعض الطبقات فقط مع تغيير الحجم 
 type: docs
 weight: 31
-url: /ar/net/how-to/export-of-only-some-layers-with-rescaling/
+url: /ar/net/developer-guide/how-to/export-of-only-some-layers-with-rescaling/
 ---
 
 ## **تصدير بعض الطبقات فقط مع تغيير الحجم (CADNET-559)**

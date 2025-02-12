@@ -2,7 +2,7 @@
 title: نقاشی‌های SVG
 type: docs
 weight: 170
-url: /fa/python-net/svg-drawings/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **صادرات فرمت SVG به PDF**

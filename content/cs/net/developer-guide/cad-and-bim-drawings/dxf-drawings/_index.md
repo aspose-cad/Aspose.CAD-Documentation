@@ -2,7 +2,7 @@
 title: Výkresy DXF
 type: docs
 weight: 60
-url: /cs/dxf-drawings/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Exportování výkresů DXF do formátu PDF**

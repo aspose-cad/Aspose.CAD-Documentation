@@ -2,7 +2,7 @@
 title: Задаване на обекти ATTRIB и MTEXT
 type: документация
 weight: 10
-url: /bg/setting-attrib-and-mtext-objects/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **Задаване на обекти ATTRIB и MTEXT**

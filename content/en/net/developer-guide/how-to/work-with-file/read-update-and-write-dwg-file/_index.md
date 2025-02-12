@@ -2,7 +2,7 @@
 title: Read, update and write DWG file
 type: docs
 weight: 11
-url: /net/how-to/work-with-file/read-update-and-write-dwg-file
+url: /net/developer-guide/how-to/work-with-file/read-update-and-write-dwg-file/
 ---
 
 ## **How to read, update and write DWG file**

@@ -2,7 +2,7 @@
 title: Kresby SVG
 type: docs
 weight: 170
-url: /cs/python-net/svg-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Exportování formátu SVG do formátu PDF**

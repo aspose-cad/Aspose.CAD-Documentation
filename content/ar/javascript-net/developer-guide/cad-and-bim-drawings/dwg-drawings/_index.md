@@ -2,7 +2,7 @@
 title: رسومات DWG
 type: docs
 weight: 40
-url: /ar/javascript-net/dwg-drawings/
+url: /ar/javascript-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **تصدير تنسيق DWG إلى PNG**

@@ -2,7 +2,7 @@
 title: Промяна на точката на наблюдателя
 type: docs
 weight: 19
-url: /bg/net/how-to/change-of-observer-point/
+url: /bg/net/developer-guide/how-to/change-of-observer-point/
 ---
 
 ## **Как да промените точката на наблюдателя**

@@ -2,7 +2,7 @@
 title: Wert des Blockattributs einer externen Referenz abrufen
 type: docs
 weight: 60
-url: /de/Python/get-block-attribute-value-of-external-reference/
+url: /de/python-net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **Wert des Blockattributs abrufen**

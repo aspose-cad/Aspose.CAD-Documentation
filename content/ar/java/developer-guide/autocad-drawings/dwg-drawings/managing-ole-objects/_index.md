@@ -2,7 +2,7 @@
 title: إدارة كائنات OLE
 type: docs
 weight: 30
-url: /ar/java/managing-ole-objects/
+url: /ar/java/developer-guide/autocad-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

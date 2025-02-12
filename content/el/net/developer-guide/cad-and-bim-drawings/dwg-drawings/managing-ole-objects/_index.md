@@ -2,7 +2,7 @@
 title: Διαχείριση Αντικειμένων OLE
 type: docs
 weight: 30
-url: /el/net/managing-ole-objects/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

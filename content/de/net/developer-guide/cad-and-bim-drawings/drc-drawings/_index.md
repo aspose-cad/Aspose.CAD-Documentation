@@ -2,7 +2,7 @@
 title: DRC-Zeichnungen
 type: docs
 weight: 15
-url: /de/net/drc-zeichnungen/
+url: /de/net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **Exportieren von DRC-Zeichnungen in PDF**

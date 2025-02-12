@@ -2,7 +2,7 @@
 title: Работа с текст
 type: docs
 weight: 40
-url: /bg/python-net/work-with-text/
+url: /bg/python-net/developer-guide/drawing-api/work-with-text/
 ---
 
 ## **Работа с текст**

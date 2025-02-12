@@ -2,7 +2,7 @@
 title: Изображения DRC
 type: документация
 weight: 40
-url: /bg/python-net/drc-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **Експортиране на формата DRC в PDF**

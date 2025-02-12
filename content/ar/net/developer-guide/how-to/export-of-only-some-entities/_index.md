@@ -2,7 +2,7 @@
 title: تصدير بعض الكيانات فقط
 type: docs
 weight: 30
-url: /ar/net/how-to/export-of-only-some-entities/
+url: /ar/net/developer-guide/how-to/export-of-only-some-entities/
 ---
 
 ## **تصدير بعض الكيانات فقط**

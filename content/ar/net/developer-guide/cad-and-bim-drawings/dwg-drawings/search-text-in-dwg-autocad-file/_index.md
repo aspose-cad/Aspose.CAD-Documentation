@@ -2,7 +2,7 @@
 title: البحث عن نص في ملف DWG أوتوكاد
 type: docs
 weight: 40
-url: /ar/net/search-text-in-dwg-autocad-file/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dwg-drawings/search-text-in-dwg-autocad-file/
 ---
 
 ## **البحث عن نص في ملف DWG أوتوكاد**

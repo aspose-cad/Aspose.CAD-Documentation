@@ -2,7 +2,7 @@
 title: Εισαγωγή σχεδίου DXF/DWG μέσα σε DWG
 type: docs
 weight: 38
-url: /el/net/how-to/insert-dxf-dwg-drawing-inside-dwg/
+url: /el/net/developer-guide/how-to/insert-dxf-dwg-drawing-inside-dwg/
 ---
 
 ## **Πώς να εισαγάγετε σχέδιο DXF/DWG μέσα σε DWG**

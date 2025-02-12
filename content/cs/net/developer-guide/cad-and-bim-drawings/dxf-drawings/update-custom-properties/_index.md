@@ -2,7 +2,7 @@
 title: Přidání vlastních vlastností
 type: docs
 weight: 20
-url: /cs/net/add-custom-properties/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

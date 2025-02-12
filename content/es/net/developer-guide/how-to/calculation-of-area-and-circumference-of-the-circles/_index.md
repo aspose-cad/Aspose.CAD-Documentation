@@ -2,7 +2,7 @@
 title: Cálculo del área y la circunferencia de los círculos
 type: docs
 weight: 18
-url: /es/net/how-to/cálculo-del-área-y-la-circunferencia-de-los-círculos/
+url: /es/net/developer-guide/how-to/calculation-of-area-and-circumference-of-the-circles/
 ---
 
 ## **Cómo calcular el área y la circunferencia de los círculos**

@@ -2,7 +2,7 @@
 title: Редактиране на хипервръзки върху обекти 
 type: docs
 weight: 28
-url: /bg/net/how-to/edit-of-hyperlinks-on-objects/
+url: /bg/net/developer-guide/how-to/edit-of-hyperlinks-on-objects/
 ---
 
 ## **Как да редактираме хипервръзки върху обекти**

@@ -2,7 +2,7 @@
 title: مقدمه
 type: docs
 weight: 10
-url: /fa/python-net/introduction/
+url: /fa/python-net/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

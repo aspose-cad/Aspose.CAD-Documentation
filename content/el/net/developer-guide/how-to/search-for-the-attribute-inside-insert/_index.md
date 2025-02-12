@@ -2,7 +2,7 @@
 title: Αναζήτηση του χαρακτηριστικού μέσα στην εισαγωγή
 type: docs
 weight: 44
-url: /el/net/how-to/search-for-the-attribute-inside-insert/
+url: /el/net/developer-guide/how-to/search-for-the-attribute-inside-insert/
 ---
 
 ## **Πώς να αναζητήσετε ένα χαρακτηριστικό μέσα στην εισαγωγή**

@@ -2,7 +2,7 @@
 title: Μετακίνηση σχεδίου προς τα κάτω για να προσθέσετε τίτλο
 type: docs
 weight: 40
-url: /el/net/how-to/move-drawing-down-to-add-title/
+url: /el/net/developer-guide/how-to/move-drawing-down-to-add-title/
 ---
 
 ## **Πώς να μετακινήσετε το σχέδιο προς τα κάτω για να προσθέσετε τίτλο**

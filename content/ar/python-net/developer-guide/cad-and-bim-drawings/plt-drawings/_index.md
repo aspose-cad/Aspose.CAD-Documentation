@@ -2,7 +2,7 @@
 title: رسومات PLT
 type: docs
 weight: 140
-url: /ar/python-net/plt-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **تصدير PLT إلى صورة**

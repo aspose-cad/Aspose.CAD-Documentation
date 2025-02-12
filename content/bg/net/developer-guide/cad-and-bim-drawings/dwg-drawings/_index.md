@@ -2,7 +2,7 @@
 title: Рисунки DWG
 type: документация
 weight: 40
-url: /bg/dwg-рисунки/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Експортиране на рисунките DWG към PDF**

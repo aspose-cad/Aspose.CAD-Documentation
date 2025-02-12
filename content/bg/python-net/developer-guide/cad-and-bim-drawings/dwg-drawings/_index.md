@@ -2,7 +2,7 @@
 title: Чертежи DWG
 type: docs
 weight: 70
-url: /bg/python-net/dwg-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Експортиране на чертежи DWG към PDF**

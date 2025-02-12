@@ -2,7 +2,7 @@
 title: Εξαγωγή κάθε διάταξης σε ξεχωριστό αρχείο PNG
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-layout/export-each-layout-in-separate-png-file
+url: /el/net/developer-guide/how-to/work-with-layout/export-each-layout-in-separate-png-file/
 ---
 
 

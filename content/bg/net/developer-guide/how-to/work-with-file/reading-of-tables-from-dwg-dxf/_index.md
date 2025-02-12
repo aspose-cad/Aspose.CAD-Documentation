@@ -2,7 +2,7 @@
 title: Четене на таблици от DWG/DXF
 type: docs
 weight: 12
-url: /bg/how-to/work-with-file/reading-of-tables-from-dwg-dxf
+url: /bg/net/developer-guide/how-to/work-with-file/reading-of-tables-from-dwg-dxf/
 ---
 
 ## **Как да прочетете таблици от DWG/DXF**

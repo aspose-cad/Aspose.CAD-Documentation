@@ -2,7 +2,7 @@
 title: Dibujos PLT
 type: docs
 weight: 90
-url: /es/net/plt-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Exportar PLT a Imagen**

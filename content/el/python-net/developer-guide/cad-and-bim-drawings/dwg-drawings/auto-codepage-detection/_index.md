@@ -2,7 +2,7 @@
 title: Αυτόματη Ανίχνευση Κωδικοσελίδας
 type: docs
 weight: 10
-url: /el/python-net/auto-codepage-detection/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Αυτόματη Ανίχνευση Κωδικοσελίδας**

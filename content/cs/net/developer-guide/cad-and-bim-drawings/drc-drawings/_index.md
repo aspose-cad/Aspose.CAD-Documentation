@@ -2,7 +2,7 @@
 title: Výkresy DRC
 type: docs
 weight: 15
-url: /cs/net/drc-drawings/
+url: /cs/net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **Exportování výkresů DRC do formátu PDF**

@@ -2,7 +2,7 @@
 title: کار با واترمارک
 type: docs
 weight: 60
-url: /fa/net/working-with-watermark/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **افزودن واترمارک در یک DWG**

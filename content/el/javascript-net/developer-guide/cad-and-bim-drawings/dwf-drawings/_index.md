@@ -2,7 +2,7 @@
 title: Σχέδια DWF
 type: docs
 weight: 20
-url: /el/javascript-net/dwf-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Εξαγωγή μορφής DWF σε PNG**

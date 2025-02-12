@@ -2,7 +2,7 @@
 title: DXF Drawings
 type: docs
 weight: 60
-url: /java/dxf-drawings/
+url: /java/developer-guide/autocad-drawings/dxf-drawings/
 ---
 
 ## **Exporting DXF Drawings to PDF**

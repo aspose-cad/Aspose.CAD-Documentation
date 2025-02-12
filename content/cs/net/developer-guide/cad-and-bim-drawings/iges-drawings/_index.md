@@ -2,7 +2,7 @@
 title: Výkresy IGES
 type: docs
 weight: 80
-url: /cs/net/iges-drawings/
+url: /cs/net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **Exportovat IGES do PDF**

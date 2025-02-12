@@ -2,7 +2,7 @@
 title: Odstranění entity
 type: docs
 weight: 43
-url: /cs/net/jak-odstranit-entitu/
+url: /cs/net/developer-guide/how-to/remove-of-an-entity/
 ---
 
 ## **Jak odstranit entitu**

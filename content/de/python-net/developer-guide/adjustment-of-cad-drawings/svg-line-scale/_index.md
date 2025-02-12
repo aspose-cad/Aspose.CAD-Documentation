@@ -2,7 +2,7 @@
 title: Linienmaßstab in SVG skalieren
 type: docs
 weight: 20
-url: /de/python-net/adjust-cad-properties/svg-line-scale
+url: /de/python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 ---
 
 
@@ -19,6 +19,6 @@ Sie können den Maßstab der Linien in der SVG-Datei steuern; die Aspose.CAD-Bib
 
 ## Eine Datei, die einen linearen Maßstab verwendet
 1. Die Datei, wenn der LineScale-Parameter auf 0,25 gesetzt ist.<br>
-![Eingabebild](/_assets/line_scale_0.25.png)<br>
+![Eingabebild](/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Datei, wenn Sie keine Linienmaßstabsanpassung verwenden.<br>
-![Eingabebild](/_assets/basic_options.png)<br>
+![Eingabebild](/_assets/guide/svg/basic_options.png)<br>

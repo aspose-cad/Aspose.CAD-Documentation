@@ -2,7 +2,7 @@
 title: Изнасяне само на някои елементи
 type: документация
 weight: 30
-url: /bg/net/how-to/export-of-only-some-entities/
+url: /bg/net/developer-guide/how-to/export-of-only-some-entities/
 ---
 
 ## **Изнасяне само на някои елементи**

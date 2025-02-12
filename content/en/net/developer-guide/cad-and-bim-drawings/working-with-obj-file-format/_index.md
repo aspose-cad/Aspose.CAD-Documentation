@@ -2,7 +2,7 @@
 title: Working with OBJ File Format
 type: docs
 weight: 120
-url: /net/working-with-obj-file-format/
+url: /net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

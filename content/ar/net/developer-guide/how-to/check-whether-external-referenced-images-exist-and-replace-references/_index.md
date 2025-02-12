@@ -2,7 +2,7 @@
 title: تحقق مما إذا كانت الصور المرجعية الخارجية موجودة واستبدال المراجع
 type: docs
 weight: 22
-url: /ar/net/how-to/check-whether-external-referenced-images-exist-and-replace-references/
+url: /ar/net/developer-guide/how-to/check-whether-external-referenced-images-exist-and-replace-references/
 ---
 
 ## **كيفية تحرير الارتباطات التشعبية على الكائنات**

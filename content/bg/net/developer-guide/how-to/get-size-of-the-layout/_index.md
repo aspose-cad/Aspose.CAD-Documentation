@@ -2,7 +2,7 @@
 title: Получаване на размера на изгледа
 type: docs
 weight: 37
-url: /bg/net/how-to/get-size-of-the-layout/
+url: /bg/net/developer-guide/how-to/get-size-of-the-layout/
 ---
 
 ## **Как да получите размера на изгледа **

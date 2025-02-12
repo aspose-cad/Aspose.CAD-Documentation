@@ -2,7 +2,7 @@
 title:  نقشه های 3DS
 type: docs
 weight: 70
-url: /fa/net/3ds-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **صادرات فرمت 3DS به PDF**

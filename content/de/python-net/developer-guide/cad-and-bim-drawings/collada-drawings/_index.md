@@ -2,7 +2,7 @@
 title: COLLADA Zeichnungen
 type: docs
 weight: 20
-url: /de/python-net/collada-drawings/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Exportieren des COLLADA-Formats nach PDF**

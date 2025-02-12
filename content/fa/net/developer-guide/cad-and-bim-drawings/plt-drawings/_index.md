@@ -2,7 +2,7 @@
 title: نقشه‌های PLT
 type: docs
 weight: 90
-url: /fa/net/plt-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **صادرات PLT به تصویر**

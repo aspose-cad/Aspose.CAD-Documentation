@@ -2,7 +2,7 @@
 title: نقشه‌های IFC
 type: docs
 weight: 70
-url: /fa/java/ifc-drawings/
+url: /fa/java/developer-guide/autocad-drawings/ifc-drawings/
 ---
 
 ## **صادرات فرمت IFC به PNG**

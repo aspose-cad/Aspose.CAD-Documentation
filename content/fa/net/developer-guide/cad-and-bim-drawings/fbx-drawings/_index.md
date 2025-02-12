@@ -2,7 +2,7 @@
 title: نقشه‌های FBX
 type: docs
 weight: 70
-url: /fa/net/fbx-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **صادرات فرمت FBX به PDF**

@@ -2,7 +2,7 @@
 title: 3DS-Zeichnungen
 type: docs
 weight: 70
-url: /de/net/3ds-zeichnungen/
+url: /de/net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **Exportieren des 3DS-Formats als PDF**

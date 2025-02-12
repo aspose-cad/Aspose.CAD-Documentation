@@ -2,7 +2,7 @@
 title: Benutzerdefinierte Eigenschaften hinzufügen
 type: docs
 weight: 20
-url: /de/java/benutzerdefinierte-eigenschaften-hinzufügen/
+url: /de/java/developer-guide/autocad-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

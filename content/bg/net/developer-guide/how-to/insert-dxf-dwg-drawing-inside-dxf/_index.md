@@ -2,7 +2,7 @@
 title: Вмъкване на чертеж DXF/DWG вътре в DXF
 type: docs
 weight: 39
-url: /bg/net/how-to/insert-dxf-dwg-drawing-inside-dxf/
+url: /bg/net/developer-guide/how-to/insert-dxf-dwg-drawing-inside-dxf/
 ---
 
 ## **Как да вмъкнете чертеж DXF/DWG вътре в DXF**

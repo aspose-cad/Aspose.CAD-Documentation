@@ -2,7 +2,7 @@
 title: Scale lines in SVG
 type: docs
 weight: 20
-url: /python-net/adjust-cad-properties/svg-line-scale
+url: /python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 ---
 
 

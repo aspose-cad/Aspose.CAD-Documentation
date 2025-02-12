@@ -2,7 +2,7 @@
 title: إزالة كيان
 type: docs
 weight: 43
-url: /ar/net/how-to/remove-of-an-entity/
+url: /ar/net/developer-guide/how-to/remove-of-an-entity/
 ---
 
 ## **كيفية إزالة كيان**

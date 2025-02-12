@@ -2,7 +2,7 @@
 title: Nastavení možností pera
 type: docs
 weight: 45
-url: /cs/net/jak-na/nastaveni-moznosti-pera/
+url: /cs/net/developer-guide/how-to/setting-up-of-the-pen-options/
 ---
 
 ## **Jak nastavit možnosti pera**

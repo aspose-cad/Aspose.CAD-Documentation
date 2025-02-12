@@ -2,7 +2,7 @@
 title: دریافت مقدار ویژگی بلوک از مرجع خارجی
 type: docs
 weight: 60
-url: /fa/net/get-block-attribute-value-of-external-reference/
+url: /fa/net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **دریافت مقدار ویژگی بلوک**

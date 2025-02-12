@@ -2,7 +2,7 @@
 title: جستجوی متن در فایل DWG اتوکد
 type: docs
 weight: 40
-url: /fa/net/search-text-in-dwg-autocad-file/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dwg-drawings/search-text-in-dwg-autocad-file/
 ---
 
 ## **جستجوی متن در فایل DWG اتوکد**

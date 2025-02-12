@@ -2,7 +2,7 @@
 title: IFC-Zeichnungen
 type: docs
 weight: 70
-url: /de/javascript-net/ifc-zeichnungen/
+url: /de/javascript-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Exportieren im FBX-Format nach PNG**

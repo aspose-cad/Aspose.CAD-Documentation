@@ -2,7 +2,7 @@
 title: Σχέδια DRC
 type: docs
 weight: 40
-url: /el/python-net/drc-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **Εξαγωγή Μορφής DRC σε PDF**

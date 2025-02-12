@@ -2,7 +2,7 @@
 title: Αυτόματη ανίχνευση κωδικοσελίδας
 type: docs
 weight: 10
-url: /el/net/auto-codepage-detection/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Αυτόματη ανίχνευση κωδικοσελίδας**

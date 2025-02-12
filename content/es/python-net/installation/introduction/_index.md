@@ -2,7 +2,7 @@
 title: Introducción
 type: docs
 weight: 10
-url: /es/python-net/introduction/
+url: /es/python-net/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

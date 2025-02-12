@@ -2,7 +2,7 @@
 title: Podpora souborů MTL při exportu OBJ
 type: docs
 weight: 20
-url: /cs/jak-na/prace-s-3d-souborem/podpora-mtl-souboru-pri-exportu-obj
+url: /cs/net/developer-guide/how-to/work-with-3d-file/support-for-mtl-files-on-obj-export/
 ---
 
 ## **Jak podporovat soubory MTL při exportu OBJ**

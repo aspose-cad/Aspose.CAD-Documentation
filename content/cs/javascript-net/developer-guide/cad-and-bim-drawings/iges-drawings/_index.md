@@ -2,7 +2,7 @@
 title: Kresby IGES
 type: docs
 weight: 80
-url: /cs/javascript-net/iges-drawings/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **Export IGES Formátu do PNG**

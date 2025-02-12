@@ -2,7 +2,7 @@
 title: Изображения на STP
 type: документация
 weight: 70
-url: /bg/net/stp-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Експортиране на формат STP към PDF**

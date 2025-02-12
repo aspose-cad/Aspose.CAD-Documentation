@@ -2,7 +2,7 @@
 title: Export von nur einigen Entitäten
 type: docs
 weight: 30
-url: /de/net/how-to/export-of-only-some-entities/
+url: /de/net/developer-guide/how-to/export-of-only-some-entities/
 ---
 
 ## **Export von nur einigen Entitäten**

@@ -2,7 +2,7 @@
 title: Kreslení DGN formátu
 type: docs
 weight: 10
-url: /cs/net/dgn-drawing/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Kreslení DGN Formátu jako Součást DWG**

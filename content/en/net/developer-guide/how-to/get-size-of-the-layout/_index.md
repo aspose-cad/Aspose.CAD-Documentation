@@ -2,7 +2,7 @@
 title: Get size of the layout
 type: docs
 weight: 37
-url: /net/how-to/get-size-of-the-layout/
+url: /net/developer-guide/how-to/get-size-of-the-layout/
 ---
 
 ## **How to get size of the layout **

@@ -2,7 +2,7 @@
 title: Acceso a entidades dentro de objetos de bloque
 type: docs
 weight: 11
-url: /es/net/how-to/access-to-entities-inside-block-objects/
+url: /es/net/developer-guide/how-to/access-to-entities-inside-block-objects/
 ---
 
 ## **Cómo acceder a entidades dentro de objetos de bloque**

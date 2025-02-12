@@ -2,7 +2,7 @@
 title: Změna pozorovacího bodu pro 3D scény
 type: docs
 weight: 20
-url: /cs/jak-na/prace-s-3d-souborem/zmena-pozorovaciho-bodu-pro-3d-sceny
+url: /cs/net/developer-guide/how-to/work-with-3d-file/change-observation-point-for-3d-scenes/
 ---
 
 ## **Jak změnit pozorovací bod pro 3D scény**

@@ -2,7 +2,7 @@
 title: Αφαίρεση οντότητας
 type: docs
 weight: 43
-url: /el/net/how-to/remove-of-an-entity/
+url: /el/net/developer-guide/how-to/remove-of-an-entity/
 ---
 
 ## **Πώς να αφαιρέσετε μια οντότητα**

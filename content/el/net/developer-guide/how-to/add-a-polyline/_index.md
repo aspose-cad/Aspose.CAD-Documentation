@@ -2,7 +2,7 @@
 title: Προσθήκη πολυγραμμής
 type: docs
 weight: 13
-url: /el/net/how-to/add-a-polyline/
+url: /el/net/developer-guide/how-to/add-a-polyline/
 ---
 
 ## **Πώς να προσθέσετε μια πολυγραμμή**

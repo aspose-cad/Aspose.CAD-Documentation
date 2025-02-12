@@ -2,7 +2,7 @@
 title: Изтрий всички обекти вътре в правоъгълник
 type: docs
 weight: 25
-url: /bg/net/how-to/delete-all-entities-inside-a-rectangle/ 
+url: /bg/net/developer-guide/how-to/delete-all-entities-inside-a-rectangle/ 
 ---
 
 ## **Как да изтриете всички обекти вътре в правоъгълник**

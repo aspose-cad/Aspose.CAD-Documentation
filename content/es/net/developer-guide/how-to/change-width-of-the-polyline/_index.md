@@ -2,7 +2,7 @@
 title: Cambiar el ancho de la polilínea 
 type: docs
 weight: 20
-url: /es/net/how-to/change-width-of-the-polyline/
+url: /es/net/developer-guide/how-to/change-width-of-the-polyline/
 ---
 
 ## **Cómo cambiar el ancho de la polilínea**

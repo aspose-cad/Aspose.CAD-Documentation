@@ -2,7 +2,7 @@
 title: رسومات SVG
 type: docs
 weight: 170
-url: /ar/python-net/svg-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **تصدير تنسيق SVG إلى PDF**

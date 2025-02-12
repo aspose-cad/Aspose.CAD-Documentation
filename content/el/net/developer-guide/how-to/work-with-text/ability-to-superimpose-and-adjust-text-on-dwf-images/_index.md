@@ -2,7 +2,7 @@
 title: Δυνατότητα υπερθέσεως και ρύθμισης κειμένου σε εικόνες DWF, επιτρέποντας έτσι κάποιο βαθμό επεξεργασίας της προκύπτουσας εξόδου απόδοσης
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images
+url: /el/net/developer-guide/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images/
 ---
 
 ## **Πώς να υπερθέσετε και να ρυθμίσετε κείμενο σε εικόνες DWF**

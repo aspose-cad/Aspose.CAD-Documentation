@@ -2,7 +2,7 @@
 title: الرسومات SVG
 type: docs
 weight: 70
-url: /ar/net/svg-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **تصدير تنسيق SVG إلى PDF**

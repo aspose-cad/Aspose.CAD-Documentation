@@ -2,7 +2,7 @@
 title: ترسیمات PLT
 type: docs
 weight: 140
-url: /fa/python-net/plt-drawings/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **صادرات PLT به تصویر**

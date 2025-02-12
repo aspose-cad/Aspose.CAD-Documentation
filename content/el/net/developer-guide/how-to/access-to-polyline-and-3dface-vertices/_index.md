@@ -2,7 +2,7 @@
 title: Πρόσβαση στους κόμβους πολυγώνου και 3DFace
 type: docs
 weight: 12
-url: /el/net/how-to/access-to-polyline-and-3dface-vertices/
+url: /el/net/developer-guide/how-to/access-to-polyline-and-3dface-vertices/
 ---
 
 ## **Πώς να αποκτήσετε πρόσβαση στους κόμβους πολυγώνου και 3DFace**

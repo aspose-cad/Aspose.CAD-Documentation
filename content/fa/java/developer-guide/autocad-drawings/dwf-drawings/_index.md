@@ -2,7 +2,7 @@
 title: نقشه‌های DWF
 type: docs
 weight: 20
-url: /fa/java/dwf-drawings/
+url: /fa/java/developer-guide/autocad-drawings/dwf-drawings/
 ---
 
 ## **صادر کردن نقشه‌های DWF به PDF**

@@ -2,7 +2,7 @@
 title: Получаване на всички същности текст/MTEXT от DWG/DXF
 type: docs
 weight: 20
-url: /bg/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf
+url: /bg/net/developer-guide/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf/
 ---
 
 

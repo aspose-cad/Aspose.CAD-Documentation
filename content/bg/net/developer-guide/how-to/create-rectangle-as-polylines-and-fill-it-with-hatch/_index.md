@@ -2,7 +2,7 @@
 title: Създаване на правоъгълник като полилиния и запълване с хачура
 type: docs
 weight: 24
-url: /bg/net/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
+url: /bg/net/developer-guide/how-to/create-rectangle-as-polylines-and-fill-it-with-hatch/
 ---
 
 ## **Как да създадете правоъгълник като полилиния и да го запълните с хачура**

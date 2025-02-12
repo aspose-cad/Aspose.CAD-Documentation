@@ -2,7 +2,7 @@
 title: Get list of all layers
 type: docs
 weight: 35
-url: /net/how-to/get-list-of-all-layers/
+url: /net/developer-guide/how-to/get-list-of-all-layers/
 ---
 
 ## **How to get list of all layers**

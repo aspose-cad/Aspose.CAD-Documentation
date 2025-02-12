@@ -2,7 +2,7 @@
 title: DWT Drawings
 type: docs
 weight: 50
-url: /net/dwt-drawings/
+url: /net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **Support for DWT Files**

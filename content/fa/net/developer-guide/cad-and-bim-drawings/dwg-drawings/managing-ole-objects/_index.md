@@ -2,7 +2,7 @@
 title: مدیریت اشیاء OLE
 type: docs
 weight: 30
-url: /fa/net/managing-ole-objects/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

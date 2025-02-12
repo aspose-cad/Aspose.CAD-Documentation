@@ -2,7 +2,7 @@
 title: افزودن یک مورد جدید TEXT/MTEXT
 type: docs
 weight: 20
-url: /fa/net/how-to/work-with-entities/add-new-text-mtext-item
+url: /fa/net/developer-guide/how-to/work-with-entities/add-new-text-mtext-item/
 ---
 
 

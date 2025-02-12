@@ -2,7 +2,7 @@
 title: قراءة وتحديث وكتابة ملف DWG
 type: docs
 weight: 11
-url: /ar/net/how-to/work-with-file/read-update-and-write-dwg-file
+url: /ar/net/developer-guide/how-to/work-with-file/read-update-and-write-dwg-file/
 ---
 
 ## **كيفية قراءة وتحديث وكتابة ملف DWG**

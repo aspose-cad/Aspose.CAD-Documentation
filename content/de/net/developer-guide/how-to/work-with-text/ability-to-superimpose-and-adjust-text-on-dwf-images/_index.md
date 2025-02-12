@@ -2,7 +2,7 @@
 title: Fähigkeit, Text auf DWF-Bildern zu überlagern und anzupassen, wodurch eine gewisse Bearbeitung des resultierenden Renderausgangs ermöglicht wird
 type: docs
 weight: 20
-url: /de/net/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images
+url: /de/net/developer-guide/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images/
 ---
 
 ## **Wie man die Fähigkeit hat, Text auf DWF-Bildern zu überlagern und anzupassen**

@@ -2,7 +2,7 @@
 title: IGES Σχέδια
 type: docs
 weight: 80
-url: /el/java/iges-drawings/
+url: /el/java/developer-guide/autocad-drawings/iges-drawings/
 ---
 
 ## **Εξαγωγή IGES σε PDF**

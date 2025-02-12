@@ -2,7 +2,7 @@
 title: نقشه‌های DXF
 type: docs
 weight: 10
-url: /fa/python-net/dxf-drawings/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **صادرات نقشه‌های DXF به PDF**

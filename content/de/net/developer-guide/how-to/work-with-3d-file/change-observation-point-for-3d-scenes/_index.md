@@ -2,7 +2,7 @@
 title: Beobachtungspunkt für 3D-Szenen ändern
 type: docs
 weight: 20
-url: /de/net/how-to/work-with-3d-file/change-observation-point-for-3d-scenes
+url: /de/net/developer-guide/how-to/work-with-3d-file/change-observation-point-for-3d-scenes/
 ---
 
 ## **Wie man den Beobachtungspunkt für 3D-Szenen ändert**

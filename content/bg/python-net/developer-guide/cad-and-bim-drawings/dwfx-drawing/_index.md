@@ -2,7 +2,7 @@
 title: Рисуване на DWFx
 type: docs
 weight: 60
-url: /bg/python-net/dwfx-drawing/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **Рисуване на DWFx**

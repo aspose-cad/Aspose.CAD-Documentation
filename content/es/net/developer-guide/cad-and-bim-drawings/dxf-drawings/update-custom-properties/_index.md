@@ -2,7 +2,7 @@
 title: Agregar propiedades personalizadas
 type: docs
 weight: 20
-url: /es/net/add-custom-properties/
+url: /es/net/developer-guide/cad-and-bim-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

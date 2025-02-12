@@ -2,7 +2,7 @@
 title: Výkresy DXF
 type: docs
 weight: 60
-url: /cs/java/dxf-drawings/
+url: /cs/java/developer-guide/autocad-drawings/dxf-drawings/
 ---
 
 ## **Exportování výkresů DXF do formátu PDF**

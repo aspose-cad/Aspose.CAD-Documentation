@@ -2,7 +2,7 @@
 title: Ändern des Linienstärke für DWG/DXF
 type: docs
 weight: 20
-url: /de/net/how-to/work-with-entities/change-lines-weight-for-dwg-dxf
+url: /de/net/developer-guide/how-to/work-with-entities/change-lines-weight-for-dwg-dxf/
 ---
 
 ## **So ändern Sie die Linienstärke für DWG/DXF**

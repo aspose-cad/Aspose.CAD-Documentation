@@ -2,7 +2,7 @@
 title: Σχέδια PLT
 type: docs
 weight: 90
-url: /el/java/plt-drawings/
+url: /el/java/developer-guide/autocad-drawings/plt-drawings/
 ---
 
 ## **Εξαγωγή PLT σε JPEG**

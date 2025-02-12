@@ -2,7 +2,7 @@
 title: CF2 Kresby
 type: docs
 weight: 110
-url: /cs/javascript-net/cf2-kresby/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **Exportování formátu CF2 do formátu PNG**

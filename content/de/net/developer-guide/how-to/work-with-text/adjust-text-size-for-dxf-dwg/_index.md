@@ -2,7 +2,7 @@
 title: Textgröße für DXF/DWG anpassen
 type: docs
 weight: 20
-url: /de/net/how-to/work-with-text/adjust-text-size-for-dxf-dwg
+url: /de/net/developer-guide/how-to/work-with-text/adjust-text-size-for-dxf-dwg/
 ---
 
 

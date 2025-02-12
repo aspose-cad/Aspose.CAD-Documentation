@@ -2,7 +2,7 @@
 title: Mover el dibujo hacia abajo para agregar un título
 type: docs
 weight: 40
-url: /es/net/how-to/move-drawing-down-to-add-title/
+url: /es/net/developer-guide/how-to/move-drawing-down-to-add-title/
 ---
 
 ## **Cómo mover el dibujo hacia abajo para agregar un título**

@@ -2,7 +2,7 @@
 title: تحديد وضع العرض لملفات DWG و DXF
 type: docs
 weight: 13
-url: /ar/net/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files
+url: /ar/net/developer-guide/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files/
 ---
 
 

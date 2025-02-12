@@ -2,7 +2,7 @@
 title: DWG-Zeichnungen
 type: docs
 weight: 40
-url: /de/java/dwg-zeichnungen/
+url: /de/java/developer-guide/autocad-drawings/dwg-drawings/
 ---
 
 ## **DWG-Zeichnungen in PDF exportieren**

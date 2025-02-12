@@ -2,7 +2,7 @@
 title: Export do formátu PDF/A
 type: docs
 weight: 33
-url: /cs/jak-na/export-do-formatu-pdfa/
+url: /cs/net/developer-guide/how-to/export-to-pdfa-format/
 ---
 
 ## **Jak exportovat do formátu PDF/A**

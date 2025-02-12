@@ -2,7 +2,7 @@
 title: Trabajando con Marca de Agua
 type: docs
 weight: 60
-url: /es/net/working-with-watermark/
+url: /es/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Agregar Marca de Agua en un DWG**

@@ -2,7 +2,7 @@
 title: Mover el punto de origen del sombreado más cerca del límite del sombreado para mejorar el rendimiento
 type: docs
 weight: 41
-url: /es/net/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
+url: /es/net/developer-guide/how-to/moving-of-hatch-origin-point-closer-to-hatch-boundary-to-improve-performance/
 ---
 
 ## **Cómo mover el punto de origen del sombreado más cerca del límite del sombreado para mejorar el rendimiento**

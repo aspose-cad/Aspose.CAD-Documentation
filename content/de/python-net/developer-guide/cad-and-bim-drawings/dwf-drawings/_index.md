@@ -2,7 +2,7 @@
 title: DWF-Zeichnungen
 type: docs
 weight: 50
-url: /de/python-net/dwf-drawings/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Export von DWF-Zeichnungen nach PDF**

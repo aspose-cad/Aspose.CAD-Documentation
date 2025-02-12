@@ -2,7 +2,7 @@
 title: STL Zeichnungen
 type: docs
 weight: 150
-url: /de/python-net/stl-drawings/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Exportieren des STL-Formats nach PNG**

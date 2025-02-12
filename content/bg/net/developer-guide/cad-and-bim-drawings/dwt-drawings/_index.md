@@ -2,7 +2,7 @@
 title: Рисунки DWT
 type: документация
 weight: 50
-url: /bg/net/dwt-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **Поддръжка за DWT файлове**

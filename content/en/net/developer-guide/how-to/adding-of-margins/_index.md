@@ -2,7 +2,7 @@
 title: Adding of margins
 type: docs
 weight: 14
-url: /net/how-to/adding-of-margins/
+url: /net/developer-guide/how-to/adding-of-margins/
 ---
 
 ## **How to add of margins**

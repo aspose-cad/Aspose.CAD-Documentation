@@ -2,7 +2,7 @@
 title: Omitir algunas entidades en la exportación
 type: docs
 weight: 20
-url: /es/net/how-to/work-with-entities/skip-some-entities-on-export
+url: /es/net/developer-guide/how-to/work-with-entities/skip-some-entities-on-export/
 ---
 
 

@@ -2,7 +2,7 @@
 title: Přeskočení některých entit při exportu
 type: docs
 weight: 20
-url: /cs/net/jak-na/prace-s-enty/preskoceni-nekterych-entit-pri-exportu
+url: /cs/net/developer-guide/how-to/work-with-entities/skip-some-entities-on-export/
 ---
 
 

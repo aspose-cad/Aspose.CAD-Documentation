@@ -2,7 +2,7 @@
 title: Εργασία με τη Μορφή Αρχείου OBJ
 type: docs
 weight: 120
-url: /el/net/working-with-obj-file-format/
+url: /el/net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

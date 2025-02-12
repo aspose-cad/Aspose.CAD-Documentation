@@ -2,7 +2,7 @@
 title: Vyhledávání textu v souboru DWG AutoCAD
 type: docs
 weight: 40
-url: /cs/vyhledavani-textu-v-dwg-souboru-autocad/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwg-drawings/search-text-in-dwg-autocad-file/
 ---
 
 ## **Vyhledávání textu v souboru DWG AutoCAD**

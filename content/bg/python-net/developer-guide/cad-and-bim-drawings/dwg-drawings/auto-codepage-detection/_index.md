@@ -2,7 +2,7 @@
 title: Автоматично разпознаване на кодова страница
 type: docs
 weight: 10
-url: /bg/python-net/auto-codepage-detection/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Автоматично разпознаване на кодова страница**

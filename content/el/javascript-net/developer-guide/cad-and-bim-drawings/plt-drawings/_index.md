@@ -2,7 +2,7 @@
 title: Σχέδια PLT
 type: docs
 weight: 90
-url: /el/javascript-net/plt-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Εξαγωγή Μορφής PLT σε PNG**

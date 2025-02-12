@@ -2,7 +2,7 @@
 title: Sustituir fuentes
 type: docs
 weight: 20
-url: /es/net/how-to/work-with-fonts/substitute-fonts
+url: /es/net/developer-guide/how-to/work-with-fonts/substitute-fonts/
 ---
 
 ## **Cómo sustituir fuentes**

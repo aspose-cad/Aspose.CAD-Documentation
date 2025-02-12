@@ -2,7 +2,7 @@
 title: DWT Drawings
 type: docs
 weight: 50
-url: /es/java/dwt-drawings/
+url: /es/java/developer-guide/autocad-drawings/dwt-drawings/
 ---
 
 ## **Soporte para Archivos DWT**

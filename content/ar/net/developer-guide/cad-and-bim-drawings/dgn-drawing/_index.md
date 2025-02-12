@@ -2,7 +2,7 @@
 title: رسم DGN
 type: docs
 weight: 10
-url: /ar/net/dgn-drawing/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **رسم تنسيق DGN كجزء من DWG**

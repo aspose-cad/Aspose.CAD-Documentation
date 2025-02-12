@@ -2,7 +2,7 @@
 title: Dibujos IFC
 type: docs
 weight: 120
-url: /es/python-net/ifc-drawings/
+url: /es/python-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Exportar formato IFC a PNG**

@@ -2,7 +2,7 @@
 title: Преобразуване на DWG в PDF с Координати
 type: docs
 weight: 80
-url: /bg/net/convert-dwg-to-pdf-with-coordinates/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dwg-drawings/convert-dwg-to-dwf-with-coordinatesconvert-dwg-to-pdf-with-coordinates/
 ---
 
 

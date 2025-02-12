@@ -2,7 +2,7 @@
 title: Výkresy PLT
 type: docs
 weight: 90
-url: /cs/net/plt-drawings/
+url: /cs/net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Export PLT do obrázku**

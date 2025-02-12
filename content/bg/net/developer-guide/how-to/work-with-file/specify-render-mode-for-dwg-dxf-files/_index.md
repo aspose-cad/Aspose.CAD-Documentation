@@ -2,7 +2,7 @@
 title: Указване на режим на възпроизвеждане за DWG и DXF файлове
 type: docs
 weight: 13
-url: /bg/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files
+url: /bg/net/developer-guide/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files/
 ---
 
 

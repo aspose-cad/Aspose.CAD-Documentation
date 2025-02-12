@@ -2,7 +2,7 @@
 title: Výkresy IFC
 type: docs
 weight: 70
-url: /cs/net/ifc-drawings/
+url: /cs/net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Export formátu IFC do PNG**

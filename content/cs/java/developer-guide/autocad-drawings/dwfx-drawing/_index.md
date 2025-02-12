@@ -2,7 +2,7 @@
 title: Kreslení DWFx
 type: docs
 weight: 30
-url: /cs/java/dwfx-drawing/
+url: /cs/java/developer-guide/autocad-drawings/dwfx-drawing/
 ---
 
 ## **Kreslení DWFx**

@@ -2,7 +2,7 @@
 title: DWFx-Zeichnung
 type: docs
 weight: 30
-url: /de/net/dwfx-zeichnung/
+url: /de/net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **DWFx-Zeichnung**

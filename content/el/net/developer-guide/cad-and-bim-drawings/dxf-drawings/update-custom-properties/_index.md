@@ -2,7 +2,7 @@
 title: Προσθήκη Προσαρμοσμένων Ιδιοτήτων
 type: docs
 weight: 20
-url: /el/net/add-custom-properties/
+url: /el/net/developer-guide/cad-and-bim-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

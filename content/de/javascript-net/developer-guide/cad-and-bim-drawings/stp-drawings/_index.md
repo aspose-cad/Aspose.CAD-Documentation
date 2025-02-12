@@ -2,7 +2,7 @@
 title: STP-Zeichnungen
 type: docs
 weight: 70
-url: /de/javascript-net/stp-zeichnungen/
+url: /de/javascript-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Exportieren des STP-Formats nach PNG**

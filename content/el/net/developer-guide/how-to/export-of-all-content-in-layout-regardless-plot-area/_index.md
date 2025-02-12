@@ -2,7 +2,7 @@
 title: Εξαγωγή όλων των περιεχομένων σε διάταξη ανεξαρτήτως περιοχής γραφήματος
 type: docs
 weight: 29
-url: /el/net/how-to/export-of-all-content-in-layout-regardless-plot-area/
+url: /el/net/developer-guide/how-to/export-of-all-content-in-layout-regardless-plot-area/
 ---
 
 ## **Πώς να εξαγάγετε όλα τα περιεχόμενα σε διάταξη ανεξαρτήτως περιοχής γραφήματος**

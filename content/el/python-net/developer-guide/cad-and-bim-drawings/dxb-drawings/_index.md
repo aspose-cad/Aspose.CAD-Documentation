@@ -2,7 +2,7 @@
 title: Σχέδια DXB
 type: docs
 weight: 90
-url: /el/python-net/dxb-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **Εξαγωγή μορφής DXB σε PDF**

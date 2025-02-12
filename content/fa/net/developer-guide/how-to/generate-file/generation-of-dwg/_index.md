@@ -2,7 +2,7 @@
 title: تولید DWG
 type: docs
 weight: 20
-url: /fa/net/how-to/generate-file/generation-of-dwg
+url: /fa/net/developer-guide/how-to/generate-file/generation-of-dwg/
 ---
 
 ## **چگونه فایل DWG تولید کنیم**

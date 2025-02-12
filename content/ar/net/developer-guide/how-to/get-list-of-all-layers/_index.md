@@ -2,7 +2,7 @@
 title: الحصول على قائمة بجميع الطبقات
 type: docs
 weight: 35
-url: /ar/net/how-to/get-list-of-all-layers/
+url: /ar/net/developer-guide/how-to/get-list-of-all-layers/
 ---
 
 ## **كيف تحصل على قائمة بجميع الطبقات**

@@ -2,7 +2,7 @@
 title: Dibujos IGES
 type: docs
 weight: 80
-url: /es/net/iges-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **Exportar IGES a PDF**

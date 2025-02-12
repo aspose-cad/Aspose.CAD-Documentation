@@ -2,7 +2,7 @@
 title: Wasserzeichen hinzufügen
 type: docs
 weight: 60
-url: /de/net/working-with-watermark/
+url: /de/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Wasserzeichen in eine DWG hinzufügen**

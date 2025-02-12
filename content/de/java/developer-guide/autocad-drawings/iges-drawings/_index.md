@@ -2,7 +2,7 @@
 title: IGES-Zeichnungen
 type: docs
 weight: 80
-url: /de/java/iges-zeichnungen/
+url: /de/java/developer-guide/autocad-drawings/iges-drawings/
 ---
 
 ## **IGES nach PDF exportieren**

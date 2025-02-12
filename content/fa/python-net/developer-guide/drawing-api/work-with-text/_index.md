@@ -2,7 +2,7 @@
 title: کار با متن
 type: docs
 weight: 40
-url: /fa/python-net/work-with-text/
+url: /fa/python-net/developer-guide/drawing-api/work-with-text/
 ---
 
 ## **کار با متن**

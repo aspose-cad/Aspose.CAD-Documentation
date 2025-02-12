@@ -2,7 +2,7 @@
 title: Σχεδιαστικά STL
 type: docs
 weight: 100
-url: /el/njavascript/stl-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Εξαγωγή σε μορφή STL σε PNG**

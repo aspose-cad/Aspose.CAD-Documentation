@@ -2,7 +2,7 @@
 title: Kresby DXB
 type: docs
 weight: 70
-url: /cs/net/dxb-kresby/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **Exportování formátu DXB do PDF**

@@ -2,7 +2,7 @@
 title: Move drawing down to add title
 type: docs
 weight: 40
-url: /net/how-to/move-drawing-down-to-add-title/
+url: /net/developer-guide/how-to/move-drawing-down-to-add-title/
 ---
 
 ## **How to move drawing down to add title**

@@ -2,7 +2,7 @@
 title: IGES Zeichnungen
 type: docs
 weight: 130
-url: /de/python-net/iges-drawings/
+url: /de/python-net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **IGES nach PDF exportieren**

@@ -2,7 +2,7 @@
 title: إدارة كائنات OLE
 type: docs
 weight: 30
-url: /ar/net/managing-ole-objects/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

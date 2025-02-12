@@ -2,7 +2,7 @@
 title: Výkrese IFC
 type: docs
 weight: 120
-url: /cs/python-net/ifc-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Exportování formátu IFC do PNG**

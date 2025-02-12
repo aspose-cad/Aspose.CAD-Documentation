@@ -2,7 +2,7 @@
 title: FBX Σχεδιαγράμματα
 type: docs
 weight: 110
-url: /el/python-net/fbx-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **Εξαγωγή FBX Μορφής σε PDF**

@@ -2,7 +2,7 @@
 title: Generate file
 type: docs
 weight: 10
-url: /net/how-to/generate-file
+url: /net/developer-guide/how-to/generate-file/
 ---
 
 

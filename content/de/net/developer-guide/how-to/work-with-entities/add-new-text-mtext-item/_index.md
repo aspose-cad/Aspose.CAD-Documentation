@@ -2,7 +2,7 @@
 title: Fügen Sie ein neues TEXT/MTEXT-Element hinzu
 type: docs
 weight: 20
-url: /de/net/how-to/work-with-entities/add-new-text-mtext-item
+url: /de/net/developer-guide/how-to/work-with-entities/add-new-text-mtext-item/
 ---
 
 

@@ -2,7 +2,7 @@
 title: Insert DXF/DWG drawing inside DWG
 type: docs
 weight: 38
-url: /net/how-to/insert-dxf-dwg-drawing-inside-dwg/
+url: /net/developer-guide/how-to/insert-dxf-dwg-drawing-inside-dwg/
 ---
 
 ## **How to insert DXF/DWG drawing inside DWG**

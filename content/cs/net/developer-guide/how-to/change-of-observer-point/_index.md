@@ -2,7 +2,7 @@
 title: Změna bodu pozorovatele
 type: docs
 weight: 19
-url: /cs/net/how-to/change-of-observer-point/
+url: /cs/net/developer-guide/how-to/change-of-observer-point/
 ---
 
 ## **Jak změnit bod pozorovatele**

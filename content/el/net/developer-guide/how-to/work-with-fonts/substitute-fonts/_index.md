@@ -2,7 +2,7 @@
 title: Αντικατάσταση γραμματοσειρών
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-fonts/substitute-fonts
+url: /el/net/developer-guide/how-to/work-with-fonts/substitute-fonts/
 ---
 
 

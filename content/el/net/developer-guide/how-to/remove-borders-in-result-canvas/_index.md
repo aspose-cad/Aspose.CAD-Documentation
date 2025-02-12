@@ -2,7 +2,7 @@
 title: Αφαίρεση περιγραμμάτων από το καμβά αποτελέσματος
 type: docs
 weight: 42
-url: /el/net/how-to/remove-borders-in-result-canvas/
+url: /el/net/developer-guide/how-to/remove-borders-in-result-canvas/
 ---
 
 ## **Πώς να αφαιρέσετε τα περιγράμματα από το καμβά αποτελέσματος**

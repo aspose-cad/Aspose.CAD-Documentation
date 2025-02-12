@@ -2,7 +2,7 @@
 title: Search Text In DWG AutoCAD File
 type: docs
 weight: 40
-url: /net/search-text-in-dwg-autocad-file/
+url: /net/developer-guide/cad-and-bim-drawings/dwg-drawings/search-text-in-dwg-autocad-file/
 ---
 
 ## **Search Text In DWG AutoCAD File**

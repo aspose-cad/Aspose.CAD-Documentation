@@ -2,7 +2,7 @@
 title: تغيير خط الطوارئ والخط في الأنماط
 type: docs
 weight: 21
-url: /ar/net/how-to/changing-of-the-emergency-font-and-font-in-styles/
+url: /ar/net/developer-guide/how-to/changing-of-the-emergency-font-and-font-in-styles/
 ---
 
 ## **كيفية تغيير خط الطوارئ والخط في الأنماط**

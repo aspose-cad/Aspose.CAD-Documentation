@@ -2,7 +2,7 @@
 title: Αποθήκευση DXF
 type: docs
 weight: 24
-url: /el/net/how-to/export-file/save-dxf/
+url: /el/net/developer-guide/how-to/export-file/save-dxf/
 ---
 
 ## **Πώς να αποθηκεύσετε αρχείο DXF**

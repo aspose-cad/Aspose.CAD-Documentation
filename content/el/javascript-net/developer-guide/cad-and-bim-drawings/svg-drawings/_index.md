@@ -2,7 +2,7 @@
 title: SVG Σχέδια
 type: docs
 weight: 70
-url: /el/javascript-net/svg-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Εξαγωγή SVG Σε Μορφή PNG**

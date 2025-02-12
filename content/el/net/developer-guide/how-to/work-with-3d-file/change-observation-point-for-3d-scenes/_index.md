@@ -2,7 +2,7 @@
 title: Αλλαγή σημείου παρατήρησης για 3D σκηνές
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-3d-file/change-observation-point-for-3d-scenes
+url: /el/net/developer-guide/how-to/work-with-3d-file/change-observation-point-for-3d-scenes/
 ---
 
 ## **Πώς να αλλάξετε το σημείο παρατήρησης για 3D σκηνές**

@@ -2,7 +2,7 @@
 title: Ρύθμιση των επιλογών στυλό
 type: docs
 weight: 45
-url: /el/net/how-to/setting-up-of-the-pen-options/
+url: /el/net/developer-guide/how-to/setting-up-of-the-pen-options/
 ---
 
 ## **Πώς να ρυθμίσετε τις επιλογές στυλό**

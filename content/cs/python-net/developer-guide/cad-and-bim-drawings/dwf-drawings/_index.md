@@ -2,7 +2,7 @@
 title: Výkresy DWF
 type: docs
 weight: 50
-url: /cs/python-net/dwf-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Exportování výkresů DWF do formátu PDF**

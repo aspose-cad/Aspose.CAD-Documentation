@@ -2,7 +2,7 @@
 title: Render-Modus für DWG- und DXF-Dateien festlegen
 type: docs
 weight: 13
-url: /de/net/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files
+url: /de/net/developer-guide/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files/
 ---
 
 

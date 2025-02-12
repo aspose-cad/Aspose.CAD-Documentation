@@ -2,7 +2,7 @@
 title: Ränder im Ergebnis-Canvas entfernen
 type: docs
 weight: 42
-url: /de/net/how-to/remove-borders-in-result-canvas/
+url: /de/net/developer-guide/how-to/remove-borders-in-result-canvas/
 ---
 
 ## **Wie man Ränder im Ergebnis-Canvas entfernt**

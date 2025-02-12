@@ -2,7 +2,7 @@
 title: Export pouze některých entit
 type: docs
 weight: 30
-url: /cs/how-to/export-of-only-some-entities/
+url: /cs/net/developer-guide/how-to/export-of-only-some-entities/
 ---
 
 ## **Export pouze některých entit**

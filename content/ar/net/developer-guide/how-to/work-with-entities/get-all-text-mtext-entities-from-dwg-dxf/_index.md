@@ -2,7 +2,7 @@
 title: الحصول على جميع كائنات TEXT/MTEXT من DWG/DXF
 type: docs
 weight: 20
-url: /ar/net/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf
+url: /ar/net/developer-guide/how-to/work-with-entities/get-all-text-mtext-entities-from-dwg-dxf/
 ---
 
 

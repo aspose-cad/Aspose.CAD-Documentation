@@ -2,7 +2,7 @@
 title: Obtener nombres de diseño
 type: docs
 weight: 34
-url: /es/net/how-to/get-layout-names/
+url: /es/net/developer-guide/how-to/get-layout-names/
 ---
 
 ## **Cómo obtener nombres de diseño**

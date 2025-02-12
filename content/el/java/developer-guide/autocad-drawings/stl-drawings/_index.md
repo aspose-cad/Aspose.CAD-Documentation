@@ -2,7 +2,7 @@
 title: Σχέδια STL
 type: docs
 weight: 100
-url: /el/java/stl-drawings/
+url: /el/java/developer-guide/autocad-drawings/stl-drawings/
 ---
 
 ## **Εξαγωγή STL σε μορφή PNG**

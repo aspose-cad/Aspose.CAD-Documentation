@@ -2,7 +2,7 @@
 title: Работа с формата на файловете OBJ
 type: docs
 weight: 120
-url: /bg/javascript-net/работа-с-формата-на-файловете-obj/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

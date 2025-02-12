@@ -2,7 +2,7 @@
 title: Agregar propiedades personalizadas
 type: docs
 weight: 20
-url: /es/java/add-custom-properties/
+url: /es/java/developer-guide/autocad-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

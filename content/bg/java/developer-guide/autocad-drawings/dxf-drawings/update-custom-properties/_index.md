@@ -2,7 +2,7 @@
 title: Добавяне на персонализирани свойства
 type: docs
 weight: 20
-url: /bg/java/add-custom-properties/
+url: /bg/java/developer-guide/autocad-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: تغيير مقياس الخطوط في SVG
 type: docs
 weight: 20
-url: /ar/python-net/adjust-cad-properties/svg-line-scale
+url: /ar/python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 ---
 
 ## **تغيير مقياس الخط عند التصدير إلى SVG**
@@ -18,6 +18,6 @@ url: /ar/python-net/adjust-cad-properties/svg-line-scale
 
 ## ملف يستخدم مقياس خطي
 1. الملف إذا كانت معلمة LineScale مضبوطة على 0.25.<br>
-![Input image](/_assets/line_scale_0.25.png)<br>
+![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
 1. ملف إذا لم تستخدم تغيير مقياس الخط.<br>
-![Input image](/_assets/basic_options.png)<br>
+![Input image](/_assets/guide/svg/basic_options.png)<br>

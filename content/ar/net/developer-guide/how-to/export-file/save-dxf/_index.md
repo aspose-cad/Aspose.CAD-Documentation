@@ -2,7 +2,7 @@
 title: حفظ ملف DXF
 type: docs
 weight: 24
-url: /ar/net/how-to/export-file/save-dxf/
+url: /ar/net/developer-guide/how-to/export-file/save-dxf/
 ---
 
 ## **كيفية حفظ ملف DXF**

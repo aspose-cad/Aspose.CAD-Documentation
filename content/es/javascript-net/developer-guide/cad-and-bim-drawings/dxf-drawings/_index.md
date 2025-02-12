@@ -2,7 +2,7 @@
 title: Dibujos DXF
 type: docs
 weight: 60
-url: /es/javascript-net/dxf-drawings/
+url: /es/javascript-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Exportación de formato DXF a PNG**

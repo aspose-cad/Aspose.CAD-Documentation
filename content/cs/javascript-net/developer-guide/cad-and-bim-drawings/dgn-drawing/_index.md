@@ -2,7 +2,7 @@
 title: Kreslení DGN
 type: docs
 weight: 10
-url: /cs/javascript-net/kresleni-dgn/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Exportování formátu DGN do PNG**

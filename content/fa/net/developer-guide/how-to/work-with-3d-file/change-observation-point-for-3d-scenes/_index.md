@@ -2,7 +2,7 @@
 title: تغییر نقطه مشاهده برای صحنه‌های ۳ بعدی
 type: docs
 weight: 20
-url: /fa/net/how-to/work-with-3d-file/change-observation-point-for-3d-scenes
+url: /fa/net/developer-guide/how-to/work-with-3d-file/change-observation-point-for-3d-scenes/
 ---
 
 ## **نحوه تغییر نقطه مشاهده برای صحنه‌های ۳ بعدی**

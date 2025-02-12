@@ -2,7 +2,7 @@
 title: Изчертания на STP
 type: документация
 weight: 160
-url: /bg/python-net/stp-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Експортиране на формат STP към PDF**

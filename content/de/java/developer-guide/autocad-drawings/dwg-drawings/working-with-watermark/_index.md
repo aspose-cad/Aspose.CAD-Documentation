@@ -2,7 +2,7 @@
 title: Arbeiten mit Wasserzeichen
 type: docs
 weight: 50
-url: /de/java/working-with-watermark/
+url: /de/java/developer-guide/autocad-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Wasserzeichen zu einer DWG hinzufügen**

@@ -2,7 +2,7 @@
 title: Přidání lomené čáry
 type: docs
 weight: 13
-url: /cs/jak-na/pridani-lomene-cary/
+url: /cs/net/developer-guide/how-to/add-a-polyline/
 ---
 
 ## **Jak přidat lomenou čáru**

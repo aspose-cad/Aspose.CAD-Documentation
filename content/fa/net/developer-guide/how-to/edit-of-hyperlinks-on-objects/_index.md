@@ -2,7 +2,7 @@
 title: ویرایش پیوندهای هایپرلینک بر روی اشیاء 
 type: docs
 weight: 28
-url: /fa/net/how-to/edit-of-hyperlinks-on-objects/
+url: /fa/net/developer-guide/how-to/edit-of-hyperlinks-on-objects/
 ---
 
 ## **چگونه پیوندهای هایپرلینک بر روی اشیاء را ویرایش کنیم**

@@ -2,7 +2,7 @@
 title: Čtění, aktualizace a zápis souboru DWG
 type: docs
 weight: 11
-url: /cs/jak-na/prace-se-souborem/cteni-aktualizace-a-zapis-souboru-dwg
+url: /cs/net/developer-guide/how-to/work-with-file/read-update-and-write-dwg-file/
 ---
 
 ## **Jak číst, aktualizovat a zapisovat soubor DWG**

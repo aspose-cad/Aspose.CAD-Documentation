@@ -2,7 +2,7 @@
 title: نقاشی‌های STL
 type: docs
 weight: 100
-url: /fa/java/stl-drawings/
+url: /fa/java/developer-guide/autocad-drawings/stl-drawings/
 ---
 
 ## **صادر کردن STL به فرمت PNG**

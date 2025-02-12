@@ -2,7 +2,7 @@
 title: DXF Σχέδια
 type: docs
 weight: 60
-url: /el/net/dxf-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Εξαγωγή DXF Σχεδίων σε PDF**

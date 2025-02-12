@@ -2,7 +2,7 @@
 title: Kresby SVG
 type: docs
 weight: 70
-url: /cs/net/svg-kresby/
+url: /cs/net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Export SVG Formátu Do PDF**

@@ -2,7 +2,7 @@
 title: Изнесете част от изображението
 type: docs
 weight: 32
-url: /bg/net/how-to/export-part-of-the-image/
+url: /bg/net/developer-guide/how-to/export-part-of-the-image/
 ---
 
 ## **Как да изнесете част от изображението**

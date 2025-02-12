@@ -2,7 +2,7 @@
 title: Изчертавания на STP
 type: документация
 weight: 70
-url: /bg/javascript-net/stp-изчертавания/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Експортиране на STP формат към PNG**

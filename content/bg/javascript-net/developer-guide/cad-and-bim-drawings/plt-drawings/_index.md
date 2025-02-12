@@ -2,7 +2,7 @@
 title: Рисунки PLT
 type: docs
 weight: 90
-url: /bg/javascript-net/plt-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Експорт на формат PLT към PNG**

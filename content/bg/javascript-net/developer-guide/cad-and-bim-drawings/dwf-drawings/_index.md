@@ -2,7 +2,7 @@
 title: Илюстрации DWF
 type: документация
 weight: 20
-url: /bg/javascript-net/dwf-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Експортиране на формат DWF към PNG**

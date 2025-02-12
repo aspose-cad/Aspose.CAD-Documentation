@@ -2,7 +2,7 @@
 title: Получаване на препратки към външни файлове
 type: docs
 weight: 36
-url: /bg/net/how-to/get-references-to-external-files/
+url: /bg/net/developer-guide/how-to/get-references-to-external-files/
 ---
 
 ## **Как да получите препратки към външни файлове**

@@ -2,7 +2,7 @@
 title: DGN Drawing
 type: docs
 weight: 10
-url: /net/dgn-drawing/
+url: /net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Drawing DGN Format As Part of DWG**

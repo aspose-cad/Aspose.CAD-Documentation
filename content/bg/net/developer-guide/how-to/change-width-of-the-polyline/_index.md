@@ -2,7 +2,7 @@
 title: Промяна на ширината на многоъгълника 
 type: docs
 weight: 20
-url: /bg/net/how-to/change-width-of-the-polyline/
+url: /bg/net/developer-guide/how-to/change-width-of-the-polyline/
 ---
 
 ## **Как да промените ширината на многоъгълника**

@@ -2,7 +2,7 @@
 title: Настройка на опциите на молива
 type: docs
 weight: 45
-url: /bg/how-to/setting-up-of-the-pen-options/
+url: /bg/net/developer-guide/how-to/setting-up-of-the-pen-options/
 ---
 
 ## **Как да настроите опциите на молива**

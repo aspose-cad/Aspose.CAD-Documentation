@@ -2,7 +2,7 @@
 title: Generování DXF
 type: docs
 weight: 20
-url: /cs/jak-na/vytvoreni-souboru/generovani-dxf
+url: /cs/net/developer-guide/how-to/generate-file/generation-of-dxf/
 ---
 
 ## **Jak generovat DXF**

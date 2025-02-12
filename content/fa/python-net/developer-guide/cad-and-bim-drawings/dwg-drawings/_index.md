@@ -2,7 +2,7 @@
 title: نقاشی‌های DWG
 type: docs
 weight: 70
-url: /fa/python-net/dwg-drawings/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **صادرات نقاشی‌های DWG به PDF**

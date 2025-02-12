@@ -2,7 +2,7 @@
 title: Промяна на размера на CAD чертежа
 type: docs
 weight: 10
-url: /bg/net/adjusting-cad-drawing-size/
+url: /bg/net/developer-guide/adjustment-of-cad-drawings/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: Σχέδια DWF
 type: docs
 weight: 20
-url: /el/net/dwf-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Εξαγωγή Σχεδίων DWF σε PDF**

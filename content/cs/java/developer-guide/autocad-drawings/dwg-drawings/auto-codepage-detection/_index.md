@@ -2,7 +2,7 @@
 title: Detekce automatického kódování
 type: docs
 weight: 10
-url: /cs/java/auto-codepage-detection/
+url: /cs/java/developer-guide/autocad-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Detekce automatického kódování**

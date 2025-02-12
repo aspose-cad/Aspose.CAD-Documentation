@@ -2,7 +2,7 @@
 title: DXF/DWG-Zeichnung in DWG einfügen
 type: docs
 weight: 38
-url: /de/net/how-to/insert-dxf-dwg-drawing-inside-dwg/
+url: /de/net/developer-guide/how-to/insert-dxf-dwg-drawing-inside-dwg/
 ---
 
 ## **Wie man eine DXF/DWG-Zeichnung in eine DWG einfügt**

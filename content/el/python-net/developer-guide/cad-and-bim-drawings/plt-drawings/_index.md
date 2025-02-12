@@ -2,7 +2,7 @@
 title: Σχέδια PLT
 type: docs
 weight: 140
-url: /el/python-net/plt-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Εξαγωγή PLT σε Εικόνα**

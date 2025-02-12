@@ -2,7 +2,7 @@
 title: Σχέδια IGES
 type: docs
 weight: 80
-url: /el/javascript-net/iges-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **Εξαγωγή σε μορφή IGES σε PNG**

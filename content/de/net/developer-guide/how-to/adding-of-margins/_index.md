@@ -2,7 +2,7 @@
 title: Hinzufügen von Rändern
 type: docs
 weight: 14
-url: /de/net/how-to/adding-of-margins/
+url: /de/net/developer-guide/how-to/adding-of-margins/
 ---
 
 ## **Wie man Ränder hinzufügt**

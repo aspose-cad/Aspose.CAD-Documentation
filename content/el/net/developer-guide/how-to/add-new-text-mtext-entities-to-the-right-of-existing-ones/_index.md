@@ -2,7 +2,7 @@
 title: Προσθήκη νέων οντοτήτων TEXT/MTEXT στα δεξιά των υπαρχουσών 
 type: docs
 weight: 17
-url: /el/net/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
+url: /el/net/developer-guide/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
 ---
 
 ## **Πώς να προσθέσετε νέες οντότητες TEXT/MTEXT στα δεξιά των υπαρχουσών**

@@ -2,7 +2,7 @@
 title: کار با هایپرلینک‌ها
 type: docs
 weight: 50
-url: /fa/net/working-with-hyperlinks/
+url: /fa/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **به‌روزرسانی هایپرلینک در یک DWG**

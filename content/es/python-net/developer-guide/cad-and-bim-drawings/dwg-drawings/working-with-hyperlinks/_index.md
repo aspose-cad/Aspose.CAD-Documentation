@@ -2,7 +2,7 @@
 title: Trabajando con Hipervínculos
 type: docs
 weight: 50
-url: /es/python-net/working-with-hyperlinks/
+url: /es/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Actualizar Hipervínculo en un DWG**

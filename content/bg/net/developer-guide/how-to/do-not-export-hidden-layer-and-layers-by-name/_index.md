@@ -2,7 +2,7 @@
 title: Не изнасяйте скрития слой и слоеве по име
 type: docs
 weight: 26
-url: /bg/net/how-to/do-not-export-hidden-layer-and-layers-by-name/
+url: /bg/net/developer-guide/how-to/do-not-export-hidden-layer-and-layers-by-name/
 ---
 
 ## **Как да не изнасяте скрития слой и слоеве по име**

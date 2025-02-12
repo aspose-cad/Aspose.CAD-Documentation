@@ -2,7 +2,7 @@
 title: Výkresy DRC
 type: docs
 weight: 40
-url: /cs/python-net/drc-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **Exportování formátu DRC do PDF**

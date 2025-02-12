@@ -2,7 +2,7 @@
 title: No exportar la capa oculta y las capas por nombre
 type: docs
 weight: 26
-url: /es/net/how-to/do-not-export-hidden-layer-and-layers-by-name/
+url: /es/net/developer-guide/how-to/do-not-export-hidden-layer-and-layers-by-name/
 ---
 
 ## **Cómo no exportar la capa oculta y las capas por nombre**

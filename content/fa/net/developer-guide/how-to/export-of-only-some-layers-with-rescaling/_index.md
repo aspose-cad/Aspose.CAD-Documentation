@@ -2,7 +2,7 @@
 title: خروج تنها برخی از لایه‌ها با تغییر مقیاس
 type: docs
 weight: 31
-url: /fa/net/how-to/export-of-only-some-layers-with-rescaling/
+url: /fa/net/developer-guide/how-to/export-of-only-some-layers-with-rescaling/
 ---
 
 ## **خروج تنها برخی از لایه‌ها با تغییر مقیاس (CADNET-559)**

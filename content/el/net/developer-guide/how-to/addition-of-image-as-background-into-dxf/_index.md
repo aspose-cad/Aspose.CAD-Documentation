@@ -2,7 +2,7 @@
 title: Προσθήκη εικόνας ως φόντο στο DXF
 type: docs
 weight: 16
-url: /el/net/how-to/addition-of-image-as-background-into-dxf/
+url: /el/net/developer-guide/how-to/addition-of-image-as-background-into-dxf/
 ---
 
 ## **Πώς να προσθέσετε μια εικόνα ως φόντο στο DXF**

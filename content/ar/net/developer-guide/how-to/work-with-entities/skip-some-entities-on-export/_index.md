@@ -2,7 +2,7 @@
 title: تخطي بعض الكيانات عند التصدير
 type: docs
 weight: 20
-url: /ar/net/how-to/work-with-entities/skip-some-entities-on-export
+url: /ar/net/developer-guide/how-to/work-with-entities/skip-some-entities-on-export/
 ---
 
 

@@ -2,7 +2,7 @@
 title: Změnit váhy linek pro DWG/DXF
 type: docs
 weight: 20
-url: /cs/how-to/pracovat-s-objekty/zmenit-vahy-linek-pro-dwg-dxf
+url: /cs/net/developer-guide/how-to/work-with-entities/change-lines-weight-for-dwg-dxf/
 ---
 
 ## **Jak změnit váhy linek pro DWG/DXF**

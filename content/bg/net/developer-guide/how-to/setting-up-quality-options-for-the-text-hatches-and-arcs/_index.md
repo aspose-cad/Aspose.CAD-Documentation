@@ -2,7 +2,7 @@
 title: Настройка на опциите за качество за текстовете, шарките и дъгите
 type: docs
 weight: 46
-url: /bg/net/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
+url: /bg/net/developer-guide/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
 ---
 
 ## **Как да настроите опциите за качество за текстовете, шарките и дъгите**

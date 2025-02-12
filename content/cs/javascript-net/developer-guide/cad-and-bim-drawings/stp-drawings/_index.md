@@ -2,7 +2,7 @@
 title: STP Kresby
 type: docs
 weight: 70
-url: /cs/javascript-net/stp-drawings/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Export STP Formátu do PNG**

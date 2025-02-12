@@ -2,7 +2,7 @@
 title: رسومات FBX
 type: docs
 weight: 110
-url: /ar/python-net/fbx-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **تصدير تنسيق FBX إلى PDF**

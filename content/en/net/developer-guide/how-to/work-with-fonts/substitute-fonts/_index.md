@@ -2,7 +2,7 @@
 title: Substitute fonts
 type: docs
 weight: 20
-url: /net/how-to/work-with-fonts/substitute-fonts
+url: /net/developer-guide/how-to/work-with-fonts/substitute-fonts/
 ---
 
 

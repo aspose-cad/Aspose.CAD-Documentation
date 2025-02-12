@@ -2,7 +2,7 @@
 title: Capacidad para superponer y ajustar texto en imágenes DWF, lo que permite cierto grado de edición de la salida de renderizado resultante
 type: docs
 weight: 20
-url: /es/net/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images
+url: /es/net/developer-guide/how-to/work-with-text/ability-to-superimpose-and-adjust-text-on-dwf-images/
 ---
 
 ## **Cómo superponer y ajustar texto en imágenes DWF**

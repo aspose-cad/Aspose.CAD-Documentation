@@ -2,7 +2,7 @@
 title: Mit Text arbeiten
 type: docs
 weight: 40
-url: /de/python-net/work-with-text/
+url: /de/python-net/developer-guide/drawing-api/work-with-text/
 ---
 
 ## **Mit Text arbeiten**

@@ -2,7 +2,7 @@
 title: Dibujos DXF
 type: docs
 weight: 60
-url: /es/java/dxf-drawings/
+url: /es/java/developer-guide/autocad-drawings/dxf-drawings/
 ---
 
 ## **Exportando Dibujos DXF a PDF**

@@ -2,7 +2,7 @@
 title: Промяна на размера на текста за DXF/DWG
 type: документация
 weight: 20
-url: /bg/how-to/work-with-text/adjust-text-size-for-dxf-dwg
+url: /bg/net/developer-guide/how-to/work-with-text/adjust-text-size-for-dxf-dwg/
 ---
 
 ## **Как да промените размера на текста за DXF/DWG**

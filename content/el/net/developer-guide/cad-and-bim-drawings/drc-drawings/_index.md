@@ -2,7 +2,7 @@
 title: Σχέδια DRC
 type: docs
 weight: 15
-url: /el/net/drc-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **Εξαγωγή Σχεδίων DRC σε PDF**

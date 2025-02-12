@@ -2,7 +2,7 @@
 title: دعم ملفات MTL عند تصدير OBJ
 type: docs
 weight: 20
-url: /ar/net/how-to/work-with-3d-file/support-for-mtl-files-on-obj-export
+url: /ar/net/developer-guide/how-to/work-with-3d-file/support-for-mtl-files-on-obj-export/
 ---
 
 

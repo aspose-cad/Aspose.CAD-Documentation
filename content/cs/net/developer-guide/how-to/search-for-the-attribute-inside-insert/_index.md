@@ -2,7 +2,7 @@
 title: Vyhledání atributu uvnitř vložení
 type: docs
 weight: 44
-url: /cs/jak-na/vyhledani-atributu-uvnitr-vlozeni/
+url: /cs/net/developer-guide/how-to/search-for-the-attribute-inside-insert/
 ---
 
 ## **Jak najít atribut uvnitř vložení**

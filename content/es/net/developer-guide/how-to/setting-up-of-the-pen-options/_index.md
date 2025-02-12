@@ -2,7 +2,7 @@
 title: Configuración de las opciones del bolígrafo
 type: docs
 weight: 45
-url: /es/net/how-to/configuracion-de-las-opciones-del-boligrafo/
+url: /es/net/developer-guide/how-to/setting-up-of-the-pen-options/
 ---
 
 ## **Cómo configurar las opciones del bolígrafo**

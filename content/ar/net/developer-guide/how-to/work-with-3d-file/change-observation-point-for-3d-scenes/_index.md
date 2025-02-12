@@ -2,7 +2,7 @@
 title: تغيير نقطة المراقبة للمناظر ثلاثية الأبعاد
 type: docs
 weight: 20
-url: /ar/net/how-to/work-with-3d-file/change-observation-point-for-3d-scenes
+url: /ar/net/developer-guide/how-to/work-with-3d-file/change-observation-point-for-3d-scenes/
 ---
 
 ## **كيف تغير نقطة المراقبة للمناظر ثلاثية الأبعاد**

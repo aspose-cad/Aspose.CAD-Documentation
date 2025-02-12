@@ -2,7 +2,7 @@
 title: افزودن موجودیت‌های جدید TEXT/MTEXT به راست موجودیت‌های موجود
 type: docs
 weight: 17
-url: /fa/net/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
+url: /fa/net/developer-guide/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
 ---
 
 ## **چگونه موجودیت‌های جدید TEXT/MTEXT را به راست موجودیت‌های موجود اضافه کنیم**

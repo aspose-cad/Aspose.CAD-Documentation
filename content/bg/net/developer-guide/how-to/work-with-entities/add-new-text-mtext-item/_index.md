@@ -2,7 +2,7 @@
 title: Добавяне на нов елемент TEXT/MTEXT
 type: docs
 weight: 20
-url: /bg/how-to/work-with-entities/add-new-text-mtext-item
+url: /bg/net/developer-guide/how-to/work-with-entities/add-new-text-mtext-item/
 ---
 
 ## **Как да добавите нов елемент TEXT/MTEXT**

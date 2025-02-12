@@ -2,7 +2,7 @@
 title: رسومات STL
 type: docs
 weight: 100
-url: /ar/java/stl-drawings/
+url: /ar/java/developer-guide/autocad-drawings/stl-drawings/
 ---
 
 ## **تصدير STL إلى تنسيق PNG**

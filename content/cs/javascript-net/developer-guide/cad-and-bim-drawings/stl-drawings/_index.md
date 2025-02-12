@@ -2,7 +2,7 @@
 title: Výkresy STL
 type: docs
 weight: 100
-url: /cs/javascript/vykresy-stl/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Exportování formátu STL do PNG**

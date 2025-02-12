@@ -2,7 +2,7 @@
 title: Working with Watermark
 type: docs
 weight: 60
-url: /net/working-with-watermark/
+url: /net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Add Watermark in a DWG**

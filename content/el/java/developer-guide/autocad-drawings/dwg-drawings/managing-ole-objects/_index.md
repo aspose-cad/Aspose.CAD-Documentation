@@ -2,7 +2,7 @@
 title: Διαχείριση OLE Αντικειμένων
 type: docs
 weight: 30
-url: /el/java/managing-ole-objects/
+url: /el/java/developer-guide/autocad-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

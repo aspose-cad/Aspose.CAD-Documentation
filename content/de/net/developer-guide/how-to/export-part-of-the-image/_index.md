@@ -2,7 +2,7 @@
 title: Teil des Bildes exportieren
 type: docs
 weight: 32
-url: /de/net/how-to/export-part-of-the-image/
+url: /de/net/developer-guide/how-to/export-part-of-the-image/
 ---
 
 ## **Wie man einen Teil des Bildes exportiert**

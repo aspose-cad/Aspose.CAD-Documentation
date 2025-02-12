@@ -2,7 +2,7 @@
 title: Drawing the viewport of the drawing instead of the entire content
 type: docs
 weight: 27
-url: /net/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/
+url: /net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/ content/
 ---
 
 ## **How to drawing the viewport of the drawing instead of the entire content**

@@ -2,7 +2,7 @@
 title: قراءة الجداول من DWG/DXF
 type: docs
 weight: 12
-url: /ar/net/how-to/work-with-file/reading-of-tables-from-dwg-dxf
+url: /ar/net/developer-guide/how-to/work-with-file/reading-of-tables-from-dwg-dxf/
 ---
 
 ## **كيفية قراءة الجداول من DWG/DXF**

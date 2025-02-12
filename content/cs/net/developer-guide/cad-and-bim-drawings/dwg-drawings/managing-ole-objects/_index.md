@@ -2,7 +2,7 @@
 title: Správa OLE objektů
 type: docs
 weight: 30
-url: /cs/sprava-ole-objektu/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

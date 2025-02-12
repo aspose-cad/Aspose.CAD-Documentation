@@ -2,7 +2,7 @@
 title: COLLADA Σχέδια
 type: docs
 weight: 70
-url: /el/net/collada-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Εξαγωγή Μορφής COLLADA σε PDF**

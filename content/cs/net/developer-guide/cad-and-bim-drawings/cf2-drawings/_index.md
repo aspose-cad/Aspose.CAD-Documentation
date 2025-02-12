@@ -2,7 +2,7 @@
 title: CF2 Výkresy
 type: docs
 weight: 110
-url: /cs/net/cf2-vykresy/
+url: /cs/net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **Převod CF2 na PDF**

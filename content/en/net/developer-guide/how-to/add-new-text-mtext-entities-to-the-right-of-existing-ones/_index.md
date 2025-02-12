@@ -2,7 +2,7 @@
 title: Add new TEXT/MTEXT entities to the right of existing ones 
 type: docs
 weight: 17
-url: /net/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
+url: /net/developer-guide/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
 ---
 
 ## **How to add new TEXT/MTEXT entities to the right of existing ones**

@@ -2,7 +2,7 @@
 title: Αλλαγή βάρους γραμμών για DWG/DXF
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-entities/change-lines-weight-for-dwg-dxf
+url: /el/net/developer-guide/how-to/work-with-entities/change-lines-weight-for-dwg-dxf/
 ---
 
 ## **Πώς να αλλάξετε το βάρος των γραμμών για DWG/DXF**

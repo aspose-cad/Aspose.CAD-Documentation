@@ -2,7 +2,7 @@
 title: افزودن تصویر به عنوان پس‌زمینه در DWG
 type: docs
 weight: 15
-url: /fa/net/how-to/addition-of-image-as-background-into-dwg/
+url: /fa/net/developer-guide/how-to/addition-of-image-as-background-into-dwg/
 ---
 
 ## **چگونه یک تصویر به عنوان پس‌زمینه در DWG اضافه کنیم**

@@ -2,7 +2,7 @@
 title: Kresby DXB
 type: docs
 weight: 70
-url: /cs/javascript-net/dxb-drawings/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **Exportování formátu DXB do PNG**

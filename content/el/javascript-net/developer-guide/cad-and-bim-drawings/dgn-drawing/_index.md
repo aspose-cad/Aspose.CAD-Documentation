@@ -2,7 +2,7 @@
 title: DGN Σχέδιο
 type: docs
 weight: 10
-url: /el/javascript-net/dgn-drawing/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Εξαγωγή μορφής DGN σε PNG**

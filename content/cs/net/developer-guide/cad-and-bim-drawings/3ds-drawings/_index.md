@@ -2,7 +2,7 @@
 title: 3D kresby
 type: docs
 weight: 70
-url: /cs/net/3ds-kresby/
+url: /cs/net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **Exportování formátu 3DS do PDF**

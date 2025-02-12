@@ -2,7 +2,7 @@
 title: تصدير جزء من الصورة
 type: docs
 weight: 32
-url: /ar/net/how-to/export-part-of-the-image/
+url: /ar/net/developer-guide/how-to/export-part-of-the-image/
 ---
 
 ## **كيفية تصدير جزء من الصورة**

@@ -2,7 +2,7 @@
 title: Σχέδια DWT
 type: docs
 weight: 50
-url: /el/net/dwt-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwt-drawings/
 ---
 
 ## **Υποστήριξη Αρχείων DWT**

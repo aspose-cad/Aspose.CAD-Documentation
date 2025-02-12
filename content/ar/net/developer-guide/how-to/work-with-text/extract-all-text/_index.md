@@ -2,7 +2,7 @@
 title: استخراج كل النص
 type: docs
 weight: 20
-url: /ar/net/how-to/work-with-text/extract-all-text
+url: /ar/net/developer-guide/how-to/work-with-text/extract-all-text/
 ---
 
 ## **كيفية استخراج كل النص**

@@ -2,7 +2,7 @@
 title: Exportovat každý rozložení do samostatného souboru PNG
 type: docs
 weight: 20
-url: /cs/jak-na/prace-s-rozlozenim/exportovat-kazde-rozlozeni-do-samostatneho-souboru-png
+url: /cs/net/developer-guide/how-to/work-with-layout/export-each-layout-in-separate-png-file/
 ---
 
 

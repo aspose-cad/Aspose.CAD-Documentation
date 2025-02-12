@@ -2,7 +2,7 @@
 title: إعداد خيارات الجودة للنصوص والأنماط والانحناءات
 type: docs
 weight: 46
-url: /ar/net/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
+url: /ar/net/developer-guide/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
 ---
 
 ## **كيفية إعداد خيارات الجودة للنصوص والأنماط والانحناءات**

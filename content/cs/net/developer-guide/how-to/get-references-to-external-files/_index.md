@@ -2,7 +2,7 @@
 title: Získání odkazů na externí soubory
 type: docs
 weight: 36
-url: /cs/net/how-to/get-references-to-external-files/
+url: /cs/net/developer-guide/how-to/get-references-to-external-files/
 ---
 
 ## **Jak získat odkazy na externí soubory**

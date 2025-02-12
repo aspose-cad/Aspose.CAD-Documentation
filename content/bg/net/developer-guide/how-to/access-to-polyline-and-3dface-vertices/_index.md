@@ -2,7 +2,7 @@
 title: Достъп до вертексите на полилинията и 3DFace
 type: docs
 weight: 12
-url: /bg/net/how-to/access-to-polyline-and-3dface-vertices/
+url: /bg/net/developer-guide/how-to/access-to-polyline-and-3dface-vertices/
 ---
 
 ## **Как да достъпите до вертексите на полилинията и 3DFace**

@@ -2,7 +2,7 @@
 title: Entfernen einer Entität
 type: docs
 weight: 43
-url: /de/net/how-to/remove-of-an-entity/
+url: /de/net/developer-guide/how-to/remove-of-an-entity/
 ---
 
 ## **Wie man eine Entität entfernt**

@@ -2,7 +2,7 @@
 title: Changing of the emergency font and font in styles 
 type: docs
 weight: 21
-url: /net/how-to/changing-of-the-emergency-font-and-font-in-styles/
+url: /net/developer-guide/how-to/changing-of-the-emergency-font-and-font-in-styles/
 ---
 
 ## **How to changing of the emergency font and font in styles**

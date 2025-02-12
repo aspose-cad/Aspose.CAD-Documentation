@@ -2,7 +2,7 @@
 title: رسومات DXB
 type: docs
 weight: 70
-url: /ar/net/dxb-drawings/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **تصدير تنسيق DXB إلى PDF**

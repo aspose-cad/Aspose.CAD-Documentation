@@ -2,7 +2,7 @@
 title: Automatické odhalování kódování
 type: docs
 weight: 10
-url: /cs/auto-codepage-detection/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Automatické odhalování kódování**

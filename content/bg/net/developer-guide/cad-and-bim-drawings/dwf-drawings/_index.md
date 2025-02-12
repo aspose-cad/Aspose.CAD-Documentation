@@ -2,7 +2,7 @@
 title: Рисунки DWF
 type: docs
 weight: 20
-url: /bg/net/dwf-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **Експортиране на рисунки DWF към PDF**

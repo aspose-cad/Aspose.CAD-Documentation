@@ -2,7 +2,7 @@
 title: Проверете дали външните референтни изображения съществуват и заменете референциите
 type: docs
 weight: 22
-url: /bg/net/how-to/check-whether-external-referenced-images-exist-and-replace-references/
+url: /bg/net/developer-guide/how-to/check-whether-external-referenced-images-exist-and-replace-references/
 ---
 
 ## **Как да редактирам хипервръзки върху обекти**

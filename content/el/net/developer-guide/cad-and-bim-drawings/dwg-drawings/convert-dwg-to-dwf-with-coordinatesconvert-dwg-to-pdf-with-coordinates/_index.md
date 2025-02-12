@@ -2,7 +2,7 @@
 title: Μετατροπή DWG σε PDF με Συντεταγμένες
 type: docs
 weight: 80
-url: /el/net/convert-dwg-to-pdf-with-coordinates/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwg-drawings/convert-dwg-to-dwf-with-coordinatesconvert-dwg-to-pdf-with-coordinates/
 ---
 
 

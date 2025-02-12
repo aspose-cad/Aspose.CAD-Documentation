@@ -2,7 +2,7 @@
 title: Export von nur einigen Ebenen mit Neuanpassung
 type: docs
 weight: 31
-url: /de/net/how-to/export-of-only-some-layers-with-rescaling/
+url: /de/net/developer-guide/how-to/export-of-only-some-layers-with-rescaling/
 ---
 
 ## **Export von nur einigen Ebenen mit Neuanpassung (CADNET-559)**

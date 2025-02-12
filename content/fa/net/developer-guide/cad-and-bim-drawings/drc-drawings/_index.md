@@ -2,7 +2,7 @@
 title: نقشه های DRC
 type: docs
 weight: 15
-url: /fa/net/drc-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/drc-drawings/
 ---
 
 ## **صادرات نقشه های DRC به PDF**

@@ -2,7 +2,7 @@
 title: Αλλαγή της επείγουσας γραμματοσειράς και γραμματοσειράς σε στυλ 
 type: docs
 weight: 21
-url: /el/net/how-to/changing-of-the-emergency-font-and-font-in-styles/
+url: /el/net/developer-guide/how-to/changing-of-the-emergency-font-and-font-in-styles/
 ---
 
 ## **Πώς να αλλάξετε την επείγουσα γραμματοσειρά και τη γραμματοσειρά σε στυλ**

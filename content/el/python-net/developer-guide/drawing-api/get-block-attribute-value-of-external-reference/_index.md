@@ -2,7 +2,7 @@
 title: Απόκτηση Τιμής Γενικής Ιδιότητας Αναφοράς
 type: docs
 weight: 60
-url: /el/Python/get-block-attribute-value-of-external-reference/
+url: /el/python-net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **Απόκτηση Τιμής Γενικής Ιδιότητας**

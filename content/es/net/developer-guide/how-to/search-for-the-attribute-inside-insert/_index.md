@@ -2,7 +2,7 @@
 title: Buscar el atributo dentro de insert
 type: docs
 weight: 44
-url: /es/net/how-to/search-for-the-attribute-inside-insert/
+url: /es/net/developer-guide/how-to/search-for-the-attribute-inside-insert/
 ---
 
 ## **Cómo buscar un atributo dentro de insert**

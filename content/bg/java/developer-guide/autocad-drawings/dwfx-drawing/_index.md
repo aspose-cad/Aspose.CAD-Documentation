@@ -2,7 +2,7 @@
 title: Чертане с DWFx
 type: документация
 weight: 30
-url: /bg/java/dwfx-drawing/
+url: /bg/java/developer-guide/autocad-drawings/dwfx-drawing/
 ---
 
 ## **Чертане с DWFx**

@@ -2,7 +2,7 @@
 title: Dibujos SVG
 type: docs
 weight: 70
-url: /es/net/svg-drawings/
+url: /es/net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **Exportar formato SVG a PDF**

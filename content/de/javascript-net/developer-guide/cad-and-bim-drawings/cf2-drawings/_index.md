@@ -2,7 +2,7 @@
 title: CF2 Zeichnungen
 type: docs
 weight: 110
-url: /de/javascript-net/cf2-zeichnungen/
+url: /de/javascript-net/developer-guide/cad-and-bim-drawings/cf2-drawings/
 ---
 
 ## **Exportieren des CF2-Formats nach PNG**

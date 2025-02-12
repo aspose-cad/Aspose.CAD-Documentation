@@ -2,7 +2,7 @@
 title: نگارش DWFx
 type: docs
 weight: 60
-url: /fa/python-net/dwfx-drawing/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **نگارش DWFx**

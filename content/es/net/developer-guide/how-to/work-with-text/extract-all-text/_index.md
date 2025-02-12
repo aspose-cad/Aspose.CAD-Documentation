@@ -2,7 +2,7 @@
 title: Extraer todo el texto
 type: docs
 weight: 20
-url: /es/net/how-to/work-with-text/extract-all-text
+url: /es/net/developer-guide/how-to/work-with-text/extract-all-text/
 ---
 
 

@@ -2,7 +2,7 @@
 title: Přidání nové položky TEXT/MTEXT
 type: docs
 weight: 20
-url: /cs/how-to/work-with-entities/add-new-text-mtext-item
+url: /cs/net/developer-guide/how-to/work-with-entities/add-new-text-mtext-item/
 ---
 
 ## **Jak přidat novou položku TEXT/MTEXT**

@@ -2,7 +2,7 @@
 title: Σχέδια STP
 type: docs
 weight: 70
-url: /el/net/stp-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Εξαγωγή Μορφής STP σε PDF**

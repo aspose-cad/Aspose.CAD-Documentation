@@ -2,7 +2,7 @@
 title: Προσθήκη νέου στοιχείου TEXT/MTEXT
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-entities/add-new-text-mtext-item
+url: /el/net/developer-guide/how-to/work-with-entities/add-new-text-mtext-item/
 ---
 
 

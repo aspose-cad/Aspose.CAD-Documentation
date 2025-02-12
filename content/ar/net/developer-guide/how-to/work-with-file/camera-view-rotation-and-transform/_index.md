@@ -2,7 +2,7 @@
 title: دوران وتحويل عرض الكاميرا
 type: docs
 weight: 10
-url: /ar/net/how-to/work-with-file/camera-view-rotation-and-transform
+url: /ar/net/developer-guide/how-to/work-with-file/camera-view-rotation-and-transform/
 ---
 
 ## **كيفية تغيير دوران الكاميرا وتحويلها**

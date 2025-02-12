@@ -2,7 +2,7 @@
 title: Kresby COLLADA
 type: docs
 weight: 20
-url: /cs/python-net/collada-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Exportování formátu COLLADA do PDF**

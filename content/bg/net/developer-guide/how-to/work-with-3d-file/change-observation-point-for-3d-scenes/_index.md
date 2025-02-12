@@ -2,7 +2,7 @@
 title: Промяна на точката на наблюдение за 3D сцени
 type: docs
 weight: 20
-url: /bg/net/how-to/work-with-3d-file/change-observation-point-for-3d-scenes
+url: /bg/net/developer-guide/how-to/work-with-3d-file/change-observation-point-for-3d-scenes/
 ---
 
 ## **Как да промените точката на наблюдение за 3D сцени**

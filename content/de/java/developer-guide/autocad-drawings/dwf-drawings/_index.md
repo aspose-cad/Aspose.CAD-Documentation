@@ -2,7 +2,7 @@
 title: DWF-Zeichnungen
 type: docs
 weight: 20
-url: /de/java/dwf-drawings/
+url: /de/java/developer-guide/autocad-drawings/dwf-drawings/
 ---
 
 ## **Export von DWF-Zeichnungen in PDF**

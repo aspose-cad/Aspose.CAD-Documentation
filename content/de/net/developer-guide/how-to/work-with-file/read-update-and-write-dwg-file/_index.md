@@ -2,7 +2,7 @@
 title: DWG-Datei lesen, aktualisieren und schreiben
 type: docs
 weight: 11
-url: /de/net/how-to/work-with-file/read-update-and-write-dwg-file
+url: /de/net/developer-guide/how-to/work-with-file/read-update-and-write-dwg-file/
 ---
 
 ## **Wie man eine DWG-Datei liest, aktualisiert und schreibt**

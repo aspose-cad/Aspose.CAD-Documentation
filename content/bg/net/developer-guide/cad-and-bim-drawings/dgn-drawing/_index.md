@@ -2,7 +2,7 @@
 title: Рисуване на DGN формат като част от DWG
 type: документи
 weight: 10
-url: /bg/net/dgn-drawing/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Рисуване на DGN формат като част от DWG**

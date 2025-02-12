@@ -2,7 +2,7 @@
 title: Kresby FBX
 type: docs
 weight: 110
-url: /cs/python-net/fbx-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/fbx-drawings/
 ---
 
 ## **Exportování formátu FBX do PDF**

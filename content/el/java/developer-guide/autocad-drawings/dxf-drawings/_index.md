@@ -2,7 +2,7 @@
 title: DXF Σχέδια
 type: docs
 weight: 60
-url: /el/java/dxf-drawings/
+url: /el/java/developer-guide/autocad-drawings/dxf-drawings/
 ---
 
 ## **Εξαγωγή DXF Σχεδίων σε PDF**

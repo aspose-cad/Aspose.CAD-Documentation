@@ -2,7 +2,7 @@
 title: Dibujos DWG
 type: docs
 weight: 40
-url: /es/javascript-net/dwg-drawings/
+url: /es/javascript-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Exportando el formato DWG a PNG**

@@ -2,7 +2,7 @@
 title: کار با هایپرلینک‌ها
 type: docs
 weight: 50
-url: /fa/python-net/working-with-hyperlinks/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **به‌روزرسانی هایپرلینک در یک DWG**

@@ -3,7 +3,7 @@
 title: Dibujos DWG
 type: docs
 weight: 40
-url: /es/java/dwg-drawings/
+url: /es/java/developer-guide/autocad-drawings/dwg-drawings/
 ---
 
 ## **Exportando Dibujos DWG a PDF**

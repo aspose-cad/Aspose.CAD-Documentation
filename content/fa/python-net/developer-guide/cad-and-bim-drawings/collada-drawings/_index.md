@@ -2,7 +2,7 @@
 title: طراحی‌های COLLADA
 type: docs
 weight: 20
-url: /fa/python-net/collada-drawings/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **صادرات فرمت COLLADA به PDF**

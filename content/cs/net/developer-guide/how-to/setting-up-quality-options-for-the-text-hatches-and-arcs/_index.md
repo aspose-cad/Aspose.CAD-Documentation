@@ -2,7 +2,7 @@
 title: Nastavení možností kvality pro text, šrafování a oblouky
 type: docs
 weight: 46
-url: /cs/jak-na/nastaveni-kvality-pro-text-srafovani-a-oblouky/
+url: /cs/net/developer-guide/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
 ---
 
 ## **Jak nastavit možnosti kvality pro text, šrafování a oblouky**

@@ -2,7 +2,7 @@
 title: Přidání nových entit TEXT/MTEXT doprava od existujících
 type: docs
 weight: 17
-url: /cs/jak-na/pridani-novych-text-mtext-entit-doprava-od-existujicich/
+url: /cs/net/developer-guide/how-to/add-new-text-mtext-entities-to-the-right-of-existing-ones/
 ---
 
 ## **Jak přidat nové entity TEXT/MTEXT doprava od existujících**

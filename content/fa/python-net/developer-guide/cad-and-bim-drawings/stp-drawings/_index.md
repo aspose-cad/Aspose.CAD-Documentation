@@ -2,7 +2,7 @@
 title: نقشه‌های STP
 type: docs
 weight: 160
-url: /fa/python-net/stp-drawings/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **صادرات فرمت STP به PDF**

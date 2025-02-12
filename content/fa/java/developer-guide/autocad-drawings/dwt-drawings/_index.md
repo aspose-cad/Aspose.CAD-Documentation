@@ -2,7 +2,7 @@
 title: نقشه‌های DWT
 type: docs
 weight: 50
-url: /fa/java/dwt-drawings/
+url: /fa/java/developer-guide/autocad-drawings/dwt-drawings/
 ---
 
 ## **پشتیبانی از فایل‌های DWT**

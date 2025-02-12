@@ -2,7 +2,7 @@
 title: Εισαγωγή
 type: docs
 weight: 10
-url: /el/python-net/introduction/
+url: /el/python-net/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

@@ -2,7 +2,7 @@
 title: Working with OBJ File Format
 type: docs
 weight: 120
-url: /java/working-with-obj-file-format/
+url: /java/developer-guide/autocad-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

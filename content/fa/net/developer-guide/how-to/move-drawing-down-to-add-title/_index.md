@@ -2,7 +2,7 @@
 title: حرکت دادن ترسیم به پایین برای اضافه کردن عنوان
 type: docs
 weight: 40
-url: /fa/net/how-to/move-drawing-down-to-add-title/
+url: /fa/net/developer-guide/how-to/move-drawing-down-to-add-title/
 ---
 
 ## **چگونه ترسیم را به پایین حرکت دهیم تا عنوان اضافه کنیم**

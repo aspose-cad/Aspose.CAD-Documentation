@@ -2,7 +2,7 @@
 title: DWG Σχέδια
 type: docs
 weight: 70
-url: /el/python-net/dwg-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Εξαγωγή DWG Σχεδίων σε PDF**

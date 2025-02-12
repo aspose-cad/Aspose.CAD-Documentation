@@ -2,7 +2,7 @@
 title: Výkresy DWG
 type: docs
 weight: 40
-url: /cs/net/dwg-drawings/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Export výkresů DWG do formátu PDF**

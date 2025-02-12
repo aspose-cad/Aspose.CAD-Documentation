@@ -2,7 +2,7 @@
 title: Generování souboru DWG
 type: docs
 weight: 20
-url: /cs/jak-na/vytvoreni-souboru/generovani-dwg
+url: /cs/net/developer-guide/how-to/generate-file/generation-of-dwg/
 ---
 
 ## **Jak generovat soubor DWG**

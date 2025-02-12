@@ -2,7 +2,7 @@
 title: Σχέδια IGES
 type: docs
 weight: 130
-url: /el/python-net/iges-drawings/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **Εξαγωγή IGES σε PDF**

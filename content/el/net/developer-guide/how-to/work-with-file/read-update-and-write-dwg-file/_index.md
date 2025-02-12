@@ -2,7 +2,7 @@
 title: Διαβάστε, ενημερώστε και γράψτε αρχείο DWG
 type: docs
 weight: 11
-url: /el/net/how-to/work-with-file/read-update-and-write-dwg-file
+url: /el/net/developer-guide/how-to/work-with-file/read-update-and-write-dwg-file/
 ---
 
 ## **Πώς να διαβάσετε, ενημερώσετε και γράψετε αρχείο DWG**

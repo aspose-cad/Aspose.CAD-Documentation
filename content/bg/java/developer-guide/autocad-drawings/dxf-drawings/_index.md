@@ -2,7 +2,7 @@
 title: Чертежи DXF
 type: docs
 weight: 60
-url: /bg/java/dxf-drawings/
+url: /bg/java/developer-guide/autocad-drawings/dxf-drawings/
 ---
 
 ## **Изнасяне на чертежи DXF към PDF**

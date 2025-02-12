@@ -2,7 +2,7 @@
 title: Get layout names
 type: docs
 weight: 34
-url: /net/how-to/get-layout-names/
+url: /net/developer-guide/how-to/get-layout-names/
 ---
 
 ## **How to get layout names**

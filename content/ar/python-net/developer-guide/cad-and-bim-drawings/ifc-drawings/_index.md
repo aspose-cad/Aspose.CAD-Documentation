@@ -2,7 +2,7 @@
 title: رسومات IFC
 type: docs
 weight: 120
-url: /ar/python-net/ifc-drawings/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **تصدير تنسيق IFC إلى PNG**

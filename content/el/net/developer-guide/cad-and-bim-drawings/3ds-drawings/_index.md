@@ -2,7 +2,7 @@
 title: 3DS Σχέδια
 type: docs
 weight: 70
-url: /el/net/3ds-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **Εξαγωγή μορφής 3DS σε PDF**

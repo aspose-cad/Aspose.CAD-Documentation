@@ -2,7 +2,7 @@
 title: Change observation point for 3D scenes
 type: docs
 weight: 20
-url: /net/how-to/work-with-3d-file/change-observation-point-for-3d-scenes
+url: /net/developer-guide/how-to/work-with-3d-file/change-observation-point-for-3d-scenes/
 ---
 
 ## **How to change observation point for 3D scenes**

@@ -2,7 +2,7 @@
 title: تنظیم اندازه نقشه CAD
 type: docs
 weight: 10
-url: /fa/net/adjusting-cad-drawing-size/
+url: /fa/net/developer-guide/adjustment-of-cad-drawings/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

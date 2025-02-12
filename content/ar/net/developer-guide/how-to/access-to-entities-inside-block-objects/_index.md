@@ -2,7 +2,7 @@
 title: الوصول إلى الكيانات داخل كائنات الكتل
 type: docs
 weight: 11
-url: /ar/net/how-to/access-to-entities-inside-block-objects/
+url: /ar/net/developer-guide/how-to/access-to-entities-inside-block-objects/
 ---
 
 ## **كيفية الوصول إلى الكيانات داخل كائنات الكتل**

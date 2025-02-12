@@ -2,7 +2,7 @@
 title: Получаване на стойност за атрибут на блок от външна референция
 type: docs
 weight: 60
-url: /bg/Python/получаване-на-стойност-за-атрибут-на-блок-от-външна-референция/
+url: /bg/python-net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **Получаване на стойност за атрибут на блок**

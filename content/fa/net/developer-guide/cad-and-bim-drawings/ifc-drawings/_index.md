@@ -2,7 +2,7 @@
 title: IFC Drawings
 type: docs
 weight: 70
-url: /fa/net/ifc-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **صادر کردن فرمت IFC به PNG**

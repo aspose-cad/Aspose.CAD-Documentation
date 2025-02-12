@@ -2,7 +2,7 @@
 title: DXB Zeichnungen
 type: docs
 weight: 70
-url: /de/javascript-net/dxb-zeichnungen/
+url: /de/javascript-net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **Exportieren des DXB-Formats in PNG**

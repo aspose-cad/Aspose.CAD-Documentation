@@ -2,7 +2,7 @@
 title: Σχέδια DWG
 type: docs
 weight: 40
-url: /el/java/dwg-drawings/
+url: /el/java/developer-guide/autocad-drawings/dwg-drawings/
 ---
 
 ## **Εξαγωγή Σχεδίων DWG σε PDF**

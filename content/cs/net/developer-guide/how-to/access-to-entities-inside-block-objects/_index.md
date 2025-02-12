@@ -2,7 +2,7 @@
 title: Přístup k entitám uvnitř blokových objektů
 type: docs
 weight: 11
-url: /cs/net/how-to/pristup-k-entitam-u-vnitr-blokovych-objektu/
+url: /cs/net/developer-guide/how-to/access-to-entities-inside-block-objects/
 ---
 
 ## **Jak získat přístup k entitám uvnitř blokových objektů**

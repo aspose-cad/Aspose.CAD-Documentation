@@ -2,7 +2,7 @@
 title: Πώς να αποκτήσετε το μέγεθος του διάταξης
 type: docs
 weight: 37
-url: /el/net/how-to/get-size-of-the-layout/
+url: /el/net/developer-guide/how-to/get-size-of-the-layout/
 ---
 
 ## **Πώς να αποκτήσετε το μέγεθος του διάταξης**

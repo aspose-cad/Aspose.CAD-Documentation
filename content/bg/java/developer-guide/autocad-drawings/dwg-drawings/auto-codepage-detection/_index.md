@@ -2,7 +2,7 @@
 title: Автоматично разпознаване на кодна страница
 type: docs
 weight: 10
-url: /bg/java/auto-codepage-detection/
+url: /bg/java/developer-guide/autocad-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Автоматично разпознаване на кодна страница**

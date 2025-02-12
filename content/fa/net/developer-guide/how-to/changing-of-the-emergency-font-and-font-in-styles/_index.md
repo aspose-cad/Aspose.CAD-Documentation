@@ -2,7 +2,7 @@
 title: تغییر فونت اضطراری و فونت در استایل‌ها 
 type: docs
 weight: 21
-url: /fa/net/how-to/changing-of-the-emergency-font-and-font-in-styles/
+url: /fa/net/developer-guide/how-to/changing-of-the-emergency-font-and-font-in-styles/
 ---
 
 ## **چگونه فونت اضطراری و فونت در استایل‌ها را تغییر دهیم**

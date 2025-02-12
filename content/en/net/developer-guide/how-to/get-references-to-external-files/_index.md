@@ -2,7 +2,7 @@
 title: Get references to external files
 type: docs
 weight: 36
-url: /net/how-to/get-references-to-external-files/
+url: /net/developer-guide/how-to/get-references-to-external-files/
 ---
 
 ## **How to get references to external files**

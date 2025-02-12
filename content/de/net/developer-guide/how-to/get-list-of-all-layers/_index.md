@@ -2,7 +2,7 @@
 title: Liste aller Ebenen abrufen
 type: docs
 weight: 35
-url: /de/net/how-to/get-list-of-all-layers/
+url: /de/net/developer-guide/how-to/get-list-of-all-layers/
 ---
 
 ## **Wie man eine Liste aller Ebenen abruft**

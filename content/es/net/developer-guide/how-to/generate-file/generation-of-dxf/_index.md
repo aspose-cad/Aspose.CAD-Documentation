@@ -2,7 +2,7 @@
 title: Generación de DXF
 type: docs
 weight: 20
-url: /es/net/how-to/generate-file/generation-of-dxf
+url: /es/net/developer-guide/how-to/generate-file/generation-of-dxf/
 ---
 
 ## **Cómo generar DXF**

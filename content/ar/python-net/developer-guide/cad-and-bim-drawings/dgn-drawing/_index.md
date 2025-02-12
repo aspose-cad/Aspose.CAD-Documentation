@@ -2,7 +2,7 @@
 title: رسم DGN
 type: docs
 weight: 30
-url: /ar/python-net/dgn-drawing/
+url: /ar/python-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **تصحيح رسومات DGN إلى PDF**

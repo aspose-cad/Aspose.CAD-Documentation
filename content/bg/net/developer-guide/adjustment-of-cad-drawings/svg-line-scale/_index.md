@@ -2,7 +2,7 @@
 title: Промяна на мащаба на линиите в SVG
 type: docs
 weight: 20
-url: /bg/net/adjust-cad-properties/svg-line-scale
+url: /bg/net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 ---
 
 
@@ -18,6 +18,6 @@ url: /bg/net/adjust-cad-properties/svg-line-scale
 
 ## Файл, използващ линеен мащаб
 1. Файлът, ако параметърът LineScale е зададен на 0.25.<br>
-![Input image](/_assets/line_scale_0.25.png)<br>
+![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Файл, ако не използвате мащабиране на линиите.<br>
-![Input image](/_assets/basic_options.png)<br>
+![Input image](/_assets/guide/svg/basic_options.png)<br>

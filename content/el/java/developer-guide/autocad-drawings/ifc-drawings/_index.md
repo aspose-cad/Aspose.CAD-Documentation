@@ -2,7 +2,7 @@
 title: IFC Σχέδια
 type: docs
 weight: 70
-url: /el/java/ifc-drawings/
+url: /el/java/developer-guide/autocad-drawings/ifc-drawings/
 ---
 
 ## **Εξαγωγή Μορφής IFC σε PNG**

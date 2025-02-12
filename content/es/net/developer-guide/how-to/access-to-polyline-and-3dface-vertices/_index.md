@@ -2,7 +2,7 @@
 title: Acceso a los vértices de polilínea y 3DFace
 type: docs
 weight: 12
-url: /es/net/how-to/access-to-polyline-and-3dface-vertices/
+url: /es/net/developer-guide/how-to/access-to-polyline-and-3dface-vertices/
 ---
 
 ## **Cómo acceder a los vértices de polilínea y 3DFace**

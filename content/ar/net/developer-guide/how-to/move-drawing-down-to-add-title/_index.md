@@ -2,7 +2,7 @@
 title: تحريك الرسم لأسفل لإضافة عنوان
 type: docs
 weight: 40
-url: /ar/net/how-to/move-drawing-down-to-add-title/
+url: /ar/net/developer-guide/how-to/move-drawing-down-to-add-title/
 ---
 
 ## **كيفية تحريك الرسم لأسفل لإضافة عنوان**

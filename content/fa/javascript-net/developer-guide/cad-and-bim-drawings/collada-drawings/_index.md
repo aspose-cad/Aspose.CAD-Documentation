@@ -2,7 +2,7 @@
 title: COLLADA Drawings
 type: docs
 weight: 70
-url: /fa/javascript-net/collada-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **صادرات فرمت COLLADA به PNG**

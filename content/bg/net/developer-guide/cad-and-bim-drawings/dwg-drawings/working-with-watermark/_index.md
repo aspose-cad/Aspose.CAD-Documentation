@@ -2,7 +2,7 @@
 title: Работа с Воден Знак
 type: docs
 weight: 60
-url: /bg/работа-с-воден-знак/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Добавяне на Воден Знак в DWG**

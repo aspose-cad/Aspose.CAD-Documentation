@@ -2,7 +2,7 @@
 title: Zeichnen im DGN-Format
 type: docs
 weight: 10
-url: /de/java/dgn-zeichnung/
+url: /de/java/developer-guide/autocad-drawings/dgn-drawing/
 ---
 
 ## **Zeichnen im DGN-Format als Teil von DWG**

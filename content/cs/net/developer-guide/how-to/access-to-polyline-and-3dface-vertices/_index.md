@@ -2,7 +2,7 @@
 title: Přístup k vrcholům lomené čáry a 3DFace
 type: docs
 weight: 12
-url: /cs/jak-na-pristup-k-vrcholum-lomene-cary-a-3dface/
+url: /cs/net/developer-guide/how-to/access-to-polyline-and-3dface-vertices/
 ---
 
 ## **Jak na přístup k vrcholům lomené čáry a 3DFace**

@@ -2,7 +2,7 @@
 title: Remove borders in result canvas
 type: docs
 weight: 42
-url: /net/how-to/remove-borders-in-result-canvas/
+url: /net/developer-guide/how-to/remove-borders-in-result-canvas/
 ---
 
 ## **How to remove borders in result canvas**

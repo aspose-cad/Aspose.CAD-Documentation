@@ -2,7 +2,7 @@
 title: Илюстрации DWF
 type: документация
 weight: 20
-url: /bg/java/dwf-drawings/
+url: /bg/java/developer-guide/autocad-drawings/dwf-drawings/
 ---
 
 ## **Експортиране на илюстрации DWF към PDF**

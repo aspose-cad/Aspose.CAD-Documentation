@@ -2,7 +2,7 @@
 title: Εργασία με τη μορφή αρχείου OBJ
 type: docs
 weight: 180
-url: /el/python-net/working-with-obj-file-format/
+url: /el/python-net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

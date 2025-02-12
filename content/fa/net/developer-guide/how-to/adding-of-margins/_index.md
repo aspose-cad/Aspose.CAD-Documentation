@@ -2,7 +2,7 @@
 title: افزودن حاشیه‌ها
 type: docs
 weight: 14
-url: /fa/net/how-to/adding-of-margins/
+url: /fa/net/developer-guide/how-to/adding-of-margins/
 ---
 
 ## **چگونه حاشیه‌ها را اضافه کنیم**

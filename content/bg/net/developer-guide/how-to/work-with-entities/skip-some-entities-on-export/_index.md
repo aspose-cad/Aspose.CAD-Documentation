@@ -2,7 +2,7 @@
 title: Пропускане на някои елементи при експортиране
 type: docs
 weight: 20
-url: /bg/net/how-to/work-with-entities/skip-some-entities-on-export
+url: /bg/net/developer-guide/how-to/work-with-entities/skip-some-entities-on-export/
 ---
 
 ## **Как да пропуснете някои елементи при експортиране**

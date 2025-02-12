@@ -2,7 +2,7 @@
 title: Προσδιορίστε τη λειτουργία απόδοσης για αρχεία DWG και DXF
 type: docs
 weight: 13
-url: /el/net/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files
+url: /el/net/developer-guide/how-to/work-with-file/specify-render-mode-for-dwg-dxf-files/
 ---
 
 

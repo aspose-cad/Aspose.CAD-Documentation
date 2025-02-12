@@ -2,7 +2,7 @@
 title: الوصول إلى رؤوس الخط المتقطع و3DFace
 type: docs
 weight: 12
-url: /ar/net/how-to/access-to-polyline-and-3dface-vertices/
+url: /ar/net/developer-guide/how-to/access-to-polyline-and-3dface-vertices/
 ---
 
 ## **كيفية الوصول إلى رؤوس الخط المتقطع و3DFace**

@@ -2,7 +2,7 @@
 title: STL Рисунки
 type: docs
 weight: 100
-url: /bg/net/stl-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Експортиране на STL формат към PNG**

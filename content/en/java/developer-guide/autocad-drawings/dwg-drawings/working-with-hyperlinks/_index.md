@@ -2,7 +2,7 @@
 title: Working with Hyperlinks
 type: docs
 weight: 40
-url: /java/working-with-hyperlinks/
+url: /java/developer-guide/autocad-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Update Hyperlink in a DWG**

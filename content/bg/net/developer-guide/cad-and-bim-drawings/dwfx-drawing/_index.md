@@ -2,7 +2,7 @@
 title: Изчертаване на DWFx
 type: docs
 weight: 30
-url: /bg/net/dwfx-drawing/
+url: /bg/net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **Изчертаване на DWFx**

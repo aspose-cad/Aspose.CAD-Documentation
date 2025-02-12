@@ -2,7 +2,7 @@
 title: Премахване на единия елемент
 type: docs
 weight: 43
-url: /bg/net/how-to/remove-of-an-entity/
+url: /bg/net/developer-guide/how-to/remove-of-an-entity/
 ---
 
 ## **Как да премахнете единия елемент**

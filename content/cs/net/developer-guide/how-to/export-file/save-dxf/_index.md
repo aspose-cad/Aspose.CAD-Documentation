@@ -2,7 +2,7 @@
 title: Uložit DXF
 type: docs
 weight: 24
-url: /cs/jak-na/export-souboru/ulozit-dxf/
+url: /cs/net/developer-guide/how-to/export-file/save-dxf/
 ---
 
 ## **Jak uložit soubor DXF**

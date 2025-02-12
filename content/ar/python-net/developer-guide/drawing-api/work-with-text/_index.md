@@ -2,7 +2,7 @@
 title: العمل مع النص
 type: docs
 weight: 40
-url: /ar/python-net/work-with-text/
+url: /ar/python-net/developer-guide/drawing-api/work-with-text/
 ---
 
 ## **العمل مع النص**

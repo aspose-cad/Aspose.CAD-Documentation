@@ -2,7 +2,7 @@
 title: کار با هایپرلینک‌ها
 type: docs
 weight: 40
-url: /fa/java/working-with-hyperlinks/
+url: /fa/java/developer-guide/autocad-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **به‌روزرسانی هایپرلینک در یک DWG**

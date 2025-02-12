@@ -2,7 +2,7 @@
 title: Dibujos PLT
 type: docs
 weight: 140
-url: /es/python-net/plt-drawings/
+url: /es/python-net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Exportar PLT a Imagen**

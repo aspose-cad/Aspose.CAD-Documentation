@@ -2,7 +2,7 @@
 title: Výkresy DXB
 type: docs
 weight: 90
-url: /cs/python-net/dxb-drawings/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/dxb-drawings/
 ---
 
 ## **Export formátu DXB do PDF**

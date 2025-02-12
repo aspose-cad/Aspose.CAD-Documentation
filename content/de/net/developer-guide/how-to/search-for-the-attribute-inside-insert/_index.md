@@ -2,7 +2,7 @@
 title: Suche nach dem Attribut innerhalb des Inserts
 type: docs
 weight: 44
-url: /de/net/how-to/search-for-the-attribute-inside-insert/
+url: /de/net/developer-guide/how-to/search-for-the-attribute-inside-insert/
 ---
 
 ## **So suchen Sie nach einem Attribut innerhalb des Inserts**

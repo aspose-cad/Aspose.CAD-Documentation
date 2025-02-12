@@ -2,7 +2,7 @@
 title: Get Block Attribute Value Of External Reference
 type: docs
 weight: 60
-url: /Python/get-block-attribute-value-of-external-reference/
+url: /python-net/developer-guide/drawing-api/get-block-attribute-value-of-external-reference/
 ---
 
 ## **Get Block Attribute Value**

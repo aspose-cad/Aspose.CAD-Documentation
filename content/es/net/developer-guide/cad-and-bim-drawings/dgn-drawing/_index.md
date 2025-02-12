@@ -2,7 +2,7 @@
 title: Dibujo DGN
 type: docs
 weight: 10
-url: /es/net/dgn-drawing/
+url: /es/net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Formato de Dibujo DGN como Parte de DWG**

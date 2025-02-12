@@ -2,7 +2,7 @@
 title: Add a polyline
 type: docs
 weight: 13
-url: /net/how-to/add-a-polyline/
+url: /net/developer-guide/how-to/add-a-polyline/
 ---
 
 ## **How to add a polyline**

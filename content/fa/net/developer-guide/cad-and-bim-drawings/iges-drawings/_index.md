@@ -2,7 +2,7 @@
 title: نقشه‌های IGES
 type: docs
 weight: 80
-url: /fa/net/iges-drawings/
+url: /fa/net/developer-guide/cad-and-bim-drawings/iges-drawings/
 ---
 
 ## **صادرات IGES به PDF**

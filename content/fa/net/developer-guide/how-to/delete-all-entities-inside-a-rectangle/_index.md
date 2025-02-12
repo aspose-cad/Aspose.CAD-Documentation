@@ -2,7 +2,7 @@
 title: حذف تمام موجودیت‌ها در داخل یک مستطیل 
 type: docs
 weight: 25
-url: /fa/net/how-to/delete-all-entities-inside-a-rectangle/
+url: /fa/net/developer-guide/how-to/delete-all-entities-inside-a-rectangle/
 ---
 
 ## **چگونه تمام موجودیت‌ها را در داخل یک مستطیل حذف کنیم**

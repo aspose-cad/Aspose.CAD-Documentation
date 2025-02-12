@@ -2,7 +2,7 @@
 title: Рисунки COLLADA
 type: docs
 weight: 70
-url: /bg/javascript-net/collada-drawings/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Експортиране на формат COLLADA към PNG**

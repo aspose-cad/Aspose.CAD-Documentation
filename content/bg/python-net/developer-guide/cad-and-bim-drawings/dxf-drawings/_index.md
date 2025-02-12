@@ -2,7 +2,7 @@
 title: Изчертания в DXF формат
 type: документация
 weight: 10
-url: /bg/python-net/dxf-изчертания/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/
 ---
 
 ## **Изнасяне на DXF изчертания към PDF**

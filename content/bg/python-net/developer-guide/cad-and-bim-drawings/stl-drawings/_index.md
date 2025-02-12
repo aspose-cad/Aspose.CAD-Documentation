@@ -2,7 +2,7 @@
 title: Изображения на STL
 type: docs
 weight: 150
-url: /bg/python-net/stl-drawings/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/stl-drawings/
 ---
 
 ## **Експортиране на STL формат към PNG**

@@ -2,7 +2,7 @@
 title: Dibujo DWFx
 type: docs
 weight: 30
-url: /es/java/dwfx-drawing/
+url: /es/java/developer-guide/autocad-drawings/dwfx-drawing/
 ---
 
 ## **Dibujo DWFx**

@@ -2,7 +2,7 @@
 title: ترسیم DGN
 type: docs
 weight: 30
-url: /fa/python-net/dgn-drawing/
+url: /fa/python-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **صادر کردن ترسیم های DGN به PDF**

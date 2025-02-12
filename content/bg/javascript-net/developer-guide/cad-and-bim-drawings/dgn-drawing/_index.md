@@ -2,7 +2,7 @@
 title: Изображение DGN
 type: docs
 weight: 10
-url: /bg/javascript-net/izvozhhdane-na-dgn-format-kŭm-png/
+url: /bg/javascript-net/developer-guide/cad-and-bim-drawings/dgn-drawing/
 ---
 
 ## **Износ на DGN формат към PNG**

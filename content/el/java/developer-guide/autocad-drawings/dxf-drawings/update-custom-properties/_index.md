@@ -2,7 +2,7 @@
 title: Προσθήκη Προσαρμοσμένων Ιδιοτήτων
 type: docs
 weight: 20
-url: /el/java/add-custom-properties/
+url: /el/java/developer-guide/autocad-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}

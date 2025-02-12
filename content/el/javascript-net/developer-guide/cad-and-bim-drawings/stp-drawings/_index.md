@@ -2,7 +2,7 @@
 title: Σχεδίαση STP
 type: docs
 weight: 70
-url: /el/javascript-net/stp-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Εξαγωγή Σχήματος STP σε PNG**

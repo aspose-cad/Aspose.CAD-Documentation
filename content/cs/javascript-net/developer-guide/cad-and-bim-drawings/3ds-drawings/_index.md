@@ -2,7 +2,7 @@
 title: 3D kresby
 type: docs
 weight: 70
-url: /cs/javascript-net/3ds-drawings/
+url: /cs/javascript-net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **Export 3DS Formátu do PNG**

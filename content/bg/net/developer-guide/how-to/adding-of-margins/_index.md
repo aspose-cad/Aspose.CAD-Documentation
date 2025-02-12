@@ -2,7 +2,7 @@
 title: Добавяне на вътрешни отстъпи
 type: docs
 weight: 14
-url: /bg/net/how-to/adding-of-margins/
+url: /bg/net/developer-guide/how-to/adding-of-margins/
 ---
 
 ## **Как да добавите вътрешни отстъпи**

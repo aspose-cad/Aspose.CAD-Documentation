@@ -2,7 +2,7 @@
 title: نقاشی‌های SVG
 type: docs
 weight: 70
-url: /fa/javascript-net/svg-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/svg-drawings/
 ---
 
 ## **صادرات فرمت SVG به PNG**

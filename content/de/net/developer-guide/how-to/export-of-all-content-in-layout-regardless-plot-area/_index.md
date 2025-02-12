@@ -2,7 +2,7 @@
 title: Export aller Inhalte im Layout unabhängig von der Plot-Bereich
 type: docs
 weight: 29
-url: /de/net/how-to/export-of-all-content-in-layout-regardless-plot-area/
+url: /de/net/developer-guide/how-to/export-of-all-content-in-layout-regardless-plot-area/
 ---
 
 ## **Wie man alle Inhalte im Layout unabhängig vom Plot-Bereich exportiert**

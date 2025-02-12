@@ -2,7 +2,7 @@
 title: العمل مع الروابط التشعبية
 type: docs
 weight: 50
-url: /ar/net/working-with-hyperlinks/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **تحديث الرابط التشعبي في DWG**

@@ -2,7 +2,7 @@
 title: Σχέδια DWG
 type: docs
 weight: 40
-url: /el/net/dwg-drawings/
+url: /el/net/developer-guide/cad-and-bim-drawings/dwg-drawings/
 ---
 
 ## **Εξαγωγή Σχεδίων DWG σε PDF**

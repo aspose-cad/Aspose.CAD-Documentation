@@ -2,7 +2,7 @@
 title: بررسی اینکه آیا تصاویر مرجع خارجی وجود دارند و جایگزینی مراجع
 type: docs
 weight: 22
-url: /fa/net/how-to/check-whether-external-referenced-images-exist-and-replace-references/
+url: /fa/net/developer-guide/how-to/check-whether-external-referenced-images-exist-and-replace-references/
 ---
 
 ## **چگونه هایپرلینک‌ها را روی اشیاء ویرایش کنیم**

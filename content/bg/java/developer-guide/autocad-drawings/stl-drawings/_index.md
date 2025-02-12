@@ -2,7 +2,7 @@
 title: Изчертания на стереолитография (STL)
 type: документация
 weight: 100
-url: /bg/java/stl-drawings/
+url: /bg/java/developer-guide/autocad-drawings/stl-drawings/
 ---
 
 ## **Експортиране на STL в PNG формат**

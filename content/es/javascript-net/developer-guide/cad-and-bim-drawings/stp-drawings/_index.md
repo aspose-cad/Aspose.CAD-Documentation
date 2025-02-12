@@ -2,7 +2,7 @@
 title: Dibujos STP
 type: docs
 weight: 70
-url: /es/javascript-net/stp-drawings/
+url: /es/javascript-net/developer-guide/cad-and-bim-drawings/stp-drawings/
 ---
 
 ## **Exportando el formato STP a PNG**

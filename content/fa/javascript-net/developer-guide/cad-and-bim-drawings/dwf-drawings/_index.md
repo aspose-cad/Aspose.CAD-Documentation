@@ -2,7 +2,7 @@
 title: نقشه‌های DWF
 type: docs
 weight: 20
-url: /fa/javascript-net/dwf-drawings/
+url: /fa/javascript-net/developer-guide/cad-and-bim-drawings/dwf-drawings/
 ---
 
 ## **صادرات فرمت DWF به PNG**

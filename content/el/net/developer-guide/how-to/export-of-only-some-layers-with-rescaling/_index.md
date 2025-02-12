@@ -2,7 +2,7 @@
 title: Εξαγωγή μόνο κάποιων επιπέδων με ανασχηματισμό
 type: docs
 weight: 31
-url: /el/net/how-to/export-of-only-some-layers-with-rescaling/
+url: /el/net/developer-guide/how-to/export-of-only-some-layers-with-rescaling/
 ---
 
 ## **Εξαγωγή μόνο κάποιων επιπέδων με ανασχηματισμό (CADNET-559)**

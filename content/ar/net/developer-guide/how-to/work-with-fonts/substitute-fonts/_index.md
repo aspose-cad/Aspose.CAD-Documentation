@@ -2,7 +2,7 @@
 title: استبدال الخطوط
 type: docs
 weight: 20
-url: /ar/net/how-to/work-with-fonts/substitute-fonts
+url: /ar/net/developer-guide/how-to/work-with-fonts/substitute-fonts/
 ---
 
 ## **كيفية استبدال الخطوط**

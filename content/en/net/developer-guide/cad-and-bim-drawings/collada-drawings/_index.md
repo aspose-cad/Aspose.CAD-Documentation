@@ -2,7 +2,7 @@
 title: COLLADA Drawings
 type: docs
 weight: 70
-url: /net/collada-drawings/
+url: /net/developer-guide/cad-and-bim-drawings/collada-drawings/
 ---
 
 ## **Exporting COLLADA Format To PDF**

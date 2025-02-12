@@ -2,7 +2,7 @@
 title: العمل مع علامة مائية
 type: docs
 weight: 60
-url: /ar/net/working-with-watermark/
+url: /ar/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **إضافة علامة مائية في ملف DWG**

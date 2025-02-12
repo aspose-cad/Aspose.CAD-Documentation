@@ -2,7 +2,7 @@
 title: Диаграми на IFC
 type: docs
 weight: 70
-url: /bg/java/ifc-drawings/
+url: /bg/java/developer-guide/autocad-drawings/ifc-drawings/
 ---
 
 ## **Експортиране на формат IFC към PNG**

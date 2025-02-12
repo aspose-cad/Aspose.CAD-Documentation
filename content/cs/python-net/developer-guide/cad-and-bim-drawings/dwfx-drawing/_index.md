@@ -2,7 +2,7 @@
 title: Kreslení DWFx
 type: docs
 weight: 60
-url: /cs/python-net/dwfx-drawing/
+url: /cs/python-net/developer-guide/cad-and-bim-drawings/dwfx-drawing/
 ---
 
 ## **Kreslení DWFx**

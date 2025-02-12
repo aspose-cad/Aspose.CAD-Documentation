@@ -2,7 +2,7 @@
 title: DWG in DWF konvertieren
 type: docs
 weight: 20
-url: /de/net/convert-dwg-to-dwf/
+url: /de/net/developer-guide/cad-and-bim-drawings/dwg-drawings/convert-dwg-to-dwf/
 ---
 
 ## **So konvertieren Sie DWG in DWF**

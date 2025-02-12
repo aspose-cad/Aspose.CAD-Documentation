@@ -2,7 +2,7 @@
 title: Nastavení objektů ATTRIB a MTEXT
 type: docs
 weight: 10
-url: /cs/nastaveni-attrib-a-mtext-objektu/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **Nastavení objektů ATTRIB a MTEXT**

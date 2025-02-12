@@ -2,7 +2,7 @@
 title: Достъп до елементите вътре в блокови обекти
 type: docs
 weight: 11
-url: /bg/net/how-to/access-to-entities-inside-block-objects/
+url: /bg/net/developer-guide/how-to/access-to-entities-inside-block-objects/
 ---
 
 ## **Как да достъпвате елементите вътре в блокови обекти**

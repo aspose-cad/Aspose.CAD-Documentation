@@ -2,7 +2,7 @@
 title: جستجوی ویژگی درون درج
 type: docs
 weight: 44
-url: /fa/net/how-to/search-for-the-attribute-inside-insert/
+url: /fa/net/developer-guide/how-to/search-for-the-attribute-inside-insert/
 ---
 
 ## **چگونه یک ویژگی را درون درج جستجو کنیم**

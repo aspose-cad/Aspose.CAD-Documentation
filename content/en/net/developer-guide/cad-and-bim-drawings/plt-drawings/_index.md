@@ -2,7 +2,7 @@
 title: PLT Drawings
 type: docs
 weight: 90
-url: /net/plt-drawings/
+url: /net/developer-guide/cad-and-bim-drawings/plt-drawings/
 ---
 
 ## **Export PLT to Image**

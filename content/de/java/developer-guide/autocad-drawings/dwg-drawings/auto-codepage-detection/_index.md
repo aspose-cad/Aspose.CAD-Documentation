@@ -2,7 +2,7 @@
 title: Automatische Codepage-Erkennung
 type: docs
 weight: 10
-url: /de/java/auto-codepage-erkennung/
+url: /de/java/developer-guide/autocad-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Automatische Codepage-Erkennung**

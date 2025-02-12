@@ -2,7 +2,7 @@
 title: Ajustando el tamaño del dibujo CAD
 type: docs
 weight: 10
-url: /es/python-net/adjusting-cad-drawing-size/
+url: /es/python-net/developer-guide/adjustment-of-cad-drawings/adjusting-cad-drawing-size/
 ---
 
 {{% alert color="primary" %}}

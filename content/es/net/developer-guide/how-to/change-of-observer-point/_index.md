@@ -2,7 +2,7 @@
 title: Cambio del punto de observador
 type: docs
 weight: 19
-url: /es/net/how-to/change-of-observer-point/
+url: /es/net/developer-guide/how-to/change-of-observer-point/
 ---
 
 ## **Cómo cambiar el punto de observador**

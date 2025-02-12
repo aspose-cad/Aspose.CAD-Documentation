@@ -2,7 +2,7 @@
 title: Износ на целия съдържание в оформлението, независимо от зоната за чертане
 type: документация
 weight: 29
-url: /bg/net/how-to/export-of-all-content-in-layout-regardless-plot-area/
+url: /bg/net/developer-guide/how-to/export-of-all-content-in-layout-regardless-plot-area/
 ---
 
 ## **Как да изнесем целия съдържание в оформлението, независимо от зоната за чертане**

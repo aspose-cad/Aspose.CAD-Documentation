@@ -2,7 +2,7 @@
 title: Παράλειψη ορισμένων οντοτήτων κατά την εξαγωγή
 type: docs
 weight: 20
-url: /el/net/how-to/work-with-entities/skip-some-entities-on-export
+url: /el/net/developer-guide/how-to/work-with-entities/skip-some-entities-on-export/
 ---
 
 

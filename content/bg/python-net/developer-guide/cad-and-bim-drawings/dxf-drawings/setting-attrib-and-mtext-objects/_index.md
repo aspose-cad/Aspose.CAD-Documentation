@@ -2,7 +2,7 @@
 title: Настройка на обекти ATTRIB и MTEXT
 type: docs
 weight: 10
-url: /bg/python-net/setting-attrib-and-mtext-objects/
+url: /bg/python-net/developer-guide/cad-and-bim-drawings/dxf-drawings/setting-attrib-and-mtext-objects/
 ---
 
 ## **Настройка на обекти ATTRIB и MTEXT**

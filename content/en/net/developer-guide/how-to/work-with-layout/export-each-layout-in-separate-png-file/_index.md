@@ -2,7 +2,7 @@
 title: Export each Layout in separate PNG file
 type: docs
 weight: 20
-url: /net/how-to/work-with-layout/export-each-layout-in-separate-png-file
+url: /net/developer-guide/how-to/work-with-layout/export-each-layout-in-separate-png-file/
 ---
 
 

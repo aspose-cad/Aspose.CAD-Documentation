@@ -2,7 +2,7 @@
 title: Ρύθμιση επιλογών ποιότητας για το κείμενο, τα σχήματα και τις καμάρες
 type: docs
 weight: 46
-url: /el/net/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
+url: /el/net/developer-guide/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
 ---
 
 ## **Πώς να ρυθμίσετε τις επιλογές ποιότητας για το κείμενο, τα σχήματα και τις καμάρες**

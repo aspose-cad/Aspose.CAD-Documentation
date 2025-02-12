@@ -2,7 +2,7 @@
 title: Dibujos STL
 type: docs
 weight: 100
-url: /es/java/stl-drawings/
+url: /es/java/developer-guide/autocad-drawings/stl-drawings/
 ---
 
 ## **Exportando STL a formato PNG**

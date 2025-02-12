@@ -2,7 +2,7 @@
 title: Introduction
 type: docs
 weight: 10
-url: /python-net/introduction/
+url: /python-net/installation/introduction/
 ---
 
 {{% alert color="primary" %}}

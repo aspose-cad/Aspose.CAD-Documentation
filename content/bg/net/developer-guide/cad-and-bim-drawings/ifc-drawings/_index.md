@@ -2,7 +2,7 @@
 title: Чертежи на IFC
 type: docs
 weight: 70
-url: /bg/net/ifc-drawings/
+url: /bg/net/developer-guide/cad-and-bim-drawings/ifc-drawings/
 ---
 
 ## **Експортиране на формата IFC към PNG**

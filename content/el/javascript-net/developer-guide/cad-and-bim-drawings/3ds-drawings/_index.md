@@ -2,7 +2,7 @@
 title: 3DS Σχέδια
 type: docs
 weight: 70
-url: /el/javascript-net/3ds-drawings/
+url: /el/javascript-net/developer-guide/cad-and-bim-drawings/3ds-drawings/
 ---
 
 ## **Εξαγωγή Μορφής 3DS σε PNG**

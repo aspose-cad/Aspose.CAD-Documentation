@@ -2,7 +2,7 @@
 title: تنظیم گزینه‌های کیفیت برای متن، هچ‌ها و قوس‌ها
 type: docs
 weight: 46
-url: /fa/net/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
+url: /fa/net/developer-guide/how-to/setting-up-quality-options-for-the-text-hatches-and-arcs/
 ---
 
 ## **چگونه گزینه‌های کیفیت را برای متن، هچ‌ها و قوس‌ها تنظیم کنیم**

@@ -2,7 +2,7 @@
 title: Práce s odkazy
 type: docs
 weight: 50
-url: /cs/prace-s-odkazy/
+url: /cs/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Aktualizace odkazu v DWG**

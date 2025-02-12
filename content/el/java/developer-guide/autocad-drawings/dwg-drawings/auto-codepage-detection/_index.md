@@ -2,7 +2,7 @@
 title: Αυτόματη ανίχνευση κωδικοσελίδας
 type: docs
 weight: 10
-url: /el/java/auto-codepage-detection/
+url: /el/java/developer-guide/autocad-drawings/dwg-drawings/auto-codepage-detection/
 ---
 
 ## **Αυτόματη ανίχνευση κωδικοσελίδας**

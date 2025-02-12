@@ -2,7 +2,7 @@
 title: Add Custom Properties
 type: docs
 weight: 20
-url: /net/add-custom-properties/
+url: /net/developer-guide/cad-and-bim-drawings/dxf-drawings/update-custom-properties/
 ---
 
 {{% alert color="primary" %}}
