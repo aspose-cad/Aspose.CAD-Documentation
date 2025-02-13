@@ -2,7 +2,7 @@
 title: Dessiner le viewport du dessin au lieu de l'ensemble du contenu
 type: docs
 weight: 27
-url: /fr/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/ content/
+url: /fr/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire-content/ content/ content/ content/
 ---
 
 ## **Comment dessiner le viewport du dessin au lieu de l'ensemble du contenu**

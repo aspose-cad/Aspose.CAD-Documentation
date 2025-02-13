@@ -2,7 +2,7 @@
 title: Gestion des objets OLE
 type: docs
 weight: 30
-url: /fr/net/developer-guide/cad-and-bim-drawings/dwg-drawings/gestion-des-objets-ole/
+url: /fr/net/developer-guide/cad-and-bim-drawings/dwg-drawings/managing-ole-objects/
 ---
 
 {{% alert color="primary" %}} 

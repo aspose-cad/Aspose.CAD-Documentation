@@ -2,7 +2,7 @@
 title: Coloration des inserts avec de nouvelles couches ajoutées
 type: docs
 weight: 23
-url: /fr/net/developer-guide/how-to/coloration-des-inserts-avec-de-nouvelles-couches-ajoutees/
+url: /fr/net/developer-guide/how-to/coloring-of-inserts-with-new-added-layers/
 ---
 
 ## **Comment colorer les inserts avec de nouvelles couches ajoutées (CADNET-1146)**

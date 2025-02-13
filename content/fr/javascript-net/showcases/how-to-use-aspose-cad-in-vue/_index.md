@@ -3,7 +3,7 @@ title: Comment utiliser Aspose.CAD dans Vue
 type: docs
 description: "Utilisez Aspose.CAD dans Vue."
 weight: 75
-url: /fr/javascript-net/showcases/comment-utiliser-aspose-cad-dans-vue/
+url: /fr/javascript-net/showcases/how-to-use-aspose-cad-in-vue/
 ---
 
 ## Prérequis
@@ -136,10 +136,10 @@ npm run dev
 ## Exemple d'exécution
 
 1. Choisissez un fichier.<br>
-![Choisir un fichier](/fr/_assets/javascript-net/vue/choose-file.png)<br>
+![Choisir un fichier](/_assets/javascript-net/vue/choose-file.png)<br>
 1. Sélectionnez n'importe quel fichier DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Si la réponse est réussie, le fichier sera affiché à l'écran et proposera de le télécharger.<br>
-![Convertir l'image](/fr/_assets/javascript-net/vue/convert-image.png)<br>
+![Convertir l'image](/_assets/javascript-net/vue/convert-image.png)<br>
 
 ## Voir aussi
 

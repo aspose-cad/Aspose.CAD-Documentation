@@ -94,10 +94,10 @@ npm start
 ## Exemple d'exécution
 
 1. Choisissez un fichier.<br>
-![Choisissez un fichier](/fr/_assets/javascript-net/react/choose-file.png)<br>
+![Choisissez un fichier](/_assets/javascript-net/react/choose-file.png)<br>
 1. Sélectionnez n'importe quel fichier DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Si la réponse est réussie, le fichier sera affiché à l'écran et proposera de le télécharger.<br>
-![Convertir l'image](/fr/_assets/javascript-net/react/convert-image.png)<br>
+![Convertir l'image](/_assets/javascript-net/react/convert-image.png)<br>
 
 ## Voir aussi
 

@@ -2,7 +2,7 @@
 title: Comment exécuter les exemples
 type: docs
 weight: 70
-url: /fr/net/showcases/comment-executer-les-exemples/
+url: /fr/net/showcases/how-to-run-the-examples/
 ---
 
 ## **Exigences logicielles**

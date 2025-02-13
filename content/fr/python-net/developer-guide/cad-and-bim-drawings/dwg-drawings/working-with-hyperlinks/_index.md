@@ -2,7 +2,7 @@
 title: Travailler avec des Hyperliens
 type: docs
 weight: 50
-url: /fr/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/travailler-avec-des-hyperliens/
+url: /fr/python-net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-hyperlinks/
 ---
 
 ## **Mettre à jour un Hyperlien dans un DWG**

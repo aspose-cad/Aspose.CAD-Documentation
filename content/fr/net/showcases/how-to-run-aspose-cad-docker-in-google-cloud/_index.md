@@ -120,11 +120,11 @@ dotnet run
 1. Connectez-vous à Google Cloud.
 2. Créez un projet s'il n'existe pas.
 3. Allez dans 'Artifact Registry' et créez un référentiel.<br>
-![Créer un référentiel d'artifacts](/fr/_assets/showcases/google/create-artifact-repository.png)<br>
+![Créer un référentiel d'artifacts](/_assets/showcases/google/create-artifact-repository.png)<br>
 4. Sélectionnez le nouveau référentiel dans Artifact Registry.
-![Sélectionner le référentiel d'artifacts](/fr/_assets/showcases/google/select-artifact.png)<br>
+![Sélectionner le référentiel d'artifacts](/_assets/showcases/google/select-artifact.png)<br>
 5. Cliquez sur 'INSTRUCTIONS DE CONFIGURATION' et copiez la commande 'Configurer Docker'.<br>
-![INSTRUCTIONS DE CONFIGURATION](/fr/_assets/showcases/google/setup-instruction.png)<br>
+![INSTRUCTIONS DE CONFIGURATION](/_assets/showcases/google/setup-instruction.png)<br>
 6. Ajoutez une entrée credHelper Docker au fichier de configuration Docker, ou créez le fichier s'il n'existe pas.
 {{< highlight plain >}}
 //exemple
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Allez dans Cloud Run.
 2. Créez un service Cloud Run.<br>
-![Créer un service Cloud Run](/fr/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Créer un service Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
 3. Dans le champ URL de l'image du conteneur, sélectionnez le conteneur de 'REGISTRE D'ARTIFACTS'.<br>
-![URL de l'image du conteneur](/fr/_assets/showcases/google/container-url.png)<br>
+![URL de l'image du conteneur](/_assets/showcases/google/container-url.png)<br>
 4. Vérifiez les autres paramètres comme ci-dessous.<br>
-![Paramètres du service](/fr/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Paramètres du service](/_assets/showcases/google/cloud-run-service-settings.png)<br>
 5. Attendez que le déploiement soit terminé.
 6. URL du service à utiliser avec l'application de conversion.<br>
-![Url service](/fr/_assets/showcases/google/url-service.png)<br>
+![Url service](/_assets/showcases/google/url-service.png)<br>
 
 ### Configuration d'un Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Exemple d'exécution
 
 1. Paramètres de Postman.<br>
-![Menu d'aperçu](/fr/_assets/showcases/google/postman-settings.png)<br>
+![Menu d'aperçu](/_assets/showcases/google/postman-settings.png)<br>
 2. Sélectionnez n'importe quel fichier DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 3. Cliquez sur le bouton envoyer.
 

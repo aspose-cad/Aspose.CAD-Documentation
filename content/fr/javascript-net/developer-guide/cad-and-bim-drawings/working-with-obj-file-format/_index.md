@@ -2,7 +2,7 @@
 title: Travailler avec le format de fichier OBJ
 type: docs
 weight: 120
-url: /fr/javascript-net/developer-guide/cad-and-bim-drawings/travailler-avec-le-format-de-fichier-obj/
+url: /fr/javascript-net/developer-guide/cad-and-bim-drawings/working-with-obj-file-format/
 ---
 
 {{% alert color="primary" %}}

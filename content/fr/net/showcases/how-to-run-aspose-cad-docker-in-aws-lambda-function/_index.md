@@ -3,7 +3,7 @@ title: Comment exécuter l'image Docker Aspose.CAD dans une fonction AWS Lambda
 type: docs
 description: "Exécuter l'image Docker Aspose.CAD dans une fonction AWS Lambda."
 weight: 74
-url: /fr/net/showcases/comment-executer-limage-docker-aspose-cad-dans-une-fonction-aws-lambda/
+url: /fr/net/showcases/how-to-run-aspose-cad-docker-in-aws-lambda-function/
 ---
 
 ## Prérequis

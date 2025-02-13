@@ -2,7 +2,7 @@
 title: رسم ناحیه نمای تصویر به جای محتوای کامل
 type: docs
 weight: 27
-url: /fa/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/ content/
+url: /fa/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire-content/ content/ content/ content/
 ---
 
 ## **چگونه ناحیه نمای تصویر را به جای محتوای کامل رسم کنیم**

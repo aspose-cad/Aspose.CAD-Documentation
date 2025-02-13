@@ -2,7 +2,7 @@
 title: Travailler avec un Filigrane
 type: docs
 weight: 50
-url: /fr/java/developer-guide/autocad-drawings/dwg-drawings/travailler-avec-un-filigrane/
+url: /fr/java/developer-guide/autocad-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Ajouter un Filigrane dans un DWG**

@@ -2,7 +2,7 @@
 title: Σχεδίαση του παραθύρου απεικόνισης της σχεδίασης αντί για το σύνολο περιεχομένου
 type: docs
 weight: 27
-url: /el/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/ content/
+url: /el/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire-content/ content/ content/ content/
 ---
 
 ## **Πώς να σχεδιάσετε το παράθυρο απεικόνισης της σχεδίασης αντί για το σύνολο περιεχομένου**

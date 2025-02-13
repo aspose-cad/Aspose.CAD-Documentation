@@ -3,7 +3,7 @@ title: Comment utiliser Aspose.CAD dans TypeScript
 type: docs
 description: "Utilisez Aspose.CAD dans TypeScript."
 weight: 74
-url: /fr/javascript-net/showcases/comment-utiliser-aspose-cad-dans-typescript/
+url: /fr/javascript-net/showcases/how-to-use-aspose-cad-in-typescript/
 ---
 
 
@@ -121,10 +121,10 @@ npm run serve
 ## Exemple d'exécution
 
 1. Choisissez un fichier.<br>
-![Choisissez un fichier](/fr/_assets/javascript-net/typescript/choose-file.png)<br>
+![Choisissez un fichier](/_assets/javascript-net/typescript/choose-file.png)<br>
 1. Sélectionnez n'importe quel fichier DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Si la réponse est réussie, le fichier sera affiché à l'écran et proposera de le télécharger.<br>
-![Convertir l'image](/fr/_assets/javascript-net/typescript/convert-image.png)<br>
+![Convertir l'image](/_assets/javascript-net/typescript/convert-image.png)<br>
 ## Voir aussi
 
 - [Installer Visual Code](https://code.visualstudio.com/)

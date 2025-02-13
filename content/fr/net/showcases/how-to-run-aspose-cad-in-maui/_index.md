@@ -27,22 +27,22 @@ L'un des principaux objectifs de .NET MAUI est de vous permettre de mettre en œ
 
 1. Pour créer des applications .NET MAUI, vous aurez besoin de la version la plus récente de Visual Studio 2022
 1. Soit installez Visual Studio, soit modifiez votre installation existante, et installez la charge de travail de développement de l'interface utilisateur d'application multiplateforme .NET avec ses options d'installation optionnelles par défaut :<br>
-![Visual installer](/fr/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/_assets/showcases/maui/visual-installer.png)
 
 
 ## Créer un projet
 
 1. Lancez Visual Studio. Dans la fenêtre de démarrage, cliquez sur Créer un nouveau projet pour créer un nouveau projet :<br>
-![Create project](/fr/_assets/showcases/maui/create-project.png)<br>
+![Create project](/_assets/showcases/maui/create-project.png)<br>
 1. Dans la fenêtre Créer un nouveau projet, sélectionnez MAUI dans le menu déroulant Tous les types de projets, sélectionnez le modèle d'application .NET MAUI et cliquez sur le bouton Suivant :<br>
-![Select project type](/fr/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/_assets/showcases/maui/select-project.png)<br>
 1. Dans la fenêtre Configurer votre nouveau projet, nommez votre projet, choisissez un emplacement approprié pour celui-ci et cliquez sur le bouton Suivant :<br>
-![Select project path](/fr/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
 1. Dans la fenêtre Informations supplémentaires, choisissez la version de .NET que vous souhaitez cibler et cliquez sur le bouton Créer :<br>
-![Target Framework](/fr/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
 1. Attendez que le projet soit créé et que ses dépendances soient restaurées
 1. Installez la dernière version d'Aspose.CAD depuis NuGet :<br>
-![NuGet](/fr/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/_assets/showcases/maui/nuget.png)<br>
 1. Remplacez le code dans MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Déboguer un ordinateur Windows
 
 1. Dans la barre d'outils Visual Studio, utilisez le menu déroulant Cible de débogage pour sélectionner Framework, puis l'entrée net7.0-windows :<br>
-![Debug Target](/fr/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
 1. Dans la barre d'outils Visual Studio, appuyez sur le bouton Ordinateur Windows pour construire et exécuter l'application :<br>
-![Start Debugging on Windows Machine](/fr/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
 1. Dans l'application en cours d'exécution, appuyez plusieurs fois sur le bouton "Sélectionner un fichier" et observez que le nombre de clics sur le bouton augmente :<br>
-![Home Page](/fr/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
 1. Sélectionnez le fichier requis et cliquez sur ouvrir :<br>
-![Select file](/fr/_assets/showcases/maui/select-file.png)<br>
+![Select file](/_assets/showcases/maui/select-file.png)<br>
 1. Après le traitement du fichier, une image du fichier converti devrait apparaître à l'écran :<br>
-![The result of debugging windows](/fr/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
 
 
 ## Installer l'émulateur Android
 
 1. Dans la barre d'outils Visual Studio, utilisez le menu déroulant Cible de débogage pour sélectionner Émulateurs Android, puis l'entrée Émulateur Android
 1. Dans la barre d'outils Visual Studio, appuyez sur le bouton Émulateur Android :<br>
-![Start install Emulator button](/fr/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Dans la fenêtre Accord de licence du SDK Android, appuyez sur le bouton Accepter :<br>
-![Android SDK-License Agreement](/fr/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
 1. Dans la fenêtre Accord de licence du SDK Android, appuyez sur le bouton Accepter :<br>
-![Android SDK ARM -License Agreement](/fr/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
 1. Dans la boîte de dialogue Contrôle de compte d'utilisateur, appuyez sur le bouton Oui :<br>
-![SDK Manager](/fr/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
 1. Dans la fenêtre Acceptation de la licence, appuyez sur le bouton Accepter :<br>
-![SDK ARManagerM -License Agreement](/fr/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
 1. Dans la barre d'outils Visual Studio, appuyez sur le bouton Émulateur Android :<br>
-![Start install Emulator button](/fr/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Dans la boîte de dialogue Contrôle de compte d'utilisateur, appuyez sur le bouton Oui :<br>
-![Android Device Manager](/fr/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
 1. Dans la fenêtre Nouvel appareil, appuyez sur le bouton Créer :<br>
-![New Android Device](/fr/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
 1. Fermez la fenêtre du Gestionnaire d'appareils Android
 
 
 ## Déboguer avec l'émulateur Android
 
 1. Dans la barre d'outils Visual Studio, appuyez sur le bouton Pixel 5 - API 33 (Android 13.0 - API 33) pour construire et exécuter l'application :<br>
-![Select android Emulator](/fr/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
 1. Dans l'application en cours d'exécution dans l'émulateur Android, appuyez plusieurs fois sur le bouton "Sélectionner un fichier" et observez que le nombre de clics sur le bouton augmente :<br>
-![Android Emulator Home Page](/fr/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
 1. Sélectionnez le fichier requis et cliquez sur sélectionner :<br>
-![Select file in andoid](/fr/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
 1. Après le traitement du fichier, une image du fichier converti devrait apparaître à l'écran :<br>
-![The result of debugging android](/fr/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/_assets/showcases/maui/android-result.png)
 
 
 ## Plus d'exemples

@@ -2,7 +2,7 @@
 title: Kreslení viewportu kresby místo celého obsahu
 type: docs
 weight: 27
-url: /cs/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/
+url: /cs/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire-content/ content/ content/
 ---
 
 ## **Jak nakreslit viewport kresby místo celého obsahu**

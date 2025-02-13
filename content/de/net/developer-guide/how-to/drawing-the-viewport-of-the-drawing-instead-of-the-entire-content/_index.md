@@ -2,7 +2,7 @@
 title: Zeichnen des Ansichtsfensters der Zeichnung anstelle des gesamten Inhalts
 type: docs
 weight: 27
-url: /de/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/ content/
+url: /de/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire-content/ content/ content/ content/
 ---
 
 ## **Wie man das Ansichtsfenster der Zeichnung anstatt des gesamten Inhalts zeichnet**

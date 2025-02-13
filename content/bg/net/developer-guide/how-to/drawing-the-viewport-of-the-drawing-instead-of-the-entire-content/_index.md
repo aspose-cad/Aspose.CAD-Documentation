@@ -2,7 +2,7 @@
 title: Рисуване на прегледа на чертежа вместо целия съдържание
 type: docs
 weight: 27
-url: /bg/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire content/ content/
+url: /bg/net/developer-guide/how-to/drawing-the-viewport-of-the-drawing-instead-of-the-entire-content/ content/ content/ content/
 ---
 
 ## **Как да нарисувате прегледа на чертежа вместо целия съдържание**

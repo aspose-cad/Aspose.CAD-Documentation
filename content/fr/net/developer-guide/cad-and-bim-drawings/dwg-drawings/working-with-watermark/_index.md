@@ -2,7 +2,7 @@
 title: Travailler avec un Filigrane
 type: docs
 weight: 60
-url: /fr/net/developer-guide/cad-and-bim-drawings/dwg-drawings/travailler-avec-un-filigrane/
+url: /fr/net/developer-guide/cad-and-bim-drawings/dwg-drawings/working-with-watermark/
 ---
 
 ## **Ajouter un Filigrane dans un DWG**
