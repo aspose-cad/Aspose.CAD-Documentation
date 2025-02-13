@@ -13,8 +13,6 @@ url: /fa/python-net/getting-started/evaluate-aspose-cad/
 
 نسخه ارزیابی Aspose.CAD برای Python (بدون مشخص کردن مجوز) قابلیت‌های محصول را تا حدی ارائه می‌دهد اما کامل نیست. یکی از محدودیت‌ها این است که همیشه واترمارک ارزیابی را روی فایل‌های خروجی تزریق می‌کند.
 
-![مثال صادرات Aspose.CAD برای Python](/_assets/jasper/AreaChartReport.jpg)
-
 **شکل:** هشدار ارزیابی
 
 اگر می‌خواهید Aspose.CAD برای Python را بدون محدودیت‌های نسخه ارزیابی آزمایش کنید، می‌توانید [یک مجوز موقت ۳۰ روزه درخواست کنید](https://purchase.aspose.com/temporary-license).

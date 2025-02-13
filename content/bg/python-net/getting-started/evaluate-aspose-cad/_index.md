@@ -13,8 +13,6 @@ url: /bg/python-net/getting-started/evaluate-aspose-cad/
 
 Версията за оценка на Aspose.CAD за Python (без посочена лиценз) предоставя функционалност на продукта до известна степен, но не напълно. Едно ограничение е, че винаги вгражда водния знак за оценка в изходните файлове.
 
-![Пример за износ с Aspose.CAD за Python](/_assets/jasper/AreaChartReport.jpg)
-
 **Фигура:** Предупреждение за оценка
 
 Ако искате да тествате Aspose.CAD за Python без ограничения от версията за оценка, можете да [заявите временна лицензия за 30 дни](https://purchase.aspose.com/temporary-license).

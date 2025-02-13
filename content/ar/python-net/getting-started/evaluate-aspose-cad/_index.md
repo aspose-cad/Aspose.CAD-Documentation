@@ -13,8 +13,6 @@ url: /ar/python-net/getting-started/evaluate-aspose-cad/
 
 توفر نسخة التقييم من Aspose.CAD لـ Python (دون تحديد رخصة) بعض وظائف المنتج إلى حد ما لكنها ليست كاملة. أحد القيود هو أنها تضيف دائماً علامة مائية للتقييم على ملفات المخرجات.
 
-![مثال على تصدير Aspose.CAD لـ Python](/_assets/jasper/AreaChartReport.jpg)
-
 **الشكل:** تحذير التقييم
 
 إذا كنت ترغب في اختبار Aspose.CAD لـ Python دون قيود نسخة التقييم، يمكنك [طلب رخصة مؤقتة لمدة 30 يومًا](https://purchase.aspose.com/temporary-license).
