@@ -1,0 +1,287 @@
+---
+title: Integração com JasperServer
+type: docs
+weight: 20
+url: /pt/jasperreports/installation/integration-with-jasperserver/
+---
+{{% alert color="primary" %}}
+Para integrar Aspose.CAD para JasperReports com JasperServer, é necessário seguir várias etapas adicionais e atualizar os arquivos de configuração do JasperServer. Este artigo explica como.
+{{% /alert %}}
+1. Adicione novas propriedades de exportador ao arquivo de configuração %INTALL_DIR%\apache-tomcat\webapps\jasperserver\WEB-INF\flows\viewReportBeans.xml.
+{{< highlight xml >}}
+    <!--JPG-->
+    <bean id="reportASJpegExporter" class="com.aspose.cad.jasperreports.jpg.ASReportJpegExporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="jpgExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">Batch</value>
+        </property>
+    </bean>
+
+    <bean id="jpgASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="JPG - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="jpgExportParams"/>
+        <property name="exportParameters" ref="jpgExportParameters"/>
+        <property name="currentExporter" ref="reportASJpegExporter"/>
+    </bean>
+
+    <!--BMP-->
+    <bean id="reportASBmpExporter" class="com.aspose.cad.jasperreports.bmp.ASReportBmpExporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="bmpExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">Batch</value>
+        </property>
+    </bean>
+
+    <bean id="bmpASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="BMP - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="bmpExportParams"/>
+        <property name="exportParameters" ref="bmpExportParameters"/>
+        <property name="currentExporter" ref="reportASBmpExporter"/>
+    </bean>
+
+    <!--GIF-->
+    <bean id="reportASGifExporter" class="com.aspose.cad.jasperreports.gif.ASReportGifExporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="gifExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">Batch</value>
+        </property>
+    </bean>
+
+    <bean id="gifASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="GIF - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="gifExportParams"/>
+        <property name="exportParameters" ref="gifExportParameters"/>
+        <property name="currentExporter" ref="reportASGifExporter"/>
+    </bean>
+
+    <!--JPG2000-->
+    <bean id="reportASJpg2000Exporter" class="com.aspose.cad.jasperreports.jpg2000.ASReportJpeg2000Exporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="jpg2000ExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">Batch</value>
+        </property>
+    </bean>
+
+    <bean id="jpg2000ASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="JPG2000 - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="jpg2000ExportParams"/>
+        <property name="exportParameters" ref="jpg2000ExportParameters"/>
+        <property name="currentExporter" ref="reportASJpg2000Exporter"/>
+    </bean>
+
+    <!--PDF-->
+    <bean id="reportASPdfExporter" class="com.aspose.cad.jasperreports.pdf.ASReportPdfExporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="pdfASExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">Multipage</value>
+        </property>
+    </bean>
+
+    <bean id="pdfASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="PDF - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="pdfExportParams"/>
+        <property name="exportParameters" ref="pdfASExportParameters"/>
+        <property name="currentExporter" ref="reportASPdfExporter"/>
+    </bean>
+
+    <!--PNG-->
+    <bean id="reportASPngExporter" class="com.aspose.cad.jasperreports.png.ASReportPngExporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="pngExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">Batch</value>
+        </property>
+    </bean>
+
+    <bean id="pngASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="PNG - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="pngExportParams"/>
+        <property name="exportParameters" ref="pngExportParameters"/>
+        <property name="currentExporter" ref="reportASPngExporter"/>
+    </bean>
+
+    <!--PSD-->
+    <bean id="reportASPsdExporter" class="com.aspose.cad.jasperreports.psd.ASReportPsdExporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="psdExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">Batch</value>
+        </property>
+    </bean>
+
+    <bean id="psdASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="PSD - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="psdExportParams"/>
+        <property name="exportParameters" ref="psdExportParameters"/>
+        <property name="currentExporter" ref="reportASPsdExporter"/>
+    </bean>
+
+    <!--SVG-->
+    <bean id="reportASSvgExporter" class="com.aspose.cad.jasperreports.svg.ASReportSvgExporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="svgExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">SinglePage</value>
+        </property>
+    </bean>
+
+    <bean id="svgASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="SVG - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="svgExportParams"/>
+        <property name="exportParameters" ref="svgExportParameters"/>
+        <property name="currentExporter" ref="reportASSvgExporter"/>
+    </bean>
+
+    <!--TIFF-->
+    <bean id="reportASTiffExporter" class="com.aspose.cad.jasperreports.tiff.ASReportTiffExporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="tiffExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">Multipage</value>
+        </property>
+    </bean>
+
+    <bean id="tiffASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="TIFF - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="tiffExportParams"/>
+        <property name="exportParameters" ref="tiffExportParameters"/>
+        <property name="currentExporter" ref="reportASTiffExporter"/>
+    </bean>
+
+    <!--WMF-->
+    <bean id="reportASWmfExporter" class="com.aspose.cad.jasperreports.wmf.ASReportWmfExporter"
+          parent="baseReportExporter">
+        <property name="exportParameters" ref="wmfExportParameters"/>
+        <property name="exportMode">
+            <value type="com.aspose.cad.jasperreports.common.ExportMode">SinglePage</value>
+        </property>
+    </bean>
+
+    <bean id="wmfASExporterParameters" class="com.jaspersoft.jasperserver.war.action.ExporterConfigurationBean">
+        <property name="descriptionKey" value="WMF - Exportação de imagem do Aspose.CAD"/>
+        <property name="parameterDialogName" value="wmfExportParams"/>
+        <property name="exportParameters" ref="wmfExportParameters"/>
+        <property name="currentExporter" ref="reportASWmfExporter"/>
+    </bean>
+{{< /highlight >}}
+
+    Para alterar o modo de exportação, use a propriedade com o nome "exportMode" e coloque o valor de acordo com o modo desejado. 
+Por exemplo:
+{{< highlight xml >}}
+    <property name="exportMode">
+        <value type="com.aspose.cad.jasperreports.common.ExportMode">SinglePage</value>
+    </property>
+{{< /highlight >}}
+    Você pode alterar o valor da propriedade para Batch, SinglePage ou Multipage usando o tipo de enumeração com.aspose.cad.jasperreports.common.ExportMode.
+
+2. Localize o elemento <util:map id="exporterConfigMap">...</util:map> no arquivo %INTALL_DIR%\\apache-tomcat\webapps\jasperserver\WEB-INF\flows\viewReportBeans.xml e adicione as seguintes linhas:
+{{< highlight xml >}}
+    <util:map id="exporterConfigMap">
+        <!-- descomente/comente qualquer uma das linhas abaixo se desejar que os exportadores relacionados 
+        	 sejam excluídos/incluídos na lista de exportadores do visualizador 
+        	 Nota: configuração separada para iPad 'exportersSupportedByiPad'
+        	 -->
+        	 
+        <entry key="pdf" value-ref="pdfExporterConfiguration"/>
+        <entry key="xls" value-ref="xlsExporterConfiguration"/>
+        <entry key="xlsNoPag" value-ref="xlsNoPaginationExporterConfiguration"/>
+        <entry key="csv" value-ref="csvExporterConfiguration"/>
+        <entry key="docx" value-ref="docxExporterConfiguration"/>
+        <entry key="rtf" value-ref="rtfExporterConfiguration"/>
+        <entry key="odt" value-ref="odtExporterConfiguration"/>
+        <entry key="ods" value-ref="odsExporterConfiguration"/>
+        <entry key="xlsx" value-ref="xlsxExporterConfiguration"/>
+        <entry key="xlsxNoPag" value-ref="xlsxNoPaginationExporterConfiguration"/>
+        <entry key="pptx" value-ref="pptxExporterConfiguration"/>
+        <!-- 
+        <entry key="txt" value-ref="txtExporterConfiguration"/>
+        -->
+		
+			<!-- adicione esta entrada ao exporterConfigMap -->
+			<!-- Aspose.CAD JasperReports INÍCIO -->
+		<entry key="as_jpg" value-ref="jpgASExporterParameters"/>
+		<entry key="as_bmp" value-ref="bmpASExporterParameters"/>
+		<entry key="as_gif" value-ref="gifASExporterParameters"/>
+		<entry key="as_jpg2000" value-ref="jpg2000ASExporterParameters"/>
+		<entry key="as_pdf" value-ref="pdfASExporterParameters"/>
+		<entry key="as_png" value-ref="pngASExporterParameters"/>
+		<entry key="as_psd" value-ref="psdASExporterParameters"/>
+		<entry key="as_svg" value-ref="svgASExporterParameters"/>
+		<entry key="as_tiff" value-ref="tiffASExporterParameters"/>
+		<entry key="as_wmf" value-ref="wmfASExporterParameters"/>
+		<!-- Aspose.CAD para JasperReports FIM -->
+    </util:map>
+{{< /highlight >}}
+3. Copie aspose-cad-jasperreports-xx.xx.jar para %INTALL_DIR%\apache-tomcat\webapps\jasperserver\WEB-INF\lib.
+4. Para usar os recursos de exportação, atualize %INTALL_DIR%\apache-tomcat\webapps\jasperserver\WEB-INF\applicationContext.xml conforme abaixo.
+{{< highlight xml >}}
+    <bean id="jpgExportParameters" class="com.aspose.cad.jasperreports.jpg.ASJpegExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+	</bean>
+
+	<bean id="bmpExportParameters" class="com.aspose.cad.jasperreports.bmp.ASBmpExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+	</bean>
+
+	<bean id="gifExportParameters" class="com.aspose.cad.jasperreports.gif.ASGifExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+	</bean>
+
+	<bean id="jpg2000ExportParameters" class="com.aspose.cad.jasperreports.jpg2000.ASJpeg2000ExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+	</bean>
+
+	<bean id="pdfASExportParameters" class="com.aspose.cad.jasperreports.pdf.ASPdfExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+	</bean>
+
+	<bean id="pngExportParameters" class="com.aspose.cad.jasperreports.png.ASPngExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+	</bean>
+
+	<bean id="psdExportParameters" class="com.aspose.cad.jasperreports.psd.ASPsdExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+	</bean>
+
+	<bean id="svgExportParameters" class="com.aspose.cad.jasperreports.svg.ASSvgExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+    </bean>
+
+	<bean id="tiffExportParameters" class="com.aspose.cad.jasperreports.tiff.ASTiffExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+	</bean>
+
+	<bean id="wmfExportParameters" class="com.aspose.cad.jasperreports.wmf.ASWmfExportParametersBean">
+	<!--        Descomente e modifique para aplicar uma licença. Verifique o caminho da licença.
+	<property name="license" value="C:/Aspose.CAD.JasperReports.lic"/>
+	-->
+    </bean>
+{{< /highlight >}}
+
+5. Reinicie o JasperReports Server e abra qualquer relatório para visualizar. Se as etapas anteriores foram executadas corretamente, você verá opções adicionais na lista de formatos de exportação.
+![todo:texto_alternativo_da_imagem](/_assets/jasper/ExportReportView.png)
+
+Se você não ver formatos adicionais (ícones ou opções), verifique os arquivos de log no diretório \apache-tomcat\logs.
