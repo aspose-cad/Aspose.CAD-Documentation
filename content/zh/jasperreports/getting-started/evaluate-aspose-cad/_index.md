@@ -13,7 +13,7 @@ url: /zh/jasperreports/getting-started/evaluate-aspose-cad/
 
 Aspose.CAD for JasperReports 的评估版本（未指定许可证）在某种程度上提供产品功能，尽管不完整。一个限制是它总是会在输出文件上注入评估水印。
 
-![Aspose.CAD for JasperReports 导出示例](/_assets/jasper/AreaChartReport.jpg)
+![Aspose.CAD for JasperReports 导出示例](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **图：** 评估警告
 

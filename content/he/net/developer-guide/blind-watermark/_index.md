@@ -20,9 +20,9 @@ url: /he/net/developer-guide/blind-watermark/
 דוגמה להופעת קובץ המשתמש בטקסט עבור סימן מים עיוור.
 
 1. הקובץ לפני הוספת סימן המים הטקסטואלי<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. התוצאה של הוספת סימן המים הטקסטואלי<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **שימוש בתמונה אחרת כסימן מים עיוור**
 
@@ -35,6 +35,6 @@ url: /he/net/developer-guide/blind-watermark/
 דוגמה לצורת קובץ המשתמש בתמונה אחרת כדי להוסיף סימן מים עיוור.
 
 1. הקובץ לפני הוספת התמונה כסימן מים עיוור<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. התוצאה לאחר הוספת התמונה כסימן מים עיוור<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

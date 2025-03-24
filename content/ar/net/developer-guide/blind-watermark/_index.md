@@ -20,9 +20,9 @@ url: /ar/net/developer-guide/blind-watermark/
 مثال على مظهر ملف باستخدام النص كعلامة مائية خفية.
 
 1. الملف قبل إضافة العلامة المائية النصية الخفية<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. نتيجة إضافة العلامة المائية النصية الخفية<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **استخدام صورة أخرى كعلامة مائية خفية**
 
@@ -35,6 +35,6 @@ url: /ar/net/developer-guide/blind-watermark/
 مثال على عرض ملف باستخدام صورة أخرى لإضافة علامة مائية خفية.
 
 1. الملف قبل إضافة الصورة كعلامة مائية خفية<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. النتيجة بعد إضافة الصورة كعلامة مائية خفية<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

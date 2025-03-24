@@ -7,7 +7,7 @@ url: /el/python-net/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for Python Product Logo](/_assets/home_4.png)
+![Aspose.CAD for Python Product Logo](/cad/_assets/home_4.png)
 
 Aspose.CAD για Python είναι η μοναδική λύση στην αγορά που καθιστά δυνατό την εξαγωγή αναφορών από Pythons σε διάφορες φορητές και ράστερ μορφές αρχείων εικόνας όπως PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD και την επεξεργασία διαφόρων μορφών αρχείων CAD και BIM: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS.
 

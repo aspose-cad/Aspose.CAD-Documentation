@@ -15,7 +15,7 @@ url: /ja/java/developer-guide/entities_with-sat-and-sab/
 
 以下はエクスポート結果の例です（左側がDWGファイル、右側がPDF結果）。
 
-![円錐と球のエクスポート](/_assets/guide/coneAndSpheres.png)
+![円錐と球のエクスポート](/cad/_assets/guide/coneAndSpheres.png)
 
 ACISエンティティのエクスポートには、特別なオプションは必要ありません。特にACISエンティティのみを含む図面のサイズを最適化するためには、cadImage.updateSize()関数を使用して初期図面の寸法を正確に調整することを検討してください。
 

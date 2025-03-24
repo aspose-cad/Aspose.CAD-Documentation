@@ -13,7 +13,7 @@ Je kunt Aspose.CAD voor JasperReports eenvoudig downloaden voor evaluatie van de
 
 De evaluatieversie van Aspose.CAD voor JasperReports (zonder gespecificeerde licentie) biedt productfunctionaliteit tot op zekere hoogte, maar niet compleet. Eén beperking is dat het altijd het evaluatiewatermerk op uitvoerbestanden injecteert.
 
-![Aspose.CAD voor JasperReports exportvoorbeeld](/_assets/jasper/AreaChartReport.jpg)
+![Aspose.CAD voor JasperReports exportvoorbeeld](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **Afbeelding:** Evaluatie Waarschuwing
 

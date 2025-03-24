@@ -15,7 +15,7 @@ Ciertas entidades almacenan sus datos estructurales en el formato ACIS SAT/SAB. 
 
 A continuación se muestra un ejemplo del resultado de la exportación (archivo DWG en la parte izquierda, resultado PDF en la parte derecha).
 
-![Exportación de cono y esferas](/_assets/guide/coneAndSpheres.png)
+![Exportación de cono y esferas](/cad/_assets/guide/coneAndSpheres.png)
 
 La exportación de entidades ACIS no requiere opciones especiales. Para optimizar el tamaño del dibujo, especialmente cuando el dibujo contiene exclusivamente entidades ACIS, considere utilizar la función cadImage.UpdateSize() para ajustar con precisión las dimensiones iniciales del dibujo.
 

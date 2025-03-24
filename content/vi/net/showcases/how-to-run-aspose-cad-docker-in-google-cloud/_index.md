@@ -120,11 +120,11 @@ dotnet run
 1. Đăng nhập Google Cloud.
 1. Tạo một dự án nếu nó không tồn tại.
 1. Đi đến 'Artifact Registry' và tạo một kho.<br>
-![Tạo Kho Artifacts](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Tạo Kho Artifacts](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Chọn kho mới trong Artifact Registry.
-![Chọn kho artifact](/_assets/showcases/google/select-artifact.png)<br>
+![Chọn kho artifact](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. Nhấp vào 'HƯỚNG DẪN THIẾT LẬP' và sao chép lệnh 'Cấu hình Docker'.<br>
-![HƯỚNG DẪN THIẾT LẬP](/_assets/showcases/google/setup-instruction.png)<br>
+![HƯỚNG DẪN THIẾT LẬP](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Thêm một mục credHelper Docker vào tệp cấu hình Docker, hoặc tạo tệp nếu nó không tồn tại.
 {{< highlight plain >}}
 //ví dụ
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Đi đến Cloud Run.
 1. Tạo dịch vụ Cloud Run.<br>
-![Tạo dịch vụ Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Tạo dịch vụ Cloud Run](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. Trong trường URL Hình ảnh Container, chọn container từ 'ARTIFACT REGISTRY'.<br>
-![URL Hình ảnh Container](/_assets/showcases/google/container-url.png)<br>
+![URL Hình ảnh Container](/cad/_assets/showcases/google/container-url.png)<br>
 1. Kiểm tra các cài đặt khác như bên dưới.<br>
-![Cài đặt dịch vụ](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Cài đặt dịch vụ](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Chờ cho việc triển khai hoàn tất.
 1. URL dịch vụ để làm việc với ứng dụng chuyển đổi.<br>
-![Url dịch vụ](/_assets/showcases/google/url-service.png)<br>
+![Url dịch vụ](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Cấu hình một Dockerfile
 
@@ -202,7 +202,7 @@ Trên đây là một Dockerfile đơn giản, chứa các hướng dẫn sau:
 ## Ví dụ thực thi
 
 1. Cài đặt Postman.<br>
-![Menu tổng quan](/_assets/showcases/google/postman-settings.png)<br>
+![Menu tổng quan](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Chọn bất kỳ tệp DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG nào.
 1. Nhấp vào nút gửi.
 

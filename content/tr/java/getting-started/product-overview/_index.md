@@ -36,7 +36,7 @@ Aspose.CAD for Java'nın temel dönüştürme, renderleme ve raporlama yetenekle
 
 Aspose.CAD for Java, popüler DWG, DWF, DXF, DWT, PDF ve Raster görüntüleri destekler.
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **DXF / DWG / DGN Desteği**
 - 3D Katılar (Konik, Küre, Tor, Silindirik, Kutu, Kama)
 ### **DXF / DWG Desteği**

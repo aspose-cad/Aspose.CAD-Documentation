@@ -27,22 +27,22 @@ url: /zh/net/showcases/how-to-run-aspose-cad-in-maui/
 
 1. 要创建.NET MAUI应用程序，您需要最新版本的Visual Studio 2022
 1. 安装Visual Studio或修改您现有的安装，安装.NET 多平台应用UI开发工作负载及其默认可选安装选项：<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## 创建项目
 
 1. 启动Visual Studio。在启动窗口中，单击创建新项目以创建新项目：<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. 在创建新项目窗口中，在所有项目类型下拉列表中选择MAUI，选择.NET MAUI应用程序模板，然后单击下一步按钮：<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. 在配置新项目窗口中，给您的项目命名，选择合适的位置，然后单击下一步按钮：<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. 在附加信息窗口中，选择您希望目标的.NET版本并单击创建按钮：<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. 等待项目创建并恢复其依赖项
 1. 从NuGet安装最新版本的Aspose.CAD：<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. 替换MainPage.xaml中的代码
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## 调试Windows机器
 
 1. 在Visual Studio工具栏中，使用调试目标下拉列表选择Framework，然后选择net7.0-windows条目：<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. 在Visual Studio工具栏中，按下Windows机器按钮以构建并运行应用程序：<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. 在运行的应用程序中，按"选择文件"按钮几次，观察按钮点击次数的增加：<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. 选择所需文件并点击打开：<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. 处理文件后，转换后文件的图像应出现在屏幕上：<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## 安装Android模拟器
 
 1. 在Visual Studio工具栏中，使用调试目标下拉列表选择Android模拟器，然后选择Android模拟器条目
 1. 在Visual Studio工具栏中，按下Android模拟器按钮：<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. 在Android SDK - 许可协议窗口中，按下接受按钮：<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. 在Android SDK - 许可协议窗口中，按下接受按钮：<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. 在用户帐户控制对话框中，按下是按钮：<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. 在许可接受窗口中，按下接受按钮：<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. 在Visual Studio工具栏中，按下Android模拟器按钮：<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. 在用户帐户控制对话框中，按下是按钮：<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. 在新设备窗口中，按下创建按钮：<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. 关闭Android设备管理器窗口
 
 
 ## 使用Android模拟器调试
 
 1. 在Visual Studio工具栏中，按下Pixel 5 - API 33 (Android 13.0 - API 33)按钮以构建和运行应用程序：<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. 在Android模拟器中运行的应用程序中，按"选择文件"按钮几次，观察按钮点击次数的增加：<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. 选择所需文件并点击选择：<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. 处理文件后，转换后文件的图像应出现在屏幕上：<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## 更多示例

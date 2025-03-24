@@ -10,25 +10,25 @@ url: /hi/python-net/installation/installing-aspose-cad-for-python/
 ### पैकेज स्थापित करने के लिए pip का उपयोग करना
 
 1. [aspose.cad](https://pypi.org/project/aspose-cad/) पैकेज स्थापित करने के लिए, पैकेज वाले साइटों में टर्मिनल में निष्पादित किए जाने वाले कमांड का एक अतिरिक्त विवरण होता है:<br/>
-![pypi-install](/_assets/python-net/install/pypi-aspose-cad.png)
+![pypi-install](/cad/_assets/python-net/install/pypi-aspose-cad.png)
 1. टर्मिनल के माध्यम से पैकेज स्थापित करने के लिए एक कमांड का उदाहरण:
 {{< highlight plain >}}
 pip install aspose-cad
 {{< /highlight >}}
-![pip-install-aspose-cad](/_assets/python-net/install/pip-install-aspose.png)
+![pip-install-aspose-cad](/cad/_assets/python-net/install/pip-install-aspose.png)
 
 ### पैकेज स्थापित करने के लिए WHL फ़ाइल का उपयोग करना
 
 1. whl फ़ाइल डाउनलोड करने के लिए, [aspose.cad](https://pypi.org/project/aspose-cad/#files) पैकेज के pypi पृष्ठ पर जाएं और फ़ाइल डाउनलोड करें<br/>
-![whl-download](/_assets/python-net/install/download-whl-file.png)<br/>
+![whl-download](/cad/_assets/python-net/install/download-whl-file.png)<br/>
 1. [aspose.cad](https://pypi.org/project/aspose-cad/) पैकेज स्थापित करने के लिए, आपको whl फ़ाइल के पूर्ण पथ के साथ pip कमांड का उपयोग करना होगा:
 {{< highlight plain >}}
 pip install C:\Users\User\Desktop\aspose_cad-23.6-py3-none-win_amd64.whl
 {{< /highlight >}}
-![install-whl-file](/_assets/python-net/install/install-whl-file-terminal.png)
+![install-whl-file](/cad/_assets/python-net/install/install-whl-file-terminal.png)
 
 1. स्थापना के बाद, हम साइट-पैकेज फ़ोल्डर में पैकेज देखेंगे<br/>
-![site-package-aspose-cad](/_assets/python-net/install/site-package-aspose.png)
+![site-package-aspose-cad](/cad/_assets/python-net/install/site-package-aspose.png)
 
 ## उदाहरण कोड
 एक फ़ाइल को परिवर्तित करने के लिए उदाहरण कोड

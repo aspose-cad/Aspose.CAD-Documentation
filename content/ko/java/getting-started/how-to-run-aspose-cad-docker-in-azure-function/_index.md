@@ -21,14 +21,14 @@ url: /ko/java/getting-started/how-to-run-aspose-cad-docker-in-azure-function/
 Azure Function 프로그램을 생성하려면 아래 단계를 따르십시오:
 1. Docker가 설치되면 Linux 컨테이너(기본값)를 사용하고 있는지 확인하십시오. 필요에 따라 Docker Desktop 메뉴에서 Linux 컨테이너로 전환 옵션을 선택하십시오.
 1. IntelliJ IDEA에서 Azure Function 프로젝트를 생성하십시오.<br>
-![Create azure function project](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Create azure function project-final](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Create azure function project](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Create azure function project-final](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Tools->Azure->로그인하고 OAuth 2.0 인증을 선택하십시오.<br>
-![Azure sign In](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. 브라우저에서 로그인하십시오.
 1. 구독 이름을 선택하십시오.
 1. Docker 지원을 추가하십시오.<br>
-![Azure sign In](/_assets/java/java-azure/add-docker-support.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. <a href="#configuring-a-dockerfile">Dockerfile 구성</a> 섹션과 같이 DockerFile을 편집하십시오.
 1. pom.xml에서 리포지토리 aspose.cad용 블록을 추가하십시오.
 {{< highlight plain >}}
@@ -155,9 +155,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. IDE에서 dockerfile을 실행한 후 Docker Hub에 푸시하십시오.<br>
-![Run docker in ide](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![Run docker in ide](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. Docker Hub 리포지토리에서와 같이 이미지 이름을 입력하십시오.<br>
-![Run docker in ide-next](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![Run docker in ide-next](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. 완료될 때까지 기다리십시오.
 
 ## Azure
@@ -165,26 +165,26 @@ docker push user/aspose-cad-java:latest
 1. Azure에 로그인하십시오.
 1. Azure 서비스를 선택하십시오.
 1. Function App을 선택하고 함수를 생성하십시오.<br>
-![Azure create function button](/_assets/java/java-azure/create-function-azure.png)<br>
+![Azure create function button](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. 아래 이미지와 같이 기본 설정을 반복하십시오.<br>
-![Azure create function settings](/_assets/java/java-azure/create-function-settings.png)<br>
+![Azure create function settings](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. '검토 + 생성'을 클릭한 다음 '생성'을 클릭하십시오.
 1. 배포가 완료될 때까지 기다리십시오.
 1. '리소스로 이동' 버튼을 클릭하십시오.<br>
-![Resource button](/_assets/java/java-azure/go-to-resource.png)<br>
+![Resource button](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. aspose-cad-docker-example 함수를 중지하십시오.<br>
-![Stop conteiner](/_assets/java/java-azure/stop-container.png)<br>
+![Stop conteiner](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. 배포 센터 메뉴로 이동하고 적절한 설정을 만드십시오.<br>
-![Deployment center](/_assets/java/java-azure/deployment-center.png)<br>
+![Deployment center](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. 설정을 저장하십시오.
 1. 배포 센터 설정의 Webhook URL을 복사하십시오.<br>
-![Webhook url](/_assets/java/java-azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. Docker Hub로 이동하여 리포지토리를 선택한 다음 웹후크를 선택하십시오.
 1. Azure의 'Webhook url'을 Docker Hub 웹후크 URL에 붙여넣고 이름을 지정하십시오.<br>
-![Webhook settings in docker](/_assets/java/java-azure/webhook.png)<br>
+![Webhook settings in docker](/cad/_assets/java/java-azure/webhook.png)<br>
 1. 생성 버튼을 클릭하십시오.
 1. Azure Function 개요로 돌아가서 컨테이너를 시작하십시오.<br>
-![Overview menu](/_assets/java/java-azure/overview.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 함수가 시작되는 데 몇 분 정도 걸릴 수 있습니다.
 {{% /alert %}}
@@ -192,11 +192,11 @@ docker push user/aspose-cad-java:latest
 ## 실행 예제
 
 1. Postman 설정.<br>
-![Overview menu](/_assets/java/java-azure/postman-settings.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1.任意의 DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG 파일을 선택하십시오.
 1. 전송 버튼을 클릭하십시오.
 1. 결과 저장
-![Save responce](/_assets/java/java-azure/response-postman.png)<br>
+![Save responce](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 응답이 성공적이면 파일에 저장을 클릭하면 png 형식으로 변환된 파일을 받을 수 있습니다.

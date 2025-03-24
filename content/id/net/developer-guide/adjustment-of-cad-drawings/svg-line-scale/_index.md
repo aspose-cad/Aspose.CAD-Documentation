@@ -19,6 +19,6 @@ Anda dapat mengontrol skala garis dalam file SVG, pustaka Aspose.CAD menyediakan
 
 ## Sebuah file yang menggunakan skala linier
 1. File jika parameter LineScale diatur ke 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. File jika Anda tidak menggunakan skala garis.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

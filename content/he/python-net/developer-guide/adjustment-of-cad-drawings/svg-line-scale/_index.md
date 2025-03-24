@@ -19,6 +19,6 @@ url: /he/python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## קובץ המשתמש בסקאלה ליניארית
 1. הקובץ אם פרמטר LineScale מוגדר ל-0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. קובץ אם אתה לא משתמש בהקשחת קווים.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

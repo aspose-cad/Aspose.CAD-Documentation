@@ -7,7 +7,7 @@ url: /vi/jasperreports/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for JasperReports Product Logo](/_assets/home_3.png)
+![Aspose.CAD for JasperReports Product Logo](/cad/_assets/home_3.png)
 
 Aspose.CAD for JasperReports là giải pháp duy nhất trên thị trường cho phép xuất báo cáo từ JasperReports sang nhiều định dạng tệp hình ảnh vector và raster khác nhau như PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD và làm việc với nhiều định dạng tệp CAD và BIM: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS.
 

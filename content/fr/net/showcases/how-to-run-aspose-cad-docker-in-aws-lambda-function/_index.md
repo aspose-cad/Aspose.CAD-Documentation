@@ -25,16 +25,16 @@ Assurez-vous d'avoir les droits suffiants pour créer des fonctions AWS Lambda e
 
 Pour créer le programme de fonction AWS Lambda, suivez les étapes ci-dessous :
 1. Créez un projet AWS Lambda.<br>
-![Créez un bouton de fonction AWS](/_assets/showcases/aws/create-project.png)<br>
+![Créez un bouton de fonction AWS](/cad/_assets/showcases/aws/create-project.png)<br>
 1. Sélectionnez .NET 6 (Image de conteneur) et cliquez sur le bouton 'Terminer'.<br>
-![Créez un bouton de fonction de conteneur](/_assets/showcases/aws/create-container.png)<br>
+![Créez un bouton de fonction de conteneur](/cad/_assets/showcases/aws/create-container.png)<br>
 1. Ouvrez AWS Explorer dans Visual Studio (Affichage->AWS Explorer).
 1. Ajoutez le profil d'identifiants AWS dans AWS Explorer.<br>
-![Profil d'identifiants](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![Profil d'identifiants](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Entrez l'ID de clé d'accès et la clé d'accès secrète, vous pouvez obtenir ces clés dans les identifiants de sécurité ou contacter l'administrateur et obtenir un fichier csv pour l'autorisation.<br>
-![Paramètres du profil de compte](/_assets/showcases/aws/account-profile.png)<br>
+![Paramètres du profil de compte](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. Installez les dernières bibliothèques depuis NuGet.<br>
-![Gestionnaire NuGet](/_assets/showcases/aws/nuget-manager.png)<br>
+![Gestionnaire NuGet](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. Exemple de code pour convertir une image cad en fichier pdf.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Modifiez le DockerFile comme dans la section <a href="#configuring-a-dockerfile">Configuration d'un Dockerfile</a>.
 1. Démarrez Docker Desktop.
 1. Publiez sur AWS Lambda.<br>
-![Publier sur AWS lambda](/_assets/showcases/aws/publish-aws.png)<br>
+![Publier sur AWS lambda](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. Modifiez la configuration de téléchargement.<br>
-![Télécharger aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![Télécharger aws lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Cliquez sur le bouton 'Télécharger'.<br>
-![Télécharger aws lambda dernier](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![Télécharger aws lambda dernier](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Accédez à AWS et sélectionnez Lambda.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Sélectionnez votre nouvelle fonction et créez l'URL de fonction.<br>
-![Configuration url de fonction](/_assets/showcases/aws/create-function-url.png)<br>
+![Configuration url de fonction](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. Sélectionnez le type d'authentification
 - AWS_IAM - Seuls les utilisateurs et rôles IAM authentifiés peuvent effectuer des demandes à l'URL de votre fonction.
 - AUCUN - Lambda ne procédera pas à une authentification IAM pour les demandes à l'URL de votre fonction. Le point de terminaison de l'URL sera public à moins que vous n'implémentiez votre propre logique d'autorisation dans votre fonction.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## Exemple d'exécution
 
 1. Paramètres de Postman.<br>
-![Menu d'aperçu](/_assets/showcases/aws/postman-settings.png)<br>
+![Menu d'aperçu](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. Sélectionnez n'importe quel fichier DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Cliquez sur le bouton envoyer.
 

@@ -282,6 +282,6 @@ url: /he/jasperreports/installation/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. הפעל מחדש את JasperReports Server ופתח כל דו"ח לצפייה. אם הצעדים הקודמים בוצעו כראוי, תראה בחירות נוספות ברשימת פורמטי היצוא.
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 אם אינך רואה פורמטים נוספים (איקונים או בחירות), נא בדוק את קבצי הלוג בתיקייה \apache-tomcat\logs.

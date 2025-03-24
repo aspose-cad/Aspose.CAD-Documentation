@@ -23,9 +23,9 @@ Aspose.CAD를 사용하면 3D 콘텐츠가 있는 PDF 파일을 만들 수 있�
 
 3D 콘텐츠가 포함된 PDF 파일의 모습과 회전 및 크기 조정의 시연 예시입니다.
 
-![PDF-3D](/_assets/guide/pdf-3d/result.png)
-![회전 변경](/_assets/guide/pdf-3d/rotate.png)
-![크기 조정](/_assets/guide/pdf-3d/scaling.png)
+![PDF-3D](/cad/_assets/guide/pdf-3d/result.png)
+![회전 변경](/cad/_assets/guide/pdf-3d/rotate.png)
+![크기 조정](/cad/_assets/guide/pdf-3d/scaling.png)
 
 ## **.NET용 Aspose.CAD 리소스**
 

@@ -122,10 +122,10 @@ Pomocí příznaku --open se otevře prohlížeč na adrese http://localhost:420
 ## Příklad provedení
 
 1. Vyberte soubor.<br>
-![Vyberte soubor](/_assets/javascript-net/angular/choose-file.png)<br>
+![Vyberte soubor](/cad/_assets/javascript-net/angular/choose-file.png)<br>
 1. Vyberte jakýkoliv soubor DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Pokud je odpověď úspěšná, soubor bude zobrazen na obrazovce a nabídne možnost jeho stažení.<br>
-![Konvertovat obrázek](/_assets/javascript-net/angular/convert-image.png)<br>
+![Konvertovat obrázek](/cad/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## Viz také
 

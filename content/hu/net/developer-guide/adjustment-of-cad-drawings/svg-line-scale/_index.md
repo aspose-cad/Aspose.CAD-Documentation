@@ -19,6 +19,6 @@ Irányíthatja a vonalak arányát az SVG fájlban, az Aspose.CAD könyvtár min
 
 ## Egy fájllineáris skálával
 1. A fájl, ha a LineScale paraméter 0.25-re van állítva.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Fájl, ha nem használ vonalarányozást.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

@@ -21,14 +21,14 @@ url: /fa/java/getting-started/how-to-run-aspose-cad-docker-in-azure-function/
 برای ایجاد برنامه Azure Function، مراحل زیر را دنبال کنید:
 1. پس از نصب Docker، اطمینان حاصل کنید که از کانتینرهای لینوکسی استفاده می‌کند (به طور پیش‌فرض). در صورت لزوم، گزینه Switch to Linux containers را از منوی Docker Desktop انتخاب کنید.
 1. پروژه Azure Function را در IntelliJ IDEA ایجاد کنید.<br>
-![Create azure function project](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Create azure function project-final](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Create azure function project](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Create azure function project-final](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Tools->Azure->Sing In و انتخاب احراز هویت OAuth 2.0.<br>
-![Azure sign In](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. در مرورگر ثبت‌نام کنید.
 1. نام اشتراک را انتخاب کنید.
 1. پشتیبانی Docker را اضافه کنید.<br>
-![Azure sign In](/_assets/java/java-azure/add-docker-support.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. DockerFile را طبق بخش <a href="#configuring-a-dockerfile">پیکربندی Dockerfile</a> ویرایش کنید.
 1. بلوک‌هایی برای مخزن aspose.cad در pom.xml اضافه کنید.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Dockerfile را در IDE اجرا کرده و پس از آن به Docker Hub ارسال کنید.<br>
-![Run docker in ide](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![Run docker in ide](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. نام تصویر را وارد کنید، مانند نام موجود در مخزن Docker Hub.<br>
-![Run docker in ide-next](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![Run docker in ide-next](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. منتظر اتمام کار باشید.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push user/aspose-cad-java:latest
 1. وارد Azure شوید.
 1. خدمات Azure را انتخاب کنید.
 1. برنامه عملکرد را انتخاب کرده و یک تابع ایجاد کنید.<br>
-![Azure create function button](/_assets/java/java-azure/create-function-azure.png)<br>
+![Azure create function button](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. تنظیمات اولیه را مانند تصویر زیر تکرار کنید.<br>
-![Azure create function settings](/_assets/java/java-azure/create-function-settings.png)<br>
+![Azure create function settings](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. روی 'بررسی + ایجاد' -> ایجاد کلیک کنید.
 1. منتظر اتمام استقرار باشید.
 1. روی دکمه 'به منبع بروید' کلیک کنید.<br>
-![Resource button](/_assets/java/java-azure/go-to-resource.png)<br>
+![Resource button](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. عملکرد aspose-cad-docker-example را متوقف کنید.<br>
-![Stop conteiner](/_assets/java/java-azure/stop-container.png)<br>
+![Stop conteiner](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. به منوی مرکز استقرار بروید و تنظیمات مناسب را انجام دهید.<br>
-![Deployment center](/_assets/java/java-azure/deployment-center.png)<br>
+![Deployment center](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. تنظیمات را ذخیره کنید.
 1. URL Webhook را از تنظیمات مرکز استقرار کپی کنید.<br>
-![Webhook url](/_assets/java/java-azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. به Docker Hub بروید، مخزن خود را انتخاب کرده و وب‌هوک‌ها را انتخاب کنید.
 1. 'Webhook url' را از Azure در URL webhook Docker Hub قرار دهید و نام را تنظیم کنید.<br>
-![Webhook settings in docker](/_assets/java/java-azure/webhook.png)<br>
+![Webhook settings in docker](/cad/_assets/java/java-azure/webhook.png)<br>
 1. روی دکمه ایجاد کلیک کنید.
 1. به نمای کلی عملکرد Azure برگردید و کانتینر را شروع کنید.<br>
-![Overview menu](/_assets/java/java-azure/overview.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 ممکن است برای شروع تابع چند دقیقه طول بکشد.
 {{% /alert %}}
@@ -193,11 +193,11 @@ docker push user/aspose-cad-java:latest
 ## مثال اجرای
 
 1. تنظیمات Postman.<br>
-![Overview menu](/_assets/java/java-azure/postman-settings.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. یک فایل DXF، DWG، DGN، DWF، DWFX، IFC، STL، DWT، IGES، PLT، CF2، OBJ، HPGL، IGS، PCL، FBX، PDF، SVG را انتخاب کنید.
 1. روی دکمه ارسال کلیک کنید.
 1. نتیجه را ذخیره کنید
-![Save responce](/_assets/java/java-azure/response-postman.png)<br>
+![Save responce](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 اگر پاسخ موفقیت آمیز بود، روی ذخیره به فایل کلیک کنید و فایل تبدیل شده به فرمت png را دریافت خواهید کرد.

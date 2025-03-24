@@ -21,11 +21,11 @@ Trong ví dụ này, bạn tạo một hàm chuyển đổi đơn giản để c
 Để tạo chương trình Azure Function, hãy làm theo các bước dưới đây:
 1. Khi Docker đã được cài đặt, hãy đảm bảo rằng nó sử dụng Containers Linux (mặc định). Nếu cần, chọn tùy chọn Chuyển sang containers Linux từ menu Docker Desktops.
 1. Trong Visual Studio, tạo một Azure Function NET 6.<br>
-![Hộp thoại dự án Azure Function NET 6](/_assets/showcases/azure/Create-project.png)<br>
+![Hộp thoại dự án Azure Function NET 6](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Thông tin bổ sung.<br>
-![Hộp thoại dự án Azure Function NET 6](/_assets/showcases/azure/Additional-information.png)<br>
+![Hộp thoại dự án Azure Function NET 6](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Cài đặt phiên bản Aspose.CAD mới nhất từ NuGet.<br>
-![Aspose.CAD trên NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD trên NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Vì ứng dụng sẽ chạy trên Linux, bạn có thể cần cài đặt thêm các phông chữ. Bạn có thể chọn ttf-mscorefonts-installer.
 1. Khi tất cả các phụ thuộc cần thiết đã được thêm vào, hãy viết một chương trình đơn giản tạo một hình ellipse và lưu nó dưới dạng hình ảnh:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
  Bước tiếp theo là tạo và cấu hình Dockerfile trong thư mục gốc của dự án.
 
 1. Tạo Dockerfile và đặt nó cạnh tệp giải pháp của ứng dụng của bạn. Giữ tên tệp này mà không có phần mở rộng (mặc định).
-![Thư mục dự án gốc](/_assets/showcases/azure/root-folder.png)<br>
+![Thư mục dự án gốc](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. Trong Dockerfile, chỉ định:
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. Đăng nhập vào Azure.
 1. Chọn dịch vụ Azure.
 1. Chọn Function App và tạo một hàm.<br>
-![Nút tạo hàm Azure](/_assets/showcases/azure/create-function.png)<br>
+![Nút tạo hàm Azure](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Lặp lại các cài đặt cơ bản như trong hình bên dưới.<br>
-![Cài đặt hàm Azure tạo](/_assets/showcases/azure/create-function-setting.png)<br>
+![Cài đặt hàm Azure tạo](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Nhấp vào 'Đánh giá + tạo' -> Tạo.
 1. Chờ cho quá trình triển khai hoàn tất.
 1. Nhấp vào nút 'Đi tới tài nguyên'.<br>
-![Nút tài nguyên](/_assets/showcases/azure/go-to-resource.png)<br>
+![Nút tài nguyên](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Dừng hàm aspose-cad-docker-example.<br>
-![Dừng container](/_assets/showcases/azure/stop-container.png)<br>
+![Dừng container](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Đi đến menu trung tâm triển khai và thực hiện các cài đặt thích hợp.<br>
-![Trung tâm triển khai](/_assets/showcases/azure/deployment-center.png)<br>
+![Trung tâm triển khai](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Lưu cài đặt
 1. Sao chép URL Webhook từ cài đặt trung tâm triển khai.<br>
-![URL Webhook](/_assets/showcases/azure/webhook-url.png)<br>
+![URL Webhook](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Đi đến Docker Hub, chọn kho lưu trữ của bạn và chọn webhooks.
 1. Dán 'URL Webhook' từ Azure vào url webhook Docker Hub và đặt tên.<br>
-![Cài đặt webhook trong docker](/_assets/showcases/azure/webhook.png)<br>
+![Cài đặt webhook trong docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Nhấp vào nút tạo.
 1. Quay lại chức năng tổng quan azure và khởi động container.<br>
-![Menu tổng quan](/_assets/showcases/azure/overview.png)<br>
+![Menu tổng quan](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Ví dụ thực hiện
 
 1. Cài đặt Postman.<br>
-![Cài đặt Postman](/_assets/showcases/azure/postman-settings.png)<br>
+![Cài đặt Postman](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Chọn bất kỳ tệp DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG nào.
 1. Nhấn nút gửi.
 

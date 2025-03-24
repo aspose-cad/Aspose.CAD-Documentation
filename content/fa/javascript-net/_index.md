@@ -11,7 +11,7 @@ is_root: false
 
 ## **به Aspose.CAD برای جاوا اسکریپت خوش آمدید**
 
-![Aspose.CAD for JavaScrip Product Logo](/_assets/home_5.png)
+![Aspose.CAD for JavaScrip Product Logo](/cad/_assets/home_5.png)
 
 Aspose.CAD برای جاوا اسکریپت یک API بومی تبدیل CAD بدون هیچ وابستگی نرم‌افزاری است. این امکان را برای توسعه‌دهندگان فراهم می‌کند تا فایل‌های DXF، DWG، DWT، DGN، IFC، DWF، DWFX، STL، IGES(IGS)، CF2، Collada(DAE)، PLT، OBJ، SVG، DXB، FBX، U3D، 3DS و STP را به فرمت‌های تصویر رستری و PDF تبدیل کنند.
 در حین فرآیند تبدیل، توسعه‌دهندگان می‌توانند لایه‌ها و چیدمان‌های خاصی را انتخاب و تبدیل کرده و همچنین پیشرفت تبدیل فایل را پیگیری کنند.

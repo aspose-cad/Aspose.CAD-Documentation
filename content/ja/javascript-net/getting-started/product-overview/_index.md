@@ -7,7 +7,7 @@ url: /ja/javascript-net/getting-started/product-overview/
 
 **Aspose.CAD for JavaScriptへようこそ**
 
-![todo:image_alt_text](/_assets/home_5.png)
+![todo:image_alt_text](/cad/_assets/home_5.png)
 
 Aspose.CAD for JavaScriptは、開発者がAutoCAD DWG、DWF、DWT、DXFファイルをPDFおよびラスタ画像に変換できるようにします。これはネイティブAPIであり、AutoCADやその他のソフトウェアをインストールする必要はありません。また、AutoCADファイルから選択したレイヤーとレイアウトを変換することもできます。PDFおよびラスタ画像への変換は非常に高品質です。
 
@@ -21,7 +21,7 @@ Aspose.CAD for JavaScriptは、開発者がAutoCAD DWG、DWF、DWT、DXFファ�
 ## **一目で見る**
 Aspose.CAD for JavaScriptの主な変換、レンダリング、およびレポーティング機能の概要。
 
-![todo:image_alt_text](/_assets/javascript-net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/javascript-net/product-overview_2.png)
 ## **高度なAPI機能**
 - 最新版のAutoCAD DWG、DWF、DWTおよびDXFファイルをサポート
 - AutoCADファイルを高品質のPDFに変換
@@ -37,4 +37,4 @@ Aspose.CAD for JavaScriptは次の環境をサポートしています。
 - Vue
 - Vanilla TypeScript
 
-![todo:image_alt_text](/_assets/javascript-net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/javascript-net/product-overview_3.png)

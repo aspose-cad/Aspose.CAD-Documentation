@@ -25,21 +25,21 @@ Một trong những mục tiêu chính của .NET MAUI là cho phép bạn tri�
 
 1. Để tạo ứng dụng .NET MAUI, bạn sẽ cần phiên bản mới nhất của Visual Studio 2022
 1. Hoặc cài đặt Visual Studio, hoặc sửa đổi cài đặt hiện tại của bạn, và cài đặt gói phát triển .NET Multi-platform App UI với các tùy chọn cài đặt tùy chọn mặc định của nó:<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 ## Tạo dự án
 
 1. Mở Visual Studio. Trong cửa sổ khởi động, nhấp vào Tạo một dự án mới để tạo một dự án mới:<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. Trong cửa sổ Tạo một dự án mới, chọn MAUI trong danh sách tất cả các loại dự án, chọn mẫu .NET MAUI App, và nhấn nút Tiếp theo:<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. Trong cửa sổ Cấu hình dự án mới của bạn, đặt tên cho dự án, chọn một vị trí phù hợp cho nó, và nhấn nút Tiếp theo:<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. Trong cửa sổ Thông tin bổ sung, chọn phiên bản .NET mà bạn muốn nhắm đến và nhấn nút Tạo:<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. Chờ cho dự án được tạo và các phụ thuộc được khôi phục
 1. Cài đặt phiên bản mới nhất của Aspose.CAD từ NuGet:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. Thay thế mã trong MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -126,47 +126,47 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Gỡ lỗi trên máy Windows
 
 1. Trong thanh công cụ Visual Studio, sử dụng danh sách thả xuống Mục tiêu gỡ lỗi để chọn Framework và sau đó chọn mục net7.0-windows:<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. Trong thanh công cụ Visual Studio, nhấn nút Máy Windows để xây dựng và chạy ứng dụng:<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. Trong ứng dụng đang chạy, nhấn nút "Chọn tệp" nhiều lần và quan sát rằng số lần nhấp vào nút được tăng lên:<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. Chọn tệp cần thiết và nhấn mở:<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. Sau khi xử lý tệp, một hình ảnh của tệp đã chuyển đổi sẽ xuất hiện trên màn hình:<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 ## Cài đặt trình giả lập Android
 
 1. Trong thanh công cụ Visual Studio, sử dụng danh sách thả xuống Mục tiêu gỡ lỗi để chọn Trình giả lập Android và sau đó chọn mục Trình giả lập Android
 1. Trong thanh công cụ Visual Studio, nhấn nút Trình giả lập Android:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Trong cửa sổ Thỏa thuận cấp phép SDK Android, nhấn nút Chấp nhận:<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. Trong cửa sổ Thỏa thuận cấp phép SDK Android, nhấn nút Chấp nhận:<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. Trong hộp thoại Kiểm soát tài khoản người dùng, nhấn nút Có:<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. Trong cửa sổ Chấp nhận giấy phép, nhấn nút Chấp nhận:<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. Trong thanh công cụ Visual Studio, nhấn nút Trình giả lập Android:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Trong hộp thoại Kiểm soát tài khoản người dùng, nhấn nút Có:<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. Trong cửa sổ Thiết bị mới, nhấn nút Tạo:<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. Đóng cửa sổ Trình quản lý thiết bị Android
 
 ## Gỡ lỗi bằng Trình giả lập Android
 
 1. Trong thanh công cụ Visual Studio, nhấn nút Pixel 5 - API 33 (Android 13.0 - API 33) để xây dựng và chạy ứng dụng:<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. Trong ứng dụng đang chạy trên trình giả lập Android, nhấn nút "Chọn tệp" nhiều lần và quan sát rằng số lần nhấp vào nút được tăng lên:<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. Chọn tệp cần thiết và nhấn chọn:<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. Sau khi xử lý tệp, một hình ảnh của tệp đã chuyển đổi sẽ xuất hiện trên màn hình:<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 ## Thêm ví dụ
 

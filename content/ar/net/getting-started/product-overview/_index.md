@@ -7,7 +7,7 @@ url: /ar/net/getting-started/product-overview/
 
 **مرحبًا بك في Aspose.CAD لـ .NET**
 
-![todo:image_alt_text](/_assets/home_1.png)
+![todo:image_alt_text](/cad/_assets/home_1.png)
 
 تتيح Aspose.CAD لـ .NET للمطورين تحويل ملفات AutoCAD DWG و DWF و DWT و DXF إلى PDF وصور نقطية. إنها واجهة برمجة تطبيقات أصلية ولا تتطلب تثبيت AutoCAD أو أي برنامج آخر. يمكنك أيضًا تحويل الطبقات والتخطيطات المحددة من ملفات AutoCAD. التحويل إلى PDF والصور النقطية بجودة عالية جدًا.
 
@@ -24,7 +24,7 @@ url: /ar/net/getting-started/product-overview/
 ## **لمحة سريعة**
 نظرة عامة على القدرات الرئيسية للتحويل والعرض والتقارير لـ Aspose.CAD لـ .NET.
 
-![todo:image_alt_text](/_assets/net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/net/product-overview_2.png)
 ## **ميزات API المتقدمة**
 - تدعم أحدث إصدارات ملفات AutoCAD DWG و DWF و DWT و DXF
 - تحويل ملفات AutoCAD إلى PDF بجودة عالية
@@ -38,4 +38,4 @@ url: /ar/net/getting-started/product-overview/
 - .NET Framework (بما في ذلك تطبيقات ASP.NET وتطبيقات Windows.)
 - .NET Core
 
-![todo:image_alt_text](/_assets/net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/net/product-overview_3.png)

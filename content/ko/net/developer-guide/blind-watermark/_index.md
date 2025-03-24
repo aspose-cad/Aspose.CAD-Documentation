@@ -20,9 +20,9 @@ url: /ko/net/developer-guide/blind-watermark/
 텍스트 블라인드 워터마크를 사용한 파일의 예시입니다.
 
 1. 텍스트 블라인드 워터마크를 추가하기 전의 파일<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. 텍스트 블라인드 워터마크를 추가한 결과<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **다른 이미지를 블라인드 워터마크로 사용하기**
 
@@ -35,6 +35,6 @@ url: /ko/net/developer-guide/blind-watermark/
 블라인드 워터마크를 추가하기 위해 다른 이미지를 사용하는 파일 보기의 예입니다.
 
 1. 블라인드 워터마크로 이미지를 추가하기 전의 파일<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. 블라인드 워터마크로 이미지를 추가한 후의 결과<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

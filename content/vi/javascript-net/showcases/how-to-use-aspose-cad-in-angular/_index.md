@@ -122,10 +122,10 @@ Cờ --open mở một trình duyệt đến http://localhost:4200.
 ## Ví dụ thực thi
 
 1. Chọn tệp.<br>
-![Chọn tệp](/_assets/javascript-net/angular/choose-file.png)<br>
+![Chọn tệp](/cad/_assets/javascript-net/angular/choose-file.png)<br>
 1. Chọn bất kỳ tệp DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG nào.
 1. Nếu câu trả lời thành công, tệp sẽ được hiển thị trên màn hình và sẽ đề nghị tải xuống.<br>
-![Chuyển đổi hình ảnh](/_assets/javascript-net/angular/convert-image.png)<br>
+![Chuyển đổi hình ảnh](/cad/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## Xem thêm
 

@@ -136,10 +136,10 @@ npm run dev
 ## Uygulama örneği
 
 1. Dosya seçin.<br>
-![Dosya seç](/_assets/javascript-net/vue/choose-file.png)<br>
+![Dosya seç](/cad/_assets/javascript-net/vue/choose-file.png)<br>
 1. Herhangi bir DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG dosyasını seçin.
 1. Yanıt başarılıysa, dosya ekranda görüntülenecek ve indirilmesi teklif edilecektir.<br>
-![Görüntüyü dönüştür](/_assets/javascript-net/vue/convert-image.png)<br>
+![Görüntüyü dönüştür](/cad/_assets/javascript-net/vue/convert-image.png)<br>
 
 ## Ayrıca Bakınız
 

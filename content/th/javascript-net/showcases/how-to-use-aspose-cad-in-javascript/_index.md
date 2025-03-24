@@ -88,10 +88,10 @@ npm run serve
 ## ตัวอย่างการทำงาน
 
 1. เลือกไฟล์.<br>
-![Choose file](/_assets/javascript-net/javascript-net/choose-file.png)<br>
+![Choose file](/cad/_assets/javascript-net/javascript-net/choose-file.png)<br>
 1. เลือกไฟล์ DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG ใดๆ
 1. หากคำตอบสำเร็จ ไฟล์จะแสดงบนหน้าจอและจะมีการเสนอให้ดาวน์โหลด.<br>
-![Convert image](/_assets/javascript-net/javascript-net/convert-image.png)<br>
+![Convert image](/cad/_assets/javascript-net/javascript-net/convert-image.png)<br>
 ## ดูเพิ่มเติม
 
 - [ติดตั้ง Visual Code](https://code.visualstudio.com/)

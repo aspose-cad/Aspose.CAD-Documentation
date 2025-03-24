@@ -21,14 +21,14 @@ I det här exemplet skapar du en enkel konverteringsfunktion som konverterar en 
 För att skapa Azure Function-programmet, följ stegen nedan:
 1. När Docker är installerat, se till att det använder Linux-containrar (standard). Om nödvändigt, välj alternativet Väx till Linux-containrar i Docker Desktops meny.
 1. Skapa Azure Function-projekt i IntelliJ IDEA.<br>
-![Skapa azure function-projekt](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Skapa azure function-projekt-slutgiltigt](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Skapa azure function-projekt](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Skapa azure function-projekt-slutgiltigt](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Verktyg->Azure->Logga in och välj OAuth 2.0-autentisering.<br>
-![Azure inloggning](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Azure inloggning](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. Logga in i webbläsaren.
 1. Välj abonnemangsnamn.
 1. Lägg till docker-stöd.<br>
-![Lägg till docker-stöd](/_assets/java/java-azure/add-docker-support.png)<br>
+![Lägg till docker-stöd](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. Redigera DockerFile enligt avsnittet <a href="#configuring-a-dockerfile">Konfigurera en Dockerfile</a>.
 1. Lägg till block för repository aspose.cad i pom.xml.
 {{< highlight plain >}}
@@ -155,9 +155,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Kör dockerfile i IDE och efter tryck till docker hub.<br>
-![Kör docker i ide](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![Kör docker i ide](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. Ange namnet på bilden, som i Docker Hub-repo.<br>
-![Kör docker i ide-nästa](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![Kör docker i ide-nästa](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. Vänta tills det är klart.
 
 ## Azure
@@ -165,26 +165,26 @@ docker push user/aspose-cad-java:latest
 1. Logga in på Azure.
 1. Välj Azure-tjänster.
 1. Välj Function App och skapa en funktion.<br>
-![Skapa funktion knapp i Azure](/_assets/java/java-azure/create-function-azure.png)<br>
+![Skapa funktion knapp i Azure](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. Upprepa de grundläggande inställningarna som i bilden nedan.<br>
-![Skapa funktionsinställningar i Azure](/_assets/java/java-azure/create-function-settings.png)<br>
+![Skapa funktionsinställningar i Azure](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. Klicka på 'Granska + skapa' -> Skapa.
 1. Vänta på att distributionen ska slutföras.
 1. Klicka på 'Gå till resurs' knappen.<br>
-![Resurs knapp](/_assets/java/java-azure/go-to-resource.png)<br>
+![Resurs knapp](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. Stoppa aspose-cad-docker-example-funktionen.<br>
-![Stoppa container](/_assets/java/java-azure/stop-container.png)<br>
+![Stoppa container](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. Gå till distributionscentralen och gör lämpliga inställningar.<br>
-![Distributionscentral](/_assets/java/java-azure/deployment-center.png)<br>
+![Distributionscentral](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. Spara inställningar
 1. Kopiera Webhook-URL:en från inställningarna i distributionscentralen.<br>
-![Webhook url](/_assets/java/java-azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. Gå till Docker Hub, välj ditt repository och välj webhooks.
 1. Klistra in 'Webhook-url' från Azure i Docker Hub-webhook-url och ange namnet.<br>
-![Webhook-inställningar i docker](/_assets/java/java-azure/webhook.png)<br>
+![Webhook-inställningar i docker](/cad/_assets/java/java-azure/webhook.png)<br>
 1. Klicka på knappen skapa.
 1. Återgå till översikten över Azure-funktionen och starta containern.<br>
-![Översikt meny](/_assets/java/java-azure/overview.png)<br>
+![Översikt meny](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 Det kan ta några minuter för funktionen att starta.
 {{% /alert %}}
@@ -192,11 +192,11 @@ Det kan ta några minuter för funktionen att starta.
 ## Exempel på körning
 
 1. Inställningar i Postman.<br>
-![Översikt meny](/_assets/java/java-azure/postman-settings.png)<br>
+![Översikt meny](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. Välj valfri DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG-fil.
 1. Klicka på skicka-knappen.
 1. Spara resultatet
-![Spara svar](/_assets/java/java-azure/response-postman.png)<br>
+![Spara svar](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Om svaret är framgångsrikt, klicka på Spara till fil så får du den konverterade filen i png-format.

@@ -11,7 +11,7 @@ is_root: false
 
 ## **Aspose.CAD for .NET에 오신 것을 환영합니다**
 
-![Aspose.CAD for .NET 제품 로고](/_assets/home_1.png)
+![Aspose.CAD for .NET 제품 로고](/cad/_assets/home_1.png)
 
 Aspose.CAD for .NET은 .NET Framework, .Net Core 및 Xamarin과 호환되는 엔터프라이즈 등급 API 라이브러리로, AutoCAD나 기타 추가 소프트웨어를 사용하지 않고도 모든 CAD 또는 BIM 도면 파일을 다양한 벡터 및 래스터 이미지 파일 형식으로 읽고, 조작하고, 처리하고, 내보낼 수 있도록 합니다.
 다중 스레드에 안전하며, 서로 다른 운영 체제에서 실행될 수 있고, 내보내기 진행 상황을 추적할 수 있으며, 개별 레이어와 레이아웃을 처리할 수 있습니다. 취소 지원이 있습니다.

@@ -11,7 +11,7 @@ is_root: false
 
 ## **Aspose.CAD for JavaScript へようこそ**
 
-![Aspose.CAD for JavaScript Product Logo](/_assets/home_5.png)
+![Aspose.CAD for JavaScript Product Logo](/cad/_assets/home_5.png)
 
 Aspose.CAD for JavaScript は、ソフトウェアの依存関係なしで CAD 変換を行うネイティブAPIです。開発者は、DXF、DWG、DWT、DGN、IFC、DWF、DWFX、STL、IGES(IGS)、CF2、Collada(DAE)、PLT、OBJ、SVG、DXB、FBX、U3D、3DS、STP ファイルをラスター画像形式および PDF に変換することができます。
 変換プロセス中に、開発者は特定のレイヤーやレイアウトを選択して変換し、ファイルの変換プロセスを追跡することもできます。

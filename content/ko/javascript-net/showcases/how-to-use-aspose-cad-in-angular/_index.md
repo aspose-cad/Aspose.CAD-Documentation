@@ -122,10 +122,10 @@ ng serve 명령:
 ## 실행 예시
 
 1. 파일을 선택하십시오.<br>
-![파일 선택](/_assets/javascript-net/angular/choose-file.png)<br>
+![파일 선택](/cad/_assets/javascript-net/angular/choose-file.png)<br>
 1. DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG 파일 중 하나를 선택하십시오.
 1. 응답이 성공적이면 파일이 화면에 표시되고 다운로드할 수 있는 옵션이 제공됩니다.<br>
-![이미지 변환](/_assets/javascript-net/angular/convert-image.png)<br>
+![이미지 변환](/cad/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## 참조
 

@@ -10,7 +10,7 @@ url: /ja/
 
 **Aspose.CAD へようこそ**
 
-![Aspose.CAD for .NET 製品ロゴ](/_assets/home_1.png)
+![Aspose.CAD for .NET 製品ロゴ](/cad/_assets/home_1.png)
 
 Aspose.CAD は開発者が AutoCAD DWG、DXF、DWT などの CAD および BIM ファイル形式（DGN、DWF、DWFX、IFC、STL、IGES、PLT、CF2、OBJ、HPGL、IGS、DXB、STP、DAE、U3D、3DS、CGM）を開いて、読み取り、処理することを可能にします。これらのファイルを PDF、WMF、SVG、EMF などのさまざまなベクターおよびラスタ画像形式（BMP、GIF、JPG、JPEG、DICOM、WEBP、JP2、JPEG2000、PNG、TIFF、PSD）にエクスポートできます。これはネイティブ API であり、AutoCAD やその他のソフトウェアをインストールする必要がありません。また、AutoCAD ファイルから選択したレイヤーやレイアウトを変換することもできます。
 変換の進行状況と出力の品質を追跡し、管理することが可能です。すべての操作にはキャンセルサポートがあり、マルチスレッド環境に対応しています。
@@ -50,7 +50,7 @@ Aspose.CAD for .NET はクロスプラットフォームライブラリであり
 
 **Aspose.CAD for Java**
 
-![Aspose.CAD for Java 製品ロゴ](/_assets/home_2.png)
+![Aspose.CAD for Java 製品ロゴ](/cad/_assets/home_2.png)
 
 Aspose.CAD for Java はクロスプラットフォームライブラリであり、Java 1.6 以上に互換があり、前述の豊富な機能と能力を備えています。直接ダウンロードまたは Maven パッケージとして入手可能です。
 
@@ -77,7 +77,7 @@ Aspose.CAD for Java はクロスプラットフォームライブラリであり
 
 **Aspose.CAD for JasperReports**
 
-![Aspose.CAD for JasperReports 製品ロゴ](/_assets/home_3.png)
+![Aspose.CAD for JasperReports 製品ロゴ](/cad/_assets/home_3.png)
 
 Aspose.CAD for JasperReports は、JasperReports バージョン 6.3 以上と互換性のあるライブラリで、前述の豊富な機能と能力を備えています。直接ダウンロードまたは Maven パッケージとして入手可能です。
 
@@ -100,7 +100,7 @@ Aspose.CAD for JasperReports は、JasperReports バージョン 6.3 以上と�
 
 **Aspose.CAD for Python**
 
-![Aspose.CAD for Python 製品ロゴ](/_assets/home_4.png)
+![Aspose.CAD for Python 製品ロゴ](/cad/_assets/home_4.png)
 
 Aspose.CAD for Python はクロスプラットフォームライブラリであり、Python 3.x と互換性があり、前述の豊富な機能と能力を備えています。直接ダウンロードまたは PyPi パッケージとして入手可能です。
 
@@ -124,7 +124,7 @@ Aspose.CAD for Python はクロスプラットフォームライブラリであ�
 
 ## **Aspose.CAD for JavaScript**
 
-![Aspose.CAD for JavaScript 製品ロゴ](/_assets/home_5.png)
+![Aspose.CAD for JavaScript 製品ロゴ](/cad/_assets/home_5.png)
 
 Aspose.CAD for JavaScript は、ソフトウェア依存関係なしの CAD 変換ネイティブ API です。開発者は DXF、DWG、DWT、DGN、IFC、DWF、DWFX、STL、IGES（IGS）、CF2、Collada（DAE）、PLT、OBJ、SVG、DXB、FBX、U3D、3DS、STP ファイルをラスタ画像形式および PDF に変換することができます。
 変換プロセス中に、開発者は特定のレイヤーやレイアウトを選択して変換することができ、ファイル変換プロセスを追跡することもできます。

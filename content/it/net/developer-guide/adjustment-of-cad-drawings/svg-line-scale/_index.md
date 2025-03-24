@@ -19,6 +19,6 @@ Puoi controllare la scala delle linee nel file SVG, la libreria Aspose.CAD forni
 
 ## Un file che utilizza una scala lineare
 1. Il file se il parametro LineScale è impostato su 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. File se non utilizzi la scala delle linee.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

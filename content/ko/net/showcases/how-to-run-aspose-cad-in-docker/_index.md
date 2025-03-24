@@ -20,9 +20,9 @@ url: /ko/net/showcases/how-to-run-aspose-cad-in-docker/
 헬로 월드 프로그램을 만들기 위해 아래 단계를 따르십시오:
 1. Docker가 설치되면 Linux 컨테이너를 사용하고 있는지 확인하십시오(기본값). 필요한 경우 Docker 데스크탑 메뉴에서 Linux 컨테이너로 전환 옵션을 선택합니다.
 1. Visual Studio에서 .NET 6 콘솔 애플리케이션을 만듭니다.<br>
-![.NET 6 콘솔 애플리케이션 프로젝트 대화상자](/_assets/showcases/docker/1.png)<br>
+![.NET 6 콘솔 애플리케이션 프로젝트 대화상자](/cad/_assets/showcases/docker/1.png)<br>
 1. NuGet에서 최신 Aspose.CAD 버전을 설치합니다.<br>
-![NuGet의 Aspose.CAD](/_assets/showcases/docker/2.png)<br>
+![NuGet의 Aspose.CAD](/cad/_assets/showcases/docker/2.png)<br>
 1. 애플리케이션이 Linux에서 실행되므로 추가 글꼴을 설치해야 할 수 있습니다. ttf-mscorefonts-installer를 선호할 수 있습니다.
 1. 모든 필수 종속성이 추가되면 타원을 만들고 이미지를 저장하는 간단한 프로그램을 작성하십시오:<br>
 

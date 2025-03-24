@@ -20,9 +20,9 @@ Trong ví dụ này, bạn sẽ tạo một ứng dụng console Hello World đ�
 Để tạo chương trình Hello World, hãy làm theo các bước dưới đây:
 1. Sau khi đã cài đặt Docker, hãy đảm bảo rằng nó sử dụng Linux Containers (mặc định). Nếu cần, chọn tùy chọn Chuyển sang container Linux từ menu Docker Desktops.
 1. Trong Visual Studio, tạo một ứng dụng console NET 6.<br>
-![Hộp thoại dự án ứng dụng console NET 6](/_assets/showcases/docker/1.png)<br>
+![Hộp thoại dự án ứng dụng console NET 6](/cad/_assets/showcases/docker/1.png)<br>
 1. Cài đặt phiên bản Aspose.CAD mới nhất từ NuGet.<br>
-![Aspose.CAD trên NuGet](/_assets/showcases/docker/2.png)<br>
+![Aspose.CAD trên NuGet](/cad/_assets/showcases/docker/2.png)<br>
 1. Vì ứng dụng sẽ được chạy trên Linux, bạn có thể cần cài đặt thêm phông chữ. Bạn có thể sử dụng ttf-mscorefonts-installer.
 1. Khi tất cả các phụ thuộc cần thiết đã được thêm, hãy viết một chương trình đơn giản tạo một hình ellipse và lưu nó dưới dạng hình ảnh:<br>
 

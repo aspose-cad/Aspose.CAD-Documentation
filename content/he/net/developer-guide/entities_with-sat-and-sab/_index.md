@@ -15,7 +15,7 @@ url: /he/net/developer-guide/entities_with-sat-and-sab/
 
 להלן דוגמה של תוצאת הייצוא (קובץ DWG בחלק השמאלי, תוצאת PDF בחלק הימני).
 
-![ייצוא של חרוט וכדורים](/_assets/guide/coneAndSpheres.png)
+![ייצוא של חרוט וכדורים](/cad/_assets/guide/coneAndSpheres.png)
 
 ייצוא של ישויות ACIS אינו דורש אפשרויות מיוחדות. כדי לייעל את גודל הציור, במיוחד כאשר הציור מכיל ישויות ACIS בלבד, כדאי להשתמש בפונקציה cadImage.UpdateSize() כדי להתאים את ממדי הציור הראשוניים לאופן מדויק.
 

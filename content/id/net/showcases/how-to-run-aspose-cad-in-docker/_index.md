@@ -20,9 +20,9 @@ Dalam contoh ini, Anda membuat aplikasi konsol Hello World sederhana yang mengga
 Untuk membuat program Hello World, ikuti langkah-langkah di bawah ini:
 1. Setelah Docker terinstal, pastikan bahwa ini menggunakan Kontainer Linux (default). Jika perlu, pilih opsi Beralih ke kontainer Linux dari menu Docker Desktop.
 1. Di Visual Studio, buat aplikasi konsol .NET 6.<br>
-![Dialog proyek aplikasi konsol .NET 6](/_assets/showcases/docker/1.png)<br>
+![Dialog proyek aplikasi konsol .NET 6](/cad/_assets/showcases/docker/1.png)<br>
 1. Instal versi terbaru Aspose.CAD dari NuGet.<br>
-![Aspose.CAD di NuGet](/_assets/showcases/docker/2.png)<br>
+![Aspose.CAD di NuGet](/cad/_assets/showcases/docker/2.png)<br>
 1. Karena aplikasi akan dijalankan di Linux, Anda mungkin perlu menginstal font tambahan. Anda dapat memilih ttf-mscorefonts-installer.
 1. Ketika semua dependensi yang diperlukan telah ditambahkan, tulis program sederhana yang membuat elips dan menyimpannya sebagai gambar:<br>
 

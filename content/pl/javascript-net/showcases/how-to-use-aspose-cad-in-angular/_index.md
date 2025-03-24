@@ -122,10 +122,10 @@ Flaga --open otwiera przeglądarkę na http://localhost:4200.
 ## Przykład wykonania
 
 1. Wybierz plik.<br>
-![Wybierz plik](/_assets/javascript-net/angular/choose-file.png)<br>
+![Wybierz plik](/cad/_assets/javascript-net/angular/choose-file.png)<br>
 1. Wybierz dowolny plik DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Jeśli odpowiedź będzie pomyślna, plik zostanie wyświetlony na ekranie i zaoferuje możliwość jego pobrania.<br>
-![Przekonwertuj obraz](/_assets/javascript-net/angular/convert-image.png)<br>
+![Przekonwertuj obraz](/cad/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## Zobacz także
 

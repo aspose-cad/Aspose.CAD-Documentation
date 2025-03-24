@@ -121,10 +121,10 @@ npm run serve
 ## 実行例
 
 1. ファイルを選択します。<br>
-![ファイルを選択](/_assets/javascript-net/typescript/choose-file.png)<br>
+![ファイルを選択](/cad/_assets/javascript-net/typescript/choose-file.png)<br>
 1. DXF、DWG、DGN、DWF、DWFX、IFC、STL、DWT、IGES、PLT、CF2、OBJ、HPGL、IGS、PCL、FBX、PDF、SVGファイルを任意で選択します。
 1. 応答が成功すると、ファイルが画面に表示され、ダウンロードを提案します。<br>
-![画像を変換](/_assets/javascript-net/typescript/convert-image.png)<br>
+![画像を変換](/cad/_assets/javascript-net/typescript/convert-image.png)<br>
 ## 関連リンク
 
 - [Visual Codeをインストール](https://code.visualstudio.com/)

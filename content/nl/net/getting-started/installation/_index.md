@@ -9,7 +9,7 @@ url: /nl/net/getting-started/installation/
 
 NuGet is de gemakkelijkste manier om Aspose API's voor .NET te downloaden en te installeren. Open Microsoft Visual Studio en de NuGet-pakketbeheerder. Zoek naar "aspose" om de gewenste Aspose API te vinden. Klik op "Installeren", de geselecteerde API wordt gedownload en in uw project opgenomen.
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **Aspose.CAD vanuit een .NET-project opnemen**
 
@@ -21,7 +21,7 @@ Volg deze stappen (ervan uitgaande dat u Microsoft Visual Studio gebruikt):
 1. Selecteer het *Aspose.CAD* DLL-bestand en klik op de knop **OK**.
 1. De *Aspose.CAD* referentie verschijnt onder de **Referenties**-knoop van uw project.
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **Aspose.CAD installeren of bijwerken met de Package Manager Console**
 
@@ -30,23 +30,23 @@ U kunt de onderstaande stappen volgen om de [Aspose.CAD API](https://www.nuget.o
 1. Open uw oplossing/project in Visual Studio.
 1. Selecteer Hulpmiddelen -> Bibliotheekpakketbeheer -> Package Manager Console in het menu om de Package Manager Console te openen.
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 Typ het commando “**Install-Package Aspose.CAD**” en druk op enter om de nieuwste volledige release in uw applicatie te installeren. U kunt ook de suffix "**-prerelease**" aan het commando toevoegen om op te geven dat de nieuwste release inclusief hotfixes ook moet worden geïnstalleerd.
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 U zult zien dat de tip "Aspose.CAD aan het downloaden..." onderaan links in het venster verschijnt, wat aangeeft dat de download bezig is.
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 Wanneer de download is voltooid, ziet u de volgende bevestigingsberichten. Als u niet bekend bent met de [Aspose EULA](https://about.aspose.com/legal/eula) dan is het een goed idee om de licentie te lezen die in de URL is vermeld.
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 U zou nu moeten zien dat Aspose.CAD met succes aan uw applicatie is toegevoegd en opgenomen.
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 In de Package Manager Console kunt u ook het commando “**Update-Package Aspose.CAD**” gebruiken en op enter drukken om te controleren op eventuele updates voor het Aspose.CAD-pakket en deze te installeren indien aanwezig. U kunt ook de "-prerelease" suffix toevoegen om de nieuwste release bij te werken.
 

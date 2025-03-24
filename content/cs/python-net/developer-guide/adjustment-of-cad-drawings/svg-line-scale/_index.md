@@ -18,6 +18,6 @@ Můžete ovládat škálu linií ve souboru SVG, knihovna Aspose.CAD poskytuje v
 
 ## Soubor používající lineární škálu
 1. Soubor, pokud je parametr LineScale nastaven na 0.25.<br>
-![Vstupní obrázek](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Vstupní obrázek](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Soubor, pokud nepoužijete škálování linií.<br>
-![Vstupní obrázek](/_assets/guide/svg/basic_options.png)<br>
+![Vstupní obrázek](/cad/_assets/guide/svg/basic_options.png)<br>

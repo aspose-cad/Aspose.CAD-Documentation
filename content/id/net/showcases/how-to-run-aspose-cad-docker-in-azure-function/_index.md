@@ -21,11 +21,11 @@ Dalam contoh ini, Anda membuat fungsi konversi sederhana yang mengonversi file C
 Untuk membuat program Azure Function, ikuti langkah-langkah di bawah ini:
 1. Setelah Docker diinstal, pastikan bahwa itu menggunakan Kontainer Linux (default). Jika perlu, pilih opsi Alihkan ke kontainer Linux dari menu Docker Desktops.
 1. Di Visual Studio, buat Azure Function NET 6.<br>
-![Dialog proyek Azure Function NET 6](/_assets/showcases/azure/Create-project.png)<br>
+![Dialog proyek Azure Function NET 6](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Informasi tambahan.<br>
-![Dialog proyek Azure Function NET 6](/_assets/showcases/azure/Additional-information.png)<br>
+![Dialog proyek Azure Function NET 6](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Instal versi terbaru Aspose.CAD dari NuGet.<br>
-![Aspose.CAD di NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD di NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Karena aplikasi akan dijalankan di Linux, Anda mungkin perlu menginstal font tambahan. Anda dapat memilih ttf-mscorefonts-installer.
 1. Ketika semua dependensi yang diperlukan ditambahkan, tulis program sederhana yang membuat elips dan menyimpannya sebagai gambar:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 Langkah selanjutnya adalah membuat dan mengonfigurasi Dockerfile di folder proyek root.
 
 1. Buat Dockerfile dan tempatkan di samping file solusi aplikasi Anda. Pertahankan nama file ini tanpa ekstensi (default).
-![Folder proyek root](/_assets/showcases/azure/root-folder.png)<br>
+![Folder proyek root](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. Dalam Dockerfile, tentukan:
 
 {{< highlight plain >}}
@@ -133,31 +133,31 @@ docker push pengguna/asposefunction:latest
 1. Masuk ke Azure.
 1. Pilih layanan Azure.
 1. Pilih Aplikasi Function dan buat fungsi.<br>
-![Tombol buat fungsi Azure](/_assets/showcases/azure/create-function.png)<br>
+![Tombol buat fungsi Azure](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Ulangi pengaturan dasar seperti di gambar di bawah.<br>
-![Pengaturan fungsi buat Azure](/_assets/showcases/azure/create-function-setting.png)<br>
+![Pengaturan fungsi buat Azure](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Klik 'Tinjau + buat' -> Buat.
 1. Tunggu hingga penyebaran selesai.
 1. Klik tombol 'Pergi ke sumber daya'.<br>
-![Tombol sumber daya](/_assets/showcases/azure/go-to-resource.png)<br>
+![Tombol sumber daya](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Hentikan fungsi aspose-cad-docker-example.<br>
-![Hentikan kontainer](/_assets/showcases/azure/stop-container.png)<br>
+![Hentikan kontainer](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Pergi ke menu pusat penyebaran dan buat pengaturan yang sesuai.<br>
-![Pusat penyebaran](/_assets/showcases/azure/deployment-center.png)<br>
+![Pusat penyebaran](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Simpan pengaturan
 1. Salin URL Webhook dari pengaturan pusat penyebaran.<br>
-![URL Webhook](/_assets/showcases/azure/webhook-url.png)<br>
+![URL Webhook](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Pergi ke Docker Hub, pilih repository Anda dan pilih webhooks.
 1. Tempelkan 'URL Webhook' dari Azure ke URL webhook Docker Hub dan atur namanya.<br>
-![Pengaturan Webhook di docker](/_assets/showcases/azure/webhook.png)<br>
+![Pengaturan Webhook di docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Klik tombol buat.
 1. Kembali ke overview fungsi azure dan mulai kontainer.<br>
-![Menu overview](/_assets/showcases/azure/overview.png)<br>
+![Menu overview](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Contoh Eksekusi
 
 1. Pengaturan Postman.<br>
-![Pengaturan Postman](/_assets/showcases/azure/postman-settings.png)<br>
+![Pengaturan Postman](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Pilih file DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Klik tombol kirim.
 

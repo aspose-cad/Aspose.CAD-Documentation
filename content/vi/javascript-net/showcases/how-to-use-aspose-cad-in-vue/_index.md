@@ -136,10 +136,10 @@ npm run dev
 ## Ví dụ thực thi
 
 1. Chọn tệp.<br>
-![Chọn tệp](/_assets/javascript-net/vue/choose-file.png)<br>
+![Chọn tệp](/cad/_assets/javascript-net/vue/choose-file.png)<br>
 1. Chọn bất kỳ tệp DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG nào.
 1. Nếu câu trả lời thành công, tệp sẽ được hiển thị trên màn hình và sẽ đề xuất tải xuống.<br>
-![Chuyển đổi hình ảnh](/_assets/javascript-net/vue/convert-image.png)<br>
+![Chuyển đổi hình ảnh](/cad/_assets/javascript-net/vue/convert-image.png)<br>
 
 ## Tham khảo thêm
 

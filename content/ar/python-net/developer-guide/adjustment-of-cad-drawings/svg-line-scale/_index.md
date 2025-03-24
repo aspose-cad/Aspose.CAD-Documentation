@@ -18,6 +18,6 @@ url: /ar/python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## ملف يستخدم مقياس خطي
 1. الملف إذا كانت معلمة LineScale مضبوطة على 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. ملف إذا لم تستخدم تغيير مقياس الخط.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

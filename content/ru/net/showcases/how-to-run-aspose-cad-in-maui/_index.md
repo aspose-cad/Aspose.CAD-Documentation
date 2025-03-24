@@ -20,21 +20,21 @@ url: /ru/net/showcases/how-to-run-aspose-cad-in-maui/
 
 1. Чтобы создать приложения .NET MAUI, вам потребуется последняя версия Visual Studio 2022
 1. Установите Visual Studio или измените вашу существующую установку, и установите рабочую нагрузку разработки .NET Multi-platform App UI с ее стандартными дополнительными вариантами установки:<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 ## Создание проекта
 
 1. Запустите Visual Studio. В начальном окне нажмите Создать новый проект для создания нового проекта:<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. В окне Создать новый проект выберите MAUI в выпадающем списке Все типы проектов, выберите шаблон .NET MAUI App и нажмите кнопку Дальше:<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. В окне Настроить ваш новый проект введите имя вашего проекта, выберите подходящее место для него и нажмите кнопку Дальше:<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. В окне Дополнительная информация выберите версию .NET, на которую вы хотите нацелиться, и нажмите кнопку Создать:<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. Дождитесь создания проекта и восстановления его зависимостей
 1. Установите последнюю версию Aspose.CAD из NuGet:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. Замените код в MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -121,47 +121,47 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Отладка на Windows машине
 
 1. В панели инструментов Visual Studio используйте выпадающий список Целевой отладчик для выбора Framework, затем выберите элемент net7.0-windows:<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. В панели инструментов Visual Studio нажмите кнопку Windows Machine, чтобы построить и запустить приложение:<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. В работающем приложении нажмите кнопку "Выбрать файл" несколько раз и наблюдайте, как увеличивается количество нажатий кнопки:<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. Выберите необходимый файл и нажмите открыть:<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. После обработки файла на экране должно появиться изображение конвертированного файла:<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 ## Установка эмулятора Android
 
 1. В панели инструментов Visual Studio используйте выпадающий список Целевой отладчик для выбора Эмуляторов Android и затем выберите элемент Android Emulator
 1. В панели инструментов Visual Studio нажмите кнопку Android Emulator:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. В окне Лицензионное соглашение Android SDK нажмите кнопку Принять:<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. В окне Лицензионное соглашение Android SDK нажмите кнопку Принять:<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. В диалоговом окне Управление учетными записями пользователей нажмите кнопку Да:<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. В окне Принятие лицензии нажмите кнопку Принять:<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. В панели инструментов Visual Studio нажмите кнопку Android Emulator:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. В диалоговом окне Управление учетными записями пользователей нажмите кнопку Да:<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. В окне Новое устройство нажмите кнопку Создать:<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. Закройте окно Менеджер устройств Android
 
 ## Отладка с эмулятором Android
 
 1. В панели инструментов Visual Studio нажмите кнопку Pixel 5 - API 33 (Android 13.0 - API 33), чтобы построить и запустить приложение:<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. В работающем приложении в эмуляторе Android нажмите кнопку "Выбрать файл" несколько раз и наблюдайте, как увеличивается количество нажатий кнопки:<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. Выберите необходимый файл и нажмите выбрать:<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. После обработки файла на экране должно появиться изображение конвертированного файла:<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 ## Больше примеров
 

@@ -21,11 +21,11 @@ W tym przykładzie tworzysz prostą funkcję konwersji, która konwertuje plik C
 Aby utworzyć program funkcji Azure, wykonaj poniższe kroki:
 1. Po zainstalowaniu Dockera upewnij się, że używa kontenerów Linux (domyślnie). W razie potrzeby wybierz opcję Przełącz na kontenery Linux z menu Dockera Desktop.
 1. W Visual Studio utwórz funkcję Azure dla .NET 6.<br>
-![Dialog projektu funkcji Azure dla .NET 6](/_assets/showcases/azure/Create-project.png)<br>
+![Dialog projektu funkcji Azure dla .NET 6](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Dodatkowe informacje.<br>
-![Dialog projektu funkcji Azure dla .NET 6](/_assets/showcases/azure/Additional-information.png)<br>
+![Dialog projektu funkcji Azure dla .NET 6](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Zainstaluj najnowszą wersję Aspose.CAD z NuGet.<br>
-![Aspose.CAD na NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD na NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Ponieważ aplikacja będzie uruchamiana na Linuxie, może być konieczne zainstalowanie dodatkowych czcionek. Możesz preferować ttf-mscorefonts-installer.
 1. Po dodaniu wszystkich wymaganych zależności napisz prosty program, który tworzy elipsę i zapisuje ją jako obraz:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 Kolejnym krokiem jest utworzenie i skonfigurowanie pliku Dockerfile w głównym folderze projektu.
 
 1. Utwórz plik Dockerfile i umieść go obok pliku rozwiązań swojej aplikacji. Zachowaj tę nazwę pliku bez rozszerzenia (domyślnie).
-![Główny folder projektu](/_assets/showcases/azure/root-folder.png)<br>
+![Główny folder projektu](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. W pliku Dockerfile, określ:
 
 
@@ -134,31 +134,31 @@ docker push użytkownik/asposefunction:latest
 1. Zaloguj się do Azure.
 1. Wybierz usługi Azure.
 1. Wybierz aplikację funkcji i utwórz funkcję.<br>
-![Przycisk utwórz funkcję Azure](/_assets/showcases/azure/create-function.png)<br>
+![Przycisk utwórz funkcję Azure](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Powtórz podstawowe ustawienia jak na obrazku poniżej.<br>
-![Ustawienia utworzenia funkcji Azure](/_assets/showcases/azure/create-function-setting.png)<br>
+![Ustawienia utworzenia funkcji Azure](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Kliknij 'Przejrzyj + utwórz' -> Utwórz.
 1. Poczekaj na zakończenie wdrażania.
 1. Kliknij przycisk 'Przejdź do zasobu'.<br>
-![Przycisk zasobu](/_assets/showcases/azure/go-to-resource.png)<br>
+![Przycisk zasobu](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Zatrzymaj funkcję aspose-cad-docker-example.<br>
-![Zatrzymaj kontener](/_assets/showcases/azure/stop-container.png)<br>
+![Zatrzymaj kontener](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Przejdź do menu centrum wdrażania i wprowadź odpowiednie ustawienia.<br>
-![Centrum wdrażania](/_assets/showcases/azure/deployment-center.png)<br>
+![Centrum wdrażania](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Zapisz ustawienia
 1. Skopiuj adres URL webhooka z ustawień centrum wdrażania.<br>
-![Adres URL webhooka](/_assets/showcases/azure/webhook-url.png)<br>
+![Adres URL webhooka](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Przejdź do Docker Hub, wybierz swoje repozytorium i wybierz webhooks.
 1. Wklej 'Adres URL webhooka' z Azure do adresu URL webhooka Docker Hub i ustaw nazwę.<br>
-![Ustawienia webhooka w dockerze](/_assets/showcases/azure/webhook.png)<br>
+![Ustawienia webhooka w dockerze](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Kliknij przycisk utwórz.
 1. Wróć do przeglądu funkcji Azure i uruchom kontener.<br>
-![Menu przeglądu](/_assets/showcases/azure/overview.png)<br>
+![Menu przeglądu](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Przykład wykonania
 
 1. Ustawienia Postmana.<br>
-![Menu przeglądu](/_assets/showcases/azure/postman-settings.png)<br>
+![Menu przeglądu](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Wybierz dowolny plik DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Kliknij przycisk wyślij.
 

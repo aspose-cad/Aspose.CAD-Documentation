@@ -120,10 +120,10 @@ npm run serve
 ## مثال على التنفيذ
 
 1. اختر ملف.<br>
-![اختر ملف](/_assets/javascript-net/typescript/choose-file.png)<br>
+![اختر ملف](/cad/_assets/javascript-net/typescript/choose-file.png)<br>
 1. اختر أي ملف DXF أو DWG أو DGN أو DWF أو DWFX أو IFC أو STL أو DWT أو IGES أو PLT أو CF2 أو OBJ أو HPGL أو IGS أو PCL أو FBX أو PDF أو SVG.
 1. إذا كانت الاستجابة ناجحة، سيكون الملف معروضًا على الشاشة وسيوفر لك تنزيله.<br>
-![تحويل الصورة](/_assets/javascript-net/typescript/convert-image.png)<br>
+![تحويل الصورة](/cad/_assets/javascript-net/typescript/convert-image.png)<br>
 ## انظر أيضًا
 
 - [تثبيت فيجوال كود](https://code.visualstudio.com/)

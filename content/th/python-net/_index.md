@@ -11,7 +11,7 @@ is_root: false
 
 ## **ยินดีต้อนรับสู่ Aspose.CAD สำหรับ Python**
 
-![Aspose.CAD for Python Product Logo](/_assets/home_4.png)
+![Aspose.CAD for Python Product Logo](/cad/_assets/home_4.png)
 
 Aspose.CAD สำหรับ Python เป็นโซลูชันเพียงหนึ่งเดียวในตลาดที่ทำให้สามารถส่งออกรายงานจาก Python ไปยังรูปแบบไฟล์ภาพเวกเตอร์และแรสเตอร์ที่หลากหลาย เช่น PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD และทำงานกับรูปแบบไฟล์ CAD และ BIM ต่างๆ เช่น DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

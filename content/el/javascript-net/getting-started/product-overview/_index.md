@@ -7,7 +7,7 @@ url: /el/javascript-net/getting-started/product-overview/
 
 **Καλώς ήρθατε στο Aspose.CAD για JavaScript**
 
-![todo:image_alt_text](/_assets/home_5.png)
+![todo:image_alt_text](/cad/_assets/home_5.png)
 
 Το Aspose.CAD για JavaScript επιτρέπει στους προγραμματιστές να μετατρέπουν αρχεία AutoCAD DWG, DWF, DWT και DXF σε PDF και Raster εικόνες. Είναι μια εγγενής API και δεν απαιτεί την εγκατάσταση του AutoCAD ή οποιοδήποτε άλλο λογισμικό. Μπορείτε επίσης να μετατρέψετε τα επιλεγμένα στρώματα και διατάξεις από τα αρχεία AutoCAD. Η μετατροπή σε PDF και Raster εικόνες έχει εξαιρετική ποιότητα.
 
@@ -21,7 +21,7 @@ url: /el/javascript-net/getting-started/product-overview/
 ## **Με Μια Ματιά**
 Μια επισκόπηση των κύριων ικανοτήτων μετατροπής, αναπαράστασης και αναφοράς του Aspose.CAD για JavaScript.
 
-![todo:image_alt_text](/_assets/javascript-net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/javascript-net/product-overview_2.png)
 ## **Προχωρημένα Χαρακτηριστικά API**
 - Υποστηρίζει τις τελευταίες εκδόσεις των αρχείων AutoCAD DWG, DWF, DWT και DXF
 - Μετατροπή των αρχείων AutoCAD σε υψηλής ποιότητας PDF
@@ -37,4 +37,4 @@ url: /el/javascript-net/getting-started/product-overview/
 - Vue
 - Vanilla TypeScript
 
-![todo:image_alt_text](/_assets/javascript-net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/javascript-net/product-overview_3.png)

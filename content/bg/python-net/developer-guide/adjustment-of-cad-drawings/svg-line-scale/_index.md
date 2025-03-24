@@ -18,6 +18,6 @@ url: /bg/python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## Файл, използващ линейна скала
 1. Файлът, ако параметърът LineScale е зададен на 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Файл, ако не използвате скалиране на линиите.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

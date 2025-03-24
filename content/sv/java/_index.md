@@ -11,7 +11,7 @@ is_root: false
 
 ## **Välkommen till Aspose.CAD för Java**
 
-![Aspose.CAD for Java Produktlogotyp](/_assets/home_2.png)
+![Aspose.CAD for Java Produktlogotyp](/cad/_assets/home_2.png)
 
 Aspose.CAD för Java är Java-versionen 1.6 kompatibla API-biblioteket som tillåter utvecklare att bearbeta och konvertera olika CAD- eller BIM-ritningsfiler såsom DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS. Stödda utdataformat är olika raster- och vektorfilformat: PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD. Ingen AutoCAD eller annan CAD-programvara behöver installeras.
 Det finns en rik uppsättning funktioner såsom konvertering av valda lager och layouter, justering av kvaliteten på utdatafilen och spårning av exportprocessen. API:t är mycket skalbart och har en snabb prestanda.

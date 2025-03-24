@@ -11,20 +11,20 @@ url: /ar/java/developer-guide/export-with-3d-options/
 
 إليك أمثلة عن المشهد ثلاثي الأبعاد من زوايا مختلفة:
 
-![Figures](/_assets/guide/3d/fig1.png)
+![Figures](/cad/_assets/guide/3d/fig1.png)
 
-![Figures from other points of view](/_assets/guide/3d/fig2.png)
+![Figures from other points of view](/cad/_assets/guide/3d/fig2.png)
 
 تسمح خاصية ObserverPoint بدوران المشهد ثلاثي الأبعاد وفقًا لزوايا محددة حول المحور. يظهر هذا المثال الكود ونتيجة التصدير باستخدام بعض زوايا الدوران التعسفية.
 
 {{< gist aspose-com-gists 49c1b75d9a84e149ecf374ece2c2597d "ObserverPoint-property.java">}}
 
 
-![Export with rotation](/_assets/guide/3d/fig3.png)
+![Export with rotation](/cad/_assets/guide/3d/fig3.png)
 
 تغيير ObserverAngle إلى ObserverPoint = new ObserverPoint(5, 60, 0) يسمح بتدوير المشهد.
 
-![Export with changed rotation](/_assets/guide/3d/fig4.png)
+![Export with changed rotation](/cad/_assets/guide/3d/fig4.png)
 
 تسمح خاصية RenderMode3D الأخرى بتحديد كيفية تقديم نتيجة التصدير. هناك 3 أوضاع: صلبة (الافتراضي) ، إطار سلكي ، وصلبة مع حواف.
 
@@ -32,9 +32,9 @@ url: /ar/java/developer-guide/export-with-3d-options/
 
 {{< gist aspose-com-gists 49c1b75d9a84e149ecf374ece2c2597d "RenderMode3D-property.java">}}
 
-![Wireframe mode](/_assets/guide/3d/fig5.png)
+![Wireframe mode](/cad/_assets/guide/3d/fig5.png)
 
 يوضح المثال أدناه الفرق بين وضعي Solid و SolidWithEdges.
 
-![Solid mode](/_assets/guide/3d/fig6.png)
-![Solid with edge mode](/_assets/guide/3d/fig7.png)
+![Solid mode](/cad/_assets/guide/3d/fig6.png)
+![Solid with edge mode](/cad/_assets/guide/3d/fig7.png)

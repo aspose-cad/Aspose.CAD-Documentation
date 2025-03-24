@@ -36,7 +36,7 @@ Aspose.CAD for Java의 주요 변환, 렌더링 및 보고 능력 개요.
 
 Aspose.CAD for Java는 인기 있는 DWG, DWF, DXF, DWT, PDF 및 래스터 이미지를 지원합니다.
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **DXF / DWG / DGN 지원**
 - 3D 솔리드 (원뿔, 구, 도넛, 실린더, 박스, 쐐기)
 ### **DXF / DWG 지원**

@@ -7,7 +7,7 @@ url: /hu/jasperreports/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for JasperReports termékláz](/_assets/home_3.png)
+![Aspose.CAD for JasperReports termékláz](/cad/_assets/home_3.png)
 
 Az Aspose.CAD for JasperReports az egyetlen megoldás a piacon, amely lehetővé teszi a jelentések exportálását a JasperReports-ból különféle vektorgrafikus és raszteres képformátumokba, mint például PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD, és képes különböző CAD és BIM fájlformátumokkal dolgozni: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

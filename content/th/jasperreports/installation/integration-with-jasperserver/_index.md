@@ -282,6 +282,6 @@ url: /th/jasperreports/installation/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. เริ่มต้นใหม่ JasperReports Server และเปิดรายงานใดๆ เพื่อดู หากขั้นตอนก่อนหน้านี้ทำอย่างถูกต้อง คุณจะเห็นตัวเลือกเพิ่มเติมในรายการรูปแบบการส่งออก
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 หากคุณไม่เห็นรูปแบบเพิ่มเติม (ไอคอนหรือทางเลือก) โปรดตรวจสอบไฟล์บันทึกในไดเรกทอรี \apache-tomcat\logs

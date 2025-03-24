@@ -21,11 +21,11 @@ url: /ko/net/showcases/how-to-run-aspose-cad-docker-in-azure-function/
 Azure Function 프로그램을 생성하려면 아래 단계를 따르십시오:
 1. Docker가 설치되면 Linux 컨테이너(기본값)를 사용하도록 설정되어 있는지 확인하십시오. 필요한 경우 Docker Desktop 메뉴에서 Linux 컨테이너로 전환 옵션을 선택하십시오.
 1. Visual Studio에서 .NET 6 Azure Function을 생성하십시오.<br>
-![.NET 6 Azure Function 프로젝트 대화상자](/_assets/showcases/azure/Create-project.png)<br>
+![.NET 6 Azure Function 프로젝트 대화상자](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. 추가 정보입니다.<br>
-![.NET 6 Azure Function 프로젝트 대화상자](/_assets/showcases/azure/Additional-information.png)<br>
+![.NET 6 Azure Function 프로젝트 대화상자](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. NuGet에서 최신 Aspose.CAD 버전을 설치하십시오.<br>
-![NuGet에서의 Aspose.CAD](/_assets/showcases/azure/NuGet.png)<br>
+![NuGet에서의 Aspose.CAD](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. 애플리케이션이 Linux에서 실행되므로 추가 글꼴을 설치해야 할 수도 있습니다. ttf-mscorefonts-installer를 선택할 수 있습니다.
 1. 모든 필수 종속성이 추가되면 타원을 생성하고 이미지를 저장하는 간단한 프로그램을 작성하십시오:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 다음 단계는 루트 프로젝트 폴더에서 Dockerfile을 생성하고 구성하는 것입니다.
 
 1. Dockerfile을 생성하고 애플리케이션의 솔루션 파일 옆에 배치하십시오. 이 파일 이름은 확장자가 없는 기본 이름으로 유지하십시오.
-![루트 프로젝트 폴더](/_assets/showcases/azure/root-folder.png)<br>
+![루트 프로젝트 폴더](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. Dockerfile에서 다음을 지정하십시오:
 
 {{< highlight plain >}}
@@ -133,31 +133,31 @@ docker push user/asposefunction:latest
 1. Azure에 로그인하십시오.
 1. Azure 서비스를 선택하십시오.
 1. Function App을 선택하고 함수를 생성하십시오.<br>
-![Azure 함수 생성 버튼](/_assets/showcases/azure/create-function.png)<br>
+![Azure 함수 생성 버튼](/cad/_assets/showcases/azure/create-function.png)<br>
 1. 아래 이미지처럼 기본 설정을 반복하십시오.<br>
-![Azure 함수 생성 설정](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure 함수 생성 설정](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. '검토 + 생성' 클릭 -> 생성합니다.
 1. 배포가 완료될 때까지 기다립니다.
 1. '리소스로 이동' 버튼을 클릭하십시오.<br>
-![리소스 버튼](/_assets/showcases/azure/go-to-resource.png)<br>
+![리소스 버튼](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. aspose-cad-docker-example 함수를 중지합니다.<br>
-![컨테이너 중지](/_assets/showcases/azure/stop-container.png)<br>
+![컨테이너 중지](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. 배포 센터 메뉴로 이동하여 적절한 설정을 합니다.<br>
-![배포 센터](/_assets/showcases/azure/deployment-center.png)<br>
+![배포 센터](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. 설정을 저장합니다.
 1. 배포 센터 설정에서 Webhook URL을 복사합니다.<br>
-![Webhook url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Docker Hub로 이동하여 리포지토리를 선택하고 웹 후크를 선택합니다.
 1. Azure에서 가져온 'Webhook url'을 Docker Hub 웹 후크 URL에 붙여넣고 이름을 설정합니다.<br>
-![Docker의 웹 후크 설정](/_assets/showcases/azure/webhook.png)<br>
+![Docker의 웹 후크 설정](/cad/_assets/showcases/azure/webhook.png)<br>
 1. 생성 버튼을 클릭합니다.
 1. Azure 함수 개요로 돌아가서 컨테이너를 시작합니다.<br>
-![개요 메뉴](/_assets/showcases/azure/overview.png)<br>
+![개요 메뉴](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## 실행 예제
 
 1. Postman 설정입니다.<br>
-![개요 메뉴](/_assets/showcases/azure/postman-settings.png)<br>
+![개요 메뉴](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG 파일 중 하나를 선택합니다.
 1. 보내기 버튼을 클릭합니다.
 

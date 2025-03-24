@@ -120,11 +120,11 @@ dotnet run
 1. Jelentkezzen be a Google Cloudba.
 1. Hozzon létre egy projektet, ha még nem létezik.
 1. Lépjen az 'Artifact Registry'-be, és hozzon létre egy tárolót.<br>
-![Artifact Repository létrehozása](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Artifact Repository létrehozása](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Válassza ki az új tárolót az Artifact Registry-ben.
-![Artifact Repository kiválasztása](/_assets/showcases/google/select-artifact.png)<br>
+![Artifact Repository kiválasztása](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. Kattintson a 'BEÁLLÍTÁSI ÚTMUTATÓRA', és másolja a 'Docker konfigurálása' parancsot.<br>
-![BEÁLLÍTÁSI ÚTMUTATÓ](/_assets/showcases/google/setup-instruction.png)<br>
+![BEÁLLÍTÁSI ÚTMUTATÓ](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Adjon hozzá egy Docker credHelper bejegyzést a Docker konfigurációs fájljához, vagy hozza létre a fájlt, ha még nem létezik.
 {{< highlight plain >}}
 //példa
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Lépjen a Cloud Run-ra.
 1. Hozzon létre Cloud Run szolgáltatást.<br>
-![Cloud Run szolgáltatás létrehozása](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Cloud Run szolgáltatás létrehozása](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. A Konténerkép URL mezőben válassza ki a konténert az 'ARTIFACT REGISTRY'-ből.<br>
-![Konténerkép URL](/_assets/showcases/google/container-url.png)<br>
+![Konténerkép URL](/cad/_assets/showcases/google/container-url.png)<br>
 1. Ellenőrizze a többi beállítást az alábbiak szerint.<br>
-![Szolgáltatás beállításai](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Szolgáltatás beállításai](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Várjon, amíg a telepítés befejeződik.
 1. Szolgáltatás URL a konverziós alkalmazás használatához.<br>
-![Szolgáltatás URL](/_assets/showcases/google/url-service.png)<br>
+![Szolgáltatás URL](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Dockerfile beállítása
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Futtatási példa
 
 1. Postman beállítások.<br>
-![Áttekintő menü](/_assets/showcases/google/postman-settings.png)<br>
+![Áttekintő menü](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Válasszon ki bármilyen DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG fájlt.
 1. Kattintson a küldés gombra.
 

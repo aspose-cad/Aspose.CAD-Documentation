@@ -11,7 +11,7 @@ is_root: false
 
 ## **Välkommen till Aspose.CAD för .NET**
 
-![Aspose.CAD för .NET Produktlogo](/_assets/home_1.png)
+![Aspose.CAD för .NET Produktlogo](/cad/_assets/home_1.png)
 
 Aspose.CAD för .NET är det företagsklass API-biblioteket som är kompatibelt med .NET Framework, .Net Core och Xamarin, vilket gör det möjligt att läsa, manipulera, bearbeta och exportera alla CAD- eller BIM-ritningar till olika vektor- och rasterbildfilformat utan att använda AutoCAD eller någon annan ytterligare programvara. 
 Det är trådsäkert, kan köras på olika operativsystem, gör det möjligt att spåra exportframsteg och bearbeta separata lager och layouter. Det har stöd för avbokning. 

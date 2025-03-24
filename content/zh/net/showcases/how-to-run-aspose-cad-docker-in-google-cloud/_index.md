@@ -120,11 +120,11 @@ dotnet run
 1. 登录 Google Cloud。
 1. 如果项目不存在，请创建一个项目。
 1. 转到“Artifact Registry”并创建一个存储库。<br>
-![创建 Artifact 存储库](/_assets/showcases/google/create-artifact-repository.png)<br>
+![创建 Artifact 存储库](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. 在 Artifact Registry 中选择新存储库。
-![选择 artifact 存储库](/_assets/showcases/google/select-artifact.png)<br>
+![选择 artifact 存储库](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. 单击“设置说明”，然后复制“配置 Docker”命令。<br>
-![设置说明](/_assets/showcases/google/setup-instruction.png)<br>
+![设置说明](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. 向 Docker 的配置文件添加一个 Docker credHelper 条目，或者在如果文件不存在的情况下创建该文件。
 {{< highlight plain >}}
 //示例
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. 转到 Cloud Run。
 1. 创建 Cloud Run 服务。<br>
-![创建 Cloud Run 服务](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![创建 Cloud Run 服务](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. 在容器镜像 URL 字段中，从“ARTIFACT REGISTRY”中选择容器。<br>
-![容器镜像 URL](/_assets/showcases/google/container-url.png)<br>
+![容器镜像 URL](/cad/_assets/showcases/google/container-url.png)<br>
 1. 检查以下其他设置。<br>
-![设置服务](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![设置服务](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. 等待部署完成。
 1. 服务 URL 以便与转换应用程序一起使用。<br>
-![服务 URL](/_assets/showcases/google/url-service.png)<br>
+![服务 URL](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### 配置 Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## 执行示例
 
 1. Postman 设置。<br>
-![概览菜单](/_assets/showcases/google/postman-settings.png)<br>
+![概览菜单](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. 选择任意 DXF、DWG、DGN、DWF、DWFX、IFC、STL、DWT、IGES、PLT、CF2、OBJ、HPGL、IGS、PCL、FBX、PDF、SVG 文件。
 1. 点击发送按钮。
 

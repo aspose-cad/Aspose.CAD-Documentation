@@ -21,14 +21,14 @@ Ebben a példában egy egyszerű átalakító funkciót hoz létre, amely egy CA
 Az Azure Function program létrehozásához kövesse az alábbi lépéseket:
 1. Miután a Dockert telepítette, győződjön meg arról, hogy Linux konténereket használ (alapértelmezett). Szükség esetén válassza a Váltás Linux konténerekre opciót a Docker Desktop menüjéből.
 1. Hozzon létre Azure Function projektet az IntelliJ IDEA-ban.<br>
-![Azure Function projekt létrehozása](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Azure Function projekt létrehozása - végleges](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Azure Function projekt létrehozása](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Azure Function projekt létrehozása - végleges](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Eszközök->Azure->Bejelentkezés, és válassza az OAuth 2.0 hitelesítést.<br>
-![Azure bejelentkezés](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Azure bejelentkezés](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. Jelentkezzen be a böngészőben.
 1. Válassza ki az Előfizetés nevét.
 1. Adjon hozzá Docker támogatást.<br>
-![Docker támogatás hozzáadása](/_assets/java/java-azure/add-docker-support.png)<br>
+![Docker támogatás hozzáadása](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. Szerkessze a DockerFile-t a <a href="#configuring-a-dockerfile">Dockerfile konfigurálása</a> szakasz szerint.
 1. Adjon hozzá blokkokat az aspose.cad tárolójához a pom.xml-ben.
 {{< highlight plain >}}
@@ -154,9 +154,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Futtassa a Dockerfile-t az IDE-ben, majd töltse fel a Docker Hub-ra.<br>
-![Docker futtatás IDE-ben](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![Docker futtatás IDE-ben](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. Adja meg a kép nevét, ahogyan a Docker Hub tárolóban van.<br>
-![Docker futtatás IDE-ben - következő](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![Docker futtatás IDE-ben - következő](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. Várja meg a végét.
 
 ## Azure
@@ -164,26 +164,26 @@ docker push user/aspose-cad-java:latest
 1. Bejelentkezés az Azure-ba.
 1. Válassza az Azure szolgáltatásokat.
 1. Válassza a Function App-ot, és hozzon létre egy funkciót.<br>
-![Azure funkció létrehozás gomb](/_assets/java/java-azure/create-function-azure.png)<br>
+![Azure funkció létrehozás gomb](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. Ismételje meg az alapbeállításokat az alábbi kép szerint.<br>
-![Azure funkció beállítások](/_assets/java/java-azure/create-function-settings.png)<br>
+![Azure funkció beállítások](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. Kattintson a 'Áttekintés + létrehozás' -> Létrehozás gombra.
 1. Várja meg a telepítés befejezését.
 1. Kattintson az 'Ugrás az erőforráshoz' gombra.<br>
-![Erőforrás gomb](/_assets/java/java-azure/go-to-resource.png)<br>
+![Erőforrás gomb](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. Állítsa le az aspose-cad-docker-example funkciót.<br>
-![Konténer leállítása](/_assets/java/java-azure/stop-container.png)<br>
+![Konténer leállítása](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. Lépjen a telepítési központ menübe és végezze el a megfelelő beállításokat.<br>
-![Telepítési központ](/_assets/java/java-azure/deployment-center.png)<br>
+![Telepítési központ](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. Mentse a beállításokat.
 1. Másolja a Webhook URL-t a telepítési központ beállításaiból.<br>
-![Webhook url](/_assets/java/java-azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. Lépjen a Docker Hub-ra, válassza ki a tárolóját, és válassza a webhooks-t.
 1. Illessze be az Azure-ból származó 'Webhook url'-t a Docker Hub webhook url-be, és adjon nevet neki.<br>
-![Webhook beállítások Dockerben](/_assets/java/java-azure/webhook.png)<br>
+![Webhook beállítások Dockerben](/cad/_assets/java/java-azure/webhook.png)<br>
 1. Kattintson a létrehozás gombra.
 1. Térjen vissza az áttekintéshez az Azure funkcióhoz, és indítsa el a konténert.<br>
-![Áttekintés menü](/_assets/java/java-azure/overview.png)<br>
+![Áttekintés menü](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 Előfordulhat, hogy néhány percbe telik, mire a funkció elindul.
 {{% /alert %}}
@@ -191,11 +191,11 @@ Előfordulhat, hogy néhány percbe telik, mire a funkció elindul.
 ## Példa futtatásra
 
 1. Postman beállítások.<br>
-![Postman beállítások](/_assets/java/java-azure/postman-settings.png)<br>
+![Postman beállítások](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. Válasszon ki bármilyen DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG fájlt.
 1. Kattintson a küldés gombra.
 1. Mentse az eredményt.
-![Kimenet mentése](/_assets/java/java-azure/response-postman.png)<br>
+![Kimenet mentése](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Ha a válasz sikeres, kattintson a Mentés fájlba gombra, és megkapja a konvertált fájlt png formátumban

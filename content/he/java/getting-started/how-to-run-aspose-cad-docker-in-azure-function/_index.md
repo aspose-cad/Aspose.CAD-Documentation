@@ -21,14 +21,14 @@ url: /he/java/getting-started/how-to-run-aspose-cad-docker-in-azure-function/
 כדי ליצור את תוכנית הפונקציה של Azure, בצע את הצעדים הבאים:
 1. לאחר שה-Docker מותקן, ודא שהוא משתמש בקונטיינרים של Linux (ברירת מחדל). אם יש צורך, בחר באפשרות לעבור לקונטיינרים של Linux מתפריט Desktop של Docker.
 1. צור פרויקט פונקציה של Azure ב-IntelliJ IDEA.<br>
-![צור פרויקט פונקציה של Azure](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![צור פרויקט פונקציה של Azure-סופי](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![צור פרויקט פונקציה של Azure](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![צור פרויקט פונקציה של Azure-סופי](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Tools->Azure->Sing In ובחר באימות OAuth 2.0.<br>
-![כניסה ל-Azure](/_assets/java/java-azure/sign-in-azure.png)<br>
+![כניסה ל-Azure](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. התחבר בדפדפן.
 1. בחר בשם המנוי.
 1. הוסף תמיכה ב-Docker.<br>
-![הוסף תמיכה ב-Docker](/_assets/java/java-azure/add-docker-support.png)<br>
+![הוסף תמיכה ב-Docker](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. ערוך את ה-DockerFile כפי שמופיע בפרק <a href="#configuring-a-dockerfile">הגדרת Dockerfile</a>.
 1. הכנס בלוקים למאגר aspose.cad ב-pom.xml.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. הרץ את ה-Dockerfile ב-IDE ולאחר מכן דחוף ל-Docker Hub.<br>
-![הרץ את Docker ב-IDE](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![הרץ את Docker ב-IDE](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. הכנס את שם התמונה, כפי שהוא במאגר ה-Docker Hub.<br>
-![הרץ את Docker ב-IDE- הבא](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![הרץ את Docker ב-IDE- הבא](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. המתן לסיום.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push user/aspose-cad-java:latest
 1. התחבר ל-Azure.
 1. בחר שירותי Azure.
 1. בחר באפליקציית פונקציה וצור פונקציה.<br>
-![כפתור צור פונקציה של Azure](/_assets/java/java-azure/create-function-azure.png)<br>
+![כפתור צור פונקציה של Azure](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. חזור על ההגדרות הבסיסיות כפי שמופיע בתמונה למטה.<br>
-![הגדרות פונקציה של Azure](/_assets/java/java-azure/create-function-settings.png)<br>
+![הגדרות פונקציה של Azure](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. לחץ על 'סקור + צור' -> צור.
 1. המתן לסיום ההתקנה.
 1. לחץ על כפתור 'עבור למשאב'.<br>
-![כפתור משאב](/_assets/java/java-azure/go-to-resource.png)<br>
+![כפתור משאב](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. עצור את הפונקציה aspose-cad-docker-example.<br>
-![עצור קונטיינר](/_assets/java/java-azure/stop-container.png)<br>
+![עצור קונטיינר](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. עבור לתפריט מרכז ההתקנות והגדר את ההגדרות המתאימות.<br>
-![מרכז התקנה](/_assets/java/java-azure/deployment-center.png)<br>
+![מרכז התקנה](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. שמור הגדרות
 1. העתק את כתובת ה-WebHook ממסך ההגדרות של מרכז ההתקנה.<br>
-![כתובת WebHook](/_assets/java/java-azure/webhook-url.png)<br>
+![כתובת WebHook](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. עבור ל-Docker Hub, בחר את המאגר שלך ובחר Webhooks.
 1. הדבק את 'כתובת ה-WebHook' מ-Azure לתוך כתובת ה-WebHook של Docker Hub וקבע שם.<br>
-![הגדרות WebHook ב-Docker](/_assets/java/java-azure/webhook.png)<br>
+![הגדרות WebHook ב-Docker](/cad/_assets/java/java-azure/webhook.png)<br>
 1. לחץ על כפתור צור.
 1. חזור לפונקציה של Azure ותתחיל את הקונטיינר.<br>
-![תפריט תצוגה כללית](/_assets/java/java-azure/overview.png)<br>
+![תפריט תצוגה כללית](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 זה עלול לקחת כמה דקות להתחלת הפונקציה.
 {{% /alert %}}
@@ -193,11 +193,11 @@ docker push user/aspose-cad-java:latest
 ## דוגמת ביצוע
 
 1. הגדרות Postman.<br>
-![תפריט תצוגה כללית](/_assets/java/java-azure/postman-settings.png)<br>
+![תפריט תצוגה כללית](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. בחר כל קובץ DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. לחץ על כפתור השליחה.
 1. שמור את התוצאה
-![שמור את התגובה](/_assets/java/java-azure/response-postman.png)<br>
+![שמור את התגובה](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 אם התשובה הצליחה, לחץ שמור לקובץ ותשמור את הקובץ המומר בפורמט PNG

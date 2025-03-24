@@ -122,10 +122,10 @@ ng serve
 ## Пример выполнения
 
 1. Выберите файл.<br>
-![Выберите файл](/_assets/javascript-net/angular/choose-file.png)<br>
+![Выберите файл](/cad/_assets/javascript-net/angular/choose-file.png)<br>
 1. Выберите любой файл DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Если ответ успешный, файл будет отображен на экране и предложит его скачать.<br>
-![Конвертировать изображение](/_assets/javascript-net/angular/convert-image.png)<br>
+![Конвертировать изображение](/cad/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## Смотрите также
 

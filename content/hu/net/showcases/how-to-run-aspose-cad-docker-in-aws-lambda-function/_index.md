@@ -25,16 +25,16 @@ Győződjön meg arról, hogy elegendő joggal rendelkezik AWS Lambda funkciók 
 
 Az AWS Lambda funkció program létrehozásához kövesse az alábbi lépéseket:
 1. Hozzon létre AWS Lambda projektet.<br>
-![AWS funkció létrehozása gomb](/_assets/showcases/aws/create-project.png)<br>
+![AWS funkció létrehozása gomb](/cad/_assets/showcases/aws/create-project.png)<br>
 1. Válassza a .NET 6 (Konténerkép) lehetőséget, és kattintson a 'Kész' gombra.<br>
-![Konténer funkció létrehozása gomb](/_assets/showcases/aws/create-container.png)<br>
+![Konténer funkció létrehozása gomb](/cad/_assets/showcases/aws/create-container.png)<br>
 1. Nyissa meg az AWS Explorert a Visual Studio-ban (Nézet->AWS Explorer).
 1. Adjon hozzá AWS hitelesítő profilt az AWS Explorerhez.<br>
-![Hitelesítő profil](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![Hitelesítő profil](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Adja meg az Access Key ID-t és a Secret Access Key-t, ezeket a kulcsokat a Biztonsági hitelesítésekben találja, vagy lépjen kapcsolatba a rendszergazdával, és kérjen egy csv fájlt az engedélyezéshez.<br>
-![Fiók profil beállításai](/_assets/showcases/aws/account-profile.png)<br>
+![Fiók profil beállításai](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. Telepítse a legújabb könyvtárakat a NuGet-től.<br>
-![NuGet kezelő](/_assets/showcases/aws/nuget-manager.png)<br>
+![NuGet kezelő](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. Kódminta a cad kép pdf fájllá konvertálásához.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Szerkessze a DockerFile-t, ahogy az a <a href="#configuring-a-dockerfile">Dockerfile konfigurálása</a> szakaszban található.
 1. Indítsa el a Docker Desktop-ot.
 1. Publikálás az AWS Lambda-ra.<br>
-![AWS lambda publikálás](/_assets/showcases/aws/publish-aws.png)<br>
+![AWS lambda publikálás](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. Szerkessze a feltöltési konfigurációt.<br>
-![AWS lambda feltöltés](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![AWS lambda feltöltés](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Kattintson a 'Feltöltés' gombra.<br>
-![AWS lambda utolsó feltöltés](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![AWS lambda utolsó feltöltés](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Lépjen az AWS-hez, és válassza a Lambdát.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Válassza ki új funkcióját, és hozzon létre egy URL funkciót.<br>
-![URL funkció konfigurálása](/_assets/showcases/aws/create-function-url.png)<br>
+![URL funkció konfigurálása](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. Válassza ki az autentikálási típust
 - AWS_IAM - Csak az azonosított IAM felhasználók és szerepek kérhetik a funkció URL-jét.
 - NINCS - A Lambda nem hajt végre IAM hitelesítést a funkció URL-jével kapcsolatos kérésekben. Az URL végpont nyilvános lesz, hacsak nem valósít meg saját engedélyezési logikát a funkciójában.
@@ -126,7 +126,7 @@ A fenti egy egyszerű Dockerfile, amely a következő utasításokat tartalmazza
 ## Végrehajtási példa
 
 1. Postman beállítások.<br>
-![Áttekintés menü](/_assets/showcases/aws/postman-settings.png)<br>
+![Áttekintés menü](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. Válasszon ki bármilyen DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG fájlt.
 1. Kattintson a küldés gombra.
 

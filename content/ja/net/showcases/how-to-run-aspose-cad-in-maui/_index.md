@@ -27,22 +27,22 @@ url: /ja/net/showcases/how-to-run-aspose-cad-in-maui/
 
 1. .NET MAUIアプリを作成するには、最新バージョンのVisual Studio 2022が必要です。
 1. Visual Studioをインストールするか、既存のインストールを変更して、.NETマルチプラットフォームアプリUI開発ワークロードをデフォルトのオプションでインストールします：<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## プロジェクトの作成
 
 1. Visual Studioを起動します。スタートウィンドウで「新しいプロジェクトの作成」をクリックして、新しいプロジェクトを作成します：<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. 「新しいプロジェクトの作成」ウィンドウで、「すべてのプロジェクトタイプ」ドロップダウンからMAUIを選択し、「.NET MAUIアプリ」テンプレートを選択して「次へ」ボタンをクリックします：<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. 「新しいプロジェクトの構成」ウィンドウで、プロジェクト名を付け、適切な場所を選択して「次へ」ボタンをクリックします：<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. 「追加情報」ウィンドウで、ターゲットとする.NETのバージョンを選択し、「作成」ボタンをクリックします：<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. プロジェクトが作成され、その依存関係が復元されるのを待ちます。
 1. NuGetから最新のAspose.CADバージョンをインストールします：<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. MainPage.xamlのコードを置き換えます
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Windowsマシンでのデバッグ
 
 1. Visual Studioのツールバーで、デバッグターゲットドロップダウンを使用して「Framework」を選択し、次に「net7.0-windows」エントリを選択します：<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. Visual Studioのツールバーで「Windowsマシン」ボタンを押して、アプリをビルドして実行します：<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. 実行中のアプリで「ファイルを選択」ボタンを何度か押し、ボタンのクリック回数が増加するのを観察します：<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. 必要なファイルを選択し、「開く」をクリックします：<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. ファイルの処理後、変換されたファイルの画像が画面に表示されるはずです：<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## Androidエミュレーターのインストール
 
 1. Visual Studioのツールバーで、デバッグターゲットドロップダウンを使用して「Androidエミュレーター」を選択し、次に「Androidエミュレーター」エントリを選択します。
 1. Visual Studioのツールバーで「Androidエミュレーター」ボタンを押します：<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Android SDK - ライセンス契約ウィンドウで「同意」ボタンを押します：<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. Android SDK - ライセンス契約ウィンドウで「同意」ボタンを押します：<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. ユーザーアカウント制御ダイアログで「はい」ボタンを押します：<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. ライセンス受諾ウィンドウで「同意」ボタンを押します：<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. Visual Studioのツールバーで「Androidエミュレーター」ボタンを押します：<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. ユーザーアカウント制御ダイアログで「はい」ボタンを押します：<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. 新しいデバイスウィンドウで「作成」ボタンを押します：<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. Androidデバイスマネージャーウィンドウを閉じます。
 
 
 ## Androidエミュレーターでのデバッグ
 
 1. Visual Studioのツールバーで「Pixel 5 - API 33 (Android 13.0 - API 33)」ボタンを押してアプリをビルドして実行します：<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. Androidエミュレーターの実行中のアプリで「ファイルを選択」ボタンを何度か押し、ボタンのクリック回数が増加するのを観察します：<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. 必要なファイルを選択し、「選択」をクリックします：<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. ファイルの処理後、変換されたファイルの画像が画面に表示されるはずです：<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## その他の例

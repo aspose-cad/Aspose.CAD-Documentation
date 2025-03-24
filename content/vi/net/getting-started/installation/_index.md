@@ -9,7 +9,7 @@ url: /vi/net/getting-started/installation/
 
 NuGet là cách dễ nhất để tải về và cài đặt các API Aspose cho .NET. Mở Microsoft Visual Studio và trình quản lý gói NuGet. Tìm kiếm "aspose" để tìm API Aspose mong muốn. Nhấp vào "Cài đặt", API đã chọn sẽ được tải về và tham chiếu trong dự án của bạn.
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **Tham chiếu Aspose.CAD từ một Dự án .NET**
 
@@ -21,7 +21,7 @@ Thực hiện các bước sau (giả sử bạn sử dụng Microsoft Visual St
 1. Chọn tệp DLL *Aspose.CAD* và nhấp vào nút **OK**.
 1. Tham chiếu *Aspose.CAD* sẽ xuất hiện dưới nút **Tham chiếu** của dự án của bạn.
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **Cài đặt hoặc Cập nhật Aspose.CAD sử dụng bảng điều khiển Quản lý Gói**
 
@@ -30,23 +30,23 @@ Bạn có thể thực hiện các bước dưới đây để tham chiếu API 
 1. Mở giải pháp/dự án của bạn trong Visual Studio.
 1. Chọn Công cụ -> Trình quản lý gói thư viện -> Bảng điều khiển quản lý gói từ menu để mở bảng điều khiển quản lý gói.
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 Gõ lệnh “**Install-Package Aspose.CAD**” và nhấn enter để cài đặt bản phát hành đầy đủ mới nhất vào ứng dụng của bạn. Ngoài ra, bạn có thể thêm hậu tố "**-prerelease**" vào lệnh để chỉ định rằng bản phát hành mới nhất bao gồm các bản sửa lỗi cũng sẽ được cài đặt.
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 Bạn sẽ thấy thông báo "Đang tải Aspose.CAD..." xuất hiện ở góc dưới bên trái của cửa sổ cho biết rằng quá trình tải xuống đang diễn ra.
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 Khi tải xuống hoàn tất, bạn sẽ thấy các thông báo xác nhận sau. Nếu bạn không quen thuộc với [EULA của Aspose](https://about.aspose.com/legal/eula) thì sẽ là một ý tưởng hay khi đọc giấy phép được tham chiếu tại URL.
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 Bây giờ bạn nên tìm thấy rằng Aspose.CAD đã được thêm và tham chiếu thành công vào ứng dụng của bạn.
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 Trong bảng điều khiển quản lý gói, bạn cũng có thể sử dụng lệnh “**Update-Package Aspose.CAD**” và nhấn enter để kiểm tra bất kỳ cập nhật nào cho gói Aspose.CAD và cài đặt nếu có. Bạn cũng có thể thêm hậu tố "-prerelease" để cập nhật bản phát hành mới nhất.
 

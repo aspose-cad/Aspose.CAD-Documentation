@@ -19,6 +19,6 @@ Je kunt de schaling van de lijnen in het SVG-bestand beheren; de Aspose.CAD-bibl
 
 ## Een bestand met een lineaire schaling
 1. Het bestand als de LineScale-parameter is ingesteld op 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Bestand als je geen lijnschaling gebruikt.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

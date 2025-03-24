@@ -27,22 +27,22 @@ url: /el/net/showcases/how-to-run-aspose-cad-in-maui/
 
 1. Για να δημιουργήσετε εφαρμογές .NET MAUI, θα χρειαστείτε την τελευταία έκδοση του Visual Studio 2022
 1. Ή εγκαταστήστε το Visual Studio, ή τροποποιήστε την υπάρχουσα εγκατάστασή σας, και εγκαταστήστε το φορτίο ανάπτυξης .NET Multi-platform App UI με τις προεπιλεγμένες προαιρετικές επιλογές εγκατάστασης:<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## Δημιουργία έργου
 
 1. Εκκινήστε το Visual Studio. Στο παράθυρο εκκίνησης, κάντε κλικ στο Δημιουργία νέου έργου για να δημιουργήσετε ένα νέο έργο:<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. Στο παράθυρο Δημιουργίας νέου έργου, επιλέξτε MAUI από το αναπτυσσόμενο μενού Όλοι οι τύποι έργων, επιλέξτε το πρότυπο .NET MAUI App, και κάντε κλικ στο κουμπί Επόμενο:<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. Στο παράθυρο Ρύθμιση του νέου σας έργου, δώστε όνομα στο έργο σας, επιλέξτε μια κατάλληλη τοποθεσία για αυτό, και κάντε κλικ στο κουμπί Επόμενο:<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. Στο παράθυρο Πρόσθετες πληροφορίες, επιλέξτε την έκδοση του .NET που θέλετε να στοχεύσετε και κάντε κλικ στο κουμπί Δημιουργία:<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. Περιμένετε να δημιουργηθεί το έργο και να αποκατασταθούν οι εξαρτήσεις του
 1. Εγκαταστήστε την τελευταία έκδοση του Aspose.CAD από το NuGet:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. Αντικαταστήστε τον κωδικό στο MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Εντοπισμός σφαλμάτων σε υπολογιστή Windows
 
 1. Στην εργαλειοθήκη του Visual Studio, χρησιμοποιήστε το αναπτυσσόμενο μενού Στόχος Εντοπισμού σφαλμάτων για να επιλέξετε το Framework και στη συνέχεια την εγγραφή net7.0-windows:<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. Στην εργαλειοθήκη του Visual Studio, πατήστε το κουμπί Υπολογιστής Windows για να κατασκευάσετε και να εκτελέσετε την εφαρμογή:<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. Στην εκτελούμενη εφαρμογή, πατήστε το κουμπί "Επιλογή αρχείου" πολλές φορές και παρατηρήστε ότι ο αριθμός των κλικ αυξάνεται:<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. Επιλέξτε το απαιτούμενο αρχείο και κάντε κλικ στο άνοιγμα:<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. Μετά την επεξεργασία του αρχείου, μια εικόνα του μετασχηματισμένου αρχείου θα πρέπει να εμφανιστεί στην οθόνη:<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## Εγκατάσταση προσομοιωτή Android
 
 1. Στην εργαλειοθήκη του Visual Studio, χρησιμοποιήστε το αναπτυσσόμενο μενού Στόχος Εντοπισμού σφαλμάτων για να επιλέξετε Προσομοιωτές Android και στη συνέχεια την εγγραφή Προσομοιωτής Android
 1. Στην εργαλειοθήκη του Visual Studio, πατήστε το κουμπί Προσομοιωτής Android:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Στο παράθυρο Άδεια Χρήσης SDK Android, πατήστε το κουμπί Αποδοχή:<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. Στο παράθυρο Άδεια Χρήσης SDK Android, πατήστε το κουμπί Αποδοχή:<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. Στο παράθυρο Ελέγχου Λογαριασμού Χρήστη, πατήστε το κουμπί Ναι:<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. Στο παράθυρο Αποδοχής Άδειας, πατήστε το κουμπί Αποδοχή:<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. Στην εργαλειοθήκη του Visual Studio, πατήστε το κουμπί Προσομοιωτής Android:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Στο παράθυρο Ελέγχου Λογαριασμού Χρήστη, πατήστε το κουμπί Ναι:<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. Στο παράθυρο Νέα Συσκευή, πατήστε το κουμπί Δημιουργία:<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. Κλείστε το παράθυρο Διαχειριστή Συσκευών Android
 
 
 ## Εντοπισμός σφαλμάτων με Προσομοιωτή Android
 
 1. Στην εργαλειοθήκη του Visual Studio, πατήστε το κουμπί Pixel 5 - API 33 (Android 13.0 - API 33) για να κατασκευάσετε και να εκτελέσετε την εφαρμογή:<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. Στην εκτελούμενη εφαρμογή στον προσομοιωτή Android, πατήστε το κουμπί "Επιλογή αρχείου" πολλές φορές και παρατηρήστε ότι ο αριθμός των κλικ αυξάνεται:<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. Επιλέξτε το απαιτούμενο αρχείο και κάντε κλικ στην επιλογή:<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. Μετά την επεξεργασία του αρχείου, μια εικόνα του μετασχηματισμένου αρχείου θα πρέπει να εμφανιστεί στην οθόνη:<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## Περισσότερα παραδείγματα

@@ -13,7 +13,7 @@ url: /el/jasperreports/getting-started/evaluate-aspose-cad/
 
 Η έκδοση αξιολόγησης του Aspose.CAD για JasperReports (χωρίς καθορισμένη άδεια) παρέχει λειτουργικότητα προϊόντος σε κάποιο βαθμό, αλλά δεν είναι πλήρης. Ένας περιορισμός είναι ότι πάντα εισάγει το υδατογράφημα αξιολόγησης στα αρχεία εξόδου.
 
-![Παράδειγμα εξαγωγής Aspose.CAD για JasperReports](/_assets/jasper/AreaChartReport.jpg)
+![Παράδειγμα εξαγωγής Aspose.CAD για JasperReports](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **Εικόνα:** Προειδοποίηση Αξιολόγησης
 

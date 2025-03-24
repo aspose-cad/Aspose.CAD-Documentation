@@ -120,11 +120,11 @@ dotnet run
 1. Log in op Google Cloud.
 1. Maak een project als het nog niet bestaat.
 1. Ga naar 'Artifact Registry' en maak een repository.<br>
-![Creëer Artifact Repository](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Creëer Artifact Repository](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Selecteer de nieuwe repository in Artifact Registry.
-![Selecteer artifact-repository](/_assets/showcases/google/select-artifact.png)<br>
+![Selecteer artifact-repository](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. Klik op 'SETUP INSTRUCTIE' en kopieer het commando 'Configure Docker'.<br>
-![SETUP INSTRUCTIE](/_assets/showcases/google/setup-instruction.png)<br>
+![SETUP INSTRUCTIE](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Voeg een Docker credHelper-item toe aan het configuratiebestand van Docker, of maak het bestand aan als het nog niet bestaat.
 {{< highlight plain >}}
 //voorbeeld
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Ga naar Cloud Run.
 1. Maak Cloud Run-service aan.<br>
-![Creëer Cloud Run-service](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Creëer Cloud Run-service](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. Selecteer in het veld Container Image URL de container van 'ARTIFACT REGISTRY'.<br>
-![Containerafbeelding URL](/_assets/showcases/google/container-url.png)<br>
+![Containerafbeelding URL](/cad/_assets/showcases/google/container-url.png)<br>
 1. Controleer andere instellingen zoals hieronder.<br>
-![Instellingen service](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Instellingen service](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Wacht tot de implementatie is voltooid.
 1. Service-URL om met de conversietoepassing te werken.<br>
-![Url service](/_assets/showcases/google/url-service.png)<br>
+![Url service](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Een Dockerfile configureren
 
@@ -202,7 +202,7 @@ Bovenstaande is een eenvoudige Dockerfile, die de volgende instructies bevat:
 ## Voorbeeld van uitvoering
 
 1. Postman-instellingen.<br>
-![Overzicht menu](/_assets/showcases/google/postman-settings.png)<br>
+![Overzicht menu](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Selecteer een DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG-bestand.
 1. Klik op de verzendknop.
 

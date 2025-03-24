@@ -15,7 +15,7 @@ url: /ar/net/developer-guide/entities_with-sat-and-sab/
 
 فيما يلي مثال على نتيجة التصدير (ملف DWG في الجزء الأيسر، نتيجة PDF في الجزء الأيمن).
 
-![تصدير المخروط والكرات](/_assets/guide/coneAndSpheres.png)
+![تصدير المخروط والكرات](/cad/_assets/guide/coneAndSpheres.png)
 
 تصدير كيانات ACIS لا يتطلب أي خيارات خاصة. لتحسين حجم الرسم، خاصة عند احتواء الرسم على كيانات ACIS فقط، يُعتبر استخدام دالة cadImage.UpdateSize() لتعديل أبعاد الرسم الأولية بدقة أمرًا ضروريًا.
 

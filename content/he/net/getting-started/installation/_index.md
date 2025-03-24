@@ -9,7 +9,7 @@ url: /he/net/getting-started/installation/
 
 NuGet הוא הדרך הקלה ביותר להוריד ולהתקין את ה-API של Aspose עבור .NET. פתח את Microsoft Visual Studio ואת מנהל החבילות NuGet. חפש "aspose" כדי למצוא את ה-API של Aspose המבוקש. לחץ על "התקן", ה-API שנבחר יירד ויתווסף לפרויקט שלך.
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **הוספת הפניה ל-Aspose.CAD מפרויקט .NET**
 
@@ -21,7 +21,7 @@ NuGet הוא הדרך הקלה ביותר להוריד ולהתקין את ה-AP
 1. בחר בקובץ ה-DLL של *Aspose.CAD* ולחץ על לחצן **OK**.
 1. ההפניה ל-*Aspose.CAD* תופיע תחת צומת ה-**References** של הפרויקט שלך.
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **התקנה או עדכון של Aspose.CAD באמצעות קונסולת מנהל החבילות**
 
@@ -30,23 +30,23 @@ NuGet הוא הדרך הקלה ביותר להוריד ולהתקין את ה-AP
 1. פתח את הפתרון/פרויקט שלך ב-Visual Studio.
 1. בחר בכלים -> מנהל חבילות ספרייה -> קונסולת מנהל החבילות מהתפריט כדי לפתוח את קונסולת מנהל החבילות.
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 הקלד את הפקודה “**Install-Package Aspose.CAD**” ולחץ על Enter כדי להתקין את הגרסה המלאה האחרונה ביישום שלך. לחלופין, תוכל להוסיף את הסיומת "**-prerelease**" לפקודה כדי לציין שהגרסה האחרונה כולל תיקוני חום צריכה להיות מותקנת גם כן.
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 תראה שההודעה "מוריד את Aspose.CAD..." מופיעה בתחתית השמאלית של החלון, מה שמצביע על כך שההורדה מתבצעת.
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 לאחר ההורדה תראה את הודעות האישור הבאות. אם אינך מכיר את ה-[EULA של Aspose](https://about.aspose.com/legal/eula) אז זה רעיון טוב לקרוא את הרישיון המוזכר ב-URL.
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 כעת תמצא כי Aspose.CAD הוספה בהצלחה והופיעה בהפניות ביישום שלך.
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 בקונסולת מנהל החבילות, תוכל גם להשתמש בפקודה “**Update-Package Aspose.CAD**” ולחץ על Enter כדי לבדוק אם יש עדכונים לחבילה של Aspose.CAD ולהתקין אותם אם הם קיימים. תוכל גם להוסיף את הסיומת "-prerelease" כדי לעדכן את הגרסה האחרונה.
 

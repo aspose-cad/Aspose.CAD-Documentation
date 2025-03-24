@@ -25,16 +25,16 @@ Zorg ervoor dat u voldoende rechten heeft om AWS Lambda-functies en afbeeldingen
 
 Om het AWS Lambda Functieprogramma te maken, volgt u de onderstaande stappen:
 1. Maak een AWS Lambda Project.<br>
-![Maak AWS functie knop](/_assets/showcases/aws/create-project.png)<br>
+![Maak AWS functie knop](/cad/_assets/showcases/aws/create-project.png)<br>
 1. Selecteer .NET 6(Container Image) en klik op de knop 'Voltooien'.<br>
-![Maak containerfunctie knop](/_assets/showcases/aws/create-container.png)<br>
+![Maak containerfunctie knop](/cad/_assets/showcases/aws/create-container.png)<br>
 1. Open AWS Explorer in Visual Studio (View->AWS Explorer).
 1. Voeg AWS-referentiesprofiel toe in AWS Explorer.<br>
-![Referentieprofiel](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![Referentieprofiel](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Voer Access Key ID en Secret Access Key in, u kunt deze sleutels krijgen in beveiligingsreferenties of neem contact op met de beheerder en krijg een csv-bestand voor autorisatie.<br>
-![Account profielinstellingen](/_assets/showcases/aws/account-profile.png)<br>
+![Account profielinstellingen](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. Installeer de nieuwste bibliotheken van NuGet.<br>
-![NuGet Manager](/_assets/showcases/aws/nuget-manager.png)<br>
+![NuGet Manager](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. Codevoorbeeld voor het converteren van cad-afbeelding naar pdf-bestand.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Bewerk het DockerFile zoals in de <a href="#configuring-a-dockerfile">Configurerende een Dockerfile</a> sectie.
 1. Start Docker Desktop.
 1. Publiceer naar AWS Lambda.<br>
-![AWS lambda publiceren](/_assets/showcases/aws/publish-aws.png)<br>
+![AWS lambda publiceren](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. Bewerk uploadconfiguratie.<br>
-![Upload aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![Upload aws lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Klik op de knop 'Uploaden'.<br>
-![Upload aws lambda laatste](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![Upload aws lambda laatste](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Ga naar AWS en selecteer Lambda.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Selecteer uw nieuwe functie en maak url functie.<br>
-![Configuratie url functie](/_assets/showcases/aws/create-function-url.png)<br>
+![Configuratie url functie](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. Selecteer auth-type
 - AWS_IAM - Alleen geauthenticeerde IAM-gebruikers en -rollen kunnen verzoeken indienen naar uw functie-URL.
 - NONE - Lambda voert geen IAM-authenticatie uit op verzoeken aan uw functie-URL. De URL-eindpunt zal openbaar zijn, tenzij u uw eigen autorisatie-logica in uw functie implementeert.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## Voorbeeld van uitvoering
 
 1. Postman-instellingen.<br>
-![Overzichtsmenu](/_assets/showcases/aws/postman-settings.png)<br>
+![Overzichtsmenu](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. Selecteer een DXF-, DWG-, DGN-, DWF-, DWFX-, IFC-, STL-, DWT-, IGES-, PLT-, CF2-, OBJ-, HPGL-, IGS-, PCL-, FBX-, PDF-, SVG-bestand.
 1. Klik op de verzendknop.
 

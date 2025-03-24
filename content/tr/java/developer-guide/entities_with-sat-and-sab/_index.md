@@ -15,7 +15,7 @@ Bazı varlıklar, yapısal verilerini ACIS SAT/SAB formatında saklar. Bu varlı
 
 Aşağıda dışa aktarma sonucunun bir örneği bulunmaktadır (sol tarafta DWG dosyası, sağ tarafta PDF sonucu).
 
-![Koni ve kürelerin dışa aktarımı](/_assets/guide/coneAndSpheres.png)
+![Koni ve kürelerin dışa aktarımı](/cad/_assets/guide/coneAndSpheres.png)
 
 ACIS varlıklarını dışa aktarmak için herhangi bir özel seçenek gerekmemektedir. Özellikle çizim yalnızca ACIS varlıklarını içeriyorsa, başlangıç çizim boyutlarını doğru bir şekilde ayarlamak için cadImage.updateSize() fonksiyonunu kullanmayı düşünün.
 

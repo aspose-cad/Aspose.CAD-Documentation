@@ -11,7 +11,7 @@ is_root: false
 
 ## **Vítejte v Aspose.CAD pro .NET**
 
-![Aspose.CAD pro .NET logo produktu](/_assets/home_1.png)
+![Aspose.CAD pro .NET logo produktu](/cad/_assets/home_1.png)
 
 Aspose.CAD pro .NET je knihovna API vhodná pro podnikové nasazení kompatibilní s .NET Framework, .Net Core a Xamarin, umožňuje číst, manipulovat, zpracovávat a exportovat jakýkoliv výkres CAD nebo BIM do různých vektorových a rastrových formátů obrazových souborů bez použití programu AutoCAD nebo jiného dodatečného softwaru.
 Je bezpečná pro více vláken, může běžet na různých operačních systémech, umožňuje sledovat průběh exportu a zpracovávat samostatné vrstvy a rozložení. Podporuje zrušení. 

@@ -19,6 +19,6 @@ url: /fa/net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## فایلی با مقیاس خطی
 1. فایل اگر پارامتر LineScale روی 0.25 تنظیم شود.<br>
-![تصویر ورودی](/_assets/guide/svg/line_scale_0.25.png)<br>
+![تصویر ورودی](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. فایلی اگر از مقیاس خط استفاده نکنید.<br>
-![تصویر ورودی](/_assets/guide/svg/basic_options.png)<br>
+![تصویر ورودی](/cad/_assets/guide/svg/basic_options.png)<br>

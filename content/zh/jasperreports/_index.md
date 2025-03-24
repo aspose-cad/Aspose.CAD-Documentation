@@ -11,7 +11,7 @@ is_root: false
 
 ## **欢迎使用 Aspose.CAD for JasperReports**
 
-![Aspose.CAD for JasperReports 产品标志](/_assets/home_3.png)
+![Aspose.CAD for JasperReports 产品标志](/cad/_assets/home_3.png)
 
 Aspose.CAD for JasperReports 是市场上唯一一个可以将 JasperReports 的报告导出为多种矢量和光栅图像文件格式的解决方案，如 PDF、WMF、SVG、EMF、BMP、GIF、JPG、JPEG、DICOM、WEBP、JP2、JPEG2000、PNG、TIFF、PSD，并且可以处理多种 CAD 和 BIM 文件格式：DWG、DXF、DWT、DGN、DWF、DWFX、IFC、STL、IGES、PLT、CF2、OBJ、HPGL、IGS
 

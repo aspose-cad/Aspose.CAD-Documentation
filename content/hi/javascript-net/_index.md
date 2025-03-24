@@ -11,7 +11,7 @@ is_root: false
 
 ## **Aspose.CAD for JavaScript में आपका स्वागत है**
 
-![Aspose.CAD for JavaScript Product Logo](/_assets/home_5.png)
+![Aspose.CAD for JavaScript Product Logo](/cad/_assets/home_5.png)
 
 Aspose.CAD for JavaScript एक CAD रूपांतरण मूल API है जिसमें किसी भी सॉफ़्टवेयर निर्भरता की आवश्यकता नहीं होती है। यह डेवलपर्स को DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP फ़ाइलों को रास्टर छवि प्रारूपों और PDF में रूपांतरित करने की अनुमति देता है। रूपांतरण प्रक्रिया के दौरान, डेवलपर्स विशिष्ट परतों और लेआउट चुन सकते हैं और उन्हें रूपांतरण प्रक्रिया की ट्रैकिंग कर सकते हैं।
 

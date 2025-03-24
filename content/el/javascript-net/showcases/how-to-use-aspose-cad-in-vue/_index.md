@@ -136,10 +136,10 @@ npm run dev
 ## Παράδειγμα εκτέλεσης
 
 1. Επιλέξτε αρχείο.<br>
-![Επιλογή αρχείου](/_assets/javascript-net/vue/choose-file.png)<br>
+![Επιλογή αρχείου](/cad/_assets/javascript-net/vue/choose-file.png)<br>
 1. Επιλέξτε οποιοδήποτε αρχείο DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Εάν η απάντηση είναι επιτυχής, το αρχείο θα εμφανιστεί στην οθόνη και θα προτείνει να το κατεβάσετε.<br>
-![Μετατροπή εικόνας](/_assets/javascript-net/vue/convert-image.png)<br>
+![Μετατροπή εικόνας](/cad/_assets/javascript-net/vue/convert-image.png)<br>
 
 ## Δείτε Επίσης
 

@@ -7,7 +7,7 @@ url: /he/jasperreports/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for JasperReports Product Logo](/_assets/home_3.png)
+![Aspose.CAD for JasperReports Product Logo](/cad/_assets/home_3.png)
 
 Aspose.CAD for JasperReports הוא הפתרון היחיד בשוק המאפשר לייצא דוחות מ-JasperReports לפורמטים שונים של קבצי תמונה וקטוריים ורסטריים כמו PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD ולפעול עם פורמטים שונים של קבצי CAD ו-BIM: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

@@ -23,9 +23,9 @@ Aspose.CAD מאפשר לך ליצור קובצי PDF עם תוכן תלת מימ
 
 דוגמה למראה של קובץ PDF עם תוכן תלת מימדי, כמו גם הדגמה של סיבוב וסקלה.
 
-![PDF-3D](/_assets/guide/pdf-3d/result.png)
-![סיבוב שונה](/_assets/guide/pdf-3d/rotate.png)
-![סקלה](/_assets/guide/pdf-3d/scaling.png)
+![PDF-3D](/cad/_assets/guide/pdf-3d/result.png)
+![סיבוב שונה](/cad/_assets/guide/pdf-3d/rotate.png)
+![סקלה](/cad/_assets/guide/pdf-3d/scaling.png)
 
 ## **משאבים של Aspose.CAD עבור .NET**
 

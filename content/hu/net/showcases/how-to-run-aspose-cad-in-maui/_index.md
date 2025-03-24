@@ -27,22 +27,22 @@ A .NET MAUI egyik fő célja, hogy lehetővé tegye az alkalmazás logika és UI
 
 1. A .NET MAUI alkalmazások létrehozásához szükséged lesz a legfrissebb Visual Studio 2022 verzióra
 1. Telepítheted a Visual Studio-t, vagy módosíthatod a meglévő telepítést, és telepítheted a .NET Multi-platform App UI fejlesztési munkaterhelést az alapértelmezett opcionális telepítési lehetőségeivel:<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## Projekt létrehozása
 
 1. Indítsd el a Visual Studio-t. A kezdőképernyőn kattints az Új projekt létrehozása lehetőségre a projekt létrehozásához:<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. Az Új projekt létrehozása ablakban válaszd a MAUI-t az összes projekt típusa legördülő menüből, válaszd ki a .NET MAUI App sablont, és kattints a Tovább gombra:<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. A Te új projekted konfigurálása ablakban nevezd el a projekted, válassz ki egy megfelelő helyet, és kattints a Tovább gombra:<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. A További információk ablakban válaszd ki a célnak megfelelő .NET verziót és kattints a Létrehozás gombra:<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. Várj, amíg a projekt létrejön, és a függőségei helyreállnak
 1. Telepítsd a legújabb Aspose.CAD verziót a NuGet-ből:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. Helyettesítsd a kódot a MainPage.xaml fájlban
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Hibakeresés Windows gépen
 
 1. A Visual Studio eszköztáron használd a Hibakeresési cél legördülő menüt a Framework kiválasztásához, majd a net7.0-windows bejegyzést:<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. A Visual Studio eszköztáron nyomd meg a Windows gép gombot az alkalmazás fordításához és futtatásához:<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. A futó alkalmazásban nyomd meg többször a "Fájl kiválasztása" gombot, és figyeld meg, hogy a gombkattintások száma növekszik:<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. Válaszd ki a szükséges fájlt és kattints a megnyitásra:<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. A fájl feldolgozása után a képernyőn meg kell jelennie a konvertált fájl képének:<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## Android Emulátor Telepítése
 
 1. A Visual Studio eszköztáron használd a Hibakeresési cél legördülő menüt az Android Emulátorok kiválasztásához, majd az Android Emulátor bejegyzést
 1. A Visual Studio eszköztáron nyomd meg az Android Emulátor gombot:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Az Android SDK - Licencszerződés ablakban nyomd meg az Elfogadom gombot:<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. Az Android SDK - Licencszerződés ablakban nyomd meg az Elfogadom gombot:<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. A Felhasználói fiók-ellenőrzés párbeszédpanelen nyomd meg az Igen gombot:<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. A Licencelfogadási ablakban nyomd meg az Elfogadom gombot:<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. A Visual Studio eszköztáron nyomd meg az Android Emulátor gombot:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. A Felhasználói fiók-ellenőrzés párbeszédpanelen nyomd meg az Igen gombot:<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. Az Új eszköz ablakban nyomd meg a Létrehozás gombot:<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. Zárd be az Android Eszközkezelő ablakot
 
 
 ## Hibakeresés Android Emulátorral
 
 1. A Visual Studio eszköztáron nyomd meg a Pixel 5 - API 33 (Android 13.0 - API 33) gombot az alkalmazás fordításához és futtatásához:<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. A futó alkalmazásban az Android emulátorban nyomd meg többször a "Fájl kiválasztása" gombot, és figyeld meg, hogy a gombkattintások száma növekszik:<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. Válaszd ki a szükséges fájlt és kattints a kiválasztásra:<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. A fájl feldolgozása után a képernyőn meg kell jelennie a konvertált fájl képének:<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## További példák

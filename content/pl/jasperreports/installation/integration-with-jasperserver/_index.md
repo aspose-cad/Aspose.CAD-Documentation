@@ -282,6 +282,6 @@ Na przykład:
 {{< /highlight >}}
 
 5. Uruchom ponownie serwer JasperReports i otwórz dowolny raport, aby wyświetlić. Jeśli poprzednie kroki zostały poprawnie wykonane, zobaczysz dodatkowe opcje na liście formatów eksportu.
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 Jeśli nie widzisz dodatkowych formatów (ikony lub wybory), sprawdź pliki dziennika w katalogu \apache-tomcat\logs.

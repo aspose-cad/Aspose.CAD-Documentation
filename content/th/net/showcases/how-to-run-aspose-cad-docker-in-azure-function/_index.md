@@ -21,11 +21,11 @@ url: /th/net/showcases/how-to-run-aspose-cad-docker-in-azure-function/
 ในการสร้างฟังก์ชัน Azure ให้ทำตามขั้นตอนด้านล่าง:
 1. เมื่อติดตั้ง Docker เสร็จแล้ว ให้ตรวจสอบให้แน่ใจว่าใช้ Linux Containers (ค่าเริ่มต้น) หากจำเป็นให้เลือกตัวเลือก Switch to Linux containers จากเมนู Docker Desktops
 1. ใน Visual Studio ให้สร้างฟังก์ชัน Azure NET 6.<br>
-![A NET 6 Azure Function project dialog](/_assets/showcases/azure/Create-project.png)<br>
+![A NET 6 Azure Function project dialog](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. ข้อมูลเพิ่มเติม.<br>
-![A NET 6 Azure Function project dialog](/_assets/showcases/azure/Additional-information.png)<br>
+![A NET 6 Azure Function project dialog](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. ติดตั้ง Aspose.CAD เวอร์ชันล่าสุดจาก NuGet.<br>
-![Aspose.CAD on NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD on NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. เนื่องจากแอพพลิเคชั่นจะถูกเรียกใช้บน Linux คุณอาจต้องติดตั้งฟอนต์เพิ่มเติม คุณอาจต้องการ ttf-mscorefonts-installer
 1. เมื่อเพิ่มความต้องการทั้งหมดแล้ว ให้เขียนโปรแกรมเรียบง่ายที่สร้างวงรีและบันทึกเป็นภาพ:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 ขั้นตอนถัดไปคือการสร้างและกำหนดค่า Dockerfile ในโฟลเดอร์โปรเจกต์หลัก
 
 1. สร้าง Dockerfile และวางไว้ถัดจากไฟล์โซลูชันของแอพพลิเคชั่นของคุณ เก็บชื่อไฟล์นี้โดยไม่มีนามสกุล (ค่าเริ่มต้น)
-![Root project folder](/_assets/showcases/azure/root-folder.png)<br>
+![Root project folder](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. ใน Dockerfile ให้ระบุ:
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. เข้าสู่ระบบ Azure
 1. เลือกบริการ Azure
 1. เลือก Function App และสร้างฟังก์ชัน.<br>
-![Azure create function button](/_assets/showcases/azure/create-function.png)<br>
+![Azure create function button](/cad/_assets/showcases/azure/create-function.png)<br>
 1. ทำการตั้งค่าพื้นฐานซ้ำตามภาพด้านล่าง.<br>
-![Azure create function settings](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure create function settings](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. คลิก 'Review + create' -> สร้าง
 1. รอให้การสร้างเสร็จสิ้น
 1. คลิกปุ่ม 'Go to resource'.<br>
-![Resource button](/_assets/showcases/azure/go-to-resource.png)<br>
+![Resource button](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. หยุดฟังก์ชัน aspose-cad-docker-example.<br>
-![Stop conteiner](/_assets/showcases/azure/stop-container.png)<br>
+![Stop conteiner](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. ไปที่เมนูศูนย์การปรับใช้และทำการตั้งค่าที่เหมาะสม.<br>
-![Deployment center](/_assets/showcases/azure/deployment-center.png)<br>
+![Deployment center](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. บันทึกการตั้งค่า
 1. คัดลอก Webhook URL จากการตั้งค่าศูนย์การปรับใช้.<br>
-![Webhook url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. ไปที่ Docker Hub เลือก Repository ของคุณและเลือก webhooks
 1. วาง 'Webhook url' จาก Azure ลงใน Webhook url ของ Docker Hub และตั้งชื่อ.<br>
-![Webhook settings in docker](/_assets/showcases/azure/webhook.png)<br>
+![Webhook settings in docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. คลิกปุ่มสร้าง
 1. กลับไปที่ฟังก์ชัน Azure โดยรวมและเริ่มคอนเทนเนอร์.<br>
-![Overview menu](/_assets/showcases/azure/overview.png)<br>
+![Overview menu](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## ตัวอย่างการทำงาน
 
 1. การตั้งค่า Postman.<br>
-![Overview menu](/_assets/showcases/azure/postman-settings.png)<br>
+![Overview menu](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. เลือกไฟล์ DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG ใด ๆ
 1. คลิกปุ่มส่ง
 

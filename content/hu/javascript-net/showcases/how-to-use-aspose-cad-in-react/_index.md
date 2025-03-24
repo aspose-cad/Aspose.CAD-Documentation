@@ -94,10 +94,10 @@ npm start
 ## Futtatási példa
 
 1. Válassza ki a fájlt.<br>
-![Fájl kiválasztása](/_assets/javascript-net/react/choose-file.png)<br>
+![Fájl kiválasztása](/cad/_assets/javascript-net/react/choose-file.png)<br>
 1. Válasszon ki bármilyen DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG fájlt.
 1. Ha a válasz sikeres, a fájl megjelenik a képernyőn és felajánlja a letöltését.<br>
-![Kép konvertálása](/_assets/javascript-net/react/convert-image.png)<br>
+![Kép konvertálása](/cad/_assets/javascript-net/react/convert-image.png)<br>
 
 ## Lásd még
 

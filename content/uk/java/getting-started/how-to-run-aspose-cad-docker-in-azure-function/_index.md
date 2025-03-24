@@ -21,14 +21,14 @@ url: /uk/java/getting-started/how-to-run-aspose-cad-docker-in-azure-function/
 Щоб створити програму Azure Function, виконайте наведені нижче кроки:
 1. Після встановлення Docker переконайтеся, що він використовує контейнері Linux (за умовчанням). Якщо це необхідно, виберіть опцію Switch to Linux containers у меню Docker Desktops.
 1. Створіть проект Azure Function в IntelliJ IDEA.<br>
-![Create azure function project](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Create azure function project-final](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Create azure function project](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Create azure function project-final](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. У меню Tools->Azure->Sing In виберіть автентифікацію OAuth 2.0.<br>
-![Azure sign In](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. Увійдіть у браузер.
 1. Виберіть ім'я підписки.
 1. Додайте підтримку Docker.<br>
-![Azure sign In](/_assets/java/java-azure/add-docker-support.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. Відредагуйте DockerFile, як у розділі <a href="#configuring-a-dockerfile">Налаштування Dockerfile</a>.
 1. Додайте блоки для репозиторію aspose.cad у pom.xml.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Запустіть dockerfile в IDE і після відправки до docker hub.<br>
-![Run docker in ide](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![Run docker in ide](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. Введіть ім'я образу, як у репозиторії Docker Hub.<br>
-![Run docker in ide-next](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![Run docker in ide-next](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. Чекайте закінчення.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push user/aspose-cad-java:latest
 1. Увійдіть в Azure.
 1. Виберіть послуги Azure.
 1. Виберіть Function App і створіть функцію.<br>
-![Azure create function button](/_assets/java/java-azure/create-function-azure.png)<br>
+![Azure create function button](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. Повторіть основні налаштування, як на зображенні нижче.<br>
-![Azure create function settings](/_assets/java/java-azure/create-function-settings.png)<br>
+![Azure create function settings](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. Натисніть 'Review + create' -> Create.
 1. Чекайте завершення розгортання.
 1. Натисніть кнопку 'Go to resource'.<br>
-![Resource button](/_assets/java/java-azure/go-to-resource.png)<br>
+![Resource button](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. Зупиніть функцію aspose-cad-docker-example.<br>
-![Stop conteiner](/_assets/java/java-azure/stop-container.png)<br>
+![Stop conteiner](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. Перейдіть до меню центру розгортання та налаштуйте відповідні параметри.<br>
-![Deployment center](/_assets/java/java-azure/deployment-center.png)<br>
+![Deployment center](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. Збережіть налаштування
 1. Скопіюйте URL-адресу Webhook із налаштувань центру розгортання.<br>
-![Webhook url](/_assets/java/java-azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. Перейдіть до Docker Hub, виберіть свій репозиторій і виберіть вебхуки.
 1. Вставте 'Webhook url' з Azure у URL-адресу вебхука Docker Hub і вкажіть ім'я.<br>
-![Webhook settings in docker](/_assets/java/java-azure/webhook.png)<br>
+![Webhook settings in docker](/cad/_assets/java/java-azure/webhook.png)<br>
 1. Натисніть кнопку створення.
 1. Поверніться до огляду функції azure і запустіть контейнер.<br>
-![Overview menu](/_assets/java/java-azure/overview.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 Це може зайняти кілька хвилин, поки функція запуститься.
 {{% /alert %}}
@@ -193,11 +193,11 @@ docker push user/aspose-cad-java:latest
 ## Приклад виконання
 
 1. Налаштування Postman.<br>
-![Overview menu](/_assets/java/java-azure/postman-settings.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. Виберіть будь-який файл DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Натисніть кнопку відправки.
 1. Збережіть результат
-![Save responce](/_assets/java/java-azure/response-postman.png)<br>
+![Save responce](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Якщо відповідь успішна, натисніть Зберегти у файл, і ви отримаєте конвертований файл у форматі png.

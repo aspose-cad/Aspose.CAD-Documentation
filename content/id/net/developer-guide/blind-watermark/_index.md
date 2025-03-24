@@ -20,9 +20,9 @@ Anda dapat menggunakan teks atau gambar untuk tanda air cacing, pustaka Apose.CA
 Sebuah contoh penampilan file menggunakan teks untuk tanda air cacing.
 
 1. File sebelum menambahkan tanda air cacing teks<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. Hasil setelah menambahkan tanda air cacing teks<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **Menggunakan gambar lain sebagai tanda air cacing**
 
@@ -35,6 +35,6 @@ Sebuah contoh penampilan file menggunakan teks untuk tanda air cacing.
 Sebuah contoh tampilan file menggunakan gambar lain untuk menambahkan tanda air cacing.
 
 1. File sebelum menambahkan gambar sebagai tanda air cacing<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. Hasil setelah menambahkan gambar sebagai tanda air cacing<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

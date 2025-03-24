@@ -15,7 +15,7 @@ Niektóre encje przechowują swoje dane strukturalne w formacie ACIS SAT/SAB. Te
 
 Poniżej znajduje się przykład wyniku eksportu (plik DWG po lewej stronie, wynik PDF po prawej stronie).
 
-![Eksport stożka i kul](/_assets/guide/coneAndSpheres.png)
+![Eksport stożka i kul](/cad/_assets/guide/coneAndSpheres.png)
 
 Eksportowanie encji ACIS nie wymaga żadnych specjalnych opcji. Aby zoptymalizować rozmiar rysunku, zwłaszcza gdy rysunek zawiera wyłącznie encje ACIS, warto rozważyć użycie funkcji cadImage.UpdateSize(), aby dokładnie dostosować początkowe wymiary rysunku.
 

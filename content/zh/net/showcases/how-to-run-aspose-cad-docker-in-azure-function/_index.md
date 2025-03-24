@@ -21,11 +21,11 @@ url: /zh/net/showcases/how-to-run-aspose-cad-docker-in-azure-function/
 要创建 Azure Function 程序，请按照以下步骤操作：
 1. 安装 Docker 后，请确保它使用的是 Linux 容器（默认）。如果需要，请从 Docker Desktop 菜单中选择切换到 Linux 容器选项。
 1. 在 Visual Studio 中创建一个 NET 6 Azure Function。<br>
-![NET 6 Azure Function 项目对话框](/_assets/showcases/azure/Create-project.png)<br>
+![NET 6 Azure Function 项目对话框](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. 附加信息。<br>
-![NET 6 Azure Function 项目对话框](/_assets/showcases/azure/Additional-information.png)<br>
+![NET 6 Azure Function 项目对话框](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. 从 NuGet 安装最新版本的 Aspose.CAD。<br>
-![Aspose.CAD 在 NuGet 上](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD 在 NuGet 上](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. 由于应用程序将在 Linux 上运行，您可能需要安装其他字体。您可以选择 ttf-mscorefonts-installer。
 1. 当所有必需的依赖项添加后，编写一个简单的程序，该程序创建一个椭圆并将其保存为图像：<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 下一步是在根项目文件夹中创建和配置 Dockerfile。
 
 1. 创建 Dockerfile 并将其放置在您的应用程序解决方案文件旁边。保持此文件名不带扩展名（默认）。
-![根项目文件夹](/_assets/showcases/azure/root-folder.png)<br>
+![根项目文件夹](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. 在 Dockerfile 中指定：
 
 {{< highlight plain >}}
@@ -133,31 +133,31 @@ docker push user/asposefunction:latest
 1. 登录 Azure。
 1. 选择 Azure 服务。
 1. 选择 Function App 并创建一个函数。<br>
-![Azure 创建函数按钮](/_assets/showcases/azure/create-function.png)<br>
+![Azure 创建函数按钮](/cad/_assets/showcases/azure/create-function.png)<br>
 1. 重复基本设置，如下图所示。<br>
-![Azure 创建函数设置](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure 创建函数设置](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. 点击“审核 + 创建” -> 创建。
 1. 等待部署完成。
 1. 点击“转到资源”按钮。<br>
-![资源按钮](/_assets/showcases/azure/go-to-resource.png)<br>
+![资源按钮](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. 停止 aspose-cad-docker-example 函数。<br>
-![停止容器](/_assets/showcases/azure/stop-container.png)<br>
+![停止容器](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. 转到部署中心菜单并进行相应设置。<br>
-![部署中心](/_assets/showcases/azure/deployment-center.png)<br>
+![部署中心](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. 保存设置
 1. 从部署中心设置中复制 Webhook URL。<br>
-![Webhook URL](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook URL](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. 转到 Docker Hub，选择您的存储库并选择 webhooks。
 1. 将 Azure 的“Webhook URL”粘贴到 Docker Hub webhook URL 中并设置名称。<br>
-![Docker 中的 Webhook 设置](/_assets/showcases/azure/webhook.png)<br>
+![Docker 中的 Webhook 设置](/cad/_assets/showcases/azure/webhook.png)<br>
 1. 点击创建按钮。
 1. 返回概览 Azure 函数并启动容器。<br>
-![概览菜单](/_assets/showcases/azure/overview.png)<br>
+![概览菜单](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## 执行示例
 
 1. Postman 设置。<br>
-![概览菜单](/_assets/showcases/azure/postman-settings.png)<br>
+![概览菜单](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. 选择任何 DXF、DWG、DGN、DWF、DWFX、IFC、STL、DWT、IGES、PLT、CF2、OBJ、HPGL、IGS、PCL、FBX、PDF、SVG 文件。
 1. 点击发送按钮。
 

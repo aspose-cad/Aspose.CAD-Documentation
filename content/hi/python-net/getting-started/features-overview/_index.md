@@ -7,7 +7,7 @@ url: /hi/python-net/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for Python Product Logo](/_assets/home_4.png)
+![Aspose.CAD for Python Product Logo](/cad/_assets/home_4.png)
 
 Aspose.CAD for Python बाजार में एकमात्र समाधान है जो Pythons से विभिन्न वेक्टर और रास्टर इमेज फ़ाइल स्वरूपों जैसे PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD को रिपोर्ट निर्यात करना संभव बनाता है और विभिन्न CAD और BIM फ़ाइल स्वरूपों के साथ काम करता है: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

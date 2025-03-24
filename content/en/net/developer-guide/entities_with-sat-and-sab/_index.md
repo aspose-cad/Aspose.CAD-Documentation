@@ -15,7 +15,7 @@ Certain entities store their structural data in the ACIS SAT/SAB format. These e
 
 Below is the example of export result (DWG file on the left part, PDF result on the right).
 
-![Export of cone and spheres](/_assets/guide/coneAndSpheres.png)
+![Export of cone and spheres](/cad/_assets/guide/coneAndSpheres.png)
 
 Exporting ACIS entities does not require any special options. To optimize drawing size, especially when drawing contains ACIS entities exclusively, consider using the cadImage.UpdateSize() function to adjust the initial drawing dimensions accurately.
 

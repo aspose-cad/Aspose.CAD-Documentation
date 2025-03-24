@@ -15,7 +15,7 @@ Vissa entiteter lagrar sina strukturella data i ACIS SAT/SAB-formatet. Dessa ent
 
 Nedan är ett exempel på exportresultatet (DWG-fil till vänster, PDF-resultat till höger).
 
-![Export av kon och sfärer](/_assets/guide/coneAndSpheres.png)
+![Export av kon och sfärer](/cad/_assets/guide/coneAndSpheres.png)
 
 Export av ACIS-entiteter kräver inga speciella alternativ. För att optimera ritningens storlek, särskilt när ritningen endast innehåller ACIS-entiteter, överväg att använda funktionen cadImage.updateSize() för att justera de initiala ritningsmåtten korrekt.
 

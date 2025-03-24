@@ -20,9 +20,9 @@ In dit voorbeeld maakt u een eenvoudige Hello World-consoletoepassing die een el
 Volg de onderstaande stappen om het Hello World-programma te maken:
 1. Zodra Docker is geïnstalleerd, zorg ervoor dat het Linux-containers gebruikt (standaard). Selecteer zo nodig de optie 'Overschakelen naar Linux-containers' in het menu van Docker Desktops.
 1. Maak in Visual Studio een NET 6-consoletoepassing.<br>
-![Een NET 6-consoletoepassing projectdialoog](/_assets/showcases/docker/1.png)<br>
+![Een NET 6-consoletoepassing projectdialoog](/cad/_assets/showcases/docker/1.png)<br>
 1. Installeer de nieuwste versie van Aspose.CAD van NuGet.<br>
-![Aspose.CAD op NuGet](/_assets/showcases/docker/2.png)<br>
+![Aspose.CAD op NuGet](/cad/_assets/showcases/docker/2.png)<br>
 1. Aangezien de toepassing op Linux zal worden uitgevoerd, moet u mogelijk extra lettertypen installeren. U kunt ttf-mscorefonts-installer overwegen.
 1. Wanneer alle vereiste afhankelijkheden zijn toegevoegd, schrijft u een eenvoudig programma dat een ellipse maakt en deze opslaat als een afbeelding:<br>
 

@@ -120,11 +120,11 @@ dotnet run
 1. התחבר ל-Google Cloud.
 1. צור פרויקט אם הוא לא קיים.
 1. עבור ל'רשות המוצר' וצור מאגר.<br>
-![צור מאגר מוצר](/_assets/showcases/google/create-artifact-repository.png)<br>
+![צור מאגר מוצר](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. בחר במאגר החדש ברשות המוצר.
-![בחר במאגר מוצר](/_assets/showcases/google/select-artifact.png)<br>
+![בחר במאגר מוצר](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. לחץ על 'הוראות התקנה' והעתק את פקודת 'הגדר דוקר'.<br>
-![הוראות התקנה](/_assets/showcases/google/setup-instruction.png)<br>
+![הוראות התקנה](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. הוסף רישום credHelper לדוקר לקובץ התצורה של דוקר, או צור את הקובץ אם הוא לא קיים.
 {{< highlight plain >}}
 // דוגמה
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. עבור ל-Cloud Run.
 1. צור שירות Cloud Run.<br>
-![צור שירות Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![צור שירות Cloud Run](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. בשדה URL לתמונת המיכל, בחר את המיכל מתוך 'רשות מוצר'.<br>
-![URL של תמונת מיכל](/_assets/showcases/google/container-url.png)<br>
+![URL של תמונת מיכל](/cad/_assets/showcases/google/container-url.png)<br>
 1. בדוק את שאר ההגדרות כפי שצוין למטה.<br>
-![הגדרות שירות](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![הגדרות שירות](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. המתן להשלמת הפריסה.
 1. כתובת ה-URL של השירות לעבוד עם אפליקציית ההמרה.<br>
-![ו URL של השירות](/_assets/showcases/google/url-service.png)<br>
+![ו URL של השירות](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### תצורת Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## דוגמת ביצוע
 
 1. הגדרות Postman.<br>
-![תפריט סקירה כללית](/_assets/showcases/google/postman-settings.png)<br>
+![תפריט סקירה כללית](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. בחר כל DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG קובץ.
 1. לחץ על כפתור השליחה.
 

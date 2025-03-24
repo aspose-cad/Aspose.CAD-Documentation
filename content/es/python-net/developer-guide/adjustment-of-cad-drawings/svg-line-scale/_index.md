@@ -19,6 +19,6 @@ Puedes controlar la escala de las líneas en el archivo SVG, la biblioteca Aspos
 
 ## Un archivo utilizando una escala lineal
 1. El archivo si el parámetro LineScale se establece en 0.25.<br>
-![Imagen de entrada](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Imagen de entrada](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Archivo si no utilizas escalado de líneas.<br>
-![Imagen de entrada](/_assets/guide/svg/basic_options.png)<br>
+![Imagen de entrada](/cad/_assets/guide/svg/basic_options.png)<br>

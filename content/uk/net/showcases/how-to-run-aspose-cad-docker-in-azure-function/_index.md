@@ -21,11 +21,11 @@ url: /uk/net/showcases/how-to-run-aspose-cad-docker-in-azure-function/
 Щоб створити програму Azure Function, виконайте наведені нижче кроки:
 1. Після встановлення Docker переконайтеся, що він використовує Linux-контейнери (за замовчуванням). Якщо необхідно, виберіть опцію "Переключитися на Linux-контейнери" в меню Docker Desktop.
 1. У Visual Studio створіть Azure Function на NET 6.<br>
-![Діалогове вікно проекту Azure Function NET 6](/_assets/showcases/azure/Create-project.png)<br>
+![Діалогове вікно проекту Azure Function NET 6](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Додаткова інформація.<br>
-![Діалогове вікно проекту Azure Function NET 6](/_assets/showcases/azure/Additional-information.png)<br>
+![Діалогове вікно проекту Azure Function NET 6](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Встановіть останню версію Aspose.CAD з NuGet.<br>
-![Aspose.CAD на NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD на NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Оскільки додаток буде запущено на Linux, можливо, вам буде потрібно встановити додаткові шрифти. Ви можете віддати перевагу ttf-mscorefonts-installer.
 1. Коли всі потрібні залежності додані, напишіть просту програму, яка створить еліпс і збереже його як зображення:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 Наступним кроком є створення та налаштування Dockerfile в кореневій папці проекту.
 
 1. Створіть Dockerfile і помістіть його поруч з файлом рішення вашого додатка. Залиште цю назву файлу без розширення (за замовчуванням).
-![Коренева папка проекту](/_assets/showcases/azure/root-folder.png)<br>
+![Коренева папка проекту](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. У Dockerfile вкажіть:
 
 {{< highlight plain >}}
@@ -133,31 +133,31 @@ docker push user/asposefunction:latest
 1. Увійдіть в Azure.
 1. Виберіть служби Azure.
 1. Виберіть Function App і створіть функцію.<br>
-![Кнопка створення функції в Azure](/_assets/showcases/azure/create-function.png)<br>
+![Кнопка створення функції в Azure](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Повторіть основні налаштування, як на зображенні нижче.<br>
-![Налаштування створення функції в Azure](/_assets/showcases/azure/create-function-setting.png)<br>
+![Налаштування створення функції в Azure](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Натисніть 'Переглянути + створити' -> Створити.
 1. Дочекайтеся завершення розгортання.
 1. Натисніть кнопку 'Перейти до ресурсу'.<br>
-![Кнопка ресурсу](/_assets/showcases/azure/go-to-resource.png)<br>
+![Кнопка ресурсу](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Зупиніть функцію aspose-cad-docker-example.<br>
-![Зупинити контейнер](/_assets/showcases/azure/stop-container.png)<br>
+![Зупинити контейнер](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Перейдіть до меню центру розгортання та внесіть відповідні налаштування.<br>
-![Центр розгортання](/_assets/showcases/azure/deployment-center.png)<br>
+![Центр розгортання](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Збережіть налаштування.
 1. Скопіюйте URL-адресу Webhook із налаштувань центру розгортання.<br>
-![URL-адреса Webhook](/_assets/showcases/azure/webhook-url.png)<br>
+![URL-адреса Webhook](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Перейдіть до Docker Hub, виберіть свій репозиторій і виберіть вебхуки.
 1. Вставте 'URL-адресу Webhook' з Azure в URL-адресу вебхука Docker Hub і встановіть ім'я.<br>
-![Налаштування Webhook у Docker](/_assets/showcases/azure/webhook.png)<br>
+![Налаштування Webhook у Docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Натисніть кнопку створення.
 1. Поверніться до загального огляду Azure Function і запустіть контейнер.<br>
-![Меню огляду](/_assets/showcases/azure/overview.png)<br>
+![Меню огляду](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Приклад виконання
 
 1. Налаштування Postman.<br>
-![Меню огляду](/_assets/showcases/azure/postman-settings.png)<br>
+![Меню огляду](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Виберіть будь-який файл DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Натисніть кнопку відправити.
 

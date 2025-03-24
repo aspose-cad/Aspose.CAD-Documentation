@@ -20,9 +20,9 @@ Kör filigran için bir metin veya resim kullanabilirsiniz, Apose.CAD kütüphan
 Kör filigran için metin kullanan bir dosyanın görünümüne bir örnek.
 
 1. Metin kör filigranı eklemeden önceki dosya<br>
-![Girdi resmi](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Girdi resmi](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. Metin kör filigranı ekledikten sonraki sonuç<br>
-![Gömülü resim](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Gömülü resim](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **Kör filigran olarak başka bir resim kullanma**
 
@@ -35,6 +35,6 @@ Kör filigran için metin kullanan bir dosyanın görünümüne bir örnek.
 Kör filigran eklemek için başka bir resmi kullanan bir dosya görünümüne bir örnek.
 
 1. Resmi kör filigran olarak eklemeden önceki dosya<br>
-![Girdi resmi](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Girdi resmi](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. Resmi kör filigran olarak ekledikten sonraki sonuç<br>
-![Gömülü resim](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Gömülü resim](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

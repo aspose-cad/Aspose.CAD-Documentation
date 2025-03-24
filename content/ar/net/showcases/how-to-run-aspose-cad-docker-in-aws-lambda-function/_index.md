@@ -25,16 +25,16 @@ Lambda هي خدمة حسابية تتيح لك تشغيل الكود دون ا�
 
 لإنشاء برنامج دالة AWS Lambda، اتبع الخطوات أدناه:
 1. إنشاء مشروع AWS Lambda.<br>
-![إنشاء زر الوظيفة في AWS](/_assets/showcases/aws/create-project.png)<br>
+![إنشاء زر الوظيفة في AWS](/cad/_assets/showcases/aws/create-project.png)<br>
 1. اختر .NET 6 (صورة الحاوية) وانقر على زر 'إنهاء'.<br>
-![إنشاء زر الدالة الهجينة](/_assets/showcases/aws/create-container.png)<br>
+![إنشاء زر الدالة الهجينة](/cad/_assets/showcases/aws/create-container.png)<br>
 1. افتح AWS Explorer في Visual Studio (عرض-> AWS Explorer).
 1. أضف ملف تعريف بيانات الاعتماد AWS في AWS Explorer.<br>
-![ملف تعريف بيانات الاعتماد](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![ملف تعريف بيانات الاعتماد](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. أدخل معرف مفتاح الوصول ومفتاح الوصول السري، يمكنك الحصول على هذه المفاتيح في بيانات الاعتماد الأمنية أو الاتصال بالمسؤول للحصول على ملف csv للتفويض.<br>
-![إعدادات ملف تعريف الحساب](/_assets/showcases/aws/account-profile.png)<br>
+![إعدادات ملف تعريف الحساب](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. قم بتثبيت أحدث المكتبات من NuGet.<br>
-![مدير NuGet](/_assets/showcases/aws/nuget-manager.png)<br>
+![مدير NuGet](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. مثال على كود لتحويل صورة CAD إلى ملف PDF.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. تعديل DockerFile كما في قسم <a href="#configuring-a-dockerfile">تهيئة ملف Docker</a>.
 1. ابدأ Docker Desktop.
 1. نشر إلى AWS Lambda.<br>
-![نشر AWS lambda](/_assets/showcases/aws/publish-aws.png)<br>
+![نشر AWS lambda](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. تعديل تكوين التحميل.<br>
-![تحميل aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![تحميل aws lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. انقر على زر 'تحميل'.<br>
-![تحميل aws lambda الأخير](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![تحميل aws lambda الأخير](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. انتقل إلى AWS واختر Lambda.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. اختر دالتك الجديدة وأنشئ عنوان URL للدالة.<br>
-![تهيئة عنوانURL للدالة](/_assets/showcases/aws/create-function-url.png)<br>
+![تهيئة عنوانURL للدالة](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. اختر نوع المصادقة
 - AWS_IAM - فقط المستخدمون والأدوار المعتمدون يمكنهم طلب عنوان URL لدالتك.
 - NONE - لن تؤدي Lambda مصادقة IAM على الطلبات إلى عنوان URL الخاص بدالتك. سيكون عنوان URL عامًا ما لم تنفذ منطق التفويض الخاص بك في دالتك.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## مثال على التنفيذ
 
 1. إعدادات Postman.<br>
-![قائمة نظرة عامة](/_assets/showcases/aws/postman-settings.png)<br>
+![قائمة نظرة عامة](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. اختر أي ملف DXF أو DWG أو DGN أو DWF أو DWFX أو IFC أو STL أو DWT أو IGES أو PLT أو CF2 أو OBJ أو HPGL أو IGS أو PCL أو FBX أو PDF أو SVG.
 1. انقر على زر الإرسال.
 

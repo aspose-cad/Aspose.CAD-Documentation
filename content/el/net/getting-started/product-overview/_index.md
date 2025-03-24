@@ -7,7 +7,7 @@ url: /el/net/getting-started/product-overview/
 
 **Καλώς ήρθατε στο Aspose.CAD για .NET**
 
-![todo:image_alt_text](/_assets/home_1.png)
+![todo:image_alt_text](/cad/_assets/home_1.png)
 
 Το Aspose.CAD για .NET επιτρέπει στους προγραμματιστές να μετατρέπουν αρχεία AutoCAD DWG, DWF, DWT και DXF σε PDF και Ραστερικές εικόνες. Είναι ένα εγγενές API και δεν απαιτεί την εγκατάσταση του AutoCAD ή οποιουδήποτε λογισμικού. Μπορείτε επίσης να μετατρέψετε τις επιλεγμένες στρώσεις και διατάξεις από τα αρχεία AutoCAD. Η μετατροπή σε PDF και Ραστερικές εικόνες είναι πολύ υψηλής ποιότητας.
 
@@ -21,7 +21,7 @@ url: /el/net/getting-started/product-overview/
 ## **Εν μία Νυκτί**
 Μια επισκόπηση των κύριων δυνατοτήτων μετατροπής, απόδοσης και αναφοράς του Aspose.CAD για .NET.
 
-![todo:image_alt_text](/_assets/net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/net/product-overview_2.png)
 ## **Προηγμένες Δυνατότητες API**
 - Υποστηρίζει τις τελευταίες εκδόσεις των αρχείων AutoCAD DWG, DWF, DWT και DXF
 - Μετατροπή των αρχείων AutoCAD σε υψηλής ποιότητας PDF
@@ -35,4 +35,4 @@ url: /el/net/getting-started/product-overview/
 - .NET Framework (συμπεριλαμβανομένων των Εφαρμογών ASP.NET και Εφαρμογών Windows.)
 - .NET Core
 
-![todo:image_alt_text](/_assets/net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/net/product-overview_3.png)

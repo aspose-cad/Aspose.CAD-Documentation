@@ -15,7 +15,7 @@ Bizonyos entitások a szerkezeti adataikat ACIS SAT/SAB formátumban tárolják.
 
 Az alábbiakban a példa az exportálás eredményéről (DWG fájl a bal oldalon, PDF eredmény a jobb oldalon).
 
-![Kúp és gömbök exportálása](/_assets/guide/coneAndSpheres.png)
+![Kúp és gömbök exportálása](/cad/_assets/guide/coneAndSpheres.png)
 
 Az ACIS entitások exportálása nem igényel különleges beállításokat. A rajzméret optimalizálása érdekében, különösen akkor, ha a rajz kizárólag ACIS entitásokat tartalmaz, érdemes használni a cadImage.UpdateSize() függvényt a kezdeti rajzméretek pontos beállításához.
 

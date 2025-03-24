@@ -25,16 +25,16 @@ AWS Lambda 関数およびイメージを Amazon Elastic Container Registry で�
 
 AWS Lambda 関数プログラムを作成するには、以下の手順に従います：
 1. AWS Lambda プロジェクトを作成します。<br>
-![AWS 関数作成ボタン](/_assets/showcases/aws/create-project.png)<br>
+![AWS 関数作成ボタン](/cad/_assets/showcases/aws/create-project.png)<br>
 1. .NET 6 (コンテナイメージ) を選択し、「終了」ボタンをクリックします。<br>
-![コンテナ関数作成ボタン](/_assets/showcases/aws/create-container.png)<br>
+![コンテナ関数作成ボタン](/cad/_assets/showcases/aws/create-container.png)<br>
 1. Visual Studio で AWS Explorer を開きます (表示 -> AWS Explorer)。
 1. AWS Explorer に AWS 資格情報プロファイルを追加します。<br>
-![資格情報プロファイル](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![資格情報プロファイル](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. アクセスキーIDとシークレットアクセスキーを入力します。これらのキーはセキュリティ資格情報で取得するか、管理者に連絡して承認用のCSVファイルを取得してください。<br>
-![アカウントプロファイル設定](/_assets/showcases/aws/account-profile.png)<br>
+![アカウントプロファイル設定](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. NuGet から最新のライブラリをインストールします。<br>
-![NuGet マネージャー](/_assets/showcases/aws/nuget-manager.png)<br>
+![NuGet マネージャー](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. CAD イメージを PDF ファイルに変換するコード例。
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. <a href="#configuring-a-dockerfile">Dockerfile の設定</a> セクションで示すように DockerFile を編集します。
 1. Docker Desktop を起動します。
 1. AWS Lambda に公開します。<br>
-![AWS Lambda 公開](/_assets/showcases/aws/publish-aws.png)<br>
+![AWS Lambda 公開](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. アップロード設定を編集します。<br>
-![AWS Lambda アップロード](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![AWS Lambda アップロード](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. 「アップロード」ボタンをクリックします。<br>
-![AWS Lambda 最後のアップロード](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![AWS Lambda 最後のアップロード](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. AWS に移動し、Lambda を選択します。<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. 新しい関数を選択し、URL 関数を作成します。<br>
-![構成 URL 関数](/_assets/showcases/aws/create-function-url.png)<br>
+![構成 URL 関数](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. 認証タイプを選択する
 - AWS_IAM - 認証された IAM ユーザーおよびロールのみが関数の URL にリクエストを送信できます。
 - NONE - Lambda は関数の URL に対するリクエストで IAM 認証を行いません。独自の認証ロジックを関数に実装しない限り、URL エンドポイントは公開されます。
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## 実行例
 
 1. Postman 設定。<br>
-![概要メニュー](/_assets/showcases/aws/postman-settings.png)<br>
+![概要メニュー](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. 任意の DXF、DWG、DGN、DWF、DWFX、IFC、STL、DWT、IGES、PLT、CF2、OBJ、HPGL、IGS、PCL、FBX、PDF、SVG ファイルを選択します。
 1. 送信ボタンをクリックします。
 

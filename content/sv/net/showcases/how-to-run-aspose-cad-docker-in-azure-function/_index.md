@@ -21,11 +21,11 @@ I detta exempel skapar du en enkel konverteringsfunktion som konverterar en CAD-
 För att skapa Azure Function-programmet, följ stegen nedan:
 1. När Docker är installerat, se till att det använder Linux-containrar (standard). Om nödvändigt, välj alternativet Väx till Linux-containrar i Docker Desktops meny.
 1. I Visual Studio, skapa en NET 6 Azure Function.<br>
-![Ett NET 6 Azure Functionprojekt-dialog](/_assets/showcases/azure/Create-project.png)<br>
+![Ett NET 6 Azure Functionprojekt-dialog](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Ytterligare information.<br>
-![Ett NET 6 Azure Functionprojekt-dialog](/_assets/showcases/azure/Additional-information.png)<br>
+![Ett NET 6 Azure Functionprojekt-dialog](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Installera den senaste Aspose.CAD-versionen från NuGet.<br>
-![Aspose.CAD på NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD på NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Eftersom applikationen kommer att köras på Linux, kan det behövas installera ytterligare typsnitt. Du kan föredra ttf-mscorefonts-installer.
 1. När alla nödvändiga beroenden har lagts till, skriv ett enkelt program som skapar en ellipse och sparar den som en bild:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
  Nästa steg är att skapa och konfigurera Dockerfile i den överordnade projektmappen.
 
 1. Skapa Dockerfile och placera den bredvid lösningsfilen för din applikation. Håll detta filnamn utan tillägg (standard).
-![Rotprojektmapp](/_assets/showcases/azure/root-folder.png)<br>
+![Rotprojektmapp](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. I Dockerfile, specificera:
 
 {{< highlight plain >}}
@@ -133,31 +133,31 @@ docker push användare/asposefunction:senaste
 1. Logga in på Azure.
 1. Välj Azure-tjänster.
 1. Välj Function App och skapa en funktion.<br>
-![Azure skapa funktionsknapp](/_assets/showcases/azure/create-function.png)<br>
+![Azure skapa funktionsknapp](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Upprepa de grundläggande inställningarna som på bilden nedan.<br>
-![Azure skapa funktionsinställningar](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure skapa funktionsinställningar](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Klicka på 'Granska + skapa' -> Skapa.
 1. Vänta tills distributionen är klar.
 1. Klicka på "Gå till resurs"-knappen.<br>
-![Resursknapp](/_assets/showcases/azure/go-to-resource.png)<br>
+![Resursknapp](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Stoppa aspose-cad-docker-example-funktionen.<br>
-![Stoppa containern](/_assets/showcases/azure/stop-container.png)<br>
+![Stoppa containern](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Gå till deploymentscenter-menyn och gör lämpliga inställningar.<br>
-![Distribution centrum](/_assets/showcases/azure/deployment-center.png)<br>
+![Distribution centrum](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Spara inställningar
 1. Kopiera Webhook-URL från inställningarna för distributionscentret.<br>
-![Webhook-url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook-url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Gå till Docker Hub, välj ditt repo och välj webhooks.
 1. Klistra in 'Webhook-url' från Azure i Docker Hub-webhook-url och ställ in namnet.<br>
-![Webhook-inställningar i Docker](/_assets/showcases/azure/webhook.png)<br>
+![Webhook-inställningar i Docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Klicka på skapa-knappen.
 1. Återgå till översikten av Azure-funktionen och starta containern.<br>
-![Översiktsmeny](/_assets/showcases/azure/overview.png)<br>
+![Översiktsmeny](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Exempel på körning
 
 1. Postman-inställningar.<br>
-![Översiktsmeny](/_assets/showcases/azure/postman-settings.png)<br>
+![Översiktsmeny](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Välj valfri DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG-fil.
 1. Klicka på send-knappen.
 

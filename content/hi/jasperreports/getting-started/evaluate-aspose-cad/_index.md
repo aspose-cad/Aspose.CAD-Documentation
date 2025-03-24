@@ -13,7 +13,7 @@ url: /hi/jasperreports/getting-started/evaluate-aspose-cad/
 
 JasperReports के लिए Aspose.CAD का मूल्यांकन संस्करण (जिसमें कोई लाइसेंस निर्दिष्ट नहीं है) उत्पाद कार्यक्षमता प्रदान करता है, हालांकि यह पूर्ण नहीं है। एक सीमा यह है कि यह हमेशा आउटपुट फ़ाइलों पर मूल्यांकन वॉटरमार्क डालता है।
 
-![Aspose.CAD for JasperReports export example](/_assets/jasper/AreaChartReport.jpg)
+![Aspose.CAD for JasperReports export example](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **चित्र:** मूल्यांकन चेतावनी
 

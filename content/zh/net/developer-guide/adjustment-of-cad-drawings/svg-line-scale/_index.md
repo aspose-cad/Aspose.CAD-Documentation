@@ -18,6 +18,6 @@ url: /zh/net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## 使用线性缩放的文件
 1. 当LineScale参数设置为0.25时的文件。<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. 如果您不使用线条缩放的文件。<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

@@ -7,7 +7,7 @@ url: /de/python-net/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD für Python Produktlogo](/_assets/home_4.png)
+![Aspose.CAD für Python Produktlogo](/cad/_assets/home_4.png)
 
 Aspose.CAD für Python ist die einzige Lösung auf dem Markt, die es ermöglicht, Berichte von Pythons in verschiedene Vektor- und Rasterbilddateiformate wie PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD zu exportieren und mit verschiedenen CAD- und BIM-Dateiformaten zu arbeiten: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

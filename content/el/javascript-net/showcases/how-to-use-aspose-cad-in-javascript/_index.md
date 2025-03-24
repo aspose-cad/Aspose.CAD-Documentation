@@ -88,10 +88,10 @@ npm run serve
 ## Παράδειγμα εκτέλεσης
 
 1. Επιλέξτε αρχείο.<br>
-![Επιλέξτε αρχείο](/_assets/javascript-net/javascript-net/choose-file.png)<br>
+![Επιλέξτε αρχείο](/cad/_assets/javascript-net/javascript-net/choose-file.png)<br>
 1. Επιλέξτε οποιοδήποτε DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG αρχείο.
 1. Εάν η απάντηση είναι επιτυχής, το αρχείο θα εμφανιστεί στην οθόνη και θα προσφέρει να το κατεβάσετε.<br>
-![Μετατροπή εικόνας](/_assets/javascript-net/javascript-net/convert-image.png)<br>
+![Μετατροπή εικόνας](/cad/_assets/javascript-net/javascript-net/convert-image.png)<br>
 ## Δείτε επίσης
 
 - [Εγκαταστήστε το Visual Code](https://code.visualstudio.com/)

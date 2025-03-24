@@ -11,7 +11,7 @@ is_root: false
 
 ## **Aspose.CAD के लिए जावा में आपका स्वागत है**
 
-![Aspose.CAD for Java Product Logo](/_assets/home_2.png)
+![Aspose.CAD for Java Product Logo](/cad/_assets/home_2.png)
 
 Aspose.CAD के लिए जावा जावा संस्करण 1.6 संगत API लाइब्रेरी है जो डेवलपर्स को DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS जैसी विभिन्न CAD या BIM ड्राइंग फ़ाइलों को प्रोसेस और कन्वर्ट करने की अनुमति देती है। समर्थित आउटपुट प्रकार विभिन्न रेस्टर और वेक्टर फ़ाइल स्वरूप हैं: PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD। AutoCAD या अन्य CAD सॉफ़्टवेयर स्थापित करने की आवश्यकता नहीं है।
 इसके पास कई विशेषताएँ हैं जैसे चयनित परतों और लेआउट्स का रूपांतरण, आउटपुट फ़ाइल गुणवत्ता का समंजन और निर्यात प्रगति ट्रैकिंग। API अत्यधिक स्केलेबल है और इसकी गति प्रदर्शन अविश्वसनीय है।

@@ -19,6 +19,6 @@ SVG dosyasındaki çizgilerin ölçeğini kontrol edebilirsiniz, Aspose.CAD küt
 
 ## LineScale parametresi 0.25 olarak ayarlandığında bir dosya
 1. Dosya LineScale parametresi 0.25 olarak ayarlansa.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Çizgi ölçeklendirmesi kullanmıyorsanız dosya.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

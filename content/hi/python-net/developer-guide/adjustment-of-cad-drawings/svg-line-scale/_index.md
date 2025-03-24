@@ -19,6 +19,6 @@ url: /hi/python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## एक रैखिक पैमाने का उपयोग करने वाली फ़ाइल
 1. फ़ाइल यदि LineScale पैरामीटर 0.25 पर सेट है।<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. फ़ाइल यदि आप लाइन स्केलिंग का उपयोग नहीं करते हैं।<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

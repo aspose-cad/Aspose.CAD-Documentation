@@ -25,16 +25,16 @@ Lambda היא שירות חישוב המאפשר לך להריץ קוד מבלי
 
 כדי ליצור את תוכנית פונקציית AWS Lambda, פעל לפי השלבים הבאים:
 1. צור פרויקט AWS Lambda.<br>
-![Create AWS function button](/_assets/showcases/aws/create-project.png)<br>
+![Create AWS function button](/cad/_assets/showcases/aws/create-project.png)<br>
 1. בחר .NET 6 (תמונת קונטיינר) ולחץ על כפתור 'סיים' (Finish).<br>
-![Create container function button](/_assets/showcases/aws/create-container.png)<br>
+![Create container function button](/cad/_assets/showcases/aws/create-container.png)<br>
 1. פתח את AWS Explorer ב- Visual Studio (View->AWS Explorer).
 1. הוסף פרופיל אימות AWS ב-AWS Explorer.<br>
-![Credential profile](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![Credential profile](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. הזן את Access Key ID ואת Secret Access Key, תוכל לקבל מפתחות אלו באימות אבטחה או לפנות למנהל ולקבל קובץ csv עבור האימות.<br>
-![Acount profile settings](/_assets/showcases/aws/account-profile.png)<br>
+![Acount profile settings](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. התקן את הספריות האחרונות מ-NuGet.<br>
-![NuGet Manager](/_assets/showcases/aws/nuget-manager.png)<br>
+![NuGet Manager](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. דוגמת קוד להמרת תמונת cad לקובץ pdf.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. ערוך את DockerFile כפי שנמצא בסעיף <a href="#configuring-a-dockerfile">הגדרת Dockerfile</a>.
 1. הפעל את Docker Desktop.
 1. פרסם ל-AWS Lambda.<br>
-![AWS lambda publish](/_assets/showcases/aws/publish-aws.png)<br>
+![AWS lambda publish](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. ערוך את הגדרות ההעלאה.<br>
-![Upload aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![Upload aws lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. לחץ על כפתור 'העלה' (Upload).<br>
-![Upload aws lambda last](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![Upload aws lambda last](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. עבור ל-AWS ובחר Lambda.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. בחר את הפונקציה החדשה שלך וצור את קובץ ה-URL.<br>
-![Configuration url function](/_assets/showcases/aws/create-function-url.png)<br>
+![Configuration url function](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. בחר את סוג האימות
 - AWS_IAM - רק משתמשים ותפקידי IAM מאומתים יכולים לבצע בקשות ל-URL הפונקציה שלך.
 - NONE - Lambda לא תבצע אימות IAM על בקשות ל-URL הפונקציה שלך. נקודת הקצה של ה-URL תהיה ציבורית אלא אם תיישם את הלוגיקה של האימות שלך בפונקציה שלך.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## דוגמת ביצוע
 
 1. הגדרות Postman.<br>
-![Overview menu](/_assets/showcases/aws/postman-settings.png)<br>
+![Overview menu](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. בחר כל קובץ DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. לחץ על כפתור השליחה.
 

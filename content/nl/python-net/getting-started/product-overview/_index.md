@@ -7,7 +7,7 @@ url: /nl/python-net/getting-started/product-overview/
 
 **Welkom bij Aspose.CAD voor Python**
 
-![todo:image_alt_text](/_assets/python-net/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/python-net/product-overview_1.png)
 
 Aspose.CAD voor Python stelt ontwikkelaars in staat om AutoCAD DWG, DWF, DWT en DXF-bestanden om te zetten naar PDF en rasterafbeeldingen. Het is een native API en vereist geen AutoCAD of andere software om geïnstalleerd te zijn. U kunt ook de geselecteerde lagen en lay-outs van de AutoCAD-bestanden converteren. De conversie naar PDF en rasterafbeeldingen is van zeer hoogwaardige kwaliteit.
 
@@ -21,7 +21,7 @@ Het gebruik van Aspose.CAD voor Python in uw project biedt de volgende voordelen
 ## **In één oogopslag**
 Een overzicht van de belangrijkste conversie-, render- en rapportagecapaciteiten van Aspose.CAD voor Python.
 
-![todo:image_alt_text](/_assets/python-net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/python-net/product-overview_2.png)
 
 ## **Geavanceerde API-functies**
 - Ondersteunt de nieuwste versies van AutoCAD DWG, DWF, DWT en DXF-bestanden
@@ -31,11 +31,11 @@ Een overzicht van de belangrijkste conversie-, render- en rapportagecapaciteiten
 - Selecteer en converteer specifieke lagen
 - Volg het bestand conversieproces
 
-![todo:image_alt_text](/_assets/python-net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/python-net/product-overview_3.png)
 
 ## **Platformonafhankelijkheid**
 Aspose.CAD voor Python ondersteunt
 
 - Python 3.10
 
-![todo:image_alt_text](/_assets/python-net/product-overview_4.png)
+![todo:image_alt_text](/cad/_assets/python-net/product-overview_4.png)

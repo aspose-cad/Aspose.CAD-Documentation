@@ -36,7 +36,7 @@ Aspose.CAD for Java的主要转换、渲染和报告功能概述。
 
 Aspose.CAD for Java支持流行的DWG、DWF、DXF、DWT、PDF和光栅图像。
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **对DXF / DWG / DGN的支持**
 - 3D实体（锥体、球体、环体、圆柱、方盒、楔体）
 ### **对DXF / DWG的支持**

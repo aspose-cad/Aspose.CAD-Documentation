@@ -19,6 +19,6 @@ Je kunt de schaal van de lijnen in het SVG-bestand controleren, de Aspose.CAD-bi
 
 ## Een bestand dat een lineaire schaal gebruikt
 1. Het bestand als de LineScale-parameter is ingesteld op 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Bestand als je geen lijnschaal gebruikt.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

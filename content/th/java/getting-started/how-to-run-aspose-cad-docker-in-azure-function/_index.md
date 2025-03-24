@@ -21,14 +21,14 @@ url: /th/java/getting-started/how-to-run-aspose-cad-docker-in-azure-function/
 เพื่อสร้างโปรแกรม Azure Function โปรดทำตามขั้นตอนด้านล่าง:
 1. เมื่อติดตั้ง Docker แล้ว ให้แน่ใจว่าใช้ Linux Containers (ค่าเริ่มต้น) หากจำเป็นให้เลือกตัวเลือก Switch to Linux containers จากเมนู Docker Desktops
 1. สร้างโปรเจ็กต์ Azure Function ใน IntelliJ IDEA.<br>
-![Create azure function project](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Create azure function project-final](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Create azure function project](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Create azure function project-final](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Tools->Azure->Sing In และเลือกการรับรองความถูกต้อง OAuth 2.0.<br>
-![Azure sign In](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. ลงชื่อเข้าใช้ในเบราว์เซอร์
 1. เลือกชื่อสมาชิก
 1. เพิ่มการสนับสนุน docker.<br>
-![Azure sign In](/_assets/java/java-azure/add-docker-support.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. แก้ไข DockerFile ตามที่ระบุใน <a href="#configuring-a-dockerfile">Configuring a Dockerfile</a> ส่วน.
 1. เพิ่มบล็อกสำหรับที่เก็บ aspose.cad ใน pom.xml.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. เรียกใช้ dockerfile ใน IDE และหลังจากส่งไปยัง docker hub.<br>
-![Run docker in ide](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![Run docker in ide](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. ป้อนชื่อของภาพตามที่ระบุในที่เก็บ Docker HUb.<br>
-![Run docker in ide-next](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![Run docker in ide-next](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. รอให้เสร็จสิ้น
 
 ## Azure
@@ -166,26 +166,26 @@ docker push user/aspose-cad-java:latest
 1. ลงชื่อเข้าใช้ Azure
 1. เลือกบริการ Azure
 1. เลือก Function App และสร้างฟังก์ชัน.<br>
-![Azure create function button](/_assets/java/java-azure/create-function-azure.png)<br>
+![Azure create function button](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. ทำตามการตั้งค่าพื้นฐานเหมือนในภาพด้านล่าง.<br>
-![Azure create function settings](/_assets/java/java-azure/create-function-settings.png)<br>
+![Azure create function settings](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. คลิก 'Review + create' -> สร้าง
 1. รอให้การปรับใช้เสร็จสิ้น
 1. คลิกปุ่ม 'Go to resorce'.<br>
-![Resource button](/_assets/java/java-azure/go-to-resource.png)<br>
+![Resource button](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. หยุดฟังก์ชัน aspose-cad-docker-example.<br>
-![Stop conteiner](/_assets/java/java-azure/stop-container.png)<br>
+![Stop conteiner](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. ไปที่เมนูศูนย์ปรับใช้และทำการตั้งค่าที่เหมาะสม.<br>
-![Deployment center](/_assets/java/java-azure/deployment-center.png)<br>
+![Deployment center](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. บันทึกการตั้งค่า
 1. คัดลอก Webhook URL จากการตั้งศูนย์ปรับใช้.<br>
-![Webhook url](/_assets/java/java-azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. ไปที่ Docker Hub เลือกที่เก็บของคุณและเลือก webhooks
 1. วาง 'Webhook url' จาก Azure ลงใน Docker Hub webhook url และตั้งชื่อ.<br>
-![Webhook settings in docker](/_assets/java/java-azure/webhook.png)<br>
+![Webhook settings in docker](/cad/_assets/java/java-azure/webhook.png)<br>
 1. คลิกปุ่มสร้าง
 1. กลับไปที่ฟังก์ชัน Azure overview และเริ่มคอนเทนเนอร์.<br>
-![Overview menu](/_assets/java/java-azure/overview.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 อาจใช้เวลาสักครู่ในการเริ่มฟังก์ชัน
 {{% /alert %}}
@@ -193,11 +193,11 @@ docker push user/aspose-cad-java:latest
 ## ตัวอย่างการดำเนินการ
 
 1. การตั้งค่า Postman.<br>
-![Overview menu](/_assets/java/java-azure/postman-settings.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. เลือกไฟล์ DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG ใดๆ
 1. คลิกปุ่มส่ง
 1. บันทึกผลลัพธ์
-![Save responce](/_assets/java/java-azure/response-postman.png)<br>
+![Save responce](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 หากคำตอบสำเร็จ คลิกบันทึกเป็นไฟล์และคุณจะได้รับไฟล์ที่แปลงแล้วในรูปแบบ png

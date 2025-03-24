@@ -88,10 +88,10 @@ npm run serve
 ## Příklad provedení
 
 1. Vyberte soubor.<br>
-![Vyberte soubor](/_assets/javascript-net/javascript-net/choose-file.png)<br>
+![Vyberte soubor](/cad/_assets/javascript-net/javascript-net/choose-file.png)<br>
 1. Vyberte libovolný soubor DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Pokud je odpověď úspěšná, soubor bude zobrazen na obrazovce a nabídne možnost stáhnout ho.<br>
-![Převod obrazu](/_assets/javascript-net/javascript-net/convert-image.png)<br>
+![Převod obrazu](/cad/_assets/javascript-net/javascript-net/convert-image.png)<br>
 ## Viz také
 
 - [Instalovat Visual Code](https://code.visualstudio.com/)

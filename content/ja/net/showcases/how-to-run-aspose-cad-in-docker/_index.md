@@ -20,9 +20,9 @@ url: /ja/net/showcases/how-to-run-aspose-cad-in-docker/
 ハローワールドプログラムを作成するには、以下の手順に従ってください：
 1. Dockerがインストールされたら、Linuxコンテナを使用するように設定されていることを確認します（デフォルト）。必要に応じて、Dockerデスクトップメニューから「Linuxコンテナに切り替える」オプションを選択してください。
 1. Visual Studioで、NET 6コンソールアプリケーションを作成します。<br>
-![NET 6コンソールアプリケーションプロジェクトダイアログ](/_assets/showcases/docker/1.png)<br>
+![NET 6コンソールアプリケーションプロジェクトダイアログ](/cad/_assets/showcases/docker/1.png)<br>
 1. NuGetから最新のAspose.CADバージョンをインストールします。<br>
-![NuGetのAspose.CAD](/_assets/showcases/docker/2.png)<br>
+![NuGetのAspose.CAD](/cad/_assets/showcases/docker/2.png)<br>
 1. アプリケーションがLinuxで実行されるため、追加のフォントをインストールする必要がある場合があります。ttf-mscorefonts-installerを使用することをお勧めします。
 1. 必要な依存関係がすべて追加されたら、楕円を作成し、それを画像として保存するシンプルなプログラムを書きます：<br>
 

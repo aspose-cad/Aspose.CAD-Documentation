@@ -122,10 +122,10 @@ ng serve 命令：
 ## 执行示例
 
 1. 选择文件。<br>
-![选择文件](/_assets/javascript-net/angular/choose-file.png)<br>
+![选择文件](/cad/_assets/javascript-net/angular/choose-file.png)<br>
 1. 选择任意 DXF、DWG、DGN、DWF、DWFX、IFC、STL、DWT、IGES、PLT、CF2、OBJ、HPGL、IGS、PCL、FBX、PDF、SVG 文件。
 1. 如果响应成功，文件将在屏幕上显示并提供下载选项。<br>
-![转换图像](/_assets/javascript-net/angular/convert-image.png)<br>
+![转换图像](/cad/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## 另见
 

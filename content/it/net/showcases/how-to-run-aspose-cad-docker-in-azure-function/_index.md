@@ -21,11 +21,11 @@ In questo esempio, crei una semplice funzione di conversione che converte un fil
 Per creare il programma Azure Function, segui i passaggi qui sotto:
 1. Una volta installato Docker, assicurati che utilizzi i contenitori Linux (default). Se necessario, seleziona l'opzione Passa a contenitori Linux dal menu di Docker Desktop.
 1. In Visual Studio, crea una Azure Function NET 6.<br>
-![Dialogo del progetto Azure Function NET 6](/_assets/showcases/azure/Create-project.png)<br>
+![Dialogo del progetto Azure Function NET 6](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Informazioni aggiuntive.<br>
-![Dialogo del progetto Azure Function NET 6](/_assets/showcases/azure/Additional-information.png)<br>
+![Dialogo del progetto Azure Function NET 6](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Installa l'ultima versione di Aspose.CAD da NuGet.<br>
-![Aspose.CAD su NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD su NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Poiché l'applicazione verrà eseguita su Linux, potrebbe essere necessario installare caratteri aggiuntivi. Puoi preferire ttf-mscorefonts-installer.
 1. Quando tutte le dipendenze richieste sono state aggiunte, scrivi un semplice programma che crea un'ellisse e la salva come immagine:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 Il passo successivo è creare e configurare il Dockerfile nella cartella principale del progetto.
 
 1. Crea il Dockerfile e posizionalo accanto al file di soluzione della tua applicazione. Mantieni questo nome di file senza estensione (il default).
-![Cartella principale del progetto](/_assets/showcases/azure/root-folder.png)<br>
+![Cartella principale del progetto](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. Nel Dockerfile, specifica:
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. Accedi ad Azure.
 1. Scegli i servizi Azure.
 1. Scegli Function App e crea una funzione.<br>
-![Pulsante di creazione funzione Azure](/_assets/showcases/azure/create-function.png)<br>
+![Pulsante di creazione funzione Azure](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Ripeti le impostazioni di base come nell'immagine qui sotto.<br>
-![Impostazioni di creazione funzione Azure](/_assets/showcases/azure/create-function-setting.png)<br>
+![Impostazioni di creazione funzione Azure](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Fai clic su 'Rivedi + crea' -> Crea.
 1. Attendi il completamento del deployment.
 1. Fai clic sul pulsante 'Vai alla risorsa'.<br>
-![Pulsante risorsa](/_assets/showcases/azure/go-to-resource.png)<br>
+![Pulsante risorsa](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Ferma la funzione aspose-cad-docker-example.<br>
-![Ferma contenitore](/_assets/showcases/azure/stop-container.png)<br>
+![Ferma contenitore](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Vai al menu del centro di distribuzione e fai le impostazioni appropriate.<br>
-![Centro di distribuzione](/_assets/showcases/azure/deployment-center.png)<br>
+![Centro di distribuzione](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Salva le impostazioni
 1. Copia l'URL del Webhook dalle impostazioni del centro di distribuzione.<br>
-![URL del webhook](/_assets/showcases/azure/webhook-url.png)<br>
+![URL del webhook](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Vai su Docker Hub, seleziona il tuo repository e seleziona webhooks.
 1. Incolla l'URL del 'Webhook' da Azure nell'URL del webhook di Docker Hub e imposta il nome.<br>
-![Impostazioni webhook in docker](/_assets/showcases/azure/webhook.png)<br>
+![Impostazioni webhook in docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Fai clic sul pulsante di creazione.
 1. Torna alla panoramica della funzione azure e avvia il contenitore.<br>
-![Menu panoramica](/_assets/showcases/azure/overview.png)<br>
+![Menu panoramica](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Esempio di Esecuzione
 
 1. Impostazioni di Postman.<br>
-![Menu panoramica](/_assets/showcases/azure/postman-settings.png)<br>
+![Menu panoramica](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Seleziona qualsiasi file DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Fai clic sul pulsante invia.
 

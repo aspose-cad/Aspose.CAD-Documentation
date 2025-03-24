@@ -23,9 +23,9 @@ Aspose.CAD 允许您创建包含3D内容的PDF文件。您可以将CAD文件转�
 
 带有3D内容的PDF文件的外观示例，以及旋转和缩放的演示。
 
-![PDF-3D](/_assets/guide/pdf-3d/result.png)
-![改变旋转](/_assets/guide/pdf-3d/rotate.png)
-![缩放](/_assets/guide/pdf-3d/scaling.png)
+![PDF-3D](/cad/_assets/guide/pdf-3d/result.png)
+![改变旋转](/cad/_assets/guide/pdf-3d/rotate.png)
+![缩放](/cad/_assets/guide/pdf-3d/scaling.png)
 
 ## **Aspose.CAD for .NET 资源**
 

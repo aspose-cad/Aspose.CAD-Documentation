@@ -9,7 +9,7 @@ url: /tr/net/getting-started/installation/
 
 NuGet, .NET için Aspose API'lerini indirmek ve kurmak için en kolay yoldur. Microsoft Visual Studio ve NuGet paket yöneticisini açın. İstediğiniz Aspose API'sini bulmak için "aspose" kelimesini aratın. "Kur" butonuna tıklayın, seçilen API projenize indirilecektir ve referans olarak eklenecektir.
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **Bir .NET Projesinden Aspose.CAD'a Referans Verme**
 
@@ -21,7 +21,7 @@ Aşağıdaki adımları izleyin (Microsoft Visual Studio kullandığınızı var
 1. *Aspose.CAD* DLL dosyasını seçin ve **Tamam** butonuna tıklayın.
 1. *Aspose.CAD* referansı projenizin **Referanslar** düğümünde görünecektir.
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **Paket Yöneticisi Konsolu kullanarak Aspose.CAD'ı Kurun veya Güncelleyin**
 
@@ -30,23 +30,23 @@ Paket yöneticisi konsolu kullanarak [Aspose.CAD API](https://www.nuget.org/pack
 1. Visual Studio'da çözüm/projenizi açın.
 1. Menüden Araçlar -> Kütüphane Paket Yöneticisi -> Paket Yöneticisi Konsolu'nu seçerek paket yöneticisi konsolunu açın.
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 "**Install-Package Aspose.CAD**" komutunu yazın ve uygulamanıza son sürümü yüklemek için enter tuşuna basın. Alternatif olarak, en son sürümün yanı sıra sıcak düzeltmeleri de belirtmek için komuta "**-prerelease**" sonekini ekleyebilirsiniz.
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 "Downloading Aspose.CAD..." ipucu, indirmenin işlemde olduğunu belirten bir mesaj olarak pencerenin sol alt kısmında görünecektir.
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 İndirildikten sonra aşağıdaki onay mesajlarını göreceksiniz. Eğer [Aspose EULA](https://about.aspose.com/legal/eula) ile tanışık değilseniz, belirtilen URL'deki lisansı okumanız iyi bir fikir olacaktır.
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 Artık Aspose.CAD'ın uygulamanıza başarıyla eklenip referans verildiğini göreceksiniz.
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 Paket yöneticisi konsolunda, "Update-Package Aspose.CAD" komutunu kullanabilir ve enter tuşuna basarak Aspose.CAD paketinin güncellemelerini kontrol edebilir ve mevcutsa kurabilirsiniz. En son sürümü güncellemek için "-prerelease" sonekini de ekleyebilirsiniz.
 

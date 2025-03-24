@@ -11,19 +11,19 @@ url: /zh/java/developer-guide/export-with-3d-options/
 
 以下是从不同视角观察的 3D 场景示例：
 
-![Figures](/_assets/guide/3d/fig1.png)
+![Figures](/cad/_assets/guide/3d/fig1.png)
 
-![Figures from other points of view](/_assets/guide/3d/fig2.png)
+![Figures from other points of view](/cad/_assets/guide/3d/fig2.png)
 
 ObserverPoint 属性允许根据指定的角度绕轴旋转 3D 场景。此示例展示了使用某些任意旋转角度的代码和导出结果。
 
 {{< gist aspose-com-gists 49c1b75d9a84e149ecf374ece2c2597d "ObserverPoint-property.java">}}
 
-![Export with rotation](/_assets/guide/3d/fig3.png)
+![Export with rotation](/cad/_assets/guide/3d/fig3.png)
 
 将 ObserverAngle 更改为 ObserverPoint = new ObserverPoint(5, 60, 0) 可以旋转场景。
 
-![Export with changed rotation](/_assets/guide/3d/fig4.png)
+![Export with changed rotation](/cad/_assets/guide/3d/fig4.png)
 
 另一个 RenderMode3D 属性允许指定导出结果的呈现方式。有 3 种模式：实心（默认），线框和带边缘的实心。
 
@@ -31,9 +31,9 @@ ObserverPoint 属性允许根据指定的角度绕轴旋转 3D 场景。此示�
 
 {{< gist aspose-com-gists 49c1b75d9a84e149ecf374ece2c2597d "RenderMode3D-property.java">}}
 
-![Wireframe mode](/_assets/guide/3d/fig5.png)
+![Wireframe mode](/cad/_assets/guide/3d/fig5.png)
 
 以下示例显示了实心模式和带边缘的实心模式之间的区别。
 
-![Solid mode](/_assets/guide/3d/fig6.png)
-![Solid with edge mode](/_assets/guide/3d/fig7.png)
+![Solid mode](/cad/_assets/guide/3d/fig6.png)
+![Solid with edge mode](/cad/_assets/guide/3d/fig7.png)

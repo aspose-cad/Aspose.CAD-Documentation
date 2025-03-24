@@ -11,7 +11,7 @@ is_root: false
 
 ## **欢迎使用 Aspose.CAD for Python**
 
-![Aspose.CAD for Python 产品标志](/_assets/home_4.png)
+![Aspose.CAD for Python 产品标志](/cad/_assets/home_4.png)
 
 Aspose.CAD for Python 是市场上唯一能够实现从 Python 导出报告到各种矢量和栅格图像文件格式的解决方案，例如 PDF、WMF、SVG、EMF、BMP、GIF、JPG、JPEG、DICOM、WEBP、JP2、JPEG2000、PNG、TIFF、PSD，并与各种 CAD 和 BIM 文件格式进行操作：DWG、DXF、DWT、DGN、DWF、DWFX、IFC、STL、IGES、PLT、CF2、OBJ、HPGL、IGS
 

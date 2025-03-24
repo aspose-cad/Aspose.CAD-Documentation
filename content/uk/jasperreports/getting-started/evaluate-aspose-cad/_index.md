@@ -13,7 +13,7 @@ url: /uk/jasperreports/getting-started/evaluate-aspose-cad/
 
 Оцінкова версія Aspose.CAD для JasperReports (без зазначеної ліцензії) надає функціональність продукту до певної міри, але не повністю. Одним з обмежень є те, що вона завжди вставляє водяний знак оцінки у вихідні файли.
 
-![Aspose.CAD для прикладу експорту JasperReports](/_assets/jasper/AreaChartReport.jpg)
+![Aspose.CAD для прикладу експорту JasperReports](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **Рисунок:** Попередження про оцінку
 

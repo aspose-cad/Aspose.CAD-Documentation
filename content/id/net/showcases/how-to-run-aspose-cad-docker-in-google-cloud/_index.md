@@ -120,11 +120,11 @@ dotnet run
 1. Masuk ke Google Cloud.
 1. Buat proyek jika belum ada.
 1. Pergi ke 'Artifact Registry' dan buat repositori.<br>
-![Buat Repositori Artefak](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Buat Repositori Artefak](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Pilih repositori baru di Artifact Registry.
-![Pilih repositori artefak](/_assets/showcases/google/select-artifact.png)<br>
+![Pilih repositori artefak](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. Klik 'INSTRUKSI SETUP' dan salin perintah 'Konfigurasi Docker'.<br>
-![INSTRUKSI SETUP](/_assets/showcases/google/setup-instruction.png)<br>
+![INSTRUKSI SETUP](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Tambahkan entri credHelper Docker ke file konfigurasi Docker, atau buat file jika belum ada.
 {{< highlight plain >}}
 //contoh
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Pergi ke Cloud Run.
 1. Buat layanan Cloud Run.<br>
-![Buat layanan Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Buat layanan Cloud Run](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. Di field URL Gambar Kontainer, pilih kontainer dari 'ARTIFAK REGISTRY'.<br>
-![URL Gambar Kontainer](/_assets/showcases/google/container-url.png)<br>
+![URL Gambar Kontainer](/cad/_assets/showcases/google/container-url.png)<br>
 1. Periksa pengaturan lainnya seperti di bawah ini.<br>
-![Pengaturan layanan](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Pengaturan layanan](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Tunggu hingga penyebaran selesai.
 1. URL layanan untuk berfungsi dengan aplikasi konversi.<br>
-![Url layanan](/_assets/showcases/google/url-service.png)<br>
+![Url layanan](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Mengonfigurasi Dockerfile
 
@@ -202,7 +202,7 @@ Di atas adalah Dockerfile sederhana, yang berisi instruksi berikut:
 ## Contoh Eksekusi
 
 1. Pengaturan Postman.<br>
-![Menu Ikhtisar](/_assets/showcases/google/postman-settings.png)<br>
+![Menu Ikhtisar](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Pilih file DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Klik tombol kirim.
 

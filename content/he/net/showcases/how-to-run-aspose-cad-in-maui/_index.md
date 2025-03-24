@@ -27,22 +27,22 @@ url: /he/net/showcases/how-to-run-aspose-cad-in-maui/
 
 1. כדי ליצור אפליקציות .NET MAUI, תצטרך את הגרסה האחרונה של Visual Studio 2022
 1. או להתקין את Visual Studio, או לשנות את ההתקנה הקיימת שלך, ולהתקין את חבילת הפיתוח של .NET MAUI עם אפשרויות ההתקנה האופציונליות המוגדרות כברירת מחדל:<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## יצירת פרויקט
 
 1. הפעל את Visual Studio. בחלון ההתחלה, לחץ על צור פרויקט חדש על מנת ליצור פרויקט חדש:<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. בחלון צור פרויקט חדש, בחר MAUI בתפריט סוגי פרויקטים, בחר בתבנית .NET MAUI App, ולחץ על כפתור הבא:<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. בחלון הגדר את הפרויקט החדש שלך, תן שם לפרויקט שלך, בחר מקום מתאים עבורו, ולחץ על כפתור הבא:<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. בחלון מידע נוסף, בחר את גרסת .NET שתרצה להתמקד בה ולחץ על כפתור יצירה:<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. המתן להיווצרות הפרויקט והחזרת התלויות שלו
 1. התקן את הגרסה האחרונות של Aspose.CAD מ-NuGet:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. החלף את הקוד ב-MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## ניפוי באגים במכונת Windows
 
 1. בסרגל הכלים של Visual Studio, השתמש בתפריט היעד של ההגנה כדי לבחור Framework ואחר כך את הרישום net7.0-windows:<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. בסרגל הכלים של Visual Studio, לחץ על כפתור Windows Machine כדי לבנות ולהפעיל את האפליקציה:<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. באפליקציה הפועלת, לחץ על כפתור "בחר קובץ" כמה פעמים ושמור שהתוצאה של מספר הלחיצות על הכפתור מתעדכנת:<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. בחר את הקובץ הנדרש ולחץ על פתח:<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. לאחר עיבוד הקובץ, התמונה של הקובץ המומר צריכה להופיע על המסך:<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## התקנת אמולטור אנדרואיד
 
 1. בסרגל הכלים של Visual Studio, השתמש בתפריט היעד של ההגנה כדי לבחור אנדרואיד אמולטורים ולאחר מכן את רישום האמולטור אנדרואיד
 1. בסרגל הכלים של Visual Studio, לחץ על כפתור האמולטור אנדרואיד:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. בחלון הסכם רישוי של Android SDK, לחץ על כפתור קבל:<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. בחלון הסכם רישוי של Android SDK, לחץ על כפתור קבל:<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. בחלון בקרת חשבון המשתמש, לחץ על כפתור כן:<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. בחלון קבלת רישוי, לחץ על כפתור קבל:<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. בסרגל הכלים של Visual Studio, לחץ על כפתור האמולטור אנדרואיד:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. בחלון בקרת חשבון המשתמש, לחץ על כפתור כן:<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. בחלון מכשיר חדש, לחץ על כפתור צור:<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. סגור את חלון מנהל המכשירים של אנדרואיד
 
 
 ## ניפוי באגים עם אמולטור אנדרואיד
 
 1. בסרגל הכלים של Visual Studio, לחץ על כפתור Pixel 5 - API 33 (Android 13.0 - API 33) כדי לבנות ולהפעיל את האפליקציה:<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. באפליקציה הפועלת באמולטור אנדרואיד, לחץ על כפתור "בחר קובץ" מספר פעמים ושמור שהספירה של מספר הלחיצות על הכפתור מתעדכנת:<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. בחר את הקובץ הנדרש ולחץ על בחר:<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. לאחר עיבוד הקובץ, התמונה של הקובץ המומר צריכה להופיע על המסך:<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## דוגמאות נוספות

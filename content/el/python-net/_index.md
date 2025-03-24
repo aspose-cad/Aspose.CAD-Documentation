@@ -11,7 +11,7 @@ is_root: false
 
 ## **Καλώς ήρθατε στο Aspose.CAD για Python**
 
-![Λογότυπο προϊόντος Aspose.CAD για Python](/_assets/home_4.png)
+![Λογότυπο προϊόντος Aspose.CAD για Python](/cad/_assets/home_4.png)
 
 Το Aspose.CAD για Python είναι η μοναδική λύση στην αγορά που επιτρέπει την εξαγωγή αναφορών από Python σε διάφορες μορφές αρχείων εικόνας vector και raster, όπως PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD και τη λειτουργία με διάφορες μορφές αρχείων CAD και BIM: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

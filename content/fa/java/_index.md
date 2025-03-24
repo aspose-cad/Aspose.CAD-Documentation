@@ -11,7 +11,7 @@ is_root: false
 
 ## **به Aspose.CAD برای جاوا خوش آمدید**
 
-![Aspose.CAD for Java Product Logo](/_assets/home_2.png)
+![Aspose.CAD for Java Product Logo](/cad/_assets/home_2.png)
 
 Aspose.CAD برای جاوا کتابخانه API سازگار با نسخه 1.6 جاوا است که به توسعه دهندگان این امکان را می‌دهد تا فایل‌های تصویری مختلف CAD یا BIM مانند DWG، DXF، DWT، DGN، DWF، DWFX، IFC، STL، IGES، PLT، CF2، OBJ، HPGL، IGS را پردازش و تبدیل کنند. فرمت‌های خروجی پشتیبانی شده شامل انواع مختلف فرمت‌های فایل تصویری و وکتور است: PDF، WMF، SVG، EMF، BMP، GIF، JPG، JPEG، DICOM، WEBP، JP2، JPEG2000، PNG، TIFF، PSD. نیازی به نصب نرم‌افزار AutoCAD یا دیگر نرم‌افزارهای CAD نیست.
 مجموعه غنی از ویژگی‌ها وجود دارد، مانند تبدیل لایه‌ها و طرح‌بندی‌های انتخاب شده، تنظیم کیفیت فایل خروجی و پیگیری روند صادرات. API به شدت مقیاس‌پذیر است و دارای عملکردی با سرعت فوق‌العاده است.

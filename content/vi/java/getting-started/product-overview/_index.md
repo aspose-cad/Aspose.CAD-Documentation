@@ -36,7 +36,7 @@ Một cái nhìn tổng quát về khả năng chuyển đổi, hiển thị và
 
 Aspose.CAD cho Java hỗ trợ các định dạng DWG, DWF, DXF, DWT, PDF và hình ảnh Raster phổ biến.
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **Hỗ Trợ DXF / DWG / DGN**
 - Khối 3D (Hình nón, Hình cầu, Hình vòng, Hình trụ, Hộp, Hình chóp)
 ### **Hỗ Trợ DXF / DWG**

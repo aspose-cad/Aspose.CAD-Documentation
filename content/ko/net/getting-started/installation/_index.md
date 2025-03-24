@@ -9,7 +9,7 @@ url: /ko/net/getting-started/installation/
 
 NuGet은 Aspose APIs for .NET을 다운로드하고 설치하는 가장 쉬운 방법입니다. Microsoft Visual Studio와 NuGet 패키지 관리자를 엽니다. "aspose"를 검색하여 원하는 Aspose API를 찾습니다. "설치"를 클릭하면 선택한 API가 다운로드되어 프로젝트에 참조됩니다.
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **.NET 프로젝트에서 Aspose.CAD 참조하기**
 
@@ -21,7 +21,7 @@ NuGet은 Aspose APIs for .NET을 다운로드하고 설치하는 가장 쉬운 �
 1. *Aspose.CAD* DLL 파일을 선택하고 **확인** 버튼을 클릭합니다.
 1. *Aspose.CAD* 참조가 프로젝트의 **참조** 노드 아래에 나타납니다.
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **패키지 관리자 콘솔을 사용하여 Aspose.CAD 설치 또는 업데이트하기**
 
@@ -30,23 +30,23 @@ NuGet은 Aspose APIs for .NET을 다운로드하고 설치하는 가장 쉬운 �
 1. Visual Studio에서 솔루션/프로젝트를 엽니다.
 1. 메뉴에서 도구 -> 라이브러리 패키지 관리자 -> 패키지 관리자 콘솔을 선택하여 패키지 관리자 콘솔을 엽니다.
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 “**Install-Package Aspose.CAD**”라는 명령을 입력하고 Enter를 눌러 최신 전체 릴리스를 애플리케이션에 설치합니다. 또는 최신 릴리스에 핫픽스를 포함하여 설치하도록 명령에 "**-prerelease**" 접미사를 추가할 수 있습니다.
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 "다운로드 중인 Aspose.CAD..."라는 팁이 창의 왼쪽 하단에 나타나며 다운로드가 진행 중임을 나타냅니다. 
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 다운로드가 완료되면 다음 확인 메시지를 볼 수 있습니다. [Aspose EULA](https://about.aspose.com/legal/eula)에 익숙하지 않은 경우 URL에 참조된 라이센스를 읽는 것이 좋습니다.
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 이제 Aspose.CAD가 애플리케이션에 성공적으로 추가되고 참조된 것을 확인할 수 있습니다.
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 패키지 관리자 콘솔에서 “**Update-Package Aspose.CAD**”라는 명령을 입력하고 Enter를 눌러 Aspose.CAD 패키지의 업데이트를 확인하고, 존재하는 경우 설치할 수 있습니다. 또한 "-prerelease" 접미사를 추가하여 최신 릴리스를 업데이트할 수 있습니다.
 

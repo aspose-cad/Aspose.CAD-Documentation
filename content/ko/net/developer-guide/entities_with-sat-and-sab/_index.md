@@ -15,7 +15,7 @@ url: /ko/net/developer-guide/entities_with-sat-and-sab/
 
 아래는 내보내기 결과의 예시입니다 (왼쪽 부분에 DWG 파일, 오른쪽에 PDF 결과).
 
-![Export of cone and spheres](/_assets/guide/coneAndSpheres.png)
+![Export of cone and spheres](/cad/_assets/guide/coneAndSpheres.png)
 
 ACIS 엔티티를 내보내기 위해 특별한 옵션이 필요하지 않습니다. 특히 도면이 ACIS 엔티티만 포함하는 경우 도면 크기를 최적화하려면 cadImage.UpdateSize() 함수를 사용하여 초기 도면 치수를 정확하게 조정하는 것을 고려하세요.
 

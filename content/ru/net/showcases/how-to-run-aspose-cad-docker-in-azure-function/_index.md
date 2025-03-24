@@ -21,11 +21,11 @@ url: /ru/net/showcases/how-to-run-aspose-cad-docker-in-azure-function/
 Чтобы создать программу Azure Function, выполните следующие шаги:
 1. После установки Docker убедитесь, что он использует контейнеры Linux (по умолчанию). Если необходимо, выберите опцию Переключиться на контейнеры Linux в меню Docker Desktops.
 1. В Visual Studio создайте Azure Function для .NET 6.<br>
-![Диалог проекта Azure Function для .NET 6](/_assets/showcases/azure/Create-project.png)<br>
+![Диалог проекта Azure Function для .NET 6](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Дополнительная информация.<br>
-![Диалог проекта Azure Function для .NET 6](/_assets/showcases/azure/Additional-information.png)<br>
+![Диалог проекта Azure Function для .NET 6](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Установите последнюю версию Aspose.CAD из NuGet.<br>
-![Aspose.CAD на NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD на NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Поскольку приложение будет запущено на Linux, возможно, вам потребуется установить дополнительные шрифты. Вы можете предпочесть ttf-mscorefonts-installer.
 1. Когда все необходимые зависимости добавлены, напишите простую программу, которая создает эллипс и сохраняет его как изображение:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 Следующий шаг - создать и настроить Dockerfile в корневой папке проекта.
 
 1. Создайте Dockerfile и поместите его рядом с файлом решения вашего приложения. Сохраните это имя файла без расширения (по умолчанию).
-![Корневая папка проекта](/_assets/showcases/azure/root-folder.png)<br>
+![Корневая папка проекта](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. В Dockerfile укажите:
 
 {{< highlight plain >}}
@@ -133,31 +133,31 @@ docker push user/asposefunction:latest
 1. Войдите в Azure.
 1. Выберите услуги Azure.
 1. Выберите Function App и создайте функцию.<br>
-![Кнопка создания функции Azure](/_assets/showcases/azure/create-function.png)<br>
+![Кнопка создания функции Azure](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Повторите основные настройки, как на изображении ниже.<br>
-![Настройки создания функции Azure](/_assets/showcases/azure/create-function-setting.png)<br>
+![Настройки создания функции Azure](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Нажмите 'Просмотреть + создать' -> Создать.
 1. Дождитесь завершения развертывания.
 1. Нажмите кнопку 'Перейти к ресурсу'.<br>
-![Кнопка ресурса](/_assets/showcases/azure/go-to-resource.png)<br>
+![Кнопка ресурса](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Остановите функцию aspose-cad-docker-example.<br>
-![Остановка контейнера](/_assets/showcases/azure/stop-container.png)<br>
+![Остановка контейнера](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Перейдите в меню центра развертывания и сделайте соответствующие настройки.<br>
-![Центр развертывания](/_assets/showcases/azure/deployment-center.png)<br>
+![Центр развертывания](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Сохраните настройки
 1. Скопируйте URL-адрес вебхука из настроек центра развертывания.<br>
-![URL вебхука](/_assets/showcases/azure/webhook-url.png)<br>
+![URL вебхука](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Перейдите в Docker Hub, выберите свой репозиторий и выберите вебхуки.
 1. Вставьте 'URL вебхука' из Azure в URL вебхука Docker Hub и задайте имя.<br>
-![Настройки вебхука в docker](/_assets/showcases/azure/webhook.png)<br>
+![Настройки вебхука в docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Нажмите кнопку создания.
 1. Вернитесь к обзору функции Azure и запустите контейнер.<br>
-![Меню обзора](/_assets/showcases/azure/overview.png)<br>
+![Меню обзора](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Пример выполнения
 
 1. Настройки Postman.<br>
-![Настройки Postman](/_assets/showcases/azure/postman-settings.png)<br>
+![Настройки Postman](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Выберите любой файл DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Нажмите кнопку отправки.
 

@@ -25,16 +25,16 @@ Hãy chắc chắn rằng bạn có quyền đủ để tạo các chức năng 
 
 Để tạo chương trình chức năng AWS Lambda, hãy làm theo các bước sau:
 1. Tạo dự án AWS Lambda.<br>
-![Nút tạo chức năng AWS](/_assets/showcases/aws/create-project.png)<br>
+![Nút tạo chức năng AWS](/cad/_assets/showcases/aws/create-project.png)<br>
 1. Chọn .NET 6(Hình ảnh Container) và nhấn nút 'Hoàn tất'.<br>
-![Nút tạo chức năng container](/_assets/showcases/aws/create-container.png)<br>
+![Nút tạo chức năng container](/cad/_assets/showcases/aws/create-container.png)<br>
 1. Mở AWS Explorer trong Visual Studio (Xem->AWS Explorer).
 1. Thêm hồ sơ xác thực AWS trong AWS Explorer.<br>
-![Hồ sơ xác thực](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![Hồ sơ xác thực](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Nhập ID khóa truy cập và khóa truy cập bí mật, bạn có thể lấy những khóa này trong thông tin đăng ký bảo mật hoặc liên hệ với quản trị viên để nhận tệp csv cho xác thực.<br>
-![Cài đặt hồ sơ tài khoản](/_assets/showcases/aws/account-profile.png)<br>
+![Cài đặt hồ sơ tài khoản](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. Cài đặt các thư viện mới nhất từ NuGet.<br>
-![Trình quản lý NuGet](/_assets/showcases/aws/nuget-manager.png)<br>
+![Trình quản lý NuGet](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. Ví dụ mã để chuyển đổi hình ảnh cad thành tệp pdf.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Chỉnh sửa DockerFile như trong phần <a href="#configuring-a-dockerfile">Cấu hình Dockerfile</a>.
 1. Khởi động Docker Desktop.
 1. Xuất bản lên AWS Lambda.<br>
-![Xuất bản aws lambda](/_assets/showcases/aws/publish-aws.png)<br>
+![Xuất bản aws lambda](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. Chỉnh sửa cấu hình tải lên.<br>
-![Tải lên aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![Tải lên aws lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Nhấn nút 'Tải lên'.<br>
-![Tải lên aws lambda hoàn tất](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![Tải lên aws lambda hoàn tất](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Đi đến AWS và chọn Lambda.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Chọn chức năng mới của bạn và tạo url cho chức năng.<br>
-![Cấu hình url chức năng](/_assets/showcases/aws/create-function-url.png)<br>
+![Cấu hình url chức năng](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. Chọn loại xác thực
 - AWS_IAM - Chỉ người dùng và vai trò IAM được xác thực mới có thể thực hiện yêu cầu đến URL chức năng của bạn.
 - NONE - Lambda sẽ không thực hiện xác thực IAM trên các yêu cầu đến URL chức năng của bạn. Điểm cuối URL sẽ công khai trừ khi bạn triển khai logic xác thực của riêng mình trong chức năng của bạn.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## Ví dụ thực thi
 
 1. Cài đặt Postman.<br>
-![Menu tổng quan](/_assets/showcases/aws/postman-settings.png)<br>
+![Menu tổng quan](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. Chọn bất kỳ tệp DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG nào.
 1. Nhấn nút gửi.
 

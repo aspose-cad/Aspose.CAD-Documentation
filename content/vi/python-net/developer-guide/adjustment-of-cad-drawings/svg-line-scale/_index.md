@@ -19,6 +19,6 @@ Bạn có thể kiểm soát tỷ lệ của các đường trong tệp SVG, th�
 
 ## Một tệp sử dụng tỷ lệ tuyến tính
 1. Tệp nếu tham số LineScale được đặt thành 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Tệp nếu bạn không sử dụng tỷ lệ đường.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

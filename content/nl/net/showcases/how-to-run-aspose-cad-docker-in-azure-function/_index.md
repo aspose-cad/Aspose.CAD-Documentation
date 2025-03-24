@@ -21,11 +21,11 @@ In dit voorbeeld maakt u een eenvoudige conversiefunctie die een CAD-bestand omz
 Om het Azure Function-programma te maken, volgt u de onderstaande stappen:
 1. Zodra Docker is geïnstalleerd, moet u ervoor zorgen dat het Linux-containers gebruikt (standaard). Indien nodig, selecteer de optie 'Schakel over naar Linux-containers' in het menu van Docker Desktop.
 1. Maak in Visual Studio een NET 6 Azure Function.<br>
-![Een NET 6 Azure Function-projectdialoog](/_assets/showcases/azure/Create-project.png)<br>
+![Een NET 6 Azure Function-projectdialoog](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Aanvullende informatie.<br>
-![Een NET 6 Azure Function-projectdialoog](/_assets/showcases/azure/Additional-information.png)<br>
+![Een NET 6 Azure Function-projectdialoog](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Installeer de nieuwste versie van Aspose.CAD van NuGet.<br>
-![Aspose.CAD op NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD op NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Aangezien de applicatie op Linux wordt uitgevoerd, moet u mogelijk extra lettertypen installeren. U kunt de ttf-mscorefonts-installer gebruiken.
 1. Wanneer alle vereiste afhankelijkheden zijn toegevoegd, schrijft u een eenvoudig programma dat een ellips maakt en deze opslaat als een afbeelding:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 De volgende stap is om de Dockerfile in de rootprojectmap te maken en te configureren.
 
 1. Maak de Dockerfile en plaats deze naast het oplossingbestand van uw applicatie. Houd deze bestandsnaam zonder extensie (de standaard).
-![Root projectmap](/_assets/showcases/azure/root-folder.png)<br>
+![Root projectmap](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. Specificeer in de Dockerfile:
 
 {{< highlight plain >}}
@@ -133,31 +133,31 @@ docker push user/asposefunction:latest
 1. Log in op Azure.
 1. Kies Azure-services.
 1. Kies Function App en maak een functie.<br>
-![Azure maak functieknop](/_assets/showcases/azure/create-function.png)<br>
+![Azure maak functieknop](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Herhaal de basisinstellingen zoals in de afbeelding hieronder.<br>
-![Azure maak functie-instellingen](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure maak functie-instellingen](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Klik op 'Review + create' -> Maak.
 1. Wacht tot de implementatie is voltooid.
 1. Klik op de knop 'Ga naar resource'.<br>
-![Resource-knop](/_assets/showcases/azure/go-to-resource.png)<br>
+![Resource-knop](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Stop de aspose-cad-docker-example-functie.<br>
-![Stop container](/_assets/showcases/azure/stop-container.png)<br>
+![Stop container](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Ga naar het menu implementatiecentrum en maak de juiste instellingen.<br>
-![Implementatiecentrum](/_assets/showcases/azure/deployment-center.png)<br>
+![Implementatiecentrum](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Sla instellingen op
 1. Kopieer de Webhook-URL vanuit de instellingen van het implementatiecentrum.<br>
-![Webhook-url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook-url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Ga naar Docker Hub, selecteer uw repository en selecteer webhooks.
 1. Plak de 'Webhook-url' van Azure in de Docker Hub-webhook-URL en stel de naam in.<br>
-![Webhook-instellingen in Docker](/_assets/showcases/azure/webhook.png)<br>
+![Webhook-instellingen in Docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Klik op de knop Aanmaken.
 1. Ga terug naar het overzicht van de azure-functie en start de container.<br>
-![Overzicht menu](/_assets/showcases/azure/overview.png)<br>
+![Overzicht menu](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Voorbeeld van uitvoering
 
 1. Postman-instellingen.<br>
-![Overzicht menu](/_assets/showcases/azure/postman-settings.png)<br>
+![Overzicht menu](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Selecteer elk DXF-, DWG-, DGN-, DWF-, DWFX-, IFC-, STL-, DWT-, IGES-, PLT-, CF2-, OBJ-, HPGL-, IGS-, PCL-, FBX-, PDF-, SVG-bestand.
 1. Klik op de verzendknop.
 

@@ -38,7 +38,7 @@ Přehled hlavních konverzních, vykreslovacích a zpravodajských schopností A
 
 Aspose.CAD pro Javu podporuje oblíbené formáty DWG, DWF, DXF, DWT, PDF a rastrové obrázky.
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 
 ### **Podpora pro DXF / DWG / DGN**
 - 3D Tvary (Klín, Kružnice, Koule, Válec, Krabice, Hranol)

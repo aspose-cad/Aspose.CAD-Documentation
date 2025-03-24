@@ -36,7 +36,7 @@ url: /el/java/getting-started/product-overview/
 
 Το Aspose.CAD για Java υποστηρίζει τα δημοφιλή DWG, DWF, DXF, DWT, PDF και Raster εικόνες.
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **Υποστήριξη για DXF / DWG / DGN**
 - 3D Στερεά (Κωνικό, Σφαίρα, Τοίχος, Κύλινδρος, Κουτί, Λεπτό)
 ### **Υποστήριξη για DXF / DWG**

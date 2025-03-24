@@ -20,9 +20,9 @@ url: /bg/net/developer-guide/blind-watermark/
 Пример за външния вид на файл, използващ текст за сляпо водно знаме.
 
 1. Файлът преди добавяне на текстовото сляпо водно знаме<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. Резултатът от добавянето на текстовото сляпо водно знаме<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **Използване на друго изображение като сляпо водно знаме**
 
@@ -35,6 +35,6 @@ url: /bg/net/developer-guide/blind-watermark/
 Пример за визуализация на файл, използващ друго изображение за добавяне на сляпо водно знаме.
 
 1. Файлът преди добавяне на изображението като сляпо водно знаме<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. Резултатът след добавяне на изображението като сляпо водно знаме<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

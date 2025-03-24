@@ -15,7 +15,7 @@ Bizonyos entitások az ACIS SAT/SAB formátumban tárolják struktúrájuk adata
 
 Alább látható az exportálási eredmény példája (DWG fájl a bal oldalon, PDF eredmény a jobb oldalon).
 
-![Kúp és gömbök exportálása](/_assets/guide/coneAndSpheres.png)
+![Kúp és gömbök exportálása](/cad/_assets/guide/coneAndSpheres.png)
 
 Az ACIS entitások exportálása nem igényel különálló beállításokat. A rajz méretének optimalizálása érdekében, különösen ha a rajz kizárólag ACIS entitásokat tartalmaz, érdemes megfontolni a cadImage.updateSize() függvény használatát a kezdeti rajzdimenziók pontos beállításához.
 

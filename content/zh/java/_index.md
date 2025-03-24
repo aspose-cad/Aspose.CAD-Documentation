@@ -11,7 +11,7 @@ is_root: false
 
 ## **欢迎使用 Aspose.CAD for Java**
 
-![Aspose.CAD for Java 产品logo](/_assets/home_2.png)
+![Aspose.CAD for Java 产品logo](/cad/_assets/home_2.png)
 
 Aspose.CAD for Java 是一个与 Java 1.6 兼容的 API 库，允许开发人员处理和转换各种 CAD 或 BIM 绘图文件，如 DWG、DXF、DWT、DGN、DWF、DWFX、IFC、STL、IGES、PLT、CF2、OBJ、HPGL、IGS。支持的输出类型是不同的光栅和矢量文件格式：PDF、WMF、SVG、EMF、BMP、GIF、JPG、JPEG、DICOM、WEBP、JP2、JPEG2000、PNG、TIFF、PSD。无需安装 AutoCAD 或其他 CAD 软件。
 有丰富的功能集，例如选定图层和布局的转换、输出文件质量的调整和导出进度跟踪。API 具有高度可扩展性和快速的性能。

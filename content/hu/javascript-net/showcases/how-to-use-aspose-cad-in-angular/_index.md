@@ -122,10 +122,10 @@ A --open kapcsoló megnyit egy böngészőt a http://localhost:4200 címen.
 ## Végrehajtási példa
 
 1. Válassza ki a fájlt.<br>
-![Fájl kiválasztása](/_assets/javascript-net/angular/choose-file.png)<br>
+![Fájl kiválasztása](/cad/_assets/javascript-net/angular/choose-file.png)<br>
 1. Válasszon ki bármilyen DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG fájlt.
 1. Ha a válasz sikeres, a fájl megjelenik a képernyőn és letöltési lehetőséget kínál.<br>
-![Kép átkonvertálása](/_assets/javascript-net/angular/convert-image.png)<br>
+![Kép átkonvertálása](/cad/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## További információk
 

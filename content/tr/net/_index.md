@@ -11,7 +11,7 @@ is_root: false
 
 ## **Aspose.CAD for .NET'e Hoşgeldiniz**
 
-![Aspose.CAD for .NET Ürün Logosu](/_assets/home_1.png)
+![Aspose.CAD for .NET Ürün Logosu](/cad/_assets/home_1.png)
 
 Aspose.CAD for .NET, AutoCAD veya herhangi bir ek yazılım kullanmadan herhangi bir CAD veya BIM çizim dosyasını çeşitli vektör ve raster görüntü dosya formatlarına okuma, değiştirme, işleme ve dışa aktarma imkanı sunan, .NET Framework, .Net Core ve Xamarin ile uyumlu kurumsal düzeyde bir API kütüphanesidir.
 Çoklu iş parçacığı güvenlidir, farklı işletim sistemlerinde çalıştırılabilir, dışa aktarma ilerlemesini takip etmeyi ve ayrı katmanlar ile düzenleri işlemeyi sağlar. İptal desteği vardır.

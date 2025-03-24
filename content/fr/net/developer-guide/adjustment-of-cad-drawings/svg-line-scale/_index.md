@@ -17,6 +17,6 @@ Vous pouvez contrôler l'échelle des lignes dans le fichier SVG, la bibliothèq
 
 ## Un fichier utilisant une échelle linéaire
 1. Le fichier si le paramètre LineScale est défini sur 0,25.<br>
-![Image d'entrée](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Image d'entrée](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Fichier si vous n'utilisez pas d'échelle de ligne.<br>
-![Image d'entrée](/_assets/guide/svg/basic_options.png)<br>
+![Image d'entrée](/cad/_assets/guide/svg/basic_options.png)<br>

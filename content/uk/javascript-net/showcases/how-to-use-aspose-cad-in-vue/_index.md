@@ -136,10 +136,10 @@ npm run dev
 ## Приклад виконання
 
 1. Виберіть файл.<br>
-![Виберіть файл](/_assets/javascript-net/vue/choose-file.png)<br>
+![Виберіть файл](/cad/_assets/javascript-net/vue/choose-file.png)<br>
 1. Виберіть будь-який файл DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Якщо відповідь успішна, файл буде відображено на екрані, і ви зможете його завантажити.<br>
-![Перетворити зображення](/_assets/javascript-net/vue/convert-image.png)<br>
+![Перетворити зображення](/cad/_assets/javascript-net/vue/convert-image.png)<br>
 
 ## Також дивіться
 

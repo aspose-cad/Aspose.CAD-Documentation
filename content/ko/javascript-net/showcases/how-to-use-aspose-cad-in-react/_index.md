@@ -94,10 +94,10 @@ npm start
 ## 실행 예
 
 1. 파일을 선택하세요.<br>
-![파일 선택](/_assets/javascript-net/react/choose-file.png)<br>
+![파일 선택](/cad/_assets/javascript-net/react/choose-file.png)<br>
 1. DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG 파일 중 하나를 선택하세요.
 1. 응답이 성공적이면 파일이 화면에 표시되고 다운로드할 것을 제안합니다.<br>
-![이미지 변환](/_assets/javascript-net/react/convert-image.png)<br>
+![이미지 변환](/cad/_assets/javascript-net/react/convert-image.png)<br>
 
 ## 추가 정보
 

@@ -88,10 +88,10 @@ npm run serve
 ## Exemple d'exécution
 
 1. Choisissez un fichier.<br>
-![Choisir un fichier](/_assets/javascript-net/javascript-net/choose-file.png)<br>
+![Choisir un fichier](/cad/_assets/javascript-net/javascript-net/choose-file.png)<br>
 1. Sélectionnez n'importe quel fichier DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Si la réponse est réussie, le fichier sera affiché à l'écran et proposera de le télécharger.<br>
-![Convertir l'image](/_assets/javascript-net/javascript-net/convert-image.png)<br>
+![Convertir l'image](/cad/_assets/javascript-net/javascript-net/convert-image.png)<br>
 ## Voir aussi
 
 - [Installer Visual Code](https://code.visualstudio.com/)

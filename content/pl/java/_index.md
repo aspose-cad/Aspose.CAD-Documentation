@@ -11,7 +11,7 @@ is_root: false
 
 ## **Witamy w Aspose.CAD dla Javy**
 
-![Aspose.CAD for Java Product Logo](/_assets/home_2.png)
+![Aspose.CAD for Java Product Logo](/cad/_assets/home_2.png)
 
 Aspose.CAD dla Javy to API kompatybilne z wersją 1.6 Javy, które pozwala deweloperom przetwarzać i konwertować różne pliki rysunków CAD lub BIM, takie jak DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS. Obsługiwane typy wyjściowe to różne formaty plików rastrowych i wektorowych: PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD. Nie ma potrzeby instalowania AutoCAD lub innego oprogramowania CAD.
 Istnieje bogaty zestaw funkcji, takich jak konwersja wybranych warstw i układów, dostosowanie jakości pliku wyjściowego oraz śledzenie postępu eksportu. API jest wysoce skalowalne i ma błyskawiczną wydajność.

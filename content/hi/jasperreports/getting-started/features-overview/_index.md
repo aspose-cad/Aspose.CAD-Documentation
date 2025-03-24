@@ -7,7 +7,7 @@ url: /hi/jasperreports/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for JasperReports Product Logo](/_assets/home_3.png)
+![Aspose.CAD for JasperReports Product Logo](/cad/_assets/home_3.png)
 
 Aspose.CAD for JasperReports बाजार में एकमात्र समाधान है जो JasperReports से विभिन्न वेक्टर और रास्टर इमेज फ़ाइल प्रारूपों जैसे PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD को निर्यात करना संभव बनाता है और विभिन्न CAD और BIM फ़ाइल प्रारूपों के साथ काम करता है: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

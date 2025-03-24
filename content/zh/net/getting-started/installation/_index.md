@@ -9,7 +9,7 @@ url: /zh/net/getting-started/installation/
 
 NuGet 是下载和安装 Aspose .NET API 的最简单方式。打开 Microsoft Visual Studio 和 NuGet 包管理器。搜索“aspose”以找到所需的 Aspose API。单击“安装”，选择的 API 将被下载并在您的项目中引用。
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **从 .NET 项目引用 Aspose.CAD**
 
@@ -21,7 +21,7 @@ NuGet 是下载和安装 Aspose .NET API 的最简单方式。打开 Microsoft V
 1. 选择 *Aspose.CAD* DLL 文件并单击 **确定** 按钮。
 1. *Aspose.CAD* 引用将出现在您项目的 **引用** 节点下。
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **使用包管理器控制台安装或更新 Aspose.CAD**
 
@@ -30,23 +30,23 @@ NuGet 是下载和安装 Aspose .NET API 的最简单方式。打开 Microsoft V
 1. 在 Visual Studio 中打开您的解决方案/项目。
 1. 从菜单中选择工具 -> 库包管理器 -> 包管理器控制台以打开包管理器控制台。
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 输入命令“**Install-Package Aspose.CAD**”并按回车安装最新的完整版本到您的应用程序中。或者，您可以在命令中添加“**-prerelease**”后缀，以指定要安装最新的包含热修复的版本。
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 您将看到“正在下载 Aspose.CAD...”的提示出现在窗口左下方，表示下载正在进行中。
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 下载完成后，您将看到以下确认消息。如果您对 [Aspose EULA](https://about.aspose.com/legal/eula) 不熟悉，最好阅读 URL 中引用的许可证。
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 您现在应该发现 Aspose.CAD 已成功添加并在您的应用程序中引用。
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 在包管理器控制台中，您还可以使用命令“**Update-Package Aspose.CAD**”并按回车检查 Aspose.CAD 包的任何更新并安装它们（如果存在）。您还可以添加“-prerelease”后缀以更新最新版本。
 

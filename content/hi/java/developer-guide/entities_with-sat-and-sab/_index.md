@@ -15,7 +15,7 @@ url: /hi/java/developer-guide/entities_with-sat-and-sab/
 
 नीचे निर्यात परिणाम का उदाहरण दिया गया है (DWG फ़ाइल बाएं भाग में, PDF परिणाम दाएं).
 
-![Export of cone and spheres](/_assets/guide/coneAndSpheres.png)
+![Export of cone and spheres](/cad/_assets/guide/coneAndSpheres.png)
 
 ACIS संस्थाओं का निर्यात करने के लिए किसी विशेष विकल्प की आवश्यकता नहीं होती है। ड्राइंग के आकार का अनुकूलन करने के लिए, विशेष रूप से जब ड्राइंग पूरी तरह से ACIS संस्थाओं से बनी हो, cadImage.updateSize() फ़ंक्शन का उपयोग करें ताकि प्रारंभिक ड्राइंग आयामों को सटीकता से समायोजित किया जा सके।
 

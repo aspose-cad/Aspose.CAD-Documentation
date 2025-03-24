@@ -38,7 +38,7 @@ Aspose.CAD สำหรับ Java ช่วยให้นักพัฒนา
 
 Aspose.CAD สำหรับ Java รองรับไฟล์ DWG, DWF, DXF, DWT, PDF และภาพ Raster ที่นิยม
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **การรองรับสำหรับ DXF / DWG / DGN**
 - 3D Solids (Conic, Sphere, Torus, Cylinder, Box, Wedge)
 ### **การรองรับสำหรับ DXF / DWG**

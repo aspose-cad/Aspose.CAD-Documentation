@@ -7,7 +7,7 @@ url: /he/net/getting-started/product-overview/
 
 **ברוך הבא ל-Aspose.CAD עבור .NET**
 
-![todo:image_alt_text](/_assets/home_1.png)
+![todo:image_alt_text](/cad/_assets/home_1.png)
 
 Aspose.CAD עבור .NET מאפשר למפתחים להמיר קבצי AutoCAD DWG, DWF, DWT ו-DXF ל-PDF ודימויים רסטר. זו API מקומית ואינה דורשת התקנת AutoCAD או תוכנה כלשהי. אתה יכול גם להמיר את השכבות והפריסות הנבחרות מתוך קבצי AutoCAD. ההמרה ל-PDF ודימויים רסטר היא באיכות גבוהה מאוד.
 
@@ -21,7 +21,7 @@ Aspose.CAD עבור .NET מאפשר למפתחים להמיר קבצי AutoCAD D
 ## **במבט חטוף**
 סקירה כללית על יכולות ההמרה, ההצגה והדיווח העיקריות של Aspose.CAD עבור .NET.
 
-![todo:image_alt_text](/_assets/net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/net/product-overview_2.png)
 ## **תכונות API מתקדמות**
 - תומך בגרסאות האחרונות של קבצי AutoCAD DWG, DWF, DWT ו-DXF
 - המרת קבצי AutoCAD ל-PDF באיכות גבוהה
@@ -35,4 +35,4 @@ Aspose.CAD עבור .NET תומך
 - .NET Framework (כולל יישום ASP.NET ויישום Windows.)
 - .NET Core
 
-![todo:image_alt_text](/_assets/net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/net/product-overview_3.png)

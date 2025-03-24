@@ -11,7 +11,7 @@ is_root: false
 
 ## **Aspose.CAD for Pythonへようこそ**
 
-![Aspose.CAD for Python製品ロゴ](/_assets/home_4.png)
+![Aspose.CAD for Python製品ロゴ](/cad/_assets/home_4.png)
 
 Aspose.CAD for Pythonは、市場で唯一、Pythonからさまざまなベクターおよびラスタ画像ファイル形式（PDF、WMF、SVG、EMF、BMP、GIF、JPG、JPEG、DICOM、WEBP、JP2、JPEG2000、PNG、TIFF、PSD）へレポートをエクスポートでき、さまざまなCADおよびBIMファイル形式（DWG、DXF、DWT、DGN、DWF、DWFX、IFC、STL、IGES、PLT、CF2、OBJ、HPGL、IGS）を操作できます。
 

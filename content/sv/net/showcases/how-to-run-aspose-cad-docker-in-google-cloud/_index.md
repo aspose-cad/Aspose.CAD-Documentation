@@ -120,11 +120,11 @@ dotnet run
 1. Logga in på Google Cloud.
 1. Skapa ett projekt om det inte redan finns.
 1. Gå till 'Artifact Registry' och skapa ett repository.<br>
-![Skapa Artifact Repository](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Skapa Artifact Repository](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Välj nytt repository i Artifact Registry.
-![Välj artefaktrepository](/_assets/showcases/google/select-artifact.png)<br>
+![Välj artefaktrepository](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. Klicka på 'INSTALLATIONSANVISNINGAR' och kopiera kommandot 'Konfigurera Docker'.<br>
-![INSTALLATIONSANVISNINGAR](/_assets/showcases/google/setup-instruction.png)<br>
+![INSTALLATIONSANVISNINGAR](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Lägg till en Docker credHelper-post i Docks konfigurationsfil, eller skapa filen om den inte finns.
 {{< highlight plain >}}
 //exempel
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Gå till Cloud Run.
 1. Skapa Cloud Run-tjänst.<br>
-![Skapa Cloud Run-tjänst](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Skapa Cloud Run-tjänst](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. I fältet Container Image URL, välj containern från 'ARTIFAKTREPOSITORY'.<br>
-![Containern bild URL](/_assets/showcases/google/container-url.png)<br>
+![Containern bild URL](/cad/_assets/showcases/google/container-url.png)<br>
 1. Kontrollera andra inställningar enligt nedan.<br>
-![Inställningar för tjänst](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Inställningar för tjänst](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Vänta på att distributionen ska slutföras.
 1. Tjänstens URL för att arbeta med konverteringsapplikationen.<br>
-![Url tjänst](/_assets/showcases/google/url-service.png)<br>
+![Url tjänst](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Konfigurera en Dockerfile
 
@@ -202,7 +202,7 @@ Ovanstående är en enkel Dockerfile, som innehåller följande instruktioner:
 ## Exempel på körning
 
 1. Postman-inställningar.<br>
-![Översiktsmeny](/_assets/showcases/google/postman-settings.png)<br>
+![Översiktsmeny](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Välj vilken DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG-fil som helst.
 1. Klicka på knappen skicka.
 

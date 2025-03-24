@@ -21,11 +21,11 @@ In this example, you create a simple conversion function that converts a CAD fil
 To create the Azure Function program, follow the steps below:
 1. Once Docker is installed, make sure that it uses Linux Containers (default). If necessary, select the Switch to Linux containers option from the Docker Desktops menu.
 1. In Visual Studio, create a NET 6 Azure Function.<br>
-![A NET 6 Azure Function project dialog](/_assets/showcases/azure/Create-project.png)<br>
+![A NET 6 Azure Function project dialog](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Additional information.<br>
-![A NET 6 Azure Function project dialog](/_assets/showcases/azure/Additional-information.png)<br>
+![A NET 6 Azure Function project dialog](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Install the latest Aspose.CAD version from NuGet.<br>
-![Aspose.CAD on NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD on NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Since the application will be run on Linux, you may be needed to install additional fonts. You could prefer ttf-mscorefonts-installer.
 1. When all required dependencies are added, write a simple program that creates an ellipse and saves it as an image:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
  The next step is to create and configure the Dockerfile in root project folder.
 
 1. Create the Dockerfile and place it next to the solution file of your application. Keep this file name without extension (the default).
-![Root project folder](/_assets/showcases/azure/root-folder.png)<br>
+![Root project folder](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. In the Dockerfile, specify:
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. Login Azure.
 1. Choose Azure services.
 1. Choose Function App and create a function.<br>
-![Azure create function button](/_assets/showcases/azure/create-function.png)<br>
+![Azure create function button](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Repeat the basic settings as in the image below.<br>
-![Azure create function settings](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure create function settings](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Click 'Review + create' -> Create.
 1. Wait for deployment to finish.
 1. Click 'Go to resorce' button.<br>
-![Resource button](/_assets/showcases/azure/go-to-resource.png)<br>
+![Resource button](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Stop aspose-cad-docker-example function.<br>
-![Stop conteiner](/_assets/showcases/azure/stop-container.png)<br>
+![Stop conteiner](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Go to the deployment center menu and make the appropriate settings.<br>
-![Deployment center](/_assets/showcases/azure/deployment-center.png)<br>
+![Deployment center](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Save settings
 1. Copy Webhook URL from deployment center settings.<br>
-![Webhook url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Go to Docker Hub, select your repository and select webhooks.
 1. Paste the 'Webhook url' from Azure into the Docker Hub webhook url and set the name.<br>
-![Webhook settings in docker](/_assets/showcases/azure/webhook.png)<br>
+![Webhook settings in docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Click create button.
 1. Return to overview azure function and start container.<br>
-![Overview menu](/_assets/showcases/azure/overview.png)<br>
+![Overview menu](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Execution example
 
 1. Postman settings.<br>
-![Overview menu](/_assets/showcases/azure/postman-settings.png)<br>
+![Overview menu](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Select any DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG file.
 1. Click the send button.
 

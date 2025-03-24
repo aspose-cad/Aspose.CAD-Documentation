@@ -13,7 +13,7 @@ url: /th/jasperreports/getting-started/evaluate-aspose-cad/
 
 เวอร์ชันสำหรับการประเมินของ Aspose.CAD สำหรับ JasperReports (โดยไม่มีใบอนุญาตกำหนด) ให้ฟังก์ชันการทำงานของผลิตภัณฑ์ในระดับหนึ่งแต่ไม่ครบถ้วน อย่างหนึ่งที่จำกัดคือมันจะใส่ลายน้ำการประเมินในไฟล์ที่ส่งออกเสมอ
 
-![Aspose.CAD สำหรับตัวอย่างการส่งออก JasperReports](/_assets/jasper/AreaChartReport.jpg)
+![Aspose.CAD สำหรับตัวอย่างการส่งออก JasperReports](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **รูป:** คำเตือนการประเมิน
 

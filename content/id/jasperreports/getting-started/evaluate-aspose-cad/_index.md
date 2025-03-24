@@ -13,7 +13,7 @@ Anda dapat dengan mudah mengunduh Aspose.CAD untuk JasperReports untuk evaluasi 
 
 Versi evaluasi Aspose.CAD untuk JasperReports (tanpa lisensi yang ditentukan) menyediakan fungsionalitas produk hingga taraf tertentu meskipun tidak lengkap. Salah satu batasan adalah selalu menyisipkan watermark evaluasi pada file output.
 
-![Aspose.CAD untuk contoh ekspor JasperReports](/_assets/jasper/AreaChartReport.jpg)
+![Aspose.CAD untuk contoh ekspor JasperReports](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **Gambar:** Peringatan Evaluasi
 

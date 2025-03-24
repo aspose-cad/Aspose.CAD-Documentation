@@ -120,10 +120,10 @@ npm run serve
 ## Példa végrehajtásra
 
 1. Válassza ki a fájlt.<br>
-![Fájl kiválasztása](/_assets/javascript-net/typescript/choose-file.png)<br>
+![Fájl kiválasztása](/cad/_assets/javascript-net/typescript/choose-file.png)<br>
 1. Válasszon ki bármilyen DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG fájlt.
 1. Ha a válasz sikeres, a fájl megjelenik a képernyőn, és felajánlja a letöltését.<br>
-![Kép konvertálása](/_assets/javascript-net/typescript/convert-image.png)<br>
+![Kép konvertálása](/cad/_assets/javascript-net/typescript/convert-image.png)<br>
 ## További információk
 
 - [Visual Code telepítése](https://code.visualstudio.com/)

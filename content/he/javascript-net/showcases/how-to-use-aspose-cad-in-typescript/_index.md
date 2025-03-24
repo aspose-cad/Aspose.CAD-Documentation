@@ -120,10 +120,10 @@ npm run serve
 ## דוגמת ביצוע
 
 1. בחר קובץ.<br>
-![בחר קובץ](/_assets/javascript-net/typescript/choose-file.png)<br>
+![בחר קובץ](/cad/_assets/javascript-net/typescript/choose-file.png)<br>
 1. בחר כל קובץ DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. אם התשובה היא מוצלחת, הקובץ יופיע על המסך ויוצע להוריד אותו.<br>
-![המרת תמונה](/_assets/javascript-net/typescript/convert-image.png)<br>
+![המרת תמונה](/cad/_assets/javascript-net/typescript/convert-image.png)<br>
 ## ראו גם
 
 - [התקן את Visual Code](https://code.visualstudio.com/)

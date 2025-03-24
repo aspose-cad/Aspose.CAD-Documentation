@@ -25,16 +25,16 @@ Lambda是一种计算服务，可让您在无需配置或管理服务器的情�
 
 要创建AWS Lambda函数程序，请按照以下步骤操作：
 1. 创建AWS Lambda项目。<br>
-![创建AWS函数按钮](/_assets/showcases/aws/create-project.png)<br>
+![创建AWS函数按钮](/cad/_assets/showcases/aws/create-project.png)<br>
 1. 选择.NET 6（容器镜像）并单击“完成”按钮。<br>
-![创建容器函数按钮](/_assets/showcases/aws/create-container.png)<br>
+![创建容器函数按钮](/cad/_assets/showcases/aws/create-container.png)<br>
 1. 在Visual Studio中打开AWS Explorer（视图->AWS Explorer）。
 1. 在AWS Explorer中添加AWS凭证配置文件。<br>
-![凭证配置文件](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![凭证配置文件](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. 输入访问密钥ID和秘密访问密钥，您可以在安全凭据中获取这些密钥或联系管理员并获取授权的csv文件。<br>
-![账户配置文件设置](/_assets/showcases/aws/account-profile.png)<br>
+![账户配置文件设置](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. 从NuGet安装最新的库。<br>
-![NuGet管理器](/_assets/showcases/aws/nuget-manager.png)<br>
+![NuGet管理器](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. 将cad图像转换为pdf文件的代码示例。
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. 按照<a href="#configuring-a-dockerfile">配置Dockerfile</a>部分的说明编辑DockerFile。
 1. 启动Docker Desktop。
 1. 发布到AWS Lambda。<br>
-![AWS lambda发布](/_assets/showcases/aws/publish-aws.png)<br>
+![AWS lambda发布](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. 编辑上传配置。<br>
-![上传AWS Lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![上传AWS Lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. 点击“上传”按钮。<br>
-![上传AWS Lambda最后](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![上传AWS Lambda最后](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. 转到AWS并选择Lambda。<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. 选择您的新函数并创建URL函数。<br>
-![配置URL函数](/_assets/showcases/aws/create-function-url.png)<br>
+![配置URL函数](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. 选择身份验证类型
 - AWS_IAM - 只有经过身份验证的IAM用户和角色才能请求您的函数URL。
 - NONE - Lambda不会对请求您的函数URL进行IAM身份验证。除非您在函数中实现自己的授权逻辑，否则URL端点将是公开的。
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## 执行示例
 
 1. Postman设置。<br>
-![概述菜单](/_assets/showcases/aws/postman-settings.png)<br>
+![概述菜单](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. 选择任何DXF、DWG、DGN、DWF、DWFX、IFC、STL、DWT、IGES、PLT、CF2、OBJ、HPGL、IGS、PCL、FBX、PDF、SVG文件。
 1. 点击发送按钮。
 

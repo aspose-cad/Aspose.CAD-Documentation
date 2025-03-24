@@ -27,22 +27,22 @@ Ancak bazı farklılıklar da vardır.
 
 1. .NET MAUI uygulamaları oluşturmak için en son Visual Studio 2022 sürümüne ihtiyacınız olacak
 1. Visual Studio'yu kurun veya mevcut kurulumunuzu değiştirin ve varsayılan isteğe bağlı kurulum seçenekleriyle .NET Çoklu Platform Uygulama Arayüzü geliştirme yükünü yükleyin:<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## Proje Oluşturma
 
 1. Visual Studio'yu başlatın. Başlangıç penceresinde, yeni bir proje oluşturmak için Yeni bir proje oluştur'a tıklayın:<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. Yeni bir proje oluştur penceresinde, Tüm proje türleri açılır menüsünden MAUI'yi seçin, .NET MAUI Uygulama şablonunu seçin ve İleri butonuna tıklayın:<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. Yeni projeyi yapılandır penceresinde, projenize bir ad verin, uygun bir konum seçin ve İleri butonuna tıklayın:<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. Ek bilgi penceresinde, hedeflemek istediğiniz .NET sürümünü seçin ve Oluştur butonuna tıklayın:<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. Projeyi oluşturmayı ve bağımlılıklarını geri yüklemeyi bekleyin
 1. NuGet'ten en son Aspose.CAD sürümünü yükleyin:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. MainPage.xaml dosyasındaki kodu değiştirin
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Windows Makinesinde Hata Ayıklama
 
 1. Visual Studio araç çubuğunda, Hedef Drop-down menüsünü kullanarak Framework'ü seçin ve ardından net7.0-windows girişini seçin:<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. Visual Studio araç çubuğunda, uygulamayı oluşturmak ve çalıştırmak için Windows Makinesi butonuna basın:<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. Çalışan uygulamada, "Dosya seç" butonuna birkaç kez basın ve butona tıklama sayısının arttığını gözlemleyin:<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. Gerekli dosyayı seçin ve aç'a tıklayın:<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. Dosya işlendiğinde, ekranınıza dönüştürülen dosyanın bir resmi gelmelidir:<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## Android Emulator Yüklemesi
 
 1. Visual Studio araç çubuğunda, Hedef Drop-down menüsünü kullanarak Android Emulator'ü seçin ve ardından Android Emulator girişini seçin
 1. Visual Studio araç çubuğunda, Android Emulator butonuna basın:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Android SDK - Lisans Sözleşmesi penceresinde, Kabul et butonuna basın:<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. Android SDK - Lisans Sözleşmesi penceresinde, Kabul et butonuna basın:<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. Kullanıcı Hesabı Denetimi penceresinde, Evet butonuna basın:<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. Lisans Kabulü penceresinde, Kabul et butonuna basın:<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. Visual Studio araç çubuğunda, Android Emulator butonuna basın:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Kullanıcı Hesabı Denetimi penceresinde, Evet butonuna basın:<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. Yeni Cihaz penceresinde, Oluştur butonuna basın:<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. Android Cihaz Yöneticisi penceresini kapatın
 
 
 ## Android Emulator ile Hata Ayıklama
 
 1. Visual Studio araç çubuğunda, uygulamayı oluşturmak ve çalıştırmak için Pixel 5 - API 33 (Android 13.0 - API 33) butonuna basın:<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. Android emülatöründeki çalışmakta olan uygulamada, "Dosya seç" butonuna birkaç kez basın ve butona tıklama sayısının arttığını gözlemleyin:<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. Gerekli dosyayı seçin ve seç butonuna tıklayın:<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. Dosya işlendiğinde, ekranınıza dönüştürülen dosyanın bir resmi gelmelidir:<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## Daha Fazla Örnek

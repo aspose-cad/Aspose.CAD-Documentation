@@ -120,11 +120,11 @@ dotnet run
 1. ล็อกอิน Google Cloud
 1. สร้างโปรเจกต์หากยังไม่มี
 1. ไปที่ 'Artifact Registry' และสร้างที่เก็บ<br>
-![สร้างที่เก็บอาร์ติแฟค](/_assets/showcases/google/create-artifact-repository.png)<br>
+![สร้างที่เก็บอาร์ติแฟค](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. เลือกที่เก็บใหม่ใน Artifact Registry
-![เลือกที่เก็บอาร์ติแฟค](/_assets/showcases/google/select-artifact.png)<br>
+![เลือกที่เก็บอาร์ติแฟค](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. คลิก 'SETUP INSTRUCTION' และคัดลอกคำสั่ง 'Configure Docker'<br>
-![SETUP INSTRUCTION](/_assets/showcases/google/setup-instruction.png)<br>
+![SETUP INSTRUCTION](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. เพิ่มรายการ Docker credHelper ลงในไฟล์กำหนดค่าของ Docker หรือสร้างไฟล์หากยังไม่มี
 {{< highlight plain >}}
 //ตัวอย่าง
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. ไปที่ Cloud Run
 1. สร้างบริการ Cloud Run<br>
-![สร้างบริการ Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![สร้างบริการ Cloud Run](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. ในช่อง URL รูปภาพคอนเทนเนอร์ ให้เลือกคอนเทนเนอร์จาก 'ARTIFACT REGISTRY'<br>
-![URL รูปภาพคอนเทนเนอร์](/_assets/showcases/google/container-url.png)<br>
+![URL รูปภาพคอนเทนเนอร์](/cad/_assets/showcases/google/container-url.png)<br>
 1. ตรวจสอบการตั้งค่าอื่น ๆ ตามภาพด้านล่าง<br>
-![การตั้งค่าบริการ](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![การตั้งค่าบริการ](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. รอการปรับใช้ให้เสร็จสิ้น
 1. URL บริการในการทำงานกับแอปพลิเคชันการแปลง<br>
-![Url บริการ](/_assets/showcases/google/url-service.png)<br>
+![Url บริการ](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### การตั้งค่า Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## ตัวอย่างการดำเนินการ
 
 1. การตั้งค่า Postman.<br>
-![เมนูรวม](/_assets/showcases/google/postman-settings.png)<br>
+![เมนูรวม](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. เลือกไฟล์ DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG ใด ๆ
 1. คลิกปุ่มส่ง
 

@@ -20,9 +20,9 @@ url: /fa/net/developer-guide/blind-watermark/
 نمونه‌ای از ظاهر فایلی که از متن برای واترمارک پنهان استفاده می‌کند.
 
 1. فایل قبل از اضافه کردن واترمارک متنی<br>
-![تصویر ورودی](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![تصویر ورودی](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. نتیجه اضافه کردن واترمارک متنی<br>
-![تصویر تعبیه شده](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![تصویر تعبیه شده](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **استفاده از تصویر دیگر به عنوان واترمارک پنهان**
 
@@ -35,6 +35,6 @@ url: /fa/net/developer-guide/blind-watermark/
 نمونه‌ای از مشاهده یک فایل که از تصویر دیگری برای اضافه کردن واترمارک پنهان استفاده می‌کند.
 
 1. فایل قبل از اضافه کردن تصویر به عنوان واترمارک پنهان<br>
-![تصویر ورودی](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![تصویر ورودی](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. نتیجه بعد از اضافه کردن تصویر به عنوان واترمارک پنهان<br>
-![تصویر تعبیه شده](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![تصویر تعبیه شده](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

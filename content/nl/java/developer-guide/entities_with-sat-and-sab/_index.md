@@ -15,7 +15,7 @@ Bepaalde entiteiten slaan hun structurele gegevens op in het ACIS SAT/SAB-formaa
 
 Hieronder is een voorbeeld van het exportresultaat (DWG-bestand aan de linkerkant, PDF-resultaat aan de rechterkant).
 
-![Export van kegel en bollen](/_assets/guide/coneAndSpheres.png)
+![Export van kegel en bollen](/cad/_assets/guide/coneAndSpheres.png)
 
 Het exporteren van ACIS-entiteiten vereist geen speciale opties. Om de tekenafmetingen te optimaliseren, vooral wanneer de tekening uitsluitend ACIS-entiteiten bevat, overweeg dan om de functie cadImage.updateSize() te gebruiken om de beginafmetingen van de tekening nauwkeurig aan te passen.
 

@@ -13,7 +13,7 @@ Vous pouvez facilement télécharger Aspose.CAD pour JasperReports pour évaluat
 
 La version d'évaluation d'Aspose.CAD pour JasperReports (sans licence spécifiée) offre une certaine fonctionnalité de produit, mais celle-ci n'est pas complète. Une limitation est qu'elle injecte toujours le filigrane d'évaluation sur les fichiers de sortie.
 
-![Exemple d'exportation Aspose.CAD pour JasperReports](/_assets/jasper/AreaChartReport.jpg)
+![Exemple d'exportation Aspose.CAD pour JasperReports](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **Figure:** Avertissement d'évaluation
 

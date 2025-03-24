@@ -122,10 +122,10 @@ ng serve komutu:
 ## Uygulama Örneği
 
 1. Dosya seçin.<br>
-![Dosya seçin](/_assets/javascript-net/angular/choose-file.png)<br>
+![Dosya seçin](/cad/_assets/javascript-net/angular/choose-file.png)<br>
 1. Herhangi bir DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG dosyasını seçin.
 1. Cevap başarılıysa, dosya ekranda görüntülenecek ve indirilmesi önerilecektir.<br>
-![Resmi dönüştür](/_assets/javascript-net/angular/convert-image.png)<br>
+![Resmi dönüştür](/cad/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## Ayrıca Bakınız
 

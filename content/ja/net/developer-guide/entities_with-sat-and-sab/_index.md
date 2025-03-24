@@ -15,7 +15,7 @@ url: /ja/net/developer-guide/entities_with-sat-and-sab/
 
 以下はエクスポート結果の例です（左側にDWGファイル、右側にPDF結果）。
 
-![Export of cone and spheres](/_assets/guide/coneAndSpheres.png)
+![Export of cone and spheres](/cad/_assets/guide/coneAndSpheres.png)
 
 ACISエンティティをエクスポートするには、特別なオプションは必要ありません。特に描画がACISエンティティのみを含む場合、初期描画寸法を正確に調整するためにcadImage.UpdateSize()関数の使用を検討してください。
 

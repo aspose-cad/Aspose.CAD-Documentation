@@ -122,10 +122,10 @@ Flag --open membuka browser di http://localhost:4200.
 ## Contoh Eksekusi
 
 1. Pilih file.<br>
-![Pilih file](/_assets/javascript-net/angular/choose-file.png)<br>
+![Pilih file](/cad/_assets/javascript-net/angular/choose-file.png)<br>
 1. Pilih file DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Jika jawaban berhasil, file akan ditampilkan di layar dan akan menawarkan untuk mengunduhnya.<br>
-![Konversi gambar](/_assets/javascript-net/angular/convert-image.png)<br>
+![Konversi gambar](/cad/_assets/javascript-net/angular/convert-image.png)<br>
 
 ## Lihat Juga
 

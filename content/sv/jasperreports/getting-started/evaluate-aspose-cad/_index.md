@@ -13,7 +13,7 @@ Du kan enkelt ladda ner Aspose.CAD för JasperReports för utvärdering från [n
 
 Utvärderingsversionen av Aspose.CAD för JasperReports (utan specificerad licens) tillhandahåller produktens funktionalitet till viss del, men är inte helt komplett. En begränsning är att den alltid injicerar utvärderingsvattenstämpeln på utdatafiler.
 
-![Aspose.CAD för JasperReports exportexempel](/_assets/jasper/AreaChartReport.jpg)
+![Aspose.CAD för JasperReports exportexempel](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **Figur:** Utvärderingsvarning
 

@@ -88,10 +88,10 @@ npm run serve
 ## Çalıştırma örneği
 
 1. Dosya seçin.<br>
-![Dosya seçin](/_assets/javascript-net/javascript-net/choose-file.png)<br>
+![Dosya seçin](/cad/_assets/javascript-net/javascript-net/choose-file.png)<br>
 1. Herhangi bir DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG dosyasını seçin.
 1. Cevap başarılı olursa, dosya ekranda görüntülenir ve indirilmesi için teklif edilir.<br>
-![Görüntüyü dönüştür](/_assets/javascript-net/javascript-net/convert-image.png)<br>
+![Görüntüyü dönüştür](/cad/_assets/javascript-net/javascript-net/convert-image.png)<br>
 ## Ayrıca Bakınız
 
 - [Visual Code'u Yükleyin](https://code.visualstudio.com/)

@@ -9,7 +9,7 @@ url: /fr/net/getting-started/installation/
 
 NuGet est le moyen le plus simple de télécharger et d'installer les API Aspose pour .NET. Ouvrez Microsoft Visual Studio et le gestionnaire de packages NuGet. Recherchez "aspose" pour trouver l'API Aspose souhaitée. Cliquez sur "Installer", l'API sélectionnée sera téléchargée et référencée dans votre projet.
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **Référencer Aspose.CAD depuis un projet .NET**
 
@@ -21,7 +21,7 @@ Suivez ces étapes (en supposant que vous utilisez Microsoft Visual Studio) :
 1. Sélectionnez le fichier DLL *Aspose.CAD* et cliquez sur le bouton **OK**.
 1. La référence *Aspose.CAD* apparaîtra sous le nœud **Références** de votre projet.
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **Installer ou mettre à jour Aspose.CAD en utilisant la console du gestionnaire de packages**
 
@@ -30,23 +30,23 @@ Vous pouvez suivre les étapes ci-dessous pour référencer l'[API Aspose.CAD](h
 1. Ouvrez votre solution/projet dans Visual Studio.
 1. Sélectionnez Outils -> Gestionnaire de packages de bibliothèque -> Console du gestionnaire de packages dans le menu pour ouvrir la console du gestionnaire de packages.
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 Tapez la commande “**Install-Package Aspose.CAD**” et appuyez sur entrer pour installer la dernière version complète dans votre application. Alternativement, vous pouvez ajouter le suffixe "**-prerelease**" à la commande pour spécifier que la dernière version avec des correctifs doit également être installée.
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 Vous verrez que le message "Téléchargement d'Aspose.CAD..." apparaît en bas à gauche de la fenêtre indiquant que le téléchargement est en cours. 
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 Une fois téléchargé, vous verrez les messages de confirmation suivants. Si vous n'êtes pas familier avec l'[EULA d'Aspose](https://about.aspose.com/legal/eula), il est donc conseillé de lire la licence référencée dans l'URL.
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 Vous devriez maintenant constater qu'Aspose.CAD a été ajouté et référencé avec succès dans votre application.
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 Dans la console du gestionnaire de packages, vous pouvez également utiliser la commande “**Update-Package Aspose.CAD**” et appuyer sur entrer pour vérifier s'il y a des mises à jour du package Aspose.CAD et les installer si elles sont présentes. Vous pouvez également ajouter le suffixe "-prerelease" pour mettre à jour la dernière version.
 

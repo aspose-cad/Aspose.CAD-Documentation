@@ -13,7 +13,7 @@ url: /he/jasperreports/getting-started/evaluate-aspose-cad/
 
 גרסת ההערכה של Aspose.CAD עבור JasperReports (ללא רישוי ספציפי) מספקת פונקציות מוצר במידה מסוימת, אם כי לא באופן מלא. אחת המגבלות היא שהיא תמיד מחדירה את סימן המים של ההערכה בקבצי הפלט.
 
-![דוגמת ייצוא של Aspose.CAD עבור JasperReports](/_assets/jasper/AreaChartReport.jpg)
+![דוגמת ייצוא של Aspose.CAD עבור JasperReports](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **דמות:** אזהרת הערכה
 

@@ -136,10 +136,10 @@ npm run dev
 ## 실행 예시
 
 1. 파일 선택하기.<br>
-![파일 선택하기](/_assets/javascript-net/vue/choose-file.png)<br>
+![파일 선택하기](/cad/_assets/javascript-net/vue/choose-file.png)<br>
 1. DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG 파일 중 하나를 선택하세요.
 1. 응답이 성공적이면 파일이 화면에 표시되고 다운로드하라는 메시지가 표시됩니다.<br>
-![이미지 변환](/_assets/javascript-net/vue/convert-image.png)<br>
+![이미지 변환](/cad/_assets/javascript-net/vue/convert-image.png)<br>
 
 ## 참고
 

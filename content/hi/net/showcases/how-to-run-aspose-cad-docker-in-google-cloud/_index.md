@@ -120,11 +120,11 @@ dotnet run
 1. Google Cloud में लॉगिन करें।
 1. यदि यह मौजूद नहीं है तो एक प्रोजेक्ट बनाएं।
 1. 'आर्टिफेक्ट रजिस्ट्री' पर जाएं और एक रिपॉजिटरी बनाएं।<br>
-![Create Artifact Repository](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Create Artifact Repository](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. आर्टिफेक्ट रजिस्ट्री में नए रिपॉजिटरी का चयन करें।
-![Select artifact repository](/_assets/showcases/google/select-artifact.png)<br>
+![Select artifact repository](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. 'SETUP INSTRUCTION' पर क्लिक करें और 'Configure Docker' कमांड की कॉपी करें।<br>
-![SETUP INSTRUCTION](/_assets/showcases/google/setup-instruction.png)<br>
+![SETUP INSTRUCTION](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Docker की कॉन्फ़िगरेशन फ़ाइल में एक Docker credHelper प्रविष्टि जोड़ें, या यदि यह मौजूद नहीं है तो फ़ाइल बनाएं।
 {{< highlight plain >}}
 //उदाहरण
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Cloud Run पर जाएं।
 1. Cloud Run सेवा बनाएं।<br>
-![Create Cloud Run service](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Create Cloud Run service](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. कंटेनर इमेज URL फ़ील्ड में, 'आर्टिफैक्ट रजिस्ट्री' से कंटेनर का चयन करें।<br>
-![Container Image URL](/_assets/showcases/google/container-url.png)<br>
+![Container Image URL](/cad/_assets/showcases/google/container-url.png)<br>
 1. अन्य सेटिंग्स की जाँच करें जैसे नीचे।<br>
-![Settings service](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Settings service](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. तैनाती समाप्त होने तक प्रतीक्षा करें।
 1. रूपांतरण अनुप्रयोग के साथ काम करने के लिए सेवा URL।<br>
-![Url service](/_assets/showcases/google/url-service.png)<br>
+![Url service](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Dockerfile को कॉन्फ़िगर करना
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## कार्यान्वयन उदाहरण
 
 1. Postman सेटिंग्स।<br>
-![Overview menu](/_assets/showcases/google/postman-settings.png)<br>
+![Overview menu](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. किसी भी DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG फ़ाइल का चयन करें।
 1. भेजें बटन पर क्लिक करें।
 

@@ -21,14 +21,14 @@ In dit voorbeeld maakt u een eenvoudige conversiefunctie die een CAD-bestand con
 Om het Azure Function-programma te maken, volgt u de onderstaande stappen:
 1. Zodra Docker is geïnstalleerd, zorgt u ervoor dat het Linux-containers gebruikt (standaard). Indien nodig selecteert u de optie Overschakelen naar Linux-containers in het menu van Docker Desktops.
 1. Maak een Azure Function-project in IntelliJ IDEA.<br>
-![Create azure function project](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Create azure function project-final](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Create azure function project](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Create azure function project-final](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Tools->Azure->Aanmelden en selecteer OAuth 2.0-authenticatie.<br>
-![Azure sign In](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. Log in in uw browser.
 1. Selecteer de abonnementsnaam.
 1. Voeg Docker-ondersteuning toe.<br>
-![Azure sign In](/_assets/java/java-azure/add-docker-support.png)<br>
+![Azure sign In](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. Bewerk het Dockerfile zoals in de sectie <a href="#configuring-a-dockerfile">Een Dockerfile configureren</a>.
 1. Voeg blokken toe voor de repository aspose.cad in pom.xml.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Voer het Dockerfile uit in de IDE en push daarna naar Docker Hub.<br>
-![Run docker in ide](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![Run docker in ide](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. Voer de naam van de afbeelding in, zoals in de Docker Hub-repository.<br>
-![Run docker in ide-next](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![Run docker in ide-next](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. Wacht tot deze is afgelopen.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push user/aspose-cad-java:latest
 1. Meld u aan bij Azure.
 1. Kies Azure-services.
 1. Kies Function App en maak een functie.<br>
-![Azure create function button](/_assets/java/java-azure/create-function-azure.png)<br>
+![Azure create function button](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. Herhaal de basisinstellingen zoals in de afbeelding hieronder.<br>
-![Azure create function settings](/_assets/java/java-azure/create-function-settings.png)<br>
+![Azure create function settings](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. Klik op 'Beoordelen + maken' -> Maken.
 1. Wacht tot de implementatie is voltooid.
 1. Klik op de knop 'Ga naar resource'.<br>
-![Resource button](/_assets/java/java-azure/go-to-resource.png)<br>
+![Resource button](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. Stop de aspose-cad-docker-example-functie.<br>
-![Stop conteiner](/_assets/java/java-azure/stop-container.png)<br>
+![Stop conteiner](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. Ga naar het menu implementatiecentrum en maak de juiste instellingen.<br>
-![Deployment center](/_assets/java/java-azure/deployment-center.png)<br>
+![Deployment center](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. Sla de instellingen op
 1. Kopieer de Webhook-URL van de instellingen van het implementatiecentrum.<br>
-![Webhook url](/_assets/java/java-azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. Ga naar Docker Hub, selecteer uw repository en selecteer webhooks.
 1. Plak de 'Webhook-URL' van Azure in de Docker Hub-webhook-URL en stel de naam in.<br>
-![Webhook settings in docker](/_assets/java/java-azure/webhook.png)<br>
+![Webhook settings in docker](/cad/_assets/java/java-azure/webhook.png)<br>
 1. Klik op de knop 'Maken'.
 1. Ga terug naar het overzicht van de Azure-functie en start de container.<br>
-![Overview menu](/_assets/java/java-azure/overview.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 Het kan enkele minuten duren voordat de functie is gestart.
 {{% /alert %}}
@@ -193,11 +193,11 @@ Het kan enkele minuten duren voordat de functie is gestart.
 ## Voorbeeld van uitvoering
 
 1. Postman-instellingen.<br>
-![Overview menu](/_assets/java/java-azure/postman-settings.png)<br>
+![Overview menu](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. Selecteer een DXF-, DWG-, DGN-, DWF-, DWFX-, IFC-, STL-, DWT-, IGES-, PLT-, CF2-, OBJ-, HPGL-, IGS-, PCL-, FBX-, PDF-, SVG-bestand.
 1. Klik op de verzendknop.
 1. Sla resultaat op
-![Save responce](/_assets/java/java-azure/response-postman.png)<br>
+![Save responce](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Als de respons succesvol is, klik dan op Opslaan als bestand en u ontvangt het geconverteerde bestand in png-indeling

@@ -21,14 +21,14 @@ En este ejemplo, crea una función de conversión simple que convierte un archiv
 Para crear el programa de Azure Function, siga los pasos a continuación:
 1. Una vez que Docker esté instalado, asegúrese de que utiliza contenedores de Linux (por defecto). Si es necesario, seleccione la opción Cambiar a contenedores de Linux en el menú de Docker Desktop.
 1. Crear un proyecto de Azure Function en IntelliJ IDEA.<br>
-![Crear proyecto de función de Azure](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Crear proyecto de función de Azure - final](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Crear proyecto de función de Azure](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Crear proyecto de función de Azure - final](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Herramientas->Azure->Iniciar sesión y seleccione la autenticación OAuth 2.0.<br>
-![Iniciar sesión en Azure](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Iniciar sesión en Azure](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. Inicie sesión en el navegador.
 1. Seleccione el nombre de la suscripción.
 1. Agregue soporte para Docker.<br>
-![Agregar soporte de Docker](/_assets/java/java-azure/add-docker-support.png)<br>
+![Agregar soporte de Docker](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. Edite el DockerFile como en la sección <a href="#configuring-a-dockerfile">Configurando un Dockerfile</a>.
 1. Agregue bloques para el repositorio aspose.cad en pom.xml.
 {{< highlight plain >}}
@@ -155,9 +155,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Ejecutar dockerfile en IDE y después enviar a Docker Hub.<br>
-![Ejecutar docker en ide](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![Ejecutar docker en ide](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. Ingrese el nombre de la imagen, como en el repositorio de Docker Hub.<br>
-![Ejecutar docker en ide-siguiente](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![Ejecutar docker en ide-siguiente](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. Espere a que finalice.
 
 ## Azure
@@ -165,26 +165,26 @@ docker push user/aspose-cad-java:latest
 1. Inicie sesión en Azure.
 1. Elija los servicios de Azure.
 1. Elija Function App y cree una función.<br>
-![Botón de crear función de Azure](/_assets/java/java-azure/create-function-azure.png)<br>
+![Botón de crear función de Azure](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. Repita la configuración básica como en la imagen a continuación.<br>
-![Configuración de función de Azure](/_assets/java/java-azure/create-function-settings.png)<br>
+![Configuración de función de Azure](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. Haga clic en 'Revisar + crear' -> Crear.
 1. Espere a que la implementación termine.
 1. Haga clic en el botón 'Ir al recurso'.<br>
-![Botón de recurso](/_assets/java/java-azure/go-to-resource.png)<br>
+![Botón de recurso](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. Detener la función aspose-cad-docker-example.<br>
-![Detener contenedor](/_assets/java/java-azure/stop-container.png)<br>
+![Detener contenedor](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. Vaya al menú del centro de implementación y realice las configuraciones adecuadas.<br>
-![Centro de implementación](/_assets/java/java-azure/deployment-center.png)<br>
+![Centro de implementación](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. Guardar configuraciones
 1. Copie la URL del Webhook de la configuración del centro de implementación.<br>
-![URL del Webhook](/_assets/java/java-azure/webhook-url.png)<br>
+![URL del Webhook](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. Vaya a Docker Hub, seleccione su repositorio y seleccione webhooks.
 1. Pegue la 'URL del Webhook' de Azure en la URL del Webhook de Docker Hub y establezca el nombre.<br>
-![Configuraciones del Webhook en Docker](/_assets/java/java-azure/webhook.png)<br>
+![Configuraciones del Webhook en Docker](/cad/_assets/java/java-azure/webhook.png)<br>
 1. Haga clic en el botón de crear.
 1. Regrese a la función de Azure y inicie el contenedor.<br>
-![Menú de resumen](/_assets/java/java-azure/overview.png)<br>
+![Menú de resumen](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 Puede tardar unos minutos en que la función se inicie.
 {{% /alert %}}
@@ -192,11 +192,11 @@ Puede tardar unos minutos en que la función se inicie.
 ## Ejemplo de ejecución
 
 1. Configuraciones de Postman.<br>
-![Configuraciones de Postman](/_assets/java/java-azure/postman-settings.png)<br>
+![Configuraciones de Postman](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. Seleccione cualquier archivo DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Haga clic en el botón enviar.
 1. Guardar resultado
-![Guardar respuesta](/_assets/java/java-azure/response-postman.png)<br>
+![Guardar respuesta](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Si la respuesta es exitosa, haga clic en Guardar en archivo y recibirá el archivo convertido en formato png.

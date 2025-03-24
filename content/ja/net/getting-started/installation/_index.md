@@ -9,7 +9,7 @@ url: /ja/net/getting-started/installation/
 
 NuGetは、Aspose APIを.NET用にダウンロードしてインストールする最も簡単な方法です。Microsoft Visual StudioとNuGetパッケージマネージャーを開きます。"aspose"で検索して、目的のAspose APIを見つけます。"Install"をクリックすると、選択したAPIがダウンロードされ、プロジェクトに参照されます。
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **.NETプロジェクトからAspose.CADを参照する**
 
@@ -21,7 +21,7 @@ NuGetは、Aspose APIを.NET用にダウンロードしてインストールす�
 1. *Aspose.CAD* DLLファイルを選択し、**OK**ボタンをクリックします。
 1. *Aspose.CAD*の参照がプロジェクトの**参照**ノードの下に表示されます。
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **パッケージマネージャーコンソールを使用してAspose.CADをインストールまたは更新する**
 
@@ -30,23 +30,23 @@ NuGetは、Aspose APIを.NET用にダウンロードしてインストールす�
 1. Visual Studioでソリューション/プロジェクトを開きます。
 1. メニューからツール -> ライブラリパッケージマネージャー -> パッケージマネージャーコンソールを選択して、パッケージマネージャーコンソールを開きます。
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 “**Install-Package Aspose.CAD**”というコマンドを入力し、Enterキーを押してアプリケーションに最新のフルリリースをインストールします。代わりに、コマンドに"**-prerelease**"サフィックスを追加して、最新のリリースにはホットフィックスも含まれることを指定できます。
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 “Downloading Aspose.CAD...”のヒントがウィンドウの左下に表示され、ダウンロードプロセスが進行中であることを示します。
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 ダウンロードが完了すると、次の確認メッセージが表示されます。[Aspose EULA](https://about.aspose.com/legal/eula)に不慣れな場合は、URLに参照されているライセンスを読むことをお勧めします。
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 これでAspose.CADが正常にアプリケーションに追加され、参照されていることがわかります。
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 パッケージマネージャーコンソールでは、コマンド“**Update-Package Aspose.CAD**”を使用して、Aspose.CADパッケージの更新を確認し、存在する場合はインストールするためにEnterキーを押すこともできます。"-prerelease"サフィックスを追加して最新のリリースをアップデートすることもできます。
 

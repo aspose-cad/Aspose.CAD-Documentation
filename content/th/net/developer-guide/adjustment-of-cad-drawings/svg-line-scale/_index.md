@@ -19,6 +19,6 @@ url: /th/net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## ไฟล์ที่ใช้สเกลเชิงเส้น
 1. ไฟล์ถ้าพารามิเตอร์ LineScale ตั้งค่าเป็น 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. ไฟล์ถ้าคุณไม่ใช้การปรับขนาดเส้น.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

@@ -282,6 +282,6 @@ url: /fa/jasperreports/installation/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. سرور JasperReports را مجدداً راه‌اندازی کرده و هر گزارشی را برای مشاهده باز کنید. اگر مراحل قبلی به درستی انجام شده باشد، شما گزینه‌های اضافی را در لیست فرمت‌های خروجی خواهید دید.
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 اگر گزینه‌های اضافی (آیکون‌ها یا انتخاب‌ها) را نمی‌بینید، لطفاً فایل‌های لاگ را در دایرکتوری \apache-tomcat\logs بررسی کنید.

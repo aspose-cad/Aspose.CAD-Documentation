@@ -27,22 +27,22 @@ Salah satu tujuan utama dari .NET MAUI adalah memungkinkan Anda mengimplementasi
 
 1. Untuk membuat aplikasi .NET MAUI, Anda perlu versi terbaru dari Visual Studio 2022
 1. Install Visual Studio, atau modifikasi instalasi Anda yang sudah ada, dan instal beban pengembangan .NET Multi-platform App UI dengan pilihan instalasi opsional defaultnya:<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## Buat proyek
 
 1. Luncurkan Visual Studio. Di jendela awal, klik Buat proyek baru untuk membuat proyek baru:<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. Di jendela Buat proyek baru, pilih MAUI di drop-down Semua jenis proyek, pilih template Aplikasi .NET MAUI, dan klik tombol Selanjutnya:<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. Di jendela Konfigurasi proyek baru Anda, beri nama proyek Anda, pilih lokasi yang sesuai untuknya, dan klik tombol Selanjutnya:<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. Di jendela Informasi tambahan, pilih versi .NET yang ingin Anda targetkan dan klik tombol Buat:<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. Tunggu proyek dibuat dan dependensinya dipulihkan
 1. Instal versi terbaru Aspose.CAD dari NuGet:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. Ganti kode di MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Debug Mesin Windows
 
 1. Di toolbar Visual Studio, gunakan drop-down Target Debug untuk memilih Framework dan kemudian entri net7.0-windows:<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. Di toolbar Visual Studio, tekan tombol Mesin Windows untuk membangun dan menjalankan aplikasi:<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. Di aplikasi yang berjalan, tekan tombol "Pilih file" beberapa kali dan amati bahwa jumlah klik tombol meningkat:<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. Pilih file yang diperlukan dan klik buka:<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. Setelah memproses file, gambar dari file yang dikonversi harus muncul di layar:<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## Instal Emulator Android
 
 1. Di toolbar Visual Studio, gunakan drop-down Target Debug untuk memilih Emulator Android dan kemudian entri Emulator Android
 1. Di toolbar Visual Studio, tekan tombol Emulator Android:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Di jendela Persetujuan Lisensi Android SDK, tekan tombol Terima:<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. Di jendela Persetujuan Lisensi Android SDK, tekan tombol Terima:<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. Di dialog Kontrol Akun Pengguna, tekan tombol Ya:<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. Di jendela Penerimaan Lisensi, tekan tombol Terima:<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. Di toolbar Visual Studio, tekan tombol Emulator Android:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Di dialog Kontrol Akun Pengguna, tekan tombol Ya:<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. Di jendela Perangkat Baru, tekan tombol Buat:<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. Tutup jendela Pengelola Perangkat Android
 
 
 ## Debug dengan Emulator Android
 
 1. Di toolbar Visual Studio, tekan tombol Pixel 5 - API 33 (Android 13.0 - API 33) untuk membangun dan menjalankan aplikasi:<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. Di aplikasi yang berjalan di emulator Android, tekan tombol "Pilih file" beberapa kali dan amati bahwa jumlah klik tombol meningkat:<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. Pilih file yang diperlukan dan klik pilih:<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. Setelah memproses file, gambar dari file yang dikonversi harus muncul di layar:<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## Contoh Lain

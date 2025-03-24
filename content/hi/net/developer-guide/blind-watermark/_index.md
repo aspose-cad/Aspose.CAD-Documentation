@@ -20,9 +20,9 @@ url: /hi/net/developer-guide/blind-watermark/
 टेक्स्ट को ब्लाइंड वॉटरमार्क के रूप में उपयोग करने वाली एक फ़ाइल की उपस्थिति का उदाहरण।
 
 1. टेक्स्ट ब्लाइंड वॉटरमार्क जोड़ने से पहले फ़ाइल<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. टेक्स्ट ब्लाइंड वॉटरमार्क जोड़ने का परिणाम<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **ब्लाइंड वॉटरमार्क के रूप में किसी अन्य इमेज का उपयोग करना**
 
@@ -35,6 +35,6 @@ url: /hi/net/developer-guide/blind-watermark/
 ब्लाइंड वॉटरमार्क जोड़ने के लिए किसी अन्य इमेज का उपयोग करके फ़ाइल के दृश्य का एक उदाहरण।
 
 1. ब्लाइंड वॉटरमार्क के रूप में इमेज जोड़ने से पहले फ़ाइल<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. ब्लाइंड वॉटरमार्क के रूप में इमेज जोड़ने के बाद का परिणाम<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

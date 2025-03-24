@@ -7,7 +7,7 @@ url: /ja/net/getting-started/product-overview/
 
 **Aspose.CAD for .NETへようこそ**
 
-![todo:image_alt_text](/_assets/home_1.png)
+![todo:image_alt_text](/cad/_assets/home_1.png)
 
 Aspose.CAD for .NETは、開発者がAutoCAD DWG、DWF、DWTおよびDXFファイルをPDFおよびラスタ画像に変換することを可能にします。これはネイティブAPIであり、AutoCADやその他のソフトウェアをインストールする必要はありません。また、AutoCADファイルから選択したレイヤーやレイアウトを変換することもできます。PDFおよびラスタ画像への変換は非常に高品質です。
 
@@ -21,7 +21,7 @@ Aspose.CAD for .NETは、開発者がAutoCAD DWG、DWF、DWTおよびDXFファ�
 ## **概要**
 Aspose.CAD for .NETの主な変換、レンダリング、およびレポート機能の概要。
 
-![todo:image_alt_text](/_assets/net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/net/product-overview_2.png)
 
 ## **高度なAPI機能**
 - 最新バージョンのAutoCAD DWG、DWF、DWTおよびDXFファイルをサポート
@@ -37,4 +37,4 @@ Aspose.CAD for .NETは以下をサポートします。
 - .NET Framework（ASP.NETアプリケーションおよびWindowsアプリケーションを含む）
 - .NET Core
 
-![todo:image_alt_text](/_assets/net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/net/product-overview_3.png)

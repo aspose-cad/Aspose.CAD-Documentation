@@ -13,7 +13,7 @@ Az Aspose.CAD a JasperReports-hoz könnyen letölthető értékelés céljából
 
 Az Aspose.CAD értékelési verziója a JasperReports-hoz (licenc megadása nélkül) a termék funkcionalitását bizonyos mértékig biztosítja, de nem teljes mértékben. Az egyik korlátozás az, hogy a kimeneti fájlokba mindig beilleszti az értékelési vízjelet.
 
-![Aspose.CAD a JasperReports export példája](/_assets/jasper/AreaChartReport.jpg)
+![Aspose.CAD a JasperReports export példája](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **Ábra:** Értékelési figyelmeztetés
 

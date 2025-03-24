@@ -11,7 +11,7 @@ is_root: false
 
 ## **Üdvözöljük az Aspose.CAD a Pythonhoz** 
 
-![Aspose.CAD for Python Product Logo](/_assets/home_4.png)
+![Aspose.CAD for Python Product Logo](/cad/_assets/home_4.png)
 
 Az Aspose.CAD a Pythonhoz az egyetlen megoldás a piacon, amely lehetővé teszi jelentések exportálását Pythonból különböző vektor- és raszterképfájl-formátumokba, mint például PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD, és különböző CAD és BIM fájlformátumokkal való munka: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

@@ -11,7 +11,7 @@ is_root: false
 
 ## **Chào mừng đến với Aspose.CAD cho .NET**
 
-![Aspose.CAD cho .NET Logo sản phẩm](/_assets/home_1.png)
+![Aspose.CAD cho .NET Logo sản phẩm](/cad/_assets/home_1.png)
 
 Aspose.CAD cho .NET là thư viện API cấp doanh nghiệp tương thích với .NET Framework, .Net Core và Xamarin, cho phép đọc, thao tác, xử lý và xuất bất kỳ tệp bản vẽ CAD hoặc BIM nào thành nhiều định dạng tệp hình ảnh vector và raster khác nhau mà không cần sử dụng AutoCAD hoặc bất kỳ phần mềm bổ sung nào khác.
 Nó an toàn cho đa luồng, có thể chạy trên các hệ điều hành khác nhau, cho phép theo dõi tiến trình xuất và xử lý các lớp và bố cục riêng biệt. Nó hỗ trợ hủy bỏ.

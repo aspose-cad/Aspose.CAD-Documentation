@@ -11,19 +11,19 @@ url: /uk/net/developer-guide/export-with-3d-options/
 
 Ось приклади 3D сцени з різних точок зору:
 
-![Фігури](/_assets/guide/3d/fig1.png)
+![Фігури](/cad/_assets/guide/3d/fig1.png)
 
-![Фігури з інших точок зору](/_assets/guide/3d/fig2.png)
+![Фігури з інших точок зору](/cad/_assets/guide/3d/fig2.png)
 
 Властивість ObserverPoint дозволяє обертати 3D сцену відповідно до заданих кутів навколо осі. Цей приклад показує код і результат експорту з використанням деяких випадкових кутів обертання.
 
 {{< gist aspose-com-gists 88cdd0899132edaf0afff77d33d11ae5 "ObserverPoint-property.cs">}}
 
-![Експорт з обертанням](/_assets/guide/3d/fig3.png)
+![Експорт з обертанням](/cad/_assets/guide/3d/fig3.png)
 
 Зміна ObserverAngle на ObserverPoint = new ObserverPoint(5, 60, 0) дозволяє обертати сцену.
 
-![Експорт з зміненим обертанням](/_assets/guide/3d/fig4.png)
+![Експорт з зміненим обертанням](/cad/_assets/guide/3d/fig4.png)
 
 Інша властивість RenderMode3D дозволяє вказати, як має бути представлений результат експорту. Є 3 режими: Solid (за замовчуванням), Wireframe та SolidWithEdges.
 
@@ -31,9 +31,9 @@ url: /uk/net/developer-guide/export-with-3d-options/
 
 {{< gist aspose-com-gists 88cdd0899132edaf0afff77d33d11ae5 "RenderMode3D-property.cs">}}
 
-![Режим Wireframe](/_assets/guide/3d/fig5.png)
+![Режим Wireframe](/cad/_assets/guide/3d/fig5.png)
 
 Приклад нижче показує різницю між режимами Solid і SolidWithEdges.
 
-![Режим Solid](/_assets/guide/3d/fig6.png)
-![Режим Solid з краями](/_assets/guide/3d/fig7.png)
+![Режим Solid](/cad/_assets/guide/3d/fig6.png)
+![Режим Solid з краями](/cad/_assets/guide/3d/fig7.png)

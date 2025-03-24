@@ -23,9 +23,9 @@ Om uw 3D-tekening naar PDF-3D te converteren, moet u de code uit het voorbeeld u
 
 Een voorbeeld van het uiterlijk van een PDF-bestand met 3D-inhoud, evenals een demonstratie van rotatie en schaling.
 
-![PDF-3D](/_assets/guide/pdf-3d/result.png)
-![Veranderde rotatie](/_assets/guide/pdf-3d/rotate.png)
-![Schaling](/_assets/guide/pdf-3d/scaling.png)
+![PDF-3D](/cad/_assets/guide/pdf-3d/result.png)
+![Veranderde rotatie](/cad/_assets/guide/pdf-3d/rotate.png)
+![Schaling](/cad/_assets/guide/pdf-3d/scaling.png)
 
 ## **Aspose.CAD voor .NET Bronnen**
 

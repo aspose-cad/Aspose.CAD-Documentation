@@ -21,14 +21,14 @@ url: /zh/java/getting-started/how-to-run-aspose-cad-docker-in-azure-function/
 要创建 Azure Function 程序，请按照以下步骤操作：
 1. 一旦安装了 Docker，确保它使用 Linux 容器（默认）。如有必要，请从 Docker 桌面菜单中选择切换到 Linux 容器选项。
 1. 在 IntelliJ IDEA 中创建 Azure Function 项目。<br>
-![创建 Azure Function 项目](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![创建 Azure Function 项目 - 最终](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![创建 Azure Function 项目](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![创建 Azure Function 项目 - 最终](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. 工具->Azure->登录并选择 OAuth 2.0 认证。<br>
-![Azure 登录](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Azure 登录](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. 在浏览器中登录。
 1. 选择订阅名称。
 1. 添加 Docker 支持。<br>
-![Azure 登录](/_assets/java/java-azure/add-docker-support.png)<br>
+![Azure 登录](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. 按照 <a href="#configuring-a-dockerfile">配置 Dockerfile</a> 部分中的内容编辑 DockerFile。
 1. 在 pom.xml 中为存储库 aspose.cad 添加块。
 {{< highlight plain >}}
@@ -155,9 +155,9 @@ docker push user/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. 在 IDE 中运行 dockerfile，然后推送到 docker hub。<br>
-![在 IDE 中运行 docker](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![在 IDE 中运行 docker](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. 输入图像的名称，如 Docker Hub 存储库中的名称一样。<br>
-![在 IDE 中运行 docker - 下一步](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![在 IDE 中运行 docker - 下一步](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. 等待结束。
 
 ## Azure
@@ -165,26 +165,26 @@ docker push user/aspose-cad-java:latest
 1. 登录 Azure。
 1. 选择 Azure 服务。
 1. 选择 Function App 并创建一个函数。<br>
-![Azure 创建函数按钮](/_assets/java/java-azure/create-function-azure.png)<br>
+![Azure 创建函数按钮](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. 按照以下图像重复基本设置。<br>
-![Azure 创建函数设置](/_assets/java/java-azure/create-function-settings.png)<br>
+![Azure 创建函数设置](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. 点击 '审核 + 创建' -> 创建。
 1. 等待部署完成。
 1. 点击 '转到资源' 按钮。<br>
-![资源按钮](/_assets/java/java-azure/go-to-resource.png)<br>
+![资源按钮](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. 停止 aspose-cad-docker-example 函数。<br>
-![停止容器](/_assets/java/java-azure/stop-container.png)<br>
+![停止容器](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. 转到部署中心菜单并进行相应设置。<br>
-![部署中心](/_assets/java/java-azure/deployment-center.png)<br>
+![部署中心](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. 保存设置。
 1. 从部署中心设置中复制 Webhook URL。<br>
-![Webhook URL](/_assets/java/java-azure/webhook-url.png)<br>
+![Webhook URL](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. 转到 Docker Hub，选择你的存储库并选择 webhook。
 1. 将 Azure 的 'Webhook URL' 粘贴到 Docker Hub webhook URL 中并设置名称。<br>
-![Docker 中的 Webhook 设置](/_assets/java/java-azure/webhook.png)<br>
+![Docker 中的 Webhook 设置](/cad/_assets/java/java-azure/webhook.png)<br>
 1. 点击创建按钮。
 1. 返回到 Azure Function 的概述并启动容器。<br>
-![概述菜单](/_assets/java/java-azure/overview.png)<br>
+![概述菜单](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 函数可能需要几分钟才能启动。
 {{% /alert %}}
@@ -192,11 +192,11 @@ docker push user/aspose-cad-java:latest
 ## 执行示例
 
 1. Postman 设置。<br>
-![概述菜单](/_assets/java/java-azure/postman-settings.png)<br>
+![概述菜单](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. 选择任何 DXF、DWG、DGN、DWF、DWFX、IFC、STL、DWT、IGES、PLT、CF2、OBJ、HPGL、IGS、PCL、FBX、PDF、SVG 文件。
 1. 点击发送按钮。
 1. 保存结果
-![保存响应](/_assets/java/java-azure/response-postman.png)<br>
+![保存响应](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 如果回答成功，点击保存到文件，你将收到转换为 png 格式的文件。

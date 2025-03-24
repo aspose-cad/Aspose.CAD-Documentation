@@ -94,10 +94,10 @@ npm start
 ## Exempel på utförande
 
 1. Välj fil.<br>
-![Välj fil](/_assets/javascript-net/react/choose-file.png)<br>
+![Välj fil](/cad/_assets/javascript-net/react/choose-file.png)<br>
 1. Välj någon DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG fil.
 1. Om svaret är framgångsrikt kommer filen att visas på skärmen och erbjuda att ladda ner den.<br>
-![Konvertera bild](/_assets/javascript-net/react/convert-image.png)<br>
+![Konvertera bild](/cad/_assets/javascript-net/react/convert-image.png)<br>
 
 ## Se även
 

@@ -23,9 +23,9 @@ Aspose.CAD, 3D içerikli PDF dosyaları oluşturmanıza olanak tanır. Bir CAD d
 
 3D içeriğe sahip bir PDF dosyasının görünümüne örnek, ayrıca döndürme ve ölçeklendirme gösterimi.
 
-![PDF-3D](/_assets/guide/pdf-3d/result.png)
-![Değişen döndürme](/_assets/guide/pdf-3d/rotate.png)
-![Ölçeklendirme](/_assets/guide/pdf-3d/scaling.png)
+![PDF-3D](/cad/_assets/guide/pdf-3d/result.png)
+![Değişen döndürme](/cad/_assets/guide/pdf-3d/rotate.png)
+![Ölçeklendirme](/cad/_assets/guide/pdf-3d/scaling.png)
 
 ## **Aspose.CAD için .NET Kaynakları**
 

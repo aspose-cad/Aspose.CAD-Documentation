@@ -11,20 +11,20 @@ Quelques options ont été introduites pour exporter des modèles 3D vers PDF/ra
 
 Voici des exemples de la scène 3D depuis différents points de vue :
 
-![Figures](/_assets/guide/3d/fig1.png)
+![Figures](/cad/_assets/guide/3d/fig1.png)
 
-![Figures d'autres points de vue](/_assets/guide/3d/fig2.png)
+![Figures d'autres points de vue](/cad/_assets/guide/3d/fig2.png)
 
 La propriété ObserverPoint permet de faire pivoter la scène 3D selon des angles spécifiés autour de l'axe. Cet exemple montre le code et le résultat de l'exportation en utilisant des angles de rotation arbitraires.
 
 {{< gist aspose-com-gists 88cdd0899132edaf0afff77d33d11ae5 "ObserverPoint-property.cs">}}
 
 
-![Exportation avec rotation](/_assets/guide/3d/fig3.png)
+![Exportation avec rotation](/cad/_assets/guide/3d/fig3.png)
 
 Changer l'ObserverAngle à ObserverPoint = new ObserverPoint(5, 60, 0) permet de faire pivoter la scène.
 
-![Exportation avec rotation changée](/_assets/guide/3d/fig4.png)
+![Exportation avec rotation changée](/cad/_assets/guide/3d/fig4.png)
 
 L'autre propriété RenderMode3D permet de spécifier comment le résultat de l'exportation doit être présenté. Il existe 3 modes : Solide (le mode par défaut), Fil de fer et SolideAvecBords.
 
@@ -32,9 +32,9 @@ L'exemple ci-dessous permet de créer un modèle fil de fer pour l'objet sphéri
 
 {{< gist aspose-com-gists 88cdd0899132edaf0afff77d33d11ae5 "RenderMode3D-property.cs">}}
 
-![Mode fil de fer](/_assets/guide/3d/fig5.png)
+![Mode fil de fer](/cad/_assets/guide/3d/fig5.png)
 
 L'exemple ci-dessous montre la différence entre les modes Solide et SolideAvecBords.
 
-![Mode solide](/_assets/guide/3d/fig6.png)
-![Mode solide avec bord](/_assets/guide/3d/fig7.png)
+![Mode solide](/cad/_assets/guide/3d/fig6.png)
+![Mode solide avec bord](/cad/_assets/guide/3d/fig7.png)

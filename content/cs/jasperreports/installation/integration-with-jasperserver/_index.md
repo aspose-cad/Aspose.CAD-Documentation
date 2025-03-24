@@ -57,6 +57,6 @@ Hodnotu vlastnosti můžete změnit na Batch, SinglePage nebo Multipage pomocí 
 {{< /highlight >}}
 
 5. Restartujte server JasperReports a otevřete libovolný report k zobrazení. Pokud byly předchozí kroky provedeny správně, uvidíte další možnosti v seznamu formátů exportu.
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 Pokud nevidíte další formáty (ikony nebo možnosti), zkontrolujte protokolovací soubory v adresáři \apache-tomcat\logs.

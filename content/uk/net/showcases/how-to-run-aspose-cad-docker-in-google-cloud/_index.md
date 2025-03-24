@@ -120,11 +120,11 @@ dotnet run
 1. Увійдіть до Google Cloud.
 1. Створіть проект, якщо його не існує.
 1. Перейдіть до 'Artifact Registry' та створіть репозиторій.<br>
-![Створіть сховище артефактів](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Створіть сховище артефактів](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Виберіть новий репозиторій у Artifact Registry.
-![Виберіть репозиторій артефактів](/_assets/showcases/google/select-artifact.png)<br>
+![Виберіть репозиторій артефактів](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. Натисніть 'ІНСТРУКЦІЇ З НАЛАШТУВАННЯ' та скопіюйте команду 'Налаштувати Docker'.<br>
-![ІНСТРУКЦІЇ З НАЛАШТУВАННЯ](/_assets/showcases/google/setup-instruction.png)<br>
+![ІНСТРУКЦІЇ З НАЛАШТУВАННЯ](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Додайте запис Docker credHelper до файлу конфігурації Docker або створіть файл, якщо він не існує.
 {{< highlight plain >}}
 //приклад
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Перейдіть до Cloud Run.
 1. Створіть сервіс Cloud Run.<br>
-![Створіть сервіс Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Створіть сервіс Cloud Run](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. У полі URL контейнера виберіть контейнер із 'ARTIFACT REGISTRY'.<br>
-![URL контейнера](/_assets/showcases/google/container-url.png)<br>
+![URL контейнера](/cad/_assets/showcases/google/container-url.png)<br>
 1. Перевірте інші налаштування, як наведено нижче.<br>
-![Налаштування сервісу](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Налаштування сервісу](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Зачекайте, поки завершиться розгортання.
 1. URL сервісу для роботи з програмою конвертації.<br>
-![URL сервісу](/_assets/showcases/google/url-service.png)<br>
+![URL сервісу](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Налаштування Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Приклад виконання
 
 1. Налаштування Postman.<br>
-![Меню огляду](/_assets/showcases/google/postman-settings.png)<br>
+![Меню огляду](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Виберіть будь-який файл DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Натисніть кнопку надсилання.
 

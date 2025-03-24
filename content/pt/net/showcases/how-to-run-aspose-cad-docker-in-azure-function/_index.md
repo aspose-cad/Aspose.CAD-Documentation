@@ -21,11 +21,11 @@ Neste exemplo, você cria uma função de conversão simples que converte um arq
 Para criar o programa da Função Azure, siga os passos abaixo:
 1. Uma vez que o Docker esteja instalado, certifique-se de que ele utiliza Contêineres Linux (padrão). Se necessário, selecione a opção Mudar para contêineres Linux no menu do Docker Desktop.
 1. No Visual Studio, crie uma Função Azure .NET 6.<br>
-![Diálogo do projeto da Função Azure .NET 6](/_assets/showcases/azure/Create-project.png)<br>
+![Diálogo do projeto da Função Azure .NET 6](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Informações adicionais.<br>
-![Diálogo do projeto da Função Azure .NET 6](/_assets/showcases/azure/Additional-information.png)<br>
+![Diálogo do projeto da Função Azure .NET 6](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Instale a versão mais recente do Aspose.CAD do NuGet.<br>
-![Aspose.CAD no NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD no NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Como o aplicativo será executado no Linux, pode ser necessário instalar fontes adicionais. Você pode preferir o ttf-mscorefonts-installer.
 1. Quando todas as dependências necessárias forem adicionadas, escreva um programa simples que crie uma elipse e a salve como uma imagem:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
  O próximo passo é criar e configurar o Dockerfile na pasta raiz do projeto.
 
 1. Crie o Dockerfile e coloque-o ao lado do arquivo de solução do seu aplicativo. Mantenha este nome de arquivo sem extensão (o padrão).
-![Pasta raiz do projeto](/_assets/showcases/azure/root-folder.png)<br>
+![Pasta raiz do projeto](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. No Dockerfile, especifique:
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. Faça login no Azure.
 1. Escolha os serviços do Azure.
 1. Escolha Aplicativo de Função e crie uma função.<br>
-![Botão criar função Azure](/_assets/showcases/azure/create-function.png)<br>
+![Botão criar função Azure](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Repita as configurações básicas conforme na imagem abaixo.<br>
-![Configurações de criar função Azure](/_assets/showcases/azure/create-function-setting.png)<br>
+![Configurações de criar função Azure](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Clique em 'Rever + criar' -> Criar.
 1. Aguarde o término da implantação.
 1. Clique no botão 'Ir para o recurso'.<br>
-![Botão de recurso](/_assets/showcases/azure/go-to-resource.png)<br>
+![Botão de recurso](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Pare a função aspose-cad-docker-example.<br>
-![Parar contêiner](/_assets/showcases/azure/stop-container.png)<br>
+![Parar contêiner](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Vá para o menu do centro de implantação e faça as configurações apropriadas.<br>
-![Centro de implantação](/_assets/showcases/azure/deployment-center.png)<br>
+![Centro de implantação](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Salve as configurações
 1. Copie a URL do Webhook das configurações do centro de implantação.<br>
-![Webhook url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Vá para o Docker Hub, selecione seu repositório e selecione webhooks.
 1. Cole a 'URL do Webhook' do Azure na URL do webhook do Docker Hub e defina o nome.<br>
-![Configurações do Webhook no docker](/_assets/showcases/azure/webhook.png)<br>
+![Configurações do Webhook no docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Clique no botão criar.
 1. Retorne à visão geral da função Azure e inicie o contêiner.<br>
-![Menu de visão geral](/_assets/showcases/azure/overview.png)<br>
+![Menu de visão geral](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Exemplo de Execução
 
 1. Configurações do Postman.<br>
-![Menu de visão geral](/_assets/showcases/azure/postman-settings.png)<br>
+![Menu de visão geral](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Selecione qualquer arquivo DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Clique no botão enviar.
 

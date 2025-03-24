@@ -7,7 +7,7 @@ url: /tr/python-net/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for Python Ürün Logosu](/_assets/home_4.png)
+![Aspose.CAD for Python Ürün Logosu](/cad/_assets/home_4.png)
 
 Aspose.CAD for Python, Pythons'tan çeşitli vektör ve raster görüntü dosya formatlarına, PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD gibi raporların dışa aktarılmasını mümkün kılan tek çözümle piyasada mevcuttur ve çeşitli CAD ve BIM dosya formatlarıyla çalışır: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

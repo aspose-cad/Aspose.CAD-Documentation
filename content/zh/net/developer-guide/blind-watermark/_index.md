@@ -20,9 +20,9 @@ url: /zh/net/developer-guide/blind-watermark/
 使用文本作为隐水印的文件外观示例。
 
 1. 添加文本隐水印之前的文件<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. 添加文本隐水印后的结果<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **使用另一幅图像作为隐水印**
 
@@ -35,6 +35,6 @@ url: /zh/net/developer-guide/blind-watermark/
 使用另一幅图像添加隐水印的文件视图示例。
 
 1. 添加图像作为隐水印之前的文件<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. 添加图像作为隐水印后的结果<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

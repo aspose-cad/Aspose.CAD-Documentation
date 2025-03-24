@@ -23,9 +23,9 @@ A 3D rajzának PDF-3D-be történő konvertálásához végre kell hajtania a p�
 
 Egy példa egy PDF fájl megjelenésére 3D tartalommal, valamint a forgatás és skálázás bemutatása.
 
-![PDF-3D](/_assets/guide/pdf-3d/result.png)
-![Megváltozott elforgatás](/_assets/guide/pdf-3d/rotate.png)
-![Skálázás](/_assets/guide/pdf-3d/scaling.png)
+![PDF-3D](/cad/_assets/guide/pdf-3d/result.png)
+![Megváltozott elforgatás](/cad/_assets/guide/pdf-3d/rotate.png)
+![Skálázás](/cad/_assets/guide/pdf-3d/scaling.png)
 
 ## **Aspose.CAD a .NET erőforrásaihoz**
 

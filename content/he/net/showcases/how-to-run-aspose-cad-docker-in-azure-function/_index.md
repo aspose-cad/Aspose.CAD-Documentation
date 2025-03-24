@@ -21,11 +21,11 @@ url: /he/net/showcases/how-to-run-aspose-cad-docker-in-azure-function/
 כדי ליצור את תוכנית פונקציית Azure, בצע את השלבים הבאים:
 1. לאחר ש-Docker מותקן, ודא שהוא משתמש במיכלים של Linux (ברירת מחדל). אם יש צורך, בחר באפשרות "החלף למיכלים של Linux" מתוך תפריט שולחן עבודה של Docker.
 1. ב-Virtual Studio, צור פונקציית Azure NET 6.<br>
-![דיאלוג פרויקט פונקציית Azure NET 6](/_assets/showcases/azure/Create-project.png)<br>
+![דיאלוג פרויקט פונקציית Azure NET 6](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. מידע נוסף.<br>
-![דיאלוג פרויקט פונקציית Azure NET 6](/_assets/showcases/azure/Additional-information.png)<br>
+![דיאלוג פרויקט פונקציית Azure NET 6](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. התקן את הגירסה האחרונה של Aspose.CAD מ-NuGet.<br>
-![Aspose.CAD ב-NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD ב-NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. מכיוון שהאפליקציה תרוץ על Linux, ייתכן שיהיה צורך להתקין גופנים נוספים. תוכל להעדיף את ttf-mscorefonts-installer.
 1. כאשר כל התלויות הנדרשות נוספו, כתוב תוכנית פשוטה שיוצרת אליפסה וש保存 אותה כדימוי:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 השלב הבא הוא ליצור ולהגדיר את Dockerfile בתיקייה של פרויקט השורש.
 
 1. צור את ה-Dockerfile והנח אותו ליד קובץ הפתרון של האפליקציה שלך. שמור על שם זה בלי סיומת (ברירת מחדל).
-![תיקיית הפרויקט השורש](/_assets/showcases/azure/root-folder.png)<br>
+![תיקיית הפרויקט השורש](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. בקובץ Dockerfile, ציין:
 
 {{< highlight plain >}}
@@ -133,31 +133,31 @@ docker push user/asposefunction:latest
 1. התחבר ל-Azure.
 1. בחר בשירותי Azure.
 1. בחר באפליקציית פונקציה וצור פונקציה.<br>
-![כפתור יצירת פונקציה ב-Azure](/_assets/showcases/azure/create-function.png)<br>
+![כפתור יצירת פונקציה ב-Azure](/cad/_assets/showcases/azure/create-function.png)<br>
 1. שיחזר את ההגדרות הבסיסיות כפי שמוצג בתמונה למטה.<br>
-![הגדרות יצירת פונקציה ב-Azure](/_assets/showcases/azure/create-function-setting.png)<br>
+![הגדרות יצירת פונקציה ב-Azure](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. לחץ על 'סקירה + צור' -> צור.
 1. חכה לסיום הפריסה.
 1. לחץ על כפתור 'עבור למשאב'.<br>
-![כפתור משאב](/_assets/showcases/azure/go-to-resource.png)<br>
+![כפתור משאב](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. עצור את פונקציית aspose-cad-docker-example.<br>
-![עצור קונטיינר](/_assets/showcases/azure/stop-container.png)<br>
+![עצור קונטיינר](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. עבור לתפריט מרכז הפריסה והגדר את ההגדרות המתאימות.<br>
-![מרכז פריסה](/_assets/showcases/azure/deployment-center.png)<br>
+![מרכז פריסה](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. שמור הגדרות
 1. העתק את ה-URL של Webhook מהגדרות מרכז הפריסה.<br>
-![Webhook url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. עבור ל-Docker Hub, בחר את המאגר שלך ובחר ב-webhooks.
 1. הדבק את ה-'Webhook url' מ-Azure בתיבת ה-webhook של Docker Hub והספק שם.<br>
-![הגדרות Webhook ב-docker](/_assets/showcases/azure/webhook.png)<br>
+![הגדרות Webhook ב-docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. לחץ על כפתור יצירה.
 1. חזור לתצוגת הפונקציה Azure והפעל את הקונטיינר.<br>
-![תפריט תצוגה](/_assets/showcases/azure/overview.png)<br>
+![תפריט תצוגה](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## דוגמת ביצוע
 
 1. הגדרות Postman.<br>
-![תפריט תצוגה](/_assets/showcases/azure/postman-settings.png)<br>
+![תפריט תצוגה](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. בחר כל קובץ DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. לחץ על כפתור שלח.
 

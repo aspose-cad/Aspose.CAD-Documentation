@@ -10,25 +10,25 @@ url: /fa/python-net/installation/installing-aspose-cad-for-python/
 ### استفاده از pip برای نصب یک بسته
 
 1. برای نصب بسته [aspose.cad](https://pypi.org/project/aspose-cad/) ، سایت‌های مربوط به بسته توضیحات اضافی درباره دستوری که باید در ترمینال اجرا شود دارند:<br/>
-![pypi-install](/_assets/python-net/install/pypi-aspose-cad.png)
+![pypi-install](/cad/_assets/python-net/install/pypi-aspose-cad.png)
 1. یک مثال از یک دستور برای نصب یک بسته از طریق ترمینال:
 {{< highlight plain >}}
 pip install aspose-cad
 {{< /highlight >}}
-![pip-install-aspose-cad](/_assets/python-net/install/pip-install-aspose.png)
+![pip-install-aspose-cad](/cad/_assets/python-net/install/pip-install-aspose.png)
 
 ### استفاده از فایل WHL برای نصب یک بسته
 
 1. برای دانلود فایل whl به صفحه pypi بسته [aspose.cad](https://pypi.org/project/aspose-cad/#files) بروید و فایل را دانلود کنید<br/>
-![whl-download](/_assets/python-net/install/download-whl-file.png)<br/>
+![whl-download](/cad/_assets/python-net/install/download-whl-file.png)<br/>
 1. برای نصب بسته [aspose.cad](https://pypi.org/project/aspose-cad/) ، شما باید از دستور pip با مسیر کامل به فایل whl استفاده کنید:
 {{< highlight plain >}}
 pip install C:\Users\User\Desktop\aspose_cad-23.6-py3-none-win_amd64.whl
 {{< /highlight >}}
-![install-whl-file](/_assets/python-net/install/install-whl-file-terminal.png)
+![install-whl-file](/cad/_assets/python-net/install/install-whl-file-terminal.png)
 
 1. بعد از نصب، ما بسته را در پوشه site-package خواهیم دید<br/>
-![site-package-aspose-cad](/_assets/python-net/install/site-package-aspose.png)
+![site-package-aspose-cad](/cad/_assets/python-net/install/site-package-aspose.png)
 
 ## کد نمونه
 کد نمونه برای تبدیل یک فایل

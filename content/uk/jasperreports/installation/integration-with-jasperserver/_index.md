@@ -282,6 +282,6 @@ url: /uk/jasperreports/installation/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. Перезавантажте сервер JasperReports і відкрийте будь-який звіт для перегляду. Якщо попередні кроки були виконані правильно, ви побачите додаткові варіанти у списку форматів експорту.
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 Якщо ви не бачите додаткових форматів (іконок або варіантів), будь ласка, перевірте журнали в каталозі \apache-tomcat\logs.

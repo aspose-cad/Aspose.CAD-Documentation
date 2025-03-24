@@ -136,10 +136,10 @@ npm run dev
 ## Végrehajtási példa
 
 1. Válassza ki a fájlt.<br>
-![Fájl kiválasztása](/_assets/javascript-net/vue/choose-file.png)<br>
+![Fájl kiválasztása](/cad/_assets/javascript-net/vue/choose-file.png)<br>
 1. Válasszon bármilyen DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG fájlt.
 1. Ha a válasz sikeres, a fájl megjelenik a képernyőn, és felajánlja a letöltését.<br>
-![Kép átkonvertálása](/_assets/javascript-net/vue/convert-image.png)<br>
+![Kép átkonvertálása](/cad/_assets/javascript-net/vue/convert-image.png)<br>
 
 ## Lásd még
 

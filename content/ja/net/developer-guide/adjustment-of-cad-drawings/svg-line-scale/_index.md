@@ -19,6 +19,6 @@ SVGファイル内の線のスケールを制御できます。Aspose.CADライ�
 
 ## 線形スケールを使用したファイル
 1. LineScaleパラメータが0.25に設定されたファイル。<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. ラインスケーリングを使用しない場合のファイル。<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

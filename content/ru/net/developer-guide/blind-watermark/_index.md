@@ -20,9 +20,9 @@ url: /ru/net/developer-guide/blind-watermark/
 Пример внешнего вида файла с использованием текста для слепого водяного знака.
 
 1. Файл до добавления текстового слепого водяного знака<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. Результат добавления текстового слепого водяного знака<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **Использование другого изображения в качестве слепого водяного знака**
 
@@ -35,6 +35,6 @@ url: /ru/net/developer-guide/blind-watermark/
 Пример внешнего вида файла с использованием другого изображения для добавления слепого водяного знака.
 
 1. Файл до добавления изображения в качестве слепого водяного знака<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. Результат после добавления изображения в качестве слепого водяного знака<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

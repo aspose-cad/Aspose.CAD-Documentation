@@ -20,9 +20,9 @@ Możesz użyć tekstu lub obrazu jako niewidocznego znaku wodnego, biblioteka Ap
 Przykład wyglądu pliku używającego tekstu jako niewidocznego znaku wodnego.
 
 1. Plik przed dodaniem tekstowego znaku wodnego<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. Wynik dodania tekstowego znaku wodnego<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **Użycie innego obrazu jako niewidocznego znaku wodnego**
 
@@ -35,6 +35,6 @@ Przykład wyglądu pliku używającego tekstu jako niewidocznego znaku wodnego.
 Przykład widoku pliku używającego innego obrazu do dodania niewidocznego znaku wodnego.
 
 1. Plik przed dodaniem obrazu jako niewidocznego znaku wodnego<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. Wynik po dodaniu obrazu jako niewidocznego znaku wodnego<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

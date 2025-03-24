@@ -25,16 +25,16 @@ Lambda एक कंप्यूट सेवा है जो आपको स�
 
 AWS Lambda फ़ंक्शन प्रोग्राम बनाने के लिए, नीचे दिए गए चरणों का पालन करें:
 1. AWS Lambda प्रोजेक्ट बनाएं।<br>
-![Create AWS function button](/_assets/showcases/aws/create-project.png)<br>
+![Create AWS function button](/cad/_assets/showcases/aws/create-project.png)<br>
 1. .NET 6 (Container Image) का चयन करें और 'Finish' बटन पर क्लिक करें।<br>
-![Create container function button](/_assets/showcases/aws/create-container.png)<br>
+![Create container function button](/cad/_assets/showcases/aws/create-container.png)<br>
 1. Visual Studio में AWS Explorer खोलें (View->AWS Explorer)।
 1. AWS Explorer में AWS क्रेडेंशियल प्रोफ़ाइल जोड़ें।<br>
-![Credential profile](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![Credential profile](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Access Key ID और Secret Access Key दर्ज करें, आप इन कीज़ को सुरक्षा क्रेडेंशियल में प्राप्त कर सकते हैं या प्रबंधक से संपर्क करके प्राधिकरण के लिए एक csv फ़ाइल प्राप्त कर सकते हैं।<br>
-![Acount profile settings](/_assets/showcases/aws/account-profile.png)<br>
+![Acount profile settings](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. NuGet से नवीनतम पुस्तकालयों को स्थापित करें।<br>
-![NuGet Manager](/_assets/showcases/aws/nuget-manager.png)<br>
+![NuGet Manager](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. CAD छवि को PDF फ़ाइल में परिवर्तित करने के लिए कोड उदाहरण।
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. DockerFile को <a href="#configuring-a-dockerfile">Configuring a Dockerfile</a> अनुभाग में जैसा संपादित करें।
 1. Docker Desktop शुरू करें।
 1. AWS Lambda पर प्रकाशित करें।<br>
-![AWS lambda publish](/_assets/showcases/aws/publish-aws.png)<br>
+![AWS lambda publish](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. अपलोड कॉन्फ़िगरेशन संपादित करें।<br>
-![Upload aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![Upload aws lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. 'Upload' बटन पर क्लिक करें।<br>
-![Upload aws lambda last](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![Upload aws lambda last](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. AWS पर जाएं और Lambda का चयन करें।<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. अपने नए फ़ंक्शन का चयन करें और URL फ़ंक्शन बनाएँ।<br>
-![Configuration url function](/_assets/showcases/aws/create-function-url.png)<br>
+![Configuration url function](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. प्रामाणिकता प्रकार चुनें
 - AWS_IAM - केवल प्रमाणित IAM उपयोगकर्ता और भूमिकाएँ आपकी कार्य URL पर अनुरोध कर सकती हैं।
 - NONE - Lambda आपकी कार्य URL पर अनुरोधों पर IAM प्रमाणीकरण नहीं करेगा। URL का एंडपॉइंट सार्वजनिक होगा जब तक कि आप अपने फ़ंक्शन में अपनी प्राधिकरण लॉजिक लागू न करें।
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## कार्य उदाहरण
 
 1. Postman सेटिंग्स।<br>
-![Overview menu](/_assets/showcases/aws/postman-settings.png)<br>
+![Overview menu](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. किसी भी DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG फ़ाइल का चयन करें।
 1. भेजें बटन पर क्लिक करें।
 

@@ -21,14 +21,14 @@ Bu örnekte, bir CAD dosyasını dönüştüren ve bir görüntü olarak kaydede
 Azure Fonksiyon programını oluşturmak için aşağıdaki adımları izleyin:
 1. Docker kurulduktan sonra, Linux Konteynerleri kullandığından emin olun (varsayılan). Gerekirse, Docker Masaüstü menüsünden Linux konteynerlerine geçiş seçeneğini seçin.
 1. IntelliJ IDEA'da Azure Fonksiyon projesi oluşturun.<br>
-![Azure fonksiyon projesi oluştur](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Azure fonksiyon projesi oluştur-sonuç](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Azure fonksiyon projesi oluştur](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Azure fonksiyon projesi oluştur-sonuç](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Araçlar->Azure->Oturum Aç ve OAuth 2.0 kimlik doğrulamasını seçin.<br>
-![Azure oturum aç](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Azure oturum aç](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. Tarayıcıda oturum açın.
 1. Abonelik adını seçin.
 1. Docker desteği ekleyin.<br>
-![Azure oturum aç](/_assets/java/java-azure/add-docker-support.png)<br>
+![Azure oturum aç](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. <a href="#configuring-a-dockerfile">Dockerfile'ı Yapılandırma</a> bölümündeki gibi DockerFile'ı düzenleyin.
 1. pom.xml dosyasına aspose.cad için depo blokları ekleyin.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push kullanıcı/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. IDE'de dockerfile çalıştırın ve ardından docker hub'a itme işlemi yapın.<br>
-![IDE'de docker çalıştır](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![IDE'de docker çalıştır](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. Görüntü adını, Docker Hub deposundaki gibi girin.<br>
-![IDE'de docker çalıştır-sonraki](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![IDE'de docker çalıştır-sonraki](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. Sonlanmayı bekleyin.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push kullanıcı/aspose-cad-java:latest
 1. Azure'a giriş yapın.
 1. Azure hizmetlerini seçin.
 1. Fonksiyon Uygulaması seçin ve bir fonksiyon oluşturun.<br>
-![Azure fonksiyon oluştur butonu](/_assets/java/java-azure/create-function-azure.png)<br>
+![Azure fonksiyon oluştur butonu](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. Aşağıdaki resimdeki gibi temel ayarları tekrarlayın.<br>
-![Azure fonksiyon oluşturma ayarları](/_assets/java/java-azure/create-function-settings.png)<br>
+![Azure fonksiyon oluşturma ayarları](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. 'Gözden Geçir + oluştur' -> Oluştur düğmesine tıklayın.
 1. Dağıtımın tamamlanmasını bekleyin.
 1. 'Kaynağa git' düğmesine tıklayın.<br>
-![Kaynak butonu](/_assets/java/java-azure/go-to-resource.png)<br>
+![Kaynak butonu](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. aspose-cad-docker-example fonksiyonunu durdurun.<br>
-![Konteyneri durdur](/_assets/java/java-azure/stop-container.png)<br>
+![Konteyneri durdur](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. Dağıtım merkezi menüsüne gidin ve gerekli ayarları yapın.<br>
-![Dağıtım merkezi](/_assets/java/java-azure/deployment-center.png)<br>
+![Dağıtım merkezi](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. Ayarları kaydedin.
 1. Dağıtım merkezi ayarlarından Webhook URL'sini kopyalayın.<br>
-![Webhook url](/_assets/java/java-azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. Docker Hub'a gidin, deposunu seçin ve webhooks'u seçin.
 1. Azure'dan Webhook url'sini Docker Hub webhook url'sine yapıştırın ve adını belirleyin.<br>
-![Docker'daki Webhook ayarları](/_assets/java/java-azure/webhook.png)<br>
+![Docker'daki Webhook ayarları](/cad/_assets/java/java-azure/webhook.png)<br>
 1. Oluştur düğmesine tıklayın.
 1. Genel bakış Azure fonksiyonuna dönün ve konteyneri başlatın.<br>
-![Genel bakış menüsü](/_assets/java/java-azure/overview.png)<br>
+![Genel bakış menüsü](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 Fonksiyonun başlaması birkaç dakika sürebilir.
 {{% /alert %}}
@@ -193,11 +193,11 @@ Fonksiyonun başlaması birkaç dakika sürebilir.
 ## Çalıştırma Örneği
 
 1. Postman ayarları.<br>
-![Genel bakış menüsü](/_assets/java/java-azure/postman-settings.png)<br>
+![Genel bakış menüsü](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. Herhangi bir DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG dosyasını seçin.
 1. Gönder düğmesine tıklayın.
 1. Sonucu kaydedin
-![Yanıtı kaydet](/_assets/java/java-azure/response-postman.png)<br>
+![Yanıtı kaydet](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Eğer yanıt başarılı olursa, dosyayı kaydet butonuna tıklayın ve dönüştürülen dosyayı png formatında alacaksınız.

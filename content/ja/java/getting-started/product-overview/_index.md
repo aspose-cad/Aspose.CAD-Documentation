@@ -36,7 +36,7 @@ Aspose.CAD for Javaの主な変換、レンダリングおよびレポーティ�
 
 Aspose.CAD for Javaは、人気のあるDWG、DWF、DXF、DWT、PDFおよびラスタ画像をサポートしています。
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **DXF / DWG / DGNのサポート**
 - 3Dソリッド（円錐、球、トーラス、円柱、ボックス、クワッド）
 ### **DXF / DWGのサポート**

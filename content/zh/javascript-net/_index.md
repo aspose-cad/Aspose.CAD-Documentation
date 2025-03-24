@@ -11,7 +11,7 @@ is_root: false
 
 ## **欢迎使用 Aspose.CAD for JavaScript**
 
-![Aspose.CAD for JavaScript 产品标志](/_assets/home_5.png)
+![Aspose.CAD for JavaScript 产品标志](/cad/_assets/home_5.png)
 
 Aspose.CAD for JavaScript 是一个不依赖任何软件的 CAD 转换原生 API。它允许开发人员将 DXF、DWG、DWT、DGN、IFC、DWF、DWFX、STL、IGES（IGS）、CF2、Collada（DAE）、PLT、OBJ、SVG、DXB、FBX、U3D、3DS、STP 文件转换为光栅图像格式和 PDF。
 在转换过程中，开发人员可以选择并转换特定的图层和布局，同时跟踪文件转换过程。

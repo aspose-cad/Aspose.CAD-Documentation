@@ -23,9 +23,9 @@ Aspose.CAD cho phép bạn tạo tệp PDF với nội dung 3D. Bạn có thể 
 
 Một ví dụ về diện mạo của tệp PDF với nội dung 3D, cũng như một sự trình diễn của quá trình xoay và thu phóng.
 
-![PDF-3D](/_assets/guide/pdf-3d/result.png)
-![Xoay đã thay đổi](/_assets/guide/pdf-3d/rotate.png)
-![Thu phóng](/_assets/guide/pdf-3d/scaling.png)
+![PDF-3D](/cad/_assets/guide/pdf-3d/result.png)
+![Xoay đã thay đổi](/cad/_assets/guide/pdf-3d/rotate.png)
+![Thu phóng](/cad/_assets/guide/pdf-3d/scaling.png)
 
 ## **Tài nguyên Aspose.CAD cho .NET**
 

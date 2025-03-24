@@ -20,9 +20,9 @@ Je kunt een tekst of afbeelding gebruiken voor een blind watermark, de Apose.CAD
 Een voorbeeld van de weergave van een bestand dat tekst gebruikt voor een blind watermark.
 
 1. Het bestand voordat de tekst blind watermark werd toegevoegd<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. Het resultaat van het toevoegen van de tekst blind watermark<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **Een andere afbeelding gebruiken als een blind watermark**
 
@@ -35,6 +35,6 @@ Een voorbeeld van de weergave van een bestand dat tekst gebruikt voor een blind 
 Een voorbeeld van een bestandsweergave met behulp van een andere afbeelding om een blind watermark toe te voegen.
 
 1. Het bestand voordat de afbeelding als een blind watermark werd toegevoegd<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. Het resultaat na het toevoegen van de afbeelding als een blind watermark<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

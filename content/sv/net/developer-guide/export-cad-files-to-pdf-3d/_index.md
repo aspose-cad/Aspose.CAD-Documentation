@@ -23,9 +23,9 @@ För att konvertera din 3D-ritning till PDF-3D, behöver du köra koden från ex
 
 Ett exempel på utseendet på en PDF-fil med 3D-innehåll, samt en demonstration av rotation och skalning.
 
-![PDF-3D](/_assets/guide/pdf-3d/result.png)
-![Ändrad rotation](/_assets/guide/pdf-3d/rotate.png)
-![Skalning](/_assets/guide/pdf-3d/scaling.png)
+![PDF-3D](/cad/_assets/guide/pdf-3d/result.png)
+![Ändrad rotation](/cad/_assets/guide/pdf-3d/rotate.png)
+![Skalning](/cad/_assets/guide/pdf-3d/scaling.png)
 
 ## **Aspose.CAD för .NET-resurser**
 

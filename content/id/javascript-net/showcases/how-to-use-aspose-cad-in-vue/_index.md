@@ -136,10 +136,10 @@ npm run dev
 ## Contoh pelaksanaan
 
 1. Pilih file.<br>
-![Pilih file](/_assets/javascript-net/vue/choose-file.png)<br>
+![Pilih file](/cad/_assets/javascript-net/vue/choose-file.png)<br>
 1. Pilih file DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG apa pun.
 1. Jika jawabannya berhasil, file akan ditampilkan di layar dan akan menawarkan untuk mengunduhnya.<br>
-![Konversi gambar](/_assets/javascript-net/vue/convert-image.png)<br>
+![Konversi gambar](/cad/_assets/javascript-net/vue/convert-image.png)<br>
 
 ## Lihat Juga
 

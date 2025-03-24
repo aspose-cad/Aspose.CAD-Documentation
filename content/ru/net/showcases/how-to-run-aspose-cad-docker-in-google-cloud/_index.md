@@ -120,11 +120,11 @@ dotnet run
 1. Войдите в Google Cloud.
 1. Создайте проект, если его еще нет.
 1. Перейдите в 'Artifact Registry' и создайте репозиторий.<br>
-![Создать репозиторий артефактов](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Создать репозиторий артефактов](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Выберите новый репозиторий в Artifact Registry.
-![Выбрать репозиторий артефактов](/_assets/showcases/google/select-artifact.png)<br>
+![Выбрать репозиторий артефактов](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. Нажмите 'ИНСТРУКЦИИ ПО НАСТРОЙКЕ' и скопируйте команду 'Настроить Docker'.<br>
-![ИНСТРУКЦИИ ПО НАСТРОЙКЕ](/_assets/showcases/google/setup-instruction.png)<br>
+![ИНСТРУКЦИИ ПО НАСТРОЙКЕ](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Добавьте запись credHelper Docker в файл конфигурации Docker или создайте файл, если он не существует.
 {{< highlight plain >}}
 //пример
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Перейдите на Cloud Run.
 1. Создайте службу Cloud Run.<br>
-![Создать службу Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Создать службу Cloud Run](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. В поле URL контейнера выберите контейнер из 'АРТЕФАКТНЫЙ РЕГИСТР'.<br>
-![URL контейнера](/_assets/showcases/google/container-url.png)<br>
+![URL контейнера](/cad/_assets/showcases/google/container-url.png)<br>
 1. Проверьте другие настройки, как ниже.<br>
-![Настройки службы](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Настройки службы](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Дождитесь завершения развертывания.
 1. URL службы, чтобы работать с приложением преобразования.<br>
-![URL службы](/_assets/showcases/google/url-service.png)<br>
+![URL службы](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Настройка Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Пример выполнения
 
 1. Настройки Postman.<br>
-![Меню обзора](/_assets/showcases/google/postman-settings.png)<br>
+![Меню обзора](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Выберите любой файл DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Нажмите кнопку отправки.
 

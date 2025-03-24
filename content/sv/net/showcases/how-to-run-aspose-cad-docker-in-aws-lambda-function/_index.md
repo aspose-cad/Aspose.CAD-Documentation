@@ -25,16 +25,16 @@ Se till att du har tillräckliga rättigheter för att skapa AWS Lambda-funktion
 
 För att skapa AWS Lambda-funktionsprogrammet, följ stegen nedan:
 1. Skapa ett AWS Lambda-projekt.<br>
-![Skapa AWS-funktion knapp](/_assets/showcases/aws/create-project.png)<br>
+![Skapa AWS-funktion knapp](/cad/_assets/showcases/aws/create-project.png)<br>
 1. Välj .NET 6 (Container Image) och klicka på 'Finish' knappen.<br>
-![Skapa containerfunktion knapp](/_assets/showcases/aws/create-container.png)<br>
+![Skapa containerfunktion knapp](/cad/_assets/showcases/aws/create-container.png)<br>
 1. Öppna AWS Explorer i Visual Studio (Visa->AWS Explorer).
 1. Lägg till AWS autentiseringsprofil i AWS Explorer.<br>
-![Credential profile](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![Credential profile](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Skriv in Access Key ID och Secret Access Key, du kan få dessa nycklar i Security credentials eller kontakta administratören och få en csv-fil för auktorisering.<br>
-![Acount profile settings](/_assets/showcases/aws/account-profile.png)<br>
+![Acount profile settings](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. Installera de senaste biblioteken från NuGet.<br>
-![NuGet Manager](/_assets/showcases/aws/nuget-manager.png)<br>
+![NuGet Manager](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. Kodexempel för att konvertera cad-bild till pdf-fil.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Redigera Dockerfilen enligt <a href="#configuring-a-dockerfile">Konfigurera en Dockerfil</a> avsnittet.
 1. Starta Docker Desktop.
 1. Publicera till AWS Lambda.<br>
-![AWS lambda publicera](/_assets/showcases/aws/publish-aws.png)<br>
+![AWS lambda publicera](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. Redigera uppladdningskonfiguration.<br>
-![Ladda upp aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![Ladda upp aws lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Klicka på 'Ladda upp' knappen.<br>
-![Ladda upp aws lambda sist](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![Ladda upp aws lambda sist](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Gå till AWS och välj Lambda.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Välj din nya funktion och skapa funktions-URL.<br>
-![Konfiguration URL-funktion](/_assets/showcases/aws/create-function-url.png)<br>
+![Konfiguration URL-funktion](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. Välj autentiseringstyp
 - AWS_IAM - Endast autentiserade IAM-användare och roller kan göra förfrågningar till din funktions-URL.
 - NONE - Lambda kommer inte att utföra IAM-autentisering på förfrågningar till din funktions-URL. URL-slutpunkten kommer att vara offentlig såvida du inte implementerar din egen auktoriseringslogik i din funktion.
@@ -126,7 +126,7 @@ Ovanstående är en enkel Dockerfil, som innehåller följande instruktioner:
 ## Exempel på körning
 
 1. Postman-inställningar.<br>
-![Översikt meny](/_assets/showcases/aws/postman-settings.png)<br>
+![Översikt meny](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. Välj valfri DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG-fil.
 1. Klicka på skicka-knappen.
 

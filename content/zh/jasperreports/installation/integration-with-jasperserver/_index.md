@@ -281,6 +281,6 @@ url: /zh/jasperreports/installation/integration-with-jasperserver/
 {{< /highlight >}}
 
 5. 重启JasperReports Server并打开任何报告以查看。如果之前的步骤正确执行，您将在导出格式列表中看到额外的选项。
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 如果您没有看到额外的格式（图标或选项），请检查 \apache-tomcat\logs 目录下的日志文件。

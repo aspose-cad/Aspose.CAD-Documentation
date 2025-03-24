@@ -9,7 +9,7 @@ url: /hu/net/getting-started/installation/
 
 A NuGet a legegyszerűbb módja az Aspose API-k letöltésének és telepítésének .NET alatt. Nyissa meg a Microsoft Visual Studio-t és a NuGet csomagkezelőt. Keresse meg az "aspose" kifejezést az áhított Aspose API megtalálásához. Kattintson az "Install" gombra, a kiválasztott API letöltődik és hivatkozik a projektjében.
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **Aspose.CAD hivatkozása .NET projektből**
 
@@ -21,7 +21,7 @@ Kérjük, kövesse az alábbi lépéseket (feltételezve, hogy Microsoft Visual 
 1. Válassza ki az *Aspose.CAD* DLL fájlt, majd kattintson az **OK** gombra.
 1. Az *Aspose.CAD* hivatkozás megjelenik a projekt **References** csomópontja alatt.
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **Aspose.CAD telepítése vagy frissítése a Csomagkezelő Konzolon keresztül**
 
@@ -30,23 +30,23 @@ Az alábbi lépéseket követheti a [Aspose.CAD API](https://www.nuget.org/packa
 1. Nyissa meg a megoldását/projektjét a Visual Studio-ban.
 1. Válassza a Menü -> Eszközök -> Könyvtárcsomag-kezelő -> Csomagkezelő Konzol lehetőséget a csomagkezelő konzol megnyitásához.
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 Írja be a parancsot: “**Install-Package Aspose.CAD**” és nyomja meg az Enter billentyűt a legfrissebb teljes verzió telepítéséhez az alkalmazásába. Alternatív módon hozzáadhatja a "**-prerelease**" utótagot a parancshoz, hogy megadja, hogy a legfrissebb hiba javítást is telepíteni kell.
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 Látni fogja, hogy a "Downloading Aspose.CAD..." üzenet megjelenik az ablak bal alsó részén, jelezve, hogy a letöltés folyamatban van.
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 A letöltés után az alábbi megerősítő üzeneteket fogja látni. Ha nem ismeri az [Aspose EULA](https://about.aspose.com/legal/eula) feltételeit, akkor érdemes elolvasnia az URL-ben hivatkozott licencet.
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 Most már azt fogja tapasztalni, hogy az Aspose.CAD sikeresen hozzá lett adva és hivatkozva lett az alkalmazásában.
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 A csomagkezelő konzolban a "frissítések megkereséséhez" használhatja a “**Update-Package Aspose.CAD**” parancsot, és nyomja meg az Enter billentyűt a frissítések ellenőrzéséhez és azok telepítéséhez, ha jelen vannak. A legfrissebb verzió frissítéséhez "-prerelease" utótagot is hozzáadhat.
 

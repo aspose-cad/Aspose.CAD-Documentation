@@ -19,6 +19,6 @@ url: /fa/python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## فایلی با استفاده از مقیاس خطی
 1. فایلی اگر پارامتر LineScale به 0.25 تنظیم شود.<br>
-![تصویر ورودی](/_assets/guide/svg/line_scale_0.25.png)<br>
+![تصویر ورودی](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. فایلی اگر از مقیاس خطوط استفاده نکنید.<br>
-![تصویر ورودی](/_assets/guide/svg/basic_options.png)<br>
+![تصویر ورودی](/cad/_assets/guide/svg/basic_options.png)<br>

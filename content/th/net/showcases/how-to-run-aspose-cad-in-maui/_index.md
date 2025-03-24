@@ -27,22 +27,22 @@ url: /th/net/showcases/how-to-run-aspose-cad-in-maui/
 
 1. เพื่อสร้างแอพ .NET MAUI คุณจะต้องติดตั้งเวอร์ชันล่าสุดของ Visual Studio 2022
 1. ติดตั้ง Visual Studio หรือปรับเปลี่ยนการติดตั้งที่มีอยู่และติดตั้ง .NET Multi-platform App UI development workload พร้อมกับตัวเลือกติดตั้งเริ่มต้น:<br>
-![ติดตั้ง Visual Studio](/_assets/showcases/maui/visual-installer.png)
+![ติดตั้ง Visual Studio](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## สร้างโปรเจ็กต์
 
 1. เปิด Visual Studio ในหน้าต่างเริ่มต้น คลิก สร้างโปรเจ็กต์ใหม่ เพื่อสร้างโปรเจ็กต์ใหม่:<br>
-![สร้างโปรเจ็กต์](/_assets/showcases/maui/create-project.png)<br>
+![สร้างโปรเจ็กต์](/cad/_assets/showcases/maui/create-project.png)<br>
 1. ในหน้าต่างสร้างโปรเจ็กต์ใหม่ เลือก MAUI ในรายการประเภทโปรเจ็กต์ทั้งหมด เลือกเทมเพลต .NET MAUI App จากนั้นคลิกปุ่มถัดไป:<br>
-![เลือกประเภทโปรเจ็กต์](/_assets/showcases/maui/select-project.png)<br>
+![เลือกประเภทโปรเจ็กต์](/cad/_assets/showcases/maui/select-project.png)<br>
 1. ในหน้าต่างกำหนดโปรเจ็กต์ใหม่ของคุณ ให้ตั้งชื่อโปรเจ็กต์ของคุณ เลือกตำแหน่งที่เหมาะสมสำหรับโปรเจ็กต์และคลิกปุ่มถัดไป:<br>
-![เลือกเส้นทางโปรเจ็กต์](/_assets/showcases/maui/select-project-path.png)<br>
+![เลือกเส้นทางโปรเจ็กต์](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. ในหน้าต่างข้อมูลเพิ่มเติม เลือกเวอร์ชันของ .NET ที่คุณต้องการกำหนดเป้าหมายและคลิกปุ่มสร้าง:<br>
-![กรอบที่กำหนดเป้าหมาย](/_assets/showcases/maui/select-framework.png)<br>
+![กรอบที่กำหนดเป้าหมาย](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. รอให้โปรเจ็กต์ถูกสร้างและการพึ่งพาถูกกู้คืน
 1. ติดตั้งเวอร์ชันล่าสุดของ Aspose.CAD จาก NuGet:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. แทนที่โค้ดใน MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## ดีบักเครื่อง Windows
 
 1. ในแถบเครื่องมือ Visual Studio ใช้รายการหมวดหมู่ดีบักเพื่อเลือก Framework และจากนั้นเลือก net7.0-windows:<br>
-![เป้าหมายการดีบัก](/_assets/showcases/maui/windows-mode.png)<br>
+![เป้าหมายการดีบัก](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. ในแถบเครื่องมือ Visual Studio กดปุ่ม Windows Machine เพื่อสร้างและรันแอพ:<br>
-![เริ่มดีบักบนเครื่อง Windows](/_assets/showcases/maui/windows-start-debug.png)<br>
+![เริ่มดีบักบนเครื่อง Windows](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. ในแอพที่กำลังทำงาน กดปุ่ม "เลือกไฟล์" หลายครั้งและสังเกตเห็นว่าจำนวนการคลิกปุ่มเพิ่มขึ้น:<br>
-![หน้าหลัก](/_assets/showcases/maui/windows-home-page.png)<br>
+![หน้าหลัก](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. เลือกไฟล์ที่ต้องการและคลิกเปิด:<br>
-![เลือกไฟล์](/_assets/showcases/maui/select-file.png)<br>
+![เลือกไฟล์](/cad/_assets/showcases/maui/select-file.png)<br>
 1. หลังจากประมวลผลไฟล์ รูปภาพของไฟล์ที่แปลงควรปรากฏบนหน้าจอ:<br>
-![ผลลัพธ์ของการดีบัก Windows](/_assets/showcases/maui/windows-result.png)
+![ผลลัพธ์ของการดีบัก Windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## ติดตั้ง Android Emulator
 
 1. ในแถบเครื่องมือ Visual Studio ใช้รายการหมวดหมู่ดีบักเพื่อเลือก Android Emulators และจากนั้นเลือก Android Emulator
 1. ในแถบเครื่องมือ Visual Studio กดปุ่ม Android Emulator:<br>
-![เริ่มติดตั้ง Emulator](/_assets/showcases/maui/start-install-emulator.png)<br>
+![เริ่มติดตั้ง Emulator](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. ในหน้าต่าง Android SDK - ข้อตกลงใบอนุญาต กดปุ่ม Accept:<br>
-![Android SDK-ข้อตกลงใบอนุญาต](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-ข้อตกลงใบอนุญาต](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. ในหน้าต่าง Android SDK - ข้อตกลงใบอนุญาต กดปุ่ม Accept:<br>
-![Android SDK ARM -ข้อตกลงใบอนุญาต](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -ข้อตกลงใบอนุญาต](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. ในหน้าต่าง User Account Control กดปุ่ม Yes:<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. ในหน้าต่างการยอมรับใบอนุญาต กดปุ่ม Accept:<br>
-![SDK ARManagerM -ข้อตกลงใบอนุญาต](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -ข้อตกลงใบอนุญาต](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. ในแถบเครื่องมือ Visual Studio กดปุ่ม Android Emulator:<br>
-![เริ่มติดตั้ง Emulator](/_assets/showcases/maui/start-install-emulator.png)<br>
+![เริ่มติดตั้ง Emulator](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. ในหน้าต่าง User Account Control กดปุ่ม Yes:<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. ในหน้าต่างอุปกรณ์ใหม่ กดปุ่ม Create:<br>
-![อุปกรณ์ Android ใหม่](/_assets/showcases/maui/android-new-device.png)<br>
+![อุปกรณ์ Android ใหม่](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. ปิดหน้าต่าง Android Device Manager
 
 
 ## ดีบักด้วย Android Emulator
 
 1. ในแถบเครื่องมือ Visual Studio กดปุ่ม Pixel 5 - API 33 (Android 13.0 - API 33) เพื่อสร้างและรันแอพ:<br>
-![เลือก android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![เลือก android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. ในแอพที่กำลังทำงานใน Android emulator กดปุ่ม "เลือกไฟล์" หลายครั้งและสังเกตเห็นว่าจำนวนการคลิกปุ่มเพิ่มขึ้น:<br>
-![หน้าหลัก Android Emulator](/_assets/showcases/maui/android-home-page.png)<br>
+![หน้าหลัก Android Emulator](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. เลือกไฟล์ที่ต้องการและคลิกเลือก:<br>
-![เลือกไฟล์ใน Android](/_assets/showcases/maui/select-file-android.png)<br>
+![เลือกไฟล์ใน Android](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. หลังจากประมวลผลไฟล์ รูปภาพของไฟล์ที่แปลงควรปรากฏบนหน้าจอ:<br>
-![ผลลัพธ์ของการดีบัก Android](/_assets/showcases/maui/android-result.png)
+![ผลลัพธ์ของการดีบัก Android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## ตัวอย่างเพิ่มเติม

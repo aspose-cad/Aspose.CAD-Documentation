@@ -25,16 +25,16 @@ Pastikan Anda memiliki hak yang cukup untuk membuat fungsi dan gambar AWS Lambda
 
 Untuk membuat program Fungsi AWS Lambda, ikuti langkah-langkah di bawah ini:
 1. Buat Proyek AWS Lambda.<br>
-![Buat tombol fungsi AWS](/_assets/showcases/aws/create-project.png)<br>
+![Buat tombol fungsi AWS](/cad/_assets/showcases/aws/create-project.png)<br>
 1. Pilih .NET 6 (Gambar Kontainer) dan klik tombol 'Selesai'.<br>
-![Buat tombol fungsi kontainer](/_assets/showcases/aws/create-container.png)<br>
+![Buat tombol fungsi kontainer](/cad/_assets/showcases/aws/create-container.png)<br>
 1. Buka AWS Explorer di Visual Studio (Tampilan->AWS Explorer).
 1. Tambahkan profil kredensial AWS di AWS Explorer.<br>
-![Profil kredensial](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![Profil kredensial](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Masukkan Access Key ID dan Secret Access Key, Anda dapat memperoleh kunci ini di kredensial keamanan atau menghubungi administrator dan mendapatkan file csv untuk otorisasi.<br>
-![Pengaturan profil akun](/_assets/showcases/aws/account-profile.png)<br>
+![Pengaturan profil akun](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. Instal pustaka terbaru dari NuGet.<br>
-![Pengelola NuGet](/_assets/showcases/aws/nuget-manager.png)<br>
+![Pengelola NuGet](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. Contoh kode untuk mengonversi gambar cad menjadi file pdf.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. Edit DockerFile seperti di bagian <a href="#configuring-a-dockerfile">Mengonfigurasi Dockerfile</a>.
 1. Mulai Docker Desktop.
 1. Publikasikan ke AWS Lambda.<br>
-![Publikasi AWS lambda](/_assets/showcases/aws/publish-aws.png)<br>
+![Publikasi AWS lambda](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. Edit konfigurasi unggahan.<br>
-![Unggah aws lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![Unggah aws lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. Klik tombol 'Unggah'.<br>
-![Unggah aws lambda terakhir](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![Unggah aws lambda terakhir](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. Pergi ke AWS dan pilih Lambda.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Pilih fungsi baru Anda dan buat url fungsi.<br>
-![Konfigurasi url fungsi](/_assets/showcases/aws/create-function-url.png)<br>
+![Konfigurasi url fungsi](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. Pilih tipe otentikasi
 - AWS_IAM - Hanya pengguna dan peran IAM yang terautentikasi yang dapat membuat permintaan ke URL fungsi Anda.
 - NONE - Lambda tidak akan melakukan otentikasi IAM pada permintaan ke URL fungsi Anda. Titik akhir URL akan bersifat publik kecuali Anda menerapkan logika otorisasi Anda sendiri di fungsi Anda.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## Contoh Eksekusi
 
 1. Pengaturan Postman.<br>
-![Menu gambaran umum](/_assets/showcases/aws/postman-settings.png)<br>
+![Menu gambaran umum](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. Pilih DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, atau file SVG lainnya.
 1. Klik tombol kirim.
 

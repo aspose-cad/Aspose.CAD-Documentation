@@ -7,7 +7,7 @@ url: /ko/python-net/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD for Python 제품 로고](/_assets/home_4.png)
+![Aspose.CAD for Python 제품 로고](/cad/_assets/home_4.png)
 
 Aspose.CAD for Python은 파이썬에서 PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD와 같은 다양한 벡터 및 레스터 이미지 파일 형식으로 보고서를 내보낼 수 있는 유일한 솔루션입니다. 또한 DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS와 같은 다양한 CAD 및 BIM 파일 형식으로 작업할 수 있습니다.
 

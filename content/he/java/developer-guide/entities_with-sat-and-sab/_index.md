@@ -15,7 +15,7 @@ url: /he/java/developer-guide/entities_with-sat-and-sab/
 
 להלן דוגמה לתוצאת היצוא (קובץ DWG בצד השמאלי, תוצאת PDF בצד הימני).
 
-![ייצוא של חרוט וכדורים](/_assets/guide/coneAndSpheres.png)
+![ייצוא של חרוט וכדורים](/cad/_assets/guide/coneAndSpheres.png)
 
 ייצוא של ישויות ACIS אינו דורש אפשרויות מיוחדות. כדי למטב את גודל השרטוט, במיוחד כאשר השרטוט מכיל ישויות ACIS בלבד, שקול להשתמש בפונקציה cadImage.updateSize() כדי להתאים את ממדי השרטוט ההתחלתיים במדויק.
 

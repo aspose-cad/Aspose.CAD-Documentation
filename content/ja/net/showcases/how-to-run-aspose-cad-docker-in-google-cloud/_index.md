@@ -120,11 +120,11 @@ dotnet run
 1. Google Cloud にログインします。
 1. プロジェクトが存在しない場合は作成します。
 1. 「Artifact Registry」に移動し、リポジトリを作成します。<br>
-![アーティファクトリポジトリの作成](/_assets/showcases/google/create-artifact-repository.png)<br>
+![アーティファクトリポジトリの作成](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Artifact Registry で新しいリポジトリを選択します。
-![アーティファクトリポジトリの選択](/_assets/showcases/google/select-artifact.png)<br>
+![アーティファクトリポジトリの選択](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. 「SETUP INSTRUCTION」をクリックし、「Configure Docker」コマンドをコピーします。<br>
-![SETUP INSTRUCTION](/_assets/showcases/google/setup-instruction.png)<br>
+![SETUP INSTRUCTION](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Docker の構成ファイルに Docker credHelper エントリを追加するか、存在しない場合はファイルを作成します。
 {{< highlight plain >}}
 //例
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Cloud Run に移動します。
 1. Cloud Run サービスを作成します。<br>
-![Cloud Run サービスの作成](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Cloud Run サービスの作成](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. コンテナイメージ URL フィールドで、「ARTIFACT REGISTRY」からコンテナを選択します。<br>
-![コンテナイメージ URL](/_assets/showcases/google/container-url.png)<br>
+![コンテナイメージ URL](/cad/_assets/showcases/google/container-url.png)<br>
 1. その他の設定を以下のように確認します。<br>
-![サービス設定](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![サービス設定](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. デプロイが完了するまで待ちます。
 1. 変換アプリケーションで使用するサービス URL。<br>
-![サービスの URL](/_assets/showcases/google/url-service.png)<br>
+![サービスの URL](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Dockerfile の設定
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## 実行例
 
 1. Postman 設定。<br>
-![概要メニュー](/_assets/showcases/google/postman-settings.png)<br>
+![概要メニュー](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. 任意の DXF、DWG、DGN、DWF、DWFX、IFC、STL、DWT、IGES、PLT、CF2、OBJ、HPGL、IGS、PCL、FBX、PDF、SVG ファイルを選択します。
 1. 送信ボタンをクリックします。
 

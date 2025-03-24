@@ -27,22 +27,22 @@ url: /ko/net/showcases/how-to-run-aspose-cad-in-maui/
 
 1. .NET MAUI 앱을 생성하려면 최신 버전의 Visual Studio 2022가 필요합니다.
 1. Visual Studio를 설치하거나 기존 설치를 수정하고, 기본 선택 설치 옵션으로 .NET 멀티 플랫폼 앱 UI 개발 워크로드를 설치합니다:<br>
-![Visual installer](/_assets/showcases/maui/visual-installer.png)
+![Visual installer](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## 프로젝트 생성
 
 1. Visual Studio를 실행합니다. 시작 창에서 새 프로젝트 만들기를 클릭하여 새 프로젝트를 생성합니다:<br>
-![Create project](/_assets/showcases/maui/create-project.png)<br>
+![Create project](/cad/_assets/showcases/maui/create-project.png)<br>
 1. 새 프로젝트 만들기 창에서 모든 프로젝트 유형 드롭다운에서 MAUI를 선택하고, .NET MAUI 앱 템플릿을 선택한 후 다음 버튼을 클릭합니다:<br>
-![Select project type](/_assets/showcases/maui/select-project.png)<br>
+![Select project type](/cad/_assets/showcases/maui/select-project.png)<br>
 1. 새 프로젝트 구성 창에서 프로젝트 이름을 지정하고 알맞은 위치를 선택한 다음 다음 버튼을 클릭합니다:<br>
-![Select project path](/_assets/showcases/maui/select-project-path.png)<br>
+![Select project path](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. 추가 정보 창에서 대상으로 삼을 .NET 버전을 선택하고 생성 버튼을 클릭합니다:<br>
-![Target Framework](/_assets/showcases/maui/select-framework.png)<br>
+![Target Framework](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. 프로젝트가 생성되고 의존성이 복원될 때까지 기다립니다.
 1. NuGet에서 Aspose.CAD의 최신 버전을 설치합니다:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. MainPage.xaml의 코드를 교체합니다
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -130,49 +130,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Windows 머신에서 디버깅
 
 1. Visual Studio 도구 모음에서 디버그 대상을 사용하여 Framework를 선택한 후 net7.0-windows 항목을 선택합니다:<br>
-![Debug Target](/_assets/showcases/maui/windows-mode.png)<br>
+![Debug Target](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. Visual Studio 도구 모음에서 Windows 머신 버튼을 눌러 앱을 빌드하고 실행합니다:<br>
-![Start Debugging on Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Start Debugging on Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. 실행 중인 앱에서 "파일 선택" 버튼을 여러 번 누르고 클릭 횟수가 증가하는지 확인합니다:<br>
-![Home Page](/_assets/showcases/maui/windows-home-page.png)<br>
+![Home Page](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. 필요한 파일을 선택하고 열기를 클릭합니다:<br>
-![Select file](/_assets/showcases/maui/select-file.png)<br>
+![Select file](/cad/_assets/showcases/maui/select-file.png)<br>
 1. 파일 처리가 완료된 후 변환된 파일의 이미지가 화면에 나타납니다:<br>
-![The result of debugging windows](/_assets/showcases/maui/windows-result.png)
+![The result of debugging windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## Android 에뮬레이터 설치
 
 1. Visual Studio 도구 모음에서 디버그 대상을 사용하여 Android Emulators를 선택하고 Android Emulator 항목을 선택합니다.
 1. Visual Studio 도구 모음에서 Android Emulator 버튼을 누릅니다:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. Android SDK - 라이센스 동의 창에서 수락 버튼을 누릅니다:<br>
-![Android SDK-License Agreement](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-License Agreement](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. Android SDK - 라이센스 동의 창에서 수락 버튼을 누릅니다:<br>
-![Android SDK ARM -License Agreement](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM -License Agreement](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. 사용자 계정 컨트롤 대화상자에서 예 버튼을 누릅니다:<br>
-![SDK Manager](/_assets/showcases/maui/android-sdk-3.png)<br>
+![SDK Manager](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. 라이센스 수락 창에서 수락 버튼을 누릅니다:<br>
-![SDK ARManagerM -License Agreement](/_assets/showcases/maui/android-sdk-4.png)<br>
+![SDK ARManagerM -License Agreement](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. Visual Studio 도구 모음에서 Android Emulator 버튼을 누릅니다:<br>
-![Start install Emulator button](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Start install Emulator button](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. 사용자 계정 컨트롤 대화상자에서 예 버튼을 누릅니다:<br>
-![Android Device Manager](/_assets/showcases/maui/android-device-manager.png)<br>
+![Android Device Manager](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. 새 장치 창에서 만들기 버튼을 누릅니다:<br>
-![New Android Device](/_assets/showcases/maui/android-new-device.png)<br>
+![New Android Device](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. Android Device Manager 창을 닫습니다.
 
 
 ## Android 에뮬레이터로 디버깅
 
 1. Visual Studio 도구 모음에서 Pixel 5 - API 33 (Android 13.0 - API 33) 버튼을 눌러 앱을 빌드하고 실행합니다:<br>
-![Select android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Select android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. Android 에뮬레이터에서 실행 중인 앱에서 "파일 선택" 버튼을 여러 번 누르고 클릭 횟수가 증가하는지 확인합니다:<br>
-![Android Emulator Home Page](/_assets/showcases/maui/android-home-page.png)<br>
+![Android Emulator Home Page](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. 필요한 파일을 선택하고 선택 버튼을 클릭합니다:<br>
-![Select file in andoid](/_assets/showcases/maui/select-file-android.png)<br>
+![Select file in andoid](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. 파일 처리가 완료된 후 변환된 파일의 이미지가 화면에 나타납니다:<br>
-![The result of debugging android](/_assets/showcases/maui/android-result.png)
+![The result of debugging android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## 더 많은 예제

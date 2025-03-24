@@ -25,16 +25,16 @@ Lambda เป็นบริการการคอมพิวเตอร์�
 
 ในการสร้างโปรแกรมฟังก์ชัน AWS Lambda โปรดทำตามขั้นตอนด้านล่าง:
 1. สร้างโปรเจค AWS Lambda.<br>
-![ปุ่มสร้างฟังก์ชัน AWS](/_assets/showcases/aws/create-project.png)<br>
+![ปุ่มสร้างฟังก์ชัน AWS](/cad/_assets/showcases/aws/create-project.png)<br>
 1. เลือก .NET 6 (Container Image) และคลิกปุ่ม 'Finish'.<br>
-![ปุ่มสร้างฟังก์ชันคอนเทนเนอร์](/_assets/showcases/aws/create-container.png)<br>
+![ปุ่มสร้างฟังก์ชันคอนเทนเนอร์](/cad/_assets/showcases/aws/create-container.png)<br>
 1. เปิด AWS Explorer ใน Visual Studio (View->AWS Explorer).
 1. เพิ่มโปรไฟล์ของข้อมูลประจำตัว AWS ใน AWS Explorer.<br>
-![โปรไฟล์ข้อมูลประจำตัว](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![โปรไฟล์ข้อมูลประจำตัว](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. ป้อน Access Key ID และ Secret Access Key คุณสามารถรับกุญแจเหล่านี้ได้ในข้อมูลประจำตัวด้านความปลอดภัย หรือ ติดต่อผู้ดูแลระบบและขอไฟล์ CSV เพื่อการรับรอง.<br>
-![การตั้งค่าโปรไฟล์บัญชี](/_assets/showcases/aws/account-profile.png)<br>
+![การตั้งค่าโปรไฟล์บัญชี](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. ติดตั้งไลบรารีล่าสุดจาก NuGet.<br>
-![NuGet Manager](/_assets/showcases/aws/nuget-manager.png)<br>
+![NuGet Manager](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. ตัวอย่างโค้ดสำหรับการแปลงภาพ CAD เป็นไฟล์ PDF
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. แก้ไข DockerFile ตามใน <a href="#configuring-a-dockerfile">การกำหนดค่า Dockerfile</a> 
 1. เริ่ม Docker Desktop
 1. เผยแพร่ไปยัง AWS Lambda.<br>
-![เผยแพร่ AWS Lambda](/_assets/showcases/aws/publish-aws.png)<br>
+![เผยแพร่ AWS Lambda](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. แก้ไขการตั้งค่าอัปโหลด.<br>
-![อัปโหลด AWS Lambda](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![อัปโหลด AWS Lambda](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. คลิกปุ่ม 'Upload'.<br>
-![อัปโหลด AWS Lambda ล่าสุด](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![อัปโหลด AWS Lambda ล่าสุด](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. ไปที่ AWS และเลือก Lambda.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. เลือกฟังก์ชันใหม่ของคุณและสร้าง URL ฟังก์ชัน.<br>
-![การกำหนดค่า URL ฟังก์ชัน](/_assets/showcases/aws/create-function-url.png)<br>
+![การกำหนดค่า URL ฟังก์ชัน](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. เลือกประเภทการรับรอง
 - AWS_IAM - ผู้ใช้และบทบาท IAM ที่ได้การรับรองเท่านั้นที่สามารถทำการร้องขอไปยัง URL ฟังก์ชันของคุณ
 - NONE - Lambda จะไม่ดำเนินการรับรอง IAM ในการร้องขอไปยัง URL ฟังก์ชันของคุณ โดย URL เอ็นด์พอยท์จะเป็นสาธารณะ เว้นแต่คุณจะดำเนินการจัดการการรับรองของคุณในฟังก์ชัน
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## ตัวอย่างการดำเนินการ
 
 1. การตั้งค่า Postman.<br>
-![เมนูภาพรวม](/_assets/showcases/aws/postman-settings.png)<br>
+![เมนูภาพรวม](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. เลือกไฟล์ DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG ใดก็ได้
 1. คลิกปุ่มส่ง.
 

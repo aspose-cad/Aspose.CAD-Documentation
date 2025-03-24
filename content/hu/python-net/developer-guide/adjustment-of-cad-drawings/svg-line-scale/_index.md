@@ -17,6 +17,6 @@ url: /hu/python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## Egy fájl lineáris skálával
 1. A fájl, ha a LineScale paraméter 0.25-re van állítva.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Fájl, ha nem használ vonalskálázást.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

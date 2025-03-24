@@ -15,7 +15,7 @@ url: /th/java/developer-guide/entities_with-sat-and-sab/
 
 ด้านล่างคือตัวอย่างผลลัพธ์การส่งออก (ไฟล์ DWG ทางด้านซ้าย, ผลลัพธ์ PDF ทางด้านขวา)
 
-![Export of cone and spheres](/_assets/guide/coneAndSpheres.png)
+![Export of cone and spheres](/cad/_assets/guide/coneAndSpheres.png)
 
 การส่งออกหน่วยงาน ACIS ไม่ต้องการตัวเลือกพิเศษใดๆ เพื่อเพิ่มประสิทธิภาพขนาดการวาดภาพ โดยเฉพาะเมื่อการวาดภาพมีหน่วยงาน ACIS โดยเฉพาะ ควรพิจารณาการใช้ฟังก์ชัน cadImage.updateSize() เพื่อปรับขนาดการวาดภาพในเบื้องต้นอย่างแม่นยำ
 

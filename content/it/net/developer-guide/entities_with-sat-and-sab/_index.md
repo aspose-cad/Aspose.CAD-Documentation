@@ -15,7 +15,7 @@ Alcune entità memorizzano i loro dati strutturali nel formato ACIS SAT/SAB. Que
 
 Di seguito è riportato un esempio del risultato dell'esportazione (file DWG nella parte sinistra, risultato PDF nella parte destra).
 
-![Esportazione di cono e sfere](/_assets/guide/coneAndSpheres.png)
+![Esportazione di cono e sfere](/cad/_assets/guide/coneAndSpheres.png)
 
 L'esportazione delle entità ACIS non richiede opzioni speciali. Per ottimizzare la dimensione del disegno, specialmente quando il disegno contiene esclusivamente entità ACIS, considera di utilizzare la funzione cadImage.UpdateSize() per regolare accuratamente le dimensioni iniziali del disegno.
 

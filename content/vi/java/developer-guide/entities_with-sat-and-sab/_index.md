@@ -15,7 +15,7 @@ Một số thực thể lưu trữ dữ liệu cấu trúc của chúng ở đ�
 
 Dưới đây là ví dụ về kết quả xuất (tệp DWG bên trái, kết quả PDF bên phải).
 
-![Xuất hình nón và hình cầu](/_assets/guide/coneAndSpheres.png)
+![Xuất hình nón và hình cầu](/cad/_assets/guide/coneAndSpheres.png)
 
 Việc xuất các thực thể ACIS không yêu cầu bất kỳ tùy chọn đặc biệt nào. Để tối ưu hóa kích thước bản vẽ, đặc biệt khi bản vẽ chỉ chứa các thực thể ACIS, hãy xem xét việc sử dụng hàm cadImage.updateSize() để điều chỉnh chính xác kích thước bản vẽ ban đầu.
 

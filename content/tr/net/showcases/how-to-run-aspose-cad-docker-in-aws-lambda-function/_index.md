@@ -25,16 +25,16 @@ AWS Lambda fonksiyonları ve Amazon Elastic Container Registry'de görüntüler 
 
 AWS Lambda Fonksiyon programını oluşturmak için aşağıdaki adımları izleyin:
 1. AWS Lambda Projesi oluşturun.<br>
-![AWS fonksiyonu oluşturma butonu](/_assets/showcases/aws/create-project.png)<br>
+![AWS fonksiyonu oluşturma butonu](/cad/_assets/showcases/aws/create-project.png)<br>
 1. .NET 6 (Konteyner Görüntüsü) seçin ve 'Bitir' butonuna tıklayın.<br>
-![Konteyner işlevini oluşturma butonu](/_assets/showcases/aws/create-container.png)<br>
+![Konteyner işlevini oluşturma butonu](/cad/_assets/showcases/aws/create-container.png)<br>
 1. Visual Studio'da AWS Explorer'ı açın (Görünüm->AWS Explorer).
 1. AWS Explorer'da AWS kimlik bilgileri profilini ekleyin.<br>
-![Kimlik bilgileri profili](/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
+![Kimlik bilgileri profili](/cad/_assets/showcases/aws/add-aws-credentials-profile.png)<br>
 1. Erişim Anahtar ID'sini ve Gizli Erişim Anahtarını girin, bu anahtarları Güvenlik kimlik bilgileri bölümünde alabilir veya yöneticinizle iletişime geçip yetkilendirme için bir csv dosyası alabilirsiniz.<br>
-![Hesap profili ayarları](/_assets/showcases/aws/account-profile.png)<br>
+![Hesap profili ayarları](/cad/_assets/showcases/aws/account-profile.png)<br>
 1. NuGet'ten en son kütüphaneleri yükleyin.<br>
-![NuGet Yöneticisi](/_assets/showcases/aws/nuget-manager.png)<br>
+![NuGet Yöneticisi](/cad/_assets/showcases/aws/nuget-manager.png)<br>
 1. CAD görüntüsünü PDF dosyasına dönüştürmek için kod örneği.
 {{< highlight plain >}}
 public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2ProxyRequest stream, ILambdaContext context)
@@ -83,15 +83,15 @@ public APIGatewayHttpApiV2ProxyResponse FunctionHandler(APIGatewayHttpApiV2Proxy
 1. DockerFile'ı <a href="#configuring-a-dockerfile">Dockerfile'ı Yapılandırma</a> kısmındaki gibi düzenleyin.
 1. Docker Desktop'u başlatın.
 1. AWS Lambda’ya yayınlayın.<br>
-![AWS lambda yayını](/_assets/showcases/aws/publish-aws.png)<br>
+![AWS lambda yayını](/cad/_assets/showcases/aws/publish-aws.png)<br>
 1. Yükleme yapılandırmasını düzenleyin.<br>
-![AWS lambda yükleme](/_assets/showcases/aws/upload-aws-lambda.png)<br>
+![AWS lambda yükleme](/cad/_assets/showcases/aws/upload-aws-lambda.png)<br>
 1. 'Yükle' butonuna tıklayın.<br>
-![AWS lambda yükleme son](/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
+![AWS lambda yükleme son](/cad/_assets/showcases/aws/upload-aws-lambda-finish.png)<br>
 1. AWS'ye gidin ve Lambda'yı seçin.<br>
-![AWS Lambda](/_assets/showcases/aws/select-aws-lambda.png)<br>
+![AWS Lambda](/cad/_assets/showcases/aws/select-aws-lambda.png)<br>
 1. Yeni işlevinizi seçin ve URL işlevi oluşturun.<br>
-![Yapılandırma url işlevi](/_assets/showcases/aws/create-function-url.png)<br>
+![Yapılandırma url işlevi](/cad/_assets/showcases/aws/create-function-url.png)<br>
 1. Kimlik doğrulama türünü seçin
 - AWS_IAM - Yalnızca kimliği doğrulanmış IAM kullanıcıları ve rolleri, işlev URL'nize istek yapabilir.
 - HİÇBİRİ - Lambda, işlev URL'nize yapılan isteklere IAM kimlik doğrulaması yapmayacaktır. URL uç noktası, işlevinizde kendi yetkilendirme mantığınızı uygulamazsanız genel olacaktır.
@@ -126,7 +126,7 @@ CMD ["AWSLambda::AWSLambda.Function::FunctionHandler"]
 ## Uygulama Örneği
 
 1. Postman ayarları.<br>
-![Genel bakış menüsü](/_assets/showcases/aws/postman-settings.png)<br>
+![Genel bakış menüsü](/cad/_assets/showcases/aws/postman-settings.png)<br>
 1. Herhangi bir DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG dosyasını seçin.
 1. Gönder butonuna tıklayın.
 

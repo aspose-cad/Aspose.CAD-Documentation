@@ -19,6 +19,6 @@ url: /he/net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## קובץ המשתמש בקנה מידה ליניארי
 1. הקובץ אם הפרמטר LineScale מוגדר ל-0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. קובץ אם אינך משתמש בקנה מידה לקווים.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

@@ -282,6 +282,6 @@ A tulajdonság értékét Batch-ra, SinglePage-re vagy Multipage-ra változtatha
 {{< /highlight >}}
 
 5. Indítsa újra a JasperReports szervert, és nyissa meg bármilyen jelentést a megtekintéshez. Ha az előző lépéseket helyesen hajtották végre, további lehetőségeket fog látni az exportálási formátumok listájában.
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 Ha nem lát további formátumokat (ikonokat vagy választási lehetőségeket), kérjük, ellenőrizze a naplófájlokat a \apache-tomcat\logs könyvtárban.

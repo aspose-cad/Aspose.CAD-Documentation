@@ -7,7 +7,7 @@ url: /it/jasperreports/getting-started/features-overview/
 
 {{% alert color="primary" %}}
 
-![Aspose.CAD per JasperReports Logo del Prodotto](/_assets/home_3.png)
+![Aspose.CAD per JasperReports Logo del Prodotto](/cad/_assets/home_3.png)
 
 Aspose.CAD per JasperReports è l'unica soluzione sul mercato che rende possibile esportare report da JasperReports in vari formati di file immagine vettoriale e raster come PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD e operare con vari formati di file CAD e BIM: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

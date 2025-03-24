@@ -281,6 +281,6 @@ Değeri Batch, SinglePage veya Multipage olarak değiştirmek için com.aspose.c
 {{< /highlight >}}
 
 5. JasperReports Server'ı yeniden başlatın ve herhangi bir raporu açın. Eğer önceki adımlar doğru şekilde gerçekleştirildiyse, ihracat formatları listesinde ek seçenekler göreceksiniz.
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 Eğer ek formatlar (ikonlar veya seçimler) görmüyorsanız, lütfen \apache-tomcat\logs dizininde log dosyalarını kontrol edin.

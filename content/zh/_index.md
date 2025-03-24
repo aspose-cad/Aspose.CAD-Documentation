@@ -10,7 +10,7 @@ url: /zh/
 
 **欢迎来到 Aspose.CAD**
 
-![Aspose.CAD for .NET 产品标志](/_assets/home_1.png)
+![Aspose.CAD for .NET 产品标志](/cad/_assets/home_1.png)
 
 Aspose.CAD 允许开发者打开、读取和处理 AutoCAD DWG、DXF、DWT 和其他 CAD 和 BIM 文件格式，例如：DGN、DWF、DWFX、IFC、STL、IGES、PLT、CF2、OBJ、HPGL、IGS、DXB、STP、DAE、U3D、3DS、CGM。它可以将这些文件导出为各种矢量（PDF、WMF、SVG、EMF）和栅格图像格式：BMP、GIF、JPG、JPEG、DICOM、WEBP、JP2、JPEG2000、PNG、TIFF、PSD。它是一个原生 API，不需要安装 AutoCAD 或任何软件。您还可以转换 AutoCAD 文件中的选定图层和布局。
 可以跟踪和处理转换进度和输出质量。任何操作都支持取消，且准备好适合多线程环境。
@@ -50,7 +50,7 @@ Aspose.CAD for .NET 是一个跨平台库，兼容 .NET Framework、.Net Core、
 
 **Aspose.CAD for Java**
 
-![Aspose.CAD for Java 产品标志](/_assets/home_2.png)
+![Aspose.CAD for Java 产品标志](/cad/_assets/home_2.png)
 
 Aspose.CAD for Java 是一个跨平台库，兼容 Java 版本 1.6 及以上，具有上述丰富的功能和能力。它可以通过直接下载和 Maven 包获得。
 
@@ -77,7 +77,7 @@ Aspose.CAD for Java 是一个跨平台库，兼容 Java 版本 1.6 及以上，�
 
 **Aspose.CAD for JasperReports**
 
-![Aspose.CAD for JasperReports 产品标志](/_assets/home_3.png)
+![Aspose.CAD for JasperReports 产品标志](/cad/_assets/home_3.png)
 
 Aspose.CAD for JasperReports 是一个库，兼容 JasperReports 版本 6.3 及以上，具有上述丰富的功能和能力。它可以通过直接下载和 Maven 包获得。
 
@@ -100,7 +100,7 @@ Aspose.CAD for JasperReports 是一个库，兼容 JasperReports 版本 6.3 及�
 
 **Aspose.CAD for Python**
 
-![Aspose.CAD for Python 产品标志](/_assets/home_4.png)
+![Aspose.CAD for Python 产品标志](/cad/_assets/home_4.png)
 
 Aspose.CAD for Python 是一个跨平台库，兼容 Python 3.x，具有上述丰富的功能和能力。它可以通过直接下载和 PyPi 包获得。
 
@@ -124,7 +124,7 @@ Aspose.CAD for Python 是一个跨平台库，兼容 Python 3.x，具有上述�
 
 ## **Aspose.CAD for JavaScript**
 
-![Aspose.CAD for JavaScript 产品标志](/_assets/home_5.png)
+![Aspose.CAD for JavaScript 产品标志](/cad/_assets/home_5.png)
 
 Aspose.CAD for JavaScript 是一个原生 CAD 转换 API，没有任何软件依赖。它允许开发者将 DXF、DWG、DWT、DGN、IFC、DWF、DWFX、STL、IGES（IGS）、CF2、Collada（DAE）、PLT、OBJ、SVG、DXB、FBX、U3D、3DS、STP 文件转换为栅格图像格式和 PDF。
 在转换过程中，开发者可以选择和转换特定的图层和布局，并跟踪文件转换的过程。

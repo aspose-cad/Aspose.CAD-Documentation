@@ -13,7 +13,7 @@ Değerlendirme için Aspose.CAD’i JasperReports için [indirme sayfasından](h
 
 JasperReports için Aspose.CAD’in değerlendirme versiyonu (belirtilmiş bir lisans olmadan) ürün işlevselliğini belli bir ölçüde sağlar, ancak tam değildir. Bir sınırlama, her zaman çıktı dosyalarına değerlendirme filigranı eklemesidir.
 
-![Aspose.CAD for JasperReports export example](/_assets/jasper/AreaChartReport.jpg)
+![Aspose.CAD for JasperReports export example](/cad/_assets/jasper/AreaChartReport.jpg)
 
 **Şekil:** Değerlendirme Uyarısı
 

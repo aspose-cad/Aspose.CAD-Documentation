@@ -7,7 +7,7 @@ url: /it/javascript-net/getting-started/product-overview/
 
 **Benvenuto in Aspose.CAD per JavaScript**
 
-![todo:image_alt_text](/_assets/home_5.png)
+![todo:image_alt_text](/cad/_assets/home_5.png)
 
 Aspose.CAD per JavaScript consente agli sviluppatori di convertire file AutoCAD DWG, DWF, DWT e DXF in PDF e immagini Raster. È un'API nativa e non richiede l'installazione di AutoCAD o di alcun software. Puoi anche convertire i livelli e i layout selezionati dai file AutoCAD. La conversione in PDF e immagini Raster è di altissima qualità.
 
@@ -21,7 +21,7 @@ Utilizzare Aspose.CAD per JavaScript nel tuo progetto ti offre i seguenti vantag
 ## **A Colpo D'Occhio**
 Una panoramica delle principali capacità di conversione, rendering e reporting di Aspose.CAD per JavaScript.
 
-![todo:image_alt_text](/_assets/javascript-net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/javascript-net/product-overview_2.png)
 ## **Funzionalità Avanzate dell'API**
 - Supporta le ultime versioni dei file AutoCAD DWG, DWF, DWT e DXF
 - Converti i file AutoCAD in PDF di alta qualità
@@ -37,4 +37,4 @@ Aspose.CAD per JavaScript supporta
 - Vue
 - Vanilla TypeScript
 
-![todo:image_alt_text](/_assets/javascript-net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/javascript-net/product-overview_3.png)

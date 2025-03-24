@@ -120,11 +120,11 @@ dotnet run
 1. Google Cloud에 로그인합니다.
 1. 프로젝트가 존재하지 않으면 생성합니다.
 1. 'Artifact Registry'로 이동하여 리포지토리를 생성합니다.<br>
-![Create Artifact Repository](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Create Artifact Repository](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Artifact Registry에서 새로운 리포지토리를 선택합니다.
-![Select artifact repository](/_assets/showcases/google/select-artifact.png)<br>
+![Select artifact repository](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. 'SETUP INSTRUCTION'을 클릭하고 'Configure Docker' 명령을 복사합니다.<br>
-![SETUP INSTRUCTION](/_assets/showcases/google/setup-instruction.png)<br>
+![SETUP INSTRUCTION](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Docker의 구성 파일에 Docker credHelper 항목을 추가하거나, 존재하지 않을 경우 파일을 생성합니다.
 {{< highlight plain >}}
 //예제
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Cloud Run으로 이동합니다.
 1. Cloud Run 서비스를 생성합니다.<br>
-![Create Cloud Run service](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Create Cloud Run service](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. Container Image URL 필드에서 'ARTIFACT REGISTRY'의 컨테이너를 선택합니다.<br>
-![Container Image URL](/_assets/showcases/google/container-url.png)<br>
+![Container Image URL](/cad/_assets/showcases/google/container-url.png)<br>
 1. 아래와 같이 다른 설정을 확인합니다.<br>
-![Settings service](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Settings service](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. 배포가 완료될 때까지 기다립니다.
 1. 변환 애플리케이션과 함께 작업할 서비스 URL.<br>
-![Url service](/_assets/showcases/google/url-service.png)<br>
+![Url service](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Dockerfile 구성
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## 실행 예제
 
 1. Postman 설정.<br>
-![Overview menu](/_assets/showcases/google/postman-settings.png)<br>
+![Overview menu](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG 파일 중 하나를 선택합니다.
 1. 전송 버튼을 클릭합니다.
 

@@ -9,7 +9,7 @@ url: /id/net/getting-started/installation/
 
 NuGet adalah cara termudah untuk mengunduh dan menginstal Aspose API untuk .NET. Buka Microsoft Visual Studio dan manajer paket NuGet. Cari "aspose" untuk menemukan Aspose API yang diinginkan. Klik pada "Instal", API yang dipilih akan diunduh dan direferensikan dalam proyek Anda.
 
-![todo:image_alt_text](/_assets/install/installation_1.png)
+![todo:image_alt_text](/cad/_assets/install/installation_1.png)
 
 ## **Mereferensikan Aspose.CAD dari Proyek .NET**
 
@@ -21,7 +21,7 @@ Ikuti langkah-langkah ini (dengan asumsi Anda menggunakan Microsoft Visual Studi
 1. Pilih file DLL *Aspose.CAD* dan klik tombol **OK**.
 1. Referensi *Aspose.CAD* akan muncul di bawah node **References** proyek Anda.
 
-![todo:image_alt_text](/_assets/install/installation_2.png)
+![todo:image_alt_text](/cad/_assets/install/installation_2.png)
 
 ### **Instal atau Perbarui Aspose.CAD menggunakan Konsol Manajer Paket**
 
@@ -30,23 +30,23 @@ Anda dapat mengikuti langkah-langkah di bawah ini untuk mereferensikan [API Aspo
 1. Buka solusi/proyek Anda di Visual Studio.
 1. Pilih Alat -> Manajer Paket Perpustakaan -> Konsol Manajer Paket dari menu untuk membuka konsol manajer paket.
 
-![todo:image_alt_text](/_assets/install/installation_3.png)
+![todo:image_alt_text](/cad/_assets/install/installation_3.png)
 
 Ketik perintah “**Install-Package Aspose.CAD**” dan tekan enter untuk menginstal rilis penuh terbaru ke dalam aplikasi Anda. Sebagai alternatif, Anda dapat menambahkan sufiks "**-prerelease**" ke perintah untuk menentukan bahwa rilis terbaru termasuk perbaikan darurat juga harus diinstal.
 
-![todo:image_alt_text](/_assets/install/installation_4.png)
+![todo:image_alt_text](/cad/_assets/install/installation_4.png)
 
 Anda akan melihat bahwa tip "Mengunduh Aspose.CAD..." muncul di bagian bawah kiri jendela yang menunjukkan bahwa proses pengunduhan sedang berlangsung.
 
-![todo:image_alt_text](/_assets/install/installation_5.png)
+![todo:image_alt_text](/cad/_assets/install/installation_5.png)
 
 Setelah diunduh Anda akan melihat pesan konfirmasi berikut. Jika Anda tidak terbiasa dengan [EULA Aspose](https://about.aspose.com/legal/eula), maka merupakan ide yang baik untuk membaca lisensi yang dirujuk dalam URL tersebut.
 
-![todo:image_alt_text](/_assets/install/installation_6.png)
+![todo:image_alt_text](/cad/_assets/install/installation_6.png)
 
 Kini Anda harus menemukan bahwa Aspose.CAD telah berhasil ditambahkan dan direferensikan dalam aplikasi Anda.
 
-![todo:image_alt_text](/_assets/install/installation_7.png)
+![todo:image_alt_text](/cad/_assets/install/installation_7.png)
 
 Di konsol manajer paket, Anda juga dapat menggunakan perintah “**Update-Package Aspose.CAD**” dan tekan enter untuk memeriksa pembaruan untuk paket Aspose.CAD dan menginstalnya jika ada. Anda juga dapat menambahkan sufiks "-prerelease" untuk memperbarui rilis terbaru.
 

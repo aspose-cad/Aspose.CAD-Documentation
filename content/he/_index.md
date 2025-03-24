@@ -10,7 +10,7 @@ url: /he/
 
 **ברוכים הבאים ל-Aspose.CAD**
 
-![לוגו המוצר Aspose.CAD עבור .NET](/_assets/home_1.png)
+![לוגו המוצר Aspose.CAD עבור .NET](/cad/_assets/home_1.png)
 
 Aspose.CAD מאפשר ל developers לפתוח, לקרוא ולעבד פורמטים של קבצי AutoCAD DWG, DXF, DWT ועוד פורמטי CAD ו-BIM, כמו: DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS, DXB, STP, DAE, U3D, 3DS, CGM. הוא יכול לייצא קבצים אלה לפורמטים של תמונות וקטוריות שונות (PDF, WMF, SVG, EMF) ופורמטים של תמונות רסטר: BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD. זו API מקומית ואינה דורשת התקנת AutoCAD או כל תוכנה אחרת. ניתן גם להמיר את השכבות והפריסות הנבחרות מקבצי AutoCAD.
 ניתן לעקוב ולנהל את תהליך ההמרה ואיכות הפלט. כל פעולה תומכת בביטול וכשירה לסביבת ריבוי נימים.
@@ -50,7 +50,7 @@ Aspose.CAD עבור .NET היא ספרייה חוצה פלטפורמות, תוא
 
 **Aspose.CAD עבור Java**
 
-![לוגו המוצר Aspose.CAD עבור Java](/_assets/home_2.png)
+![לוגו המוצר Aspose.CAD עבור Java](/cad/_assets/home_2.png)
 
 Aspose.CAD עבור Java היא ספרייה חוצה פלטפורמות, תואמת לגרסה 1.6 של Java ומעלה, עם מערכת עשירה של תכונות ויכולות המתוארות לעיל. היא זמינה להורדה ישירה וכחבילת Maven.
 
@@ -77,7 +77,7 @@ Aspose.CAD עבור Java היא ספרייה חוצה פלטפורמות, תוא
 
 **Aspose.CAD עבור JasperReports**
 
-![לוגו המוצר Aspose.CAD עבור JasperReports](/_assets/home_3.png)
+![לוגו המוצר Aspose.CAD עבור JasperReports](/cad/_assets/home_3.png)
 
 Aspose.CAD עבור JasperReports היא ספרייה, תואמת לגרסה 6.3 ומעלה של JasperReports, עם מערכת עשירה של תכונות ויכולות המתוארות לעיל. היא זמינה להורדה ישירה וכחבילת Maven.
 
@@ -100,7 +100,7 @@ Aspose.CAD עבור JasperReports היא ספרייה, תואמת לגרסה 6.3
 
 **Aspose.CAD עבור Python**
 
-![לוגו המוצר Aspose.CAD עבור Python](/_assets/home_4.png)
+![לוגו המוצר Aspose.CAD עבור Python](/cad/_assets/home_4.png)
 
 Aspose.CAD עבור Python היא ספרייה חוצה פלטפורמות, תואמת לגרסה 3.x של Python, עם מערכת עשירה של תכונות ויכולות המתוארות לעיל. היא זמינה להורדה ישירה וכחבילת PyPi.
 
@@ -124,7 +124,7 @@ Aspose.CAD עבור Python היא ספרייה חוצה פלטפורמות, תו
 
 ## **Aspose.CAD עבור JavaScript**
 
-![לוגו המוצר Aspose.CAD עבור JavaScript](/_assets/home_5.png)
+![לוגו המוצר Aspose.CAD עבור JavaScript](/cad/_assets/home_5.png)
 
 Aspose.CAD עבור JavaScript היא API מקורית של המרה CAD ללא כל תלות בתוכנה. היא מאפשרת ל developers להמיר קבצים DXF, DWG, DWT, DGN, IFC, DWF, DWFX, STL, IGES(IGS), CF2, Collada(DAE), PLT, OBJ, SVG, DXB, FBX, U3D, 3DS, STP לפורמטים של תמונות רסטר ו-PDF.
 במהלך תהליך ההמרה, developers יכולים לבחור ולהמיר שכבות ופריסות מסוימות וכן לעקוב אחר תהליך ההמרה של הקבצים.

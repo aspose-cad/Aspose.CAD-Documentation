@@ -15,7 +15,7 @@ url: /zh/net/developer-guide/entities_with-sat-and-sab/
 
 以下是导出结果的示例（左侧为DWG文件，右侧为PDF结果）。
 
-![导出的圆锥和球体](/_assets/guide/coneAndSpheres.png)
+![导出的圆锥和球体](/cad/_assets/guide/coneAndSpheres.png)
 
 导出ACIS实体不需要任何特殊选项。为了优化图纸大小，特别是当图纸仅包含ACIS实体时，请考虑使用cadImage.UpdateSize()函数准确调整初始绘图尺寸。
 

@@ -7,7 +7,7 @@ url: /ja/python-net/getting-started/product-overview/
 
 **Aspose.CAD for Pythonへようこそ**
 
-![todo:image_alt_text](/_assets/python-net/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/python-net/product-overview_1.png)
 
 Aspose.CAD for Pythonは、開発者がAutoCADのDWG、DWF、DWT、DXFファイルをPDFおよびラスター画像に変換することを可能にします。これはネイティブAPIであり、AutoCADやその他のソフトウェアをインストールする必要はありません。また、AutoCADファイルから特定のレイヤーやレイアウトを選択して変換することもできます。PDFおよびラスター画像への変換は非常に高品質です。
 
@@ -21,7 +21,7 @@ Aspose.CAD for Pythonは、開発者がAutoCADのDWG、DWF、DWT、DXFファイ�
 ## **一目で見る**
 Aspose.CAD for Pythonの主要な変換、レンダリング、レポート機能の概要です。
 
-![todo:image_alt_text](/_assets/python-net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/python-net/product-overview_2.png)
 
 ## **高度なAPI機能**
 - 最新バージョンのAutoCAD DWG、DWF、DWT、DXFファイルをサポート
@@ -31,11 +31,11 @@ Aspose.CAD for Pythonの主要な変換、レンダリング、レポート機�
 - 特定のレイヤーを選択して変換
 - ファイル変換プロセスを追跡
 
-![todo:image_alt_text](/_assets/python-net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/python-net/product-overview_3.png)
 
 ## **プラットフォーム独立性**
 Aspose.CAD for Pythonは以下をサポートしています：
 
 - Python 3.10
 
-![todo:image_alt_text](/_assets/python-net/product-overview_4.png)
+![todo:image_alt_text](/cad/_assets/python-net/product-overview_4.png)

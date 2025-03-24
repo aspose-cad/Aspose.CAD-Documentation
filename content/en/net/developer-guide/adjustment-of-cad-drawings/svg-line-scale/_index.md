@@ -19,6 +19,6 @@ You can control the scale of the lines in the SVG file, the Aspose.CAD library p
 
 ## A file using a linear scale
 1. The file if the LineScale parameter is set to 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. File if you don't use line scaling.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

@@ -7,7 +7,7 @@ url: /he/javascript-net/getting-started/product-overview/
 
 **ברוכים הבאים ל-Aspose.CAD עבור JavaScript**
 
-![todo:image_alt_text](/_assets/home_5.png)
+![todo:image_alt_text](/cad/_assets/home_5.png)
 
 Aspose.CAD עבור JavaScript מאפשר למפתחים להמיר קבצי AutoCAD DWG, DWF, DWT ו-DXF ל-PDF ודימויים רסטר. מדובר ב-API ילידי ואינו דורש התקנת AutoCAD או כל תוכנה אחרת. ניתן גם להמיר את השכבות והפריסות שנבחרו מקבצי AutoCAD. ההמרה ל-PDF ודימויים רסטר היא באיכות גבוהה מאוד.
 
@@ -21,7 +21,7 @@ Aspose.CAD עבור JavaScript מאפשר למפתחים להמיר קבצי Aut
 ## **במבט חטוף**
 סקירה של יכולות ההמרה, ההצגה והדיווח העיקריות של Aspose.CAD עבור JavaScript.
 
-![todo:image_alt_text](/_assets/javascript-net/product-overview_2.png)
+![todo:image_alt_text](/cad/_assets/javascript-net/product-overview_2.png)
 ## **תכונות API מתקדמות**
 - תומך בגרסאות האחרונות של קבצי AutoCAD DWG, DWF, DWT ו-DXF
 - המרת קבצי AutoCAD ל-PDF באיכות גבוהה
@@ -37,4 +37,4 @@ Aspose.CAD עבור JavaScript תומך
 - Vue
 - Vanilla TypeScript
 
-![todo:image_alt_text](/_assets/javascript-net/product-overview_3.png)
+![todo:image_alt_text](/cad/_assets/javascript-net/product-overview_3.png)

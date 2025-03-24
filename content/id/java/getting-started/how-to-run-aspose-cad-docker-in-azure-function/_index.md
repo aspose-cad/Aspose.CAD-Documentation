@@ -21,14 +21,14 @@ Dalam contoh ini, Anda membuat fungsi konversi sederhana yang mengonversi file C
 Untuk membuat program Fungsi Azure, ikuti langkah-langkah di bawah ini:
 1. Setelah Docker terpasang, pastikan bahwa ia menggunakan Kontainer Linux (default). Jika perlu, pilih opsi Beralih ke kontainer Linux dari menu Docker Desktops.
 1. Buat proyek Fungsi Azure di IntelliJ IDEA.<br>
-![Buat proyek fungsi azure](/_assets/java/java-azure/create-function-ide-1.png)<br>
-![Buat proyek fungsi azure-final](/_assets/java/java-azure/create-function-ide-2.png)<br>
+![Buat proyek fungsi azure](/cad/_assets/java/java-azure/create-function-ide-1.png)<br>
+![Buat proyek fungsi azure-final](/cad/_assets/java/java-azure/create-function-ide-2.png)<br>
 1. Tools->Azure->Masuk dan pilih autentikasi OAuth 2.0.<br>
-![Masuk Azure](/_assets/java/java-azure/sign-in-azure.png)<br>
+![Masuk Azure](/cad/_assets/java/java-azure/sign-in-azure.png)<br>
 1. Masuk di browser.
 1. Pilih nama Langganan.
 1. Tambahkan dukungan docker.<br>
-![Masuk Azure](/_assets/java/java-azure/add-docker-support.png)<br>
+![Masuk Azure](/cad/_assets/java/java-azure/add-docker-support.png)<br>
 1. Edit DockerFile seperti di bagian <a href="#configuring-a-dockerfile">Mengonfigurasi Dockerfile</a>.
 1. Tambahkan blok untuk repositori aspose.cad di pom.xml.
 {{< highlight plain >}}
@@ -156,9 +156,9 @@ docker push pengguna/aspose-cad-java:latest
 {{< /highlight >}}
 
 1. Jalankan dockerfile di IDE dan setelah itu dorong ke docker hub.<br>
-![Jalankan docker di ide](/_assets/java/java-azure/docker-run-in-ide.png)<br>
+![Jalankan docker di ide](/cad/_assets/java/java-azure/docker-run-in-ide.png)<br>
 1. Masukkan nama gambar, seperti di repositori Docker Hub.<br>
-![Jalankan docker di ide-next](/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
+![Jalankan docker di ide-next](/cad/_assets/java/java-azure/docker-run-in-ide-1.png)<br>
 1. Tunggu sampai selesai.
 
 ## Azure
@@ -166,26 +166,26 @@ docker push pengguna/aspose-cad-java:latest
 1. Masuk ke Azure.
 1. Pilih layanan Azure.
 1. Pilih Fungsi App dan buat fungsi.<br>
-![Tombol buat fungsi Azure](/_assets/java/java-azure/create-function-azure.png)<br>
+![Tombol buat fungsi Azure](/cad/_assets/java/java-azure/create-function-azure.png)<br>
 1. Ulangi pengaturan dasar seperti pada gambar di bawah ini.<br>
-![Pengaturan buat fungsi Azure](/_assets/java/java-azure/create-function-settings.png)<br>
+![Pengaturan buat fungsi Azure](/cad/_assets/java/java-azure/create-function-settings.png)<br>
 1. Klik 'Tinjau + buat' -> Buat.
 1. Tunggu hingga pengiriman selesai.
 1. Klik tombol 'Pergi ke sumber daya'.<br>
-![Tombol sumber daya](/_assets/java/java-azure/go-to-resource.png)<br>
+![Tombol sumber daya](/cad/_assets/java/java-azure/go-to-resource.png)<br>
 1. Hentikan fungsi aspose-cad-docker-example.<br>
-![Hentikan kontainer](/_assets/java/java-azure/stop-container.png)<br>
+![Hentikan kontainer](/cad/_assets/java/java-azure/stop-container.png)<br>
 1. Masuk ke menu pusat pengiriman dan buat pengaturan yang sesuai.<br>
-![Pusat pengiriman](/_assets/java/java-azure/deployment-center.png)<br>
+![Pusat pengiriman](/cad/_assets/java/java-azure/deployment-center.png)<br>
 1. Simpan pengaturan
 1. Salin URL Webhook dari pengaturan pusat pengiriman.<br>
-![URL Webhook](/_assets/java/java-azure/webhook-url.png)<br>
+![URL Webhook](/cad/_assets/java/java-azure/webhook-url.png)<br>
 1. Pergi ke Docker Hub, pilih repositori Anda dan pilih webhooks.
 1. Tempelkan 'URL Webhook' dari Azure di URL webhook Docker Hub dan atur namanya.<br>
-![Pengaturan webhook di docker](/_assets/java/java-azure/webhook.png)<br>
+![Pengaturan webhook di docker](/cad/_assets/java/java-azure/webhook.png)<br>
 1. Klik tombol buat.
 1. Kembali ke fungsi azure overview dan mulai kontainer.<br>
-![Menu overview](/_assets/java/java-azure/overview.png)<br>
+![Menu overview](/cad/_assets/java/java-azure/overview.png)<br>
 {{% alert color="primary" %}} 
 Mungkin diperlukan beberapa menit bagi fungsi untuk mulai.
 {{% /alert %}}
@@ -193,11 +193,11 @@ Mungkin diperlukan beberapa menit bagi fungsi untuk mulai.
 ## Contoh Eksekusi
 
 1. Pengaturan Postman.<br>
-![Menu overview](/_assets/java/java-azure/postman-settings.png)<br>
+![Menu overview](/cad/_assets/java/java-azure/postman-settings.png)<br>
 1. Pilih file DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Klik tombol kirim.
 1. Simpan hasil
-![Simpan respons](/_assets/java/java-azure/response-postman.png)<br>
+![Simpan respons](/cad/_assets/java/java-azure/response-postman.png)<br>
 
 {{% alert color="primary" %}} 
 Jika jawabannya berhasil, klik Simpan ke file dan Anda akan menerima file yang dikonversi dalam format png

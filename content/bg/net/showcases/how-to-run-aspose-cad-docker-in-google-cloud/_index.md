@@ -120,11 +120,11 @@ dotnet run
 1. Влезте в Google Cloud.
 1. Създайте проект, ако не съществува.
 1. Отидете на 'Artifact Registry' и създайте репозиторио.<br>
-![Създаване на Artifact Repository](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Създаване на Artifact Repository](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Изберете новото репозиторио в Artifact Registry.
-![Изберете репозиторио за артефакти](/_assets/showcases/google/select-artifact.png)<br>
+![Изберете репозиторио за артефакти](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. Кликнете върху 'SETUP INSTRUCTION' и копирайте командата 'Конфигуриране на Docker'.<br>
-![SETUP INSTRUCTION](/_assets/showcases/google/setup-instruction.png)<br>
+![SETUP INSTRUCTION](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Добавете вход за Docker credHelper в конфигурационния файл на Docker или създайте файла, ако не съществува.
 {{< highlight plain >}}
 //пример
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Отидете в Cloud Run.
 1. Създайте услуга Cloud Run.<br>
-![Създаване на услуга Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Създаване на услуга Cloud Run](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. В полето URL на образа на контейнера изберете контейнера от 'ARTIFACT REGISTRY'.<br>
-![URL на образа на контейнера](/_assets/showcases/google/container-url.png)<br>
+![URL на образа на контейнера](/cad/_assets/showcases/google/container-url.png)<br>
 1. Проверете другите настройки, както е показано по-долу.<br>
-![Настройки на услугата](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Настройки на услугата](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Изчакайте завършването на внедряването.
 1. URL на услугата за работа с приложението за конверсия.<br>
-![URL на услугата](/_assets/showcases/google/url-service.png)<br>
+![URL на услугата](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Конфигуриране на Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Пример за изпълнение
 
 1. Настройки на Postman.<br>
-![Обзорно меню](/_assets/showcases/google/postman-settings.png)<br>
+![Обзорно меню](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Изберете произволен файл DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Натиснете бутона за изпращане.
 

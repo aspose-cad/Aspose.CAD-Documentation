@@ -36,7 +36,7 @@ Aspose.CAD עבור Java מאפשר למפתחים להמיר קבצי AutoCAD D
 
 Aspose.CAD עבור Java תומך בקבצים הפופולריים DWG, DWF, DXF, DWT, PDF ודימויי רסטר.
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **תמיכה ב-DXF / DWG / DGN**
 - סולידיות תלת ממדיות (כוניסט, כדור, טורוס, צינור, קופסה, פיסוק)
 ### **תמיכה ב-DXF / DWG**

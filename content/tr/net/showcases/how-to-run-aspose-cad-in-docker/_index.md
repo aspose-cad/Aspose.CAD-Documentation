@@ -20,9 +20,9 @@ Bu örnekte, bir elips çizen ve bunu bir görüntü olarak kaydeden basit bir M
 Merhaba Dünya programını oluşturmak için aşağıdaki adımları izleyin:
 1. Docker yüklendikten sonra, Linux Konteynerlerini (varsayılan) kullandığından emin olun. Gerekirse, Docker Masaüstü menüsünden Linux konteynerlerine geçiş seçeneğini seçin.
 1. Visual Studio'da bir .NET 6 konsol uygulaması oluşturun.<br>
-![Bir .NET 6 konsol uygulama projesi iletişim kutusu](/_assets/showcases/docker/1.png)<br>
+![Bir .NET 6 konsol uygulama projesi iletişim kutusu](/cad/_assets/showcases/docker/1.png)<br>
 1. NuGet'ten en son Aspose.CAD sürümünü yükleyin.<br>
-![Aspose.CAD NuGet'te](/_assets/showcases/docker/2.png)<br>
+![Aspose.CAD NuGet'te](/cad/_assets/showcases/docker/2.png)<br>
 1. Uygulama Linux'ta çalıştırılacağından, ek fontlar yüklemeniz gerekebilir. ttf-mscorefonts-installer'ı tercih edebilirsiniz.
 1. Tüm gerekli bağımlılıklar eklendikten sonra, bir elips oluşturan ve bunu bir görüntü olarak kaydeden basit bir program yazın:<br>
 

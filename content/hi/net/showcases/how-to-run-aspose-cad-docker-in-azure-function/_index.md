@@ -21,11 +21,11 @@ url: /hi/net/showcases/how-to-run-aspose-cad-docker-in-azure-function/
 Azure Function प्रोग्राम बनाने के लिए, नीचे दिए गए चरणों का पालन करें:
 1. एक बार Docker स्थापित हो जाने पर, सुनिश्चित करें कि यह Linux Containers (डिफ़ॉल्ट) का उपयोग कर रहा है। यदि आवश्यक हो, तो Docker डेस्कटॉप मेनू से Linux Containers पर स्विच करने का विकल्प चुनें।
 1. Visual Studio में, .NET 6 Azure Function बनाएँ।<br>
-![A NET 6 Azure Function project dialog](/_assets/showcases/azure/Create-project.png)<br>
+![A NET 6 Azure Function project dialog](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. अतिरिक्त जानकारी।<br>
-![A NET 6 Azure Function project dialog](/_assets/showcases/azure/Additional-information.png)<br>
+![A NET 6 Azure Function project dialog](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. NuGet से नवीनतम Aspose.CAD संस्करण स्थापित करें।<br>
-![Aspose.CAD on NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD on NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. चूंकि एप्लिकेशन Linux पर चलाया जाएगा, आपको अतिरिक्त फ़ॉन्ट स्थापित करने की आवश्यकता हो सकती है। आप ttf-mscorefonts-installer का चयन कर सकते हैं।
 1. जब सभी आवश्यक निर्भरताएँ जोड़ी जाएं, तो एक साधारण प्रोग्राम लिखें जो एक अंडाकार बनाता है और उसे एक छवि के रूप में सहेजता है:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 अगला चरण Dockerfile बनाना और रूट प्रोजेक्ट फ़ोल्डर में कॉन्फ़िगर करना है।
 
 1. Dockerfile बनाएं और इसे आपके एप्लिकेशन की समाधान फ़ाइल के बगल में रखें। इस फ़ाइल के नाम को बिना एक्सटेंशन (डिफ़ॉल्ट) के रखें।
-![Root project folder](/_assets/showcases/azure/root-folder.png)<br>
+![Root project folder](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. Dockerfile में निर्दिष्ट करें:
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. Azure में लॉगिन करें।
 1. Azure सेवाओं का चयन करें।
 1. Function App का चयन करें और एक फ़ंक्शन बनाएं।<br>
-![Azure create function button](/_assets/showcases/azure/create-function.png)<br>
+![Azure create function button](/cad/_assets/showcases/azure/create-function.png)<br>
 1. नीचे दी गई छवि के अनुसार मूल सेटिंग्स को दोहराएँ।<br>
-![Azure create function settings](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure create function settings](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. 'Review + create' -> Create पर क्लिक करें।
 1. वितरण खत्म होने की प्रतीक्षा करें।
 1. 'Go to resource' बटन पर क्लिक करें।<br>
-![Resource button](/_assets/showcases/azure/go-to-resource.png)<br>
+![Resource button](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. aspose-cad-docker-example फ़ंक्शन को रोकें।<br>
-![Stop conteiner](/_assets/showcases/azure/stop-container.png)<br>
+![Stop conteiner](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. वितरण केंद्र मेनू पर जाएं और उपयुक्त सेटिंग करें।<br>
-![Deployment center](/_assets/showcases/azure/deployment-center.png)<br>
+![Deployment center](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. सेटिंग्स सहेजें।
 1. वितरण केंद्र सेटिंग से Webhook URL कॉपी करें।<br>
-![Webhook url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Docker Hub पर जाएं, अपने रिपॉजिटरी का चयन करें और वेबहुक का चयन करें।
 1. Azure से 'Webhook url' को Docker Hub वेबहुक url में चिपकाएँ और नाम सेट करें।<br>
-![Webhook settings in docker](/_assets/showcases/azure/webhook.png)<br>
+![Webhook settings in docker](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Create बटन पर क्लिक करें।
 1. अवलोकन Azure फ़ंक्शन पर लौटें और कंटेनर को चालू करें।<br>
-![Overview menu](/_assets/showcases/azure/overview.png)<br>
+![Overview menu](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## कार्यान्वयन उदाहरण
 
 1. Postman सेटिंग।<br>
-![Overview menu](/_assets/showcases/azure/postman-settings.png)<br>
+![Overview menu](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. कोई भी DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG फ़ाइल का चयन करें।
 1. भेजें बटन पर क्लिक करें।
 

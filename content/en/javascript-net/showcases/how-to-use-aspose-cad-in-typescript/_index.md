@@ -121,10 +121,10 @@ npm run serve
 ## Execution example
 
 1. Choose file.<br>
-![Choose file](/_assets/javascript-net/typescript/choose-file.png)<br>
+![Choose file](/cad/_assets/javascript-net/typescript/choose-file.png)<br>
 1. Select any DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG file.
 1. If the answer is successful, the file will be displayed on the screen and will offer to download it.<br>
-![Convert image](/_assets/javascript-net/typescript/convert-image.png)<br>
+![Convert image](/cad/_assets/javascript-net/typescript/convert-image.png)<br>
 ## See Also
 
 - [Install Visual Code](https://code.visualstudio.com/)

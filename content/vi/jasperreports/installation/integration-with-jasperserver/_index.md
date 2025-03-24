@@ -282,6 +282,6 @@ Ví dụ:
 {{< /highlight >}}
 
 5. Khởi động lại JasperReports Server và mở bất kỳ báo cáo nào để xem. Nếu các bước trước đó được thực hiện đúng, bạn sẽ thấy thêm các lựa chọn trong danh sách định dạng xuất.
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 Nếu bạn không thấy các định dạng bổ sung (biểu tượng hoặc lựa chọn), vui lòng kiểm tra các tệp log trong thư mục \apache-tomcat\logs.

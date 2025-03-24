@@ -120,11 +120,11 @@ dotnet run
 1. Google Cloud'a giriş yapın.
 1. Yoksa bir proje oluşturun.
 1. 'Artifact Registry'ye gidin ve bir depo oluşturun.<br>
-![Artifact Repository Oluştur](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Artifact Repository Oluştur](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Artifact Registry'de yeni depoyu seçin.
-![Artifact deposunu seç](/_assets/showcases/google/select-artifact.png)<br>
+![Artifact deposunu seç](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. 'KURULUM TALİMATLARI'na tıklayın ve 'Docker' yapılandırma komutunu kopyalayın.<br>
-![KURULUM TALİMATLARI](/_assets/showcases/google/setup-instruction.png)<br>
+![KURULUM TALİMATLARI](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Docker'ın yapılandırma dosyasına bir Docker credHelper girişi ekleyin veya dosya yoksa oluşturun.
 {{< highlight plain >}}
 //örnek
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Cloud Run'a gidin.
 1. Cloud Run hizmeti oluşturun.<br>
-![Cloud Run hizmeti oluştur](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Cloud Run hizmeti oluştur](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. Konteyner Görüntü URL alanında 'ARTIFACT REGISTRY' den konteyneri seçin.<br>
-![Konteyner Görüntü URL'si](/_assets/showcases/google/container-url.png)<br>
+![Konteyner Görüntü URL'si](/cad/_assets/showcases/google/container-url.png)<br>
 1. Aşağıdaki ayarları kontrol edin.<br>
-![Hizmet ayarları](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Hizmet ayarları](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Dağıtımın tamamlanmasını bekleyin.
 1. Dönüştürme uygulaması ile çalışmak için hizmet URL'si.<br>
-![Hizmet url'si](/_assets/showcases/google/url-service.png)<br>
+![Hizmet url'si](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Dockerfile'ı Yapılandırma
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Uygulama örneği
 
 1. Postman ayarları.<br>
-![Genel görünüm menüsü](/_assets/showcases/google/postman-settings.png)<br>
+![Genel görünüm menüsü](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Herhangi bir DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG dosyasını seçin.
 1. Gönder butonuna tıklayın.
 

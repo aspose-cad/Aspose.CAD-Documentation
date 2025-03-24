@@ -11,7 +11,7 @@ is_root: false
 
 ## **欢迎使用 Aspose.CAD for .NET**
 
-![Aspose.CAD for .NET 产品标志](/_assets/home_1.png)
+![Aspose.CAD for .NET 产品标志](/cad/_assets/home_1.png)
 
 Aspose.CAD for .NET 是一个企业级 API 库，兼容 .NET Framework、.Net Core 和 Xamarin，允许读取、处理、操作和导出任何 CAD 或 BIM 图纸文件为各种矢量和光栅图像文件格式，而无需使用 AutoCAD 或任何其他附加软件。
 它是多线程安全的，可以在不同操作系统上运行，允许跟踪导出进度和处理单独的图层和布局。它具有取消支持。

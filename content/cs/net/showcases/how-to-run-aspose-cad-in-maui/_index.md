@@ -26,22 +26,22 @@ Jedním z klíčových cílů .NET MAUI je umožnit vám implementovat co nejví
 
 1. Pro vytvoření aplikací .NET MAUI budete potřebovat nejnovější verzi Visual Studia 2022
 1. Buď nainstalujte Visual Studio, nebo upravte již existující instalaci a nainstalujte pracovní zátěž vývoje .NET Multi-platform App UI s výchozími volitelnými instalačními možnostmi:<br>
-![Vizuální instalátor](/_assets/showcases/maui/visual-installer.png)
+![Vizuální instalátor](/cad/_assets/showcases/maui/visual-installer.png)
 
 
 ## Vytvoření projektu
 
 1. Spusťte Visual Studio. V úvodním okně klikněte na Vytvořit nový projekt pro vytvoření nového projektu:<br>
-![Vytvořit projekt](/_assets/showcases/maui/create-project.png)<br>
+![Vytvořit projekt](/cad/_assets/showcases/maui/create-project.png)<br>
 1. V okně Vytvořit nový projekt vyberte MAUI v rozbalovacím seznamu Všechny typy projektů, vyberte šablonu Aplikace .NET MAUI a klikněte na tlačítko Další:<br>
-![Vybrat typ projektu](/_assets/showcases/maui/select-project.png)<br>
+![Vybrat typ projektu](/cad/_assets/showcases/maui/select-project.png)<br>
 1. V okně Konfigurovat nový projekt pojmenujte svůj projekt, vyberte pro něj vhodné umístění a klikněte na tlačítko Další:<br>
-![Vybrat cestu projektu](/_assets/showcases/maui/select-project-path.png)<br>
+![Vybrat cestu projektu](/cad/_assets/showcases/maui/select-project-path.png)<br>
 1. V okně Další informace vyberte verzi .NET, pro kterou chcete cílit, a klikněte na tlačítko Vytvořit:<br>
-![Cílový rámec](/_assets/showcases/maui/select-framework.png)<br>
+![Cílový rámec](/cad/_assets/showcases/maui/select-framework.png)<br>
 1. Počkejte, dokud bude projekt vytvořen a jeho závislosti obnoveny
 1. Nainstalujte nejnovější verzi Aspose.CAD z NuGet:<br>
-![NuGet](/_assets/showcases/maui/nuget.png)<br>
+![NuGet](/cad/_assets/showcases/maui/nuget.png)<br>
 1. Nahraďte kód v MainPage.xaml
 {{< highlight plain >}}
 <?xml version="1.0" encoding="utf-8" ?>
@@ -129,49 +129,49 @@ private async void OnSelectFileClicked(object sender, EventArgs e)
 ## Ladicí režim na Windows
 
 1. V nástrojovém řádku Visual Studia použijte rozbalovací seznam Cíl ladicího režimu pro výběr Frameworku a poté položku net7.0-windows:<br>
-![Cíl ladicího režimu](/_assets/showcases/maui/windows-mode.png)<br>
+![Cíl ladicího režimu](/cad/_assets/showcases/maui/windows-mode.png)<br>
 1. V nástrojovém řádku Visual Studia stiskněte tlačítko Windows Machine pro sestavení a spuštění aplikace:<br>
-![Spustit ladění na Windows Machine](/_assets/showcases/maui/windows-start-debug.png)<br>
+![Spustit ladění na Windows Machine](/cad/_assets/showcases/maui/windows-start-debug.png)<br>
 1. V běžící aplikaci stiskněte tlačítko "Vybrat soubor" několikrát a sledujte, že se počet kliknutí na tlačítko zvýší:<br>
-![Domovská stránka](/_assets/showcases/maui/windows-home-page.png)<br>
+![Domovská stránka](/cad/_assets/showcases/maui/windows-home-page.png)<br>
 1. Vyberte požadovaný soubor a klikněte na otevřít:<br>
-![Vybrat soubor](/_assets/showcases/maui/select-file.png)<br>
+![Vybrat soubor](/cad/_assets/showcases/maui/select-file.png)<br>
 1. Po zpracování souboru by se na obrazovce měl zobrazit obrázek konvertovaného souboru:<br>
-![Výsledek ladění windows](/_assets/showcases/maui/windows-result.png)
+![Výsledek ladění windows](/cad/_assets/showcases/maui/windows-result.png)
 
 
 ## Instalace Android Emulátoru
 
 1. V nástrojovém řádku Visual Studia použijte rozbalovací seznam Cíl ladicího režimu pro výběr Android Emulatoru a poté položku Android Emulator
 1. V nástrojovém řádku Visual Studia stiskněte tlačítko Android Emulator:<br>
-![Spustit tlačítko instalace Emulátoru](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Spustit tlačítko instalace Emulátoru](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. V okně Android SDK - Smluvní podmínky stiskněte tlačítko Přijmout:<br>
-![Android SDK-Smluvní podmínky](/_assets/showcases/maui/android-sdk-1.png)<br>
+![Android SDK-Smluvní podmínky](/cad/_assets/showcases/maui/android-sdk-1.png)<br>
 1. V okně Android SDK - Smluvní podmínky stiskněte tlačítko Přijmout:<br>
-![Android SDK ARM- Smluvní podmínky](/_assets/showcases/maui/android-sdk-2.png)<br>
+![Android SDK ARM- Smluvní podmínky](/cad/_assets/showcases/maui/android-sdk-2.png)<br>
 1. V dialogu Uživatelského účtu stiskněte tlačítko Ano:<br>
-![Správce SDK](/_assets/showcases/maui/android-sdk-3.png)<br>
+![Správce SDK](/cad/_assets/showcases/maui/android-sdk-3.png)<br>
 1. V okně Přijetí licence stiskněte tlačítko Přijmout:<br>
-![Správce SDK ARM- Smluvní podmínky](/_assets/showcases/maui/android-sdk-4.png)<br>
+![Správce SDK ARM- Smluvní podmínky](/cad/_assets/showcases/maui/android-sdk-4.png)<br>
 1. V nástrojovém řádku Visual Studia stiskněte tlačítko Android Emulator:<br>
-![Spustit tlačítko instalace Emulátoru](/_assets/showcases/maui/start-install-emulator.png)<br>
+![Spustit tlačítko instalace Emulátoru](/cad/_assets/showcases/maui/start-install-emulator.png)<br>
 1. V dialogu Uživatelského účtu stiskněte tlačítko Ano:<br>
-![Správce zařízení Android](/_assets/showcases/maui/android-device-manager.png)<br>
+![Správce zařízení Android](/cad/_assets/showcases/maui/android-device-manager.png)<br>
 1. V okně Nové zařízení stiskněte tlačítko Vytvořit:<br>
-![Nové zařízení Android](/_assets/showcases/maui/android-new-device.png)<br>
+![Nové zařízení Android](/cad/_assets/showcases/maui/android-new-device.png)<br>
 1. Zavřete okno Správce zařízení Android
 
 
 ## Ladění s Android Emulátorem
 
 1. V nástrojovém řádku Visual Studia stiskněte tlačítko Pixel 5 - API 33 (Android 13.0 - API 33) pro sestavení a spuštění aplikace:<br>
-![Vybrat android Emulator](/_assets/showcases/maui/select-android-emulator.png)<br>
+![Vybrat android Emulator](/cad/_assets/showcases/maui/select-android-emulator.png)<br>
 1. V běžící aplikaci v Android emulátoru stiskněte tlačítko "Vybrat soubor" několikrát a sledujte, že se počet kliknutí na tlačítko zvýší:<br>
-![Domovská stránka Android Emulátoru](/_assets/showcases/maui/android-home-page.png)<br>
+![Domovská stránka Android Emulátoru](/cad/_assets/showcases/maui/android-home-page.png)<br>
 1. Vyberte požadovaný soubor a klikněte na vybrat:<br>
-![Vybrat soubor v Androidu](/_assets/showcases/maui/select-file-android.png)<br>
+![Vybrat soubor v Androidu](/cad/_assets/showcases/maui/select-file-android.png)<br>
 1. Po zpracování souboru by se na obrazovce měl zobrazit obrázek konvertovaného souboru:<br>
-![Výsledek ladění android](/_assets/showcases/maui/android-result.png)
+![Výsledek ladění android](/cad/_assets/showcases/maui/android-result.png)
 
 
 ## Další Příklady

@@ -11,7 +11,7 @@ is_root: false
 
 ## **Ласкаво просимо до Aspose.CAD для Python**
 
-![Aspose.CAD для Python Product Logo](/_assets/home_4.png)
+![Aspose.CAD для Python Product Logo](/cad/_assets/home_4.png)
 
 Aspose.CAD для Python - це єдине рішення на ринку, яке робить можливим експорт звітів з Python у різні векторні та растрові формати файлів зображень, такі як PDF, WMF, SVG, EMF, BMP, GIF, JPG, JPEG, DICOM, WEBP, JP2, JPEG2000, PNG, TIFF, PSD, і працювати з різними форматами файлів CAD і BIM: DWG, DXF, DWT, DGN, DWF, DWFX, IFC, STL, IGES, PLT, CF2, OBJ, HPGL, IGS
 

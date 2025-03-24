@@ -10,25 +10,25 @@ url: /id/python-net/installation/installing-aspose-cad-for-python/
 ### Menggunakan pip untuk menginstal paket
 
 1. Untuk menginstal paket [aspose.cad](https://pypi.org/project/aspose-cad/), situs dengan paket tersebut memiliki deskripsi tambahan tentang perintah yang harus dieksekusi di terminal:<br/>
-![pypi-install](/_assets/python-net/install/pypi-aspose-cad.png)
+![pypi-install](/cad/_assets/python-net/install/pypi-aspose-cad.png)
 1. Contoh perintah untuk menginstal paket melalui terminal:
 {{< highlight plain >}}
 pip install aspose-cad
 {{< /highlight >}}
-![pip-install-aspose-cad](/_assets/python-net/install/pip-install-aspose.png)
+![pip-install-aspose-cad](/cad/_assets/python-net/install/pip-install-aspose.png)
 
 ### Menggunakan file WHL untuk menginstal paket
 
 1. Untuk mengunduh file whl, pergi ke halaman pypi dari paket [aspose.cad](https://pypi.org/project/aspose-cad/#files) dan unduh file tersebut<br/>
-![whl-download](/_assets/python-net/install/download-whl-file.png)<br/>
+![whl-download](/cad/_assets/python-net/install/download-whl-file.png)<br/>
 1. Untuk menginstal paket [aspose.cad](https://pypi.org/project/aspose-cad/), Anda perlu menggunakan perintah pip dengan jalur lengkap ke file whl:
 {{< highlight plain >}}
 pip install C:\Users\User\Desktop\aspose_cad-23.6-py3-none-win_amd64.whl
 {{< /highlight >}}
-![install-whl-file](/_assets/python-net/install/install-whl-file-terminal.png)
+![install-whl-file](/cad/_assets/python-net/install/install-whl-file-terminal.png)
 
 1. Setelah instalasi, kita akan melihat paket di folder site-package<br/>
-![site-package-aspose-cad](/_assets/python-net/install/site-package-aspose.png)
+![site-package-aspose-cad](/cad/_assets/python-net/install/site-package-aspose.png)
 
 ## Contoh kode
 Contoh kode untuk mengonversi sebuah file

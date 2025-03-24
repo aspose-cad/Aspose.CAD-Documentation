@@ -88,10 +88,10 @@ npm run serve
 ## 실행 예시
 
 1. 파일 선택.<br>
-![파일 선택](/_assets/javascript-net/javascript-net/choose-file.png)<br>
+![파일 선택](/cad/_assets/javascript-net/javascript-net/choose-file.png)<br>
 1. DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG 파일 중 하나를 선택하세요.
 1. 응답이 성공적이면 파일이 화면에 표시되고 다운로드를 제안합니다.<br>
-![이미지 변환](/_assets/javascript-net/javascript-net/convert-image.png)<br>
+![이미지 변환](/cad/_assets/javascript-net/javascript-net/convert-image.png)<br>
 ## 참조
 
 - [Visual Code 설치하기](https://code.visualstudio.com/)

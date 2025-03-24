@@ -19,6 +19,6 @@ url: /th/python-net/developer-guide/adjustment-of-cad-drawings/svg-line-scale/
 
 ## ไฟล์ที่ใช้สเกลเชิงเส้น
 1. ไฟล์หากพารามิเตอร์ LineScale ถูกตั้งค่าเป็น 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. ไฟล์หากคุณไม่ใช้การปรับสเกลเส้น.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

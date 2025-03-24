@@ -19,6 +19,6 @@ Możesz kontrolować skalę linii w pliku SVG, biblioteka Aspose.CAD zapewnia ws
 
 ## Plik używający skali liniowej
 1. Plik, jeśli parametr LineScale jest ustawiony na 0.25.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Plik, jeśli nie używasz skalowania linii.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

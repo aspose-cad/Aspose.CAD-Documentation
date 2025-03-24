@@ -21,11 +21,11 @@ Ebben a példában egy egyszerű konverziós funkciót hoz létre, amely egy CAD
 Az Azure Function program létrehozásához kövesse az alábbi lépéseket:
 1. Miután a Docker telepítve van, győződjön meg arról, hogy Linux tartályokat használ (alapértelmezett). Szükség esetén válassza a "Váltás Linux tartályokra" lehetőséget a Docker asztali menüből.
 1. A Visual Studio-ban hozzon létre egy NET 6 Azure Function-t.<br>
-![Egy NET 6 Azure Function projekt párbeszédablak](/_assets/showcases/azure/Create-project.png)<br>
+![Egy NET 6 Azure Function projekt párbeszédablak](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. További információk.<br>
-![Egy NET 6 Azure Function projekt párbeszédablak](/_assets/showcases/azure/Additional-information.png)<br>
+![Egy NET 6 Azure Function projekt párbeszédablak](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. Telepítse a legfrissebb Aspose.CAD verziót a NuGet-ből.<br>
-![Aspose.CAD a NuGet-en](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD a NuGet-en](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Mivel az alkalmazást Linuxon futtatják, lehet, hogy további betűtípusokat kell telepítenie. Ajánlott a ttf-mscorefonts-installer.
 1. Miután az összes szükséges függőséget hozzáadta, írjon egy egyszerű programot, amely létrehoz egy ellipszist és képként menti el:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
  A következő lépés a Dockerfile létrehozása és konfigurálása a projekt gyökérmappájában.
 
 1. Hozza létre a Dockerfile-t, és helyezze el az alkalmazás megoldásfájljának közelében. Tartsa meg ezt a fájlnevet kiterjesztés nélkül (alapértelmezett).
-![Gyökér projektmappa](/_assets/showcases/azure/root-folder.png)<br>
+![Gyökér projektmappa](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. A Dockerfile-ban adja meg:
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. Jelentkezzen be az Azure-ba.
 1. Válassza az Azure szolgáltatásokat.
 1. Válassza a Funkciós alkalmazást, és hozzon létre egy funkciót.<br>
-![Azure funkció létrehozásának gombja](/_assets/showcases/azure/create-function.png)<br>
+![Azure funkció létrehozásának gombja](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Ismételje meg az alapvető beállításokat az alábbi képen látható módon.<br>
-![Azure funkció létrehozásának beállításai](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure funkció létrehozásának beállításai](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. Kattintson a 'Felülvizsgálat + létrehozás' -> Létrehozás.
 1. Várjon a telepítés befejezésére.
 1. Kattintson a 'Menj a forráshoz' gombra.<br>
-![Forrás gomb](/_assets/showcases/azure/go-to-resource.png)<br>
+![Forrás gomb](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. Állítsa le az aspose-cad-docker-example funkciót.<br>
-![Container leállítása](/_assets/showcases/azure/stop-container.png)<br>
+![Container leállítása](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Menjen a telepítési központ menübe, és végezze el a megfelelő beállításokat.<br>
-![Telepítési központ](/_assets/showcases/azure/deployment-center.png)<br>
+![Telepítési központ](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Mentse a beállításokat
 1. Másolja a Webhook URL-t a telepítési központ beállításaiból.<br>
-![Webhook url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Menjen a Docker Hubra, válassza ki a tárolóját, és válassza a webhooks lehetőséget.
 1. Illessze be az Azure-ból származó 'Webhook url'-t a Docker Hub webhook URL-jébe, és adjon nevet.<br>
-![Webhook beállítások a dockerben](/_assets/showcases/azure/webhook.png)<br>
+![Webhook beállítások a dockerben](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Kattintson a létrehozás gombra.
 1. Térjen vissza az Áttekintés Azure funkcióhoz, és indítsa el a tartályt.<br>
-![Áttekintés menü](/_assets/showcases/azure/overview.png)<br>
+![Áttekintés menü](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Példa a végrehajtásra
 
 1. Postman beállítások.<br>
-![Áttekintés menü](/_assets/showcases/azure/postman-settings.png)<br>
+![Áttekintés menü](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Válasszon ki bármilyen DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG fájlt.
 1. Kattintson a küldés gombra.
 

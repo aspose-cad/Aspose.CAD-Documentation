@@ -11,7 +11,7 @@ is_root: false
 
 ## **Aspose.CAD for .NETへようこそ**
 
-![Aspose.CAD for .NET Product Logo](/_assets/home_1.png)
+![Aspose.CAD for .NET Product Logo](/cad/_assets/home_1.png)
 
 Aspose.CAD for .NETは、.NET Framework、.Net Core、およびXamarinに対応した企業向けAPIライブラリで、AutoCADやその他の追加ソフトウェアを利用することなく、CADまたはBIMの図面ファイルをさまざまなベクターおよびラスタ画像ファイル形式に読み取り、操作、処理およびエクスポートできます。
 マルチスレッドに安全で、異なるOSで実行でき、エクスポートの進行状況を追跡し、個別のレイヤーやレイアウトを処理することができます。キャンセルサポートもあります。

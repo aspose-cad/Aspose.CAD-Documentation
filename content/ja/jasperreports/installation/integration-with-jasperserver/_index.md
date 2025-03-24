@@ -281,6 +281,6 @@ Aspose.CAD for JasperReportsをJasperServerと統合するためには、いく�
 {{< /highlight >}}
 
 5. JasperReports Serverを再起動し、レポートを開いて表示します。前のステップが正しく実行されていれば、エクスポート形式のリストに追加の選択肢が表示されます。
-![todo:image_alt_text](/_assets/jasper/ExportReportView.png)
+![todo:image_alt_text](/cad/_assets/jasper/ExportReportView.png)
 
 追加の形式（アイコンまたは選択肢）が表示されない場合は、\apache-tomcat\logsディレクトリ内のログファイルを確認してください。

@@ -135,10 +135,10 @@ npm run dev
 ## Voorbeeld van uitvoering
 
 1. Kies bestand.<br>
-![Kies bestand](/_assets/javascript-net/vue/choose-file.png)<br>
+![Kies bestand](/cad/_assets/javascript-net/vue/choose-file.png)<br>
 1. Selecteer een DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG-bestand.
 1. Als de reactie succesvol is, wordt het bestand op het scherm weergegeven en wordt er een aanbod gedaan om het te downloaden.<br>
-![Afbeelding converteren](/_assets/javascript-net/vue/convert-image.png)<br>
+![Afbeelding converteren](/cad/_assets/javascript-net/vue/convert-image.png)<br>
 
 ## Zie Ook
 

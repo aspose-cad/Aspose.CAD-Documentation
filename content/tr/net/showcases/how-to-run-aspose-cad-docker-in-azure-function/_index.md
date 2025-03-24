@@ -21,11 +21,11 @@ Bu örnekte, bir CAD dosyasını dönüştüren ve bir görüntü olarak kaydede
 Azure Function programını oluşturmak için aşağıdaki adımları izleyin:
 1. Docker kurulduktan sonra, Linux Konteynerlerini (varsayılan) kullandığından emin olun. Gerekirse, Docker Desktops menüsünden Linux konteynerlerine geçiş seçeneğini seçin.
 1. Visual Studio'da bir .NET 6 Azure Function oluşturun.<br>
-![Bir .NET 6 Azure Function proje iletişim kutusu](/_assets/showcases/azure/Create-project.png)<br>
+![Bir .NET 6 Azure Function proje iletişim kutusu](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. Ek bilgi.<br>
-![Bir .NET 6 Azure Function proje iletişim kutusu](/_assets/showcases/azure/Additional-information.png)<br>
+![Bir .NET 6 Azure Function proje iletişim kutusu](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. NuGet'ten en son Aspose.CAD sürümünü yükleyin.<br>
-![NuGet'te Aspose.CAD](/_assets/showcases/azure/NuGet.png)<br>
+![NuGet'te Aspose.CAD](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. Uygulama Linux'ta çalışacağı için ek yazı tipleri kurmanız gerekebilir. ttf-mscorefonts-installer'i tercih edebilirsiniz.
 1. Tüm gerekli bağımlılıklar eklendikten sonra, bir elips oluşturan ve bunu bir görüntü olarak kaydeden basit bir program yazın:<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 Bir sonraki adım, kök proje klasöründe Dockerfile'ı oluşturmak ve yapılandırmaktır.
 
 1. Dockerfile'ı oluşturun ve uygulamanızın çözüm dosyasının yanına yerleştirin. Bu dosya adını uzantı olmadan tutun (varsayılan).
-![Kök proje klasörü](/_assets/showcases/azure/root-folder.png)<br>
+![Kök proje klasörü](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. Dockerfile'da, belirtin:
 
 
@@ -134,31 +134,31 @@ docker push kullanıcı/asposefunction:latest
 1. Azure'a giriş yapın.
 1. Azure hizmetlerini seçin.
 1. Function App seçin ve bir fonksiyon oluşturun.<br>
-![Azure fonksiyon oluştur butonu](/_assets/showcases/azure/create-function.png)<br>
+![Azure fonksiyon oluştur butonu](/cad/_assets/showcases/azure/create-function.png)<br>
 1. Aşağıdaki görüntüdeki gibi temel ayarları tekrarlayın.<br>
-![Azure fonksiyon ayarları](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure fonksiyon ayarları](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. 'Gözden Geçir + oluştur' -> Oluştur'a tıklayın.
 1. Dağıtımın tamamlanmasını bekleyin.
 1. 'Kaynağa git' butonuna tıklayın.<br>
-![Kaynak butonu](/_assets/showcases/azure/go-to-resource.png)<br>
+![Kaynak butonu](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. aspose-cad-docker-example fonksiyonunu durdurun.<br>
-![Konteyneri durdur](/_assets/showcases/azure/stop-container.png)<br>
+![Konteyneri durdur](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. Dağıtım merkezi menüsüne gidin ve gereken ayarları yapın.<br>
-![Dağıtım merkezi](/_assets/showcases/azure/deployment-center.png)<br>
+![Dağıtım merkezi](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. Ayarları kaydedin.
 1. Dağıtım merkezi ayarlarından Webhook URL'sini kopyalayın.<br>
-![Webhook url](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook url](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Docker Hub'a gidin, deponuzu seçin ve webhooks'u seçin.
 1. Azure'dan alınan 'Webhook url'ini Docker Hub webhook url'sine yapıştırın ve adlandırın.<br>
-![Docker'daki Webhook ayarları](/_assets/showcases/azure/webhook.png)<br>
+![Docker'daki Webhook ayarları](/cad/_assets/showcases/azure/webhook.png)<br>
 1. Oluştur butonuna tıklayın.
 1. Genel bakış Azure fonksiyonuna geri dönün ve konteyneri başlatın.<br>
-![Genel bakış menüsü](/_assets/showcases/azure/overview.png)<br>
+![Genel bakış menüsü](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## Çalışma örneği
 
 1. Postman ayarları.<br>
-![Genel bakış menüsü](/_assets/showcases/azure/postman-settings.png)<br>
+![Genel bakış menüsü](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. Herhangi bir DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG dosyasını seçin.
 1. Gönder butonuna tıklayın.
 

@@ -15,6 +15,8 @@ Here we collected examples for these kinds of tasks. More features with examples
 
 [How to Run Aspose.CAD in Docker](/cad/net/how-to-run-aspose-cad-in-docker/)
 
+[How to Run Aspose.CAD with MAUI](/cad//net/showcases/how-to-run-aspose-cad-in-maui/)
+
 [How to Run Aspose.CAD Docker image in Azure Function](/cad/net/how-to-run-aspose-cad-docker-image-in-azure-function/) 
 
 [How to Run Aspose.CAD Docker image in AWS Lambda Function](/cad/net/how-to-run-aspose-cad-docker-image-in-aws-lambda-function/)

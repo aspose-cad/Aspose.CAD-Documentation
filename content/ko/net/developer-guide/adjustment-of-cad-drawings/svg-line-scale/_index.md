@@ -19,6 +19,6 @@ SVG 파일에서 선의 크기를 제어할 수 있으며, Aspose.CAD 라이브�
 
 ## 선형 비율을 사용하는 파일
 1. LineScale 매개변수가 0.25로 설정된 파일입니다.<br>
-![Input image](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Input image](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. 선 크기 조정을 사용하지 않은 파일입니다.<br>
-![Input image](/_assets/guide/svg/basic_options.png)<br>
+![Input image](/cad/_assets/guide/svg/basic_options.png)<br>

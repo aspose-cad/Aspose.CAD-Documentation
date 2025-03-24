@@ -15,7 +15,7 @@ Entitas tertentu menyimpan data struktural mereka dalam format ACIS SAT/SAB. Ent
 
 Berikut adalah contoh hasil ekspor (file DWG di sisi kiri, hasil PDF di sisi kanan).
 
-![Ekspor kerucut dan bola](/_assets/guide/coneAndSpheres.png)
+![Ekspor kerucut dan bola](/cad/_assets/guide/coneAndSpheres.png)
 
 Mengekspor entitas ACIS tidak memerlukan opsi khusus. Untuk mengoptimalkan ukuran gambar, terutama ketika gambar hanya berisi entitas ACIS, pertimbangkan untuk menggunakan fungsi cadImage.updateSize() untuk menyesuaikan dimensi gambar awal dengan akurat.
 

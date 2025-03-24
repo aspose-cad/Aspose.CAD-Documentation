@@ -94,10 +94,10 @@ npm start
 ## Uygulama örneği
 
 1. Dosyayı seçin.<br>
-![Dosyayı seçin](/_assets/javascript-net/react/choose-file.png)<br>
+![Dosyayı seçin](/cad/_assets/javascript-net/react/choose-file.png)<br>
 1. Herhangi bir DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG dosyasını seçin.
 1. Cevap başarılıysa, dosya ekranda görüntülenecek ve indirilmesi teklif edilecektir.<br>
-![Görüntüyü dönüştür](/_assets/javascript-net/react/convert-image.png)<br>
+![Görüntüyü dönüştür](/cad/_assets/javascript-net/react/convert-image.png)<br>
 
 ## Ayrıca Bakın
 

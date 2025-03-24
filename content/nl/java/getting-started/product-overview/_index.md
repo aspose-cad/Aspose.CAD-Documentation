@@ -36,7 +36,7 @@ Een overzicht van de belangrijkste conversie-, weergave- en rapportagecapaciteit
 
 Aspose.CAD voor Java ondersteunt de populaire DWG, DWF, DXF, DWT, PDF en rasterafbeeldingen.
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **Ondersteuning voor DXF / DWG / DGN**
 - 3D Lichamen (Conisch, Bol, Ring, Cilinder, Doos, Wig)
 ### **Ondersteuning voor DXF / DWG**

@@ -19,6 +19,6 @@ Můžete ovládat měřítko linek ve souboru SVG, knihovna Aspose.CAD poskytuje
 
 ## Soubor používající lineární měřítko
 1. Soubor, pokud je parametr LineScale nastaven na 0,25.<br>
-![Vstupní obrázek](/_assets/guide/svg/line_scale_0.25.png)<br>
+![Vstupní obrázek](/cad/_assets/guide/svg/line_scale_0.25.png)<br>
 1. Soubor, pokud nepoužíváte změnu měřítka linek.<br>
-![Vstupní obrázek](/_assets/guide/svg/basic_options.png)<br>
+![Vstupní obrázek](/cad/_assets/guide/svg/basic_options.png)<br>

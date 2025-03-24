@@ -20,9 +20,9 @@ Bạn có thể sử dụng văn bản hoặc hình ảnh cho dấu nước mù,
 Một ví dụ về sự xuất hiện của một tệp sử dụng văn bản cho dấu nước mù.
 
 1. Tệp trước khi thêm dấu nước mù văn bản<br>
-![Input image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_input.png)<br>
 1. Kết quả của việc thêm dấu nước mù văn bản<br>
-![Embedded image](/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/Tyrannosaurus.dxf_embedded.png)
 
 ## **Sử dụng hình ảnh khác làm dấu nước mù**
 
@@ -35,6 +35,6 @@ Một ví dụ về sự xuất hiện của một tệp sử dụng văn bản 
 Một ví dụ về cách hiển thị tệp sử dụng hình ảnh khác để thêm dấu nước mù.
 
 1. Tệp trước khi thêm hình ảnh như dấu nước mù<br>
-![Input image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
+![Input image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_input.png)<br>
 1. Kết quả sau khi thêm hình ảnh như dấu nước mù<br>
-![Embedded image](/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)
+![Embedded image](/cad/_assets/guide/blind-watermark/robot_handling_cell.dwg_embedded.png)

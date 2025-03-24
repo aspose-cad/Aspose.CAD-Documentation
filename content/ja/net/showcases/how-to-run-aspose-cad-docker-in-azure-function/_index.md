@@ -21,11 +21,11 @@ url: /ja/net/showcases/how-to-run-aspose-cad-docker-in-azure-function/
 Azure Functionプログラムを作成するには、以下の手順に従ってください：
 1. Dockerがインストールされたら、Linuxコンテナを使用していることを確認してください（デフォルト）。必要に応じて、Docker Desktopメニューから「Linuxコンテナに切り替え」オプションを選択します。
 1. Visual Studioで、.NET 6 Azure Functionを作成します。<br>
-![NET 6 Azure Functionプロジェクトダイアログ](/_assets/showcases/azure/Create-project.png)<br>
+![NET 6 Azure Functionプロジェクトダイアログ](/cad/_assets/showcases/azure/Create-project.png)<br>
 1. 追加情報。<br>
-![NET 6 Azure Functionプロジェクトダイアログ](/_assets/showcases/azure/Additional-information.png)<br>
+![NET 6 Azure Functionプロジェクトダイアログ](/cad/_assets/showcases/azure/Additional-information.png)<br>
 1. NuGetから最新のAspose.CADバージョンをインストールします。<br>
-![Aspose.CAD on NuGet](/_assets/showcases/azure/NuGet.png)<br>
+![Aspose.CAD on NuGet](/cad/_assets/showcases/azure/NuGet.png)<br>
 1. アプリケーションがLinuxで実行されるため、追加のフォントをインストールする必要があります。ttf-mscorefonts-installerを使用することをお勧めします。
 1. 必要な依存関係がすべて追加されたら、楕円を作成し、画像として保存するシンプルなプログラムを書きます：<br>
 
@@ -66,7 +66,7 @@ public static class Function1
 次のステップは、プロジェクトルートフォルダーにDockerfileを作成して構成することです。
 
 1. Dockerfileを作成し、アプリケーションのソリューションファイルの隣に置きます。このファイル名は拡張子なしで保持します（デフォルト）。
-![プロジェクトルートフォルダー](/_assets/showcases/azure/root-folder.png)<br>
+![プロジェクトルートフォルダー](/cad/_assets/showcases/azure/root-folder.png)<br>
 1. Dockerfileに指定します：
 
 
@@ -134,31 +134,31 @@ docker push user/asposefunction:latest
 1. Azureにログインします。
 1. Azureサービスを選択します。
 1. Function Appを選択し、関数を作成します。<br>
-![Azure関数作成ボタン](/_assets/showcases/azure/create-function.png)<br>
+![Azure関数作成ボタン](/cad/_assets/showcases/azure/create-function.png)<br>
 1. 以下の画像と同様に基本設定を繰り返します。<br>
-![Azure関数設定](/_assets/showcases/azure/create-function-setting.png)<br>
+![Azure関数設定](/cad/_assets/showcases/azure/create-function-setting.png)<br>
 1. 'レビューと作成'をクリックし、次に'作成'をクリックします。
 1. デプロイが完了するのを待ちます。
 1. 'リソースに移動'ボタンをクリックします。<br>
-![リソースボタン](/_assets/showcases/azure/go-to-resource.png)<br>
+![リソースボタン](/cad/_assets/showcases/azure/go-to-resource.png)<br>
 1. aspose-cad-docker-example関数を停止します。<br>
-![コンテナを停止](/_assets/showcases/azure/stop-container.png)<br>
+![コンテナを停止](/cad/_assets/showcases/azure/stop-container.png)<br>
 1. デプロイメントセンターメニューに移動し、適切な設定を行います。<br>
-![デプロイメントセンター](/_assets/showcases/azure/deployment-center.png)<br>
+![デプロイメントセンター](/cad/_assets/showcases/azure/deployment-center.png)<br>
 1. 設定を保存します。
 1. デプロイメントセンター設定からWebhook URLをコピーします。<br>
-![Webhook URL](/_assets/showcases/azure/webhook-url.png)<br>
+![Webhook URL](/cad/_assets/showcases/azure/webhook-url.png)<br>
 1. Docker Hubに移動し、リポジトリを選択し、Webhooksを選択します。
 1. Azureからの'Webhook URL'をDocker HubのWebhook URLに貼り付けて名前を設定します。<br>
-![DockerのWebhook設定](/_assets/showcases/azure/webhook.png)<br>
+![DockerのWebhook設定](/cad/_assets/showcases/azure/webhook.png)<br>
 1. 作成ボタンをクリックします。
 1. Azure Functionの概要に戻り、コンテナを起動します。<br>
-![概要メニュー](/_assets/showcases/azure/overview.png)<br>
+![概要メニュー](/cad/_assets/showcases/azure/overview.png)<br>
 
 ## 実行例
 
 1. Postman設定。<br>
-![概要メニュー](/_assets/showcases/azure/postman-settings.png)<br>
+![概要メニュー](/cad/_assets/showcases/azure/postman-settings.png)<br>
 1. 任意のDXF、DWG、DGN、DWF、DWFX、IFC、STL、DWT、IGES、PLT、CF2、OBJ、HPGL、IGS、PCL、FBX、PDF、SVGファイルを選択します。
 1. 送信ボタンをクリックします。
 

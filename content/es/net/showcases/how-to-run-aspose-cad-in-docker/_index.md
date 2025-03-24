@@ -20,9 +20,9 @@ En este ejemplo, creará una simple aplicación de consola Hello World que dibuj
 Para crear el programa Hello World, siga los pasos a continuación:
 1. Una vez que Docker esté instalado, asegúrese de que use contenedores de Linux (por defecto). Si es necesario, seleccione la opción Cambiar a contenedores de Linux en el menú de Docker Desktop.
 2. En Visual Studio, cree una aplicación de consola .NET 6.<br>
-![Un diálogo de proyecto de aplicación de consola .NET 6](/_assets/showcases/docker/1.png)<br>
+![Un diálogo de proyecto de aplicación de consola .NET 6](/cad/_assets/showcases/docker/1.png)<br>
 3. Instale la última versión de Aspose.CAD desde NuGet.<br>
-![Aspose.CAD en NuGet](/_assets/showcases/docker/2.png)<br>
+![Aspose.CAD en NuGet](/cad/_assets/showcases/docker/2.png)<br>
 4. Dado que la aplicación se ejecutará en Linux, puede ser necesario instalar fuentes adicionales. Podría preferir ttf-mscorefonts-installer.
 5. Cuando se hayan agregado todas las dependencias necesarias, escriba un simple programa que cree una elipse y la guarde como una imagen:<br>
 

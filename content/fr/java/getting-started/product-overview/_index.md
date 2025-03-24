@@ -36,7 +36,7 @@ Un aperçu des principales capacités de conversion, de rendu et de reporting d'
 
 Aspose.CAD pour Java prend en charge les fichiers populaires DWG, DWF, DXF, DWT, PDF et les images raster.
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **Support pour DXF / DWG / DGN**
 - Solides 3D (Conique, Sphère, Torus, Cylindre, Boîte, Coin)
 ### **Support pour DXF / DWG**

@@ -20,9 +20,9 @@ Ebben a példában létrehoz egy egyszerű Hello World konzolalkalmazást, amely
 A Hello World program létrehozásához kövesse az alábbi lépéseket:
 1. Miután a Docker telepítve van, győződjön meg róla, hogy Linux konténereket használ (alapértelmezett). Szükség esetén válassza a Váltás Linux konténerekre lehetőséget a Docker Desktop menüjéből.
 1. A Visual Studio-ban hozzon létre egy NET 6 konzolalkalmazást.<br>
-![Egy NET 6 konzol alkalmazás projekt párbeszédpanelje](/_assets/showcases/docker/1.png)<br>
+![Egy NET 6 konzol alkalmazás projekt párbeszédpanelje](/cad/_assets/showcases/docker/1.png)<br>
 1. Telepítse a legújabb Aspose.CAD verziót a NuGet-ből.<br>
-![Aspose.CAD a NuGet-on](/_assets/showcases/docker/2.png)<br>
+![Aspose.CAD a NuGet-on](/cad/_assets/showcases/docker/2.png)<br>
 1. Mivel az alkalmazást Linuxon fogja futtatni, szüksége lehet további betűtípusok telepítésére. A ttf-mscorefonts-installer telepítését javasoljuk.
 1. Miután minden szükséges függőség hozzá van adva, írjon egy egyszerű programot, amely létrehoz egy ellipszist és képként menti el:<br>
 

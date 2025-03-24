@@ -11,7 +11,7 @@ is_root: false
 
 ## **مرحبًا بكم في Aspose.CAD لـ JavaScript**
 
-![شعار منتج Aspose.CAD لـ JavaScript](/_assets/home_5.png)
+![شعار منتج Aspose.CAD لـ JavaScript](/cad/_assets/home_5.png)
 
 يعتبر Aspose.CAD لـ JavaScript واجهة برمجة تطبيقات تحويل CAD أصلية بدون أي اعتمادات برمجية. يسمح للمطورين بتحويل DXF و DWG و DWT و DGN و IFC و DWF و DWFX و STL و IGES(IGS) و CF2 و Collada(DAE) و PLT و OBJ و SVG و DXB و FBX و U3D و 3DS و STP إلى تنسيقات صور نقطية و PDF.
 أثناء عملية التحويل، يمكن للمطورين اختيار وتحويل طبقات وتصميمات معينة بالإضافة إلى تتبع عملية تحويل الملفات.

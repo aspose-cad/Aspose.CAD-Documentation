@@ -36,7 +36,7 @@ Az Aspose.CAD for Java fő konverziós, megjelenítési és jelentési képessé
 
 Az Aspose.CAD for Java támogatja a népszerű DWG, DWF, DXF, DWT, PDF és raszterképeket.
 
-![todo:image_alt_text](/_assets/java/product-overview_1.png)
+![todo:image_alt_text](/cad/_assets/java/product-overview_1.png)
 ### **DXF / DWG / DGN támogatás**
 - 3D szilárd testek (kúp, gömb, gyűrű, henger, doboz, ék)
 ### **DXF / DWG támogatás**

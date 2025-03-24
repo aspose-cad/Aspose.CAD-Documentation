@@ -120,11 +120,11 @@ dotnet run
 1. Zaloguj się do Google Cloud.
 1. Utwórz projekt, jeśli jeszcze nie istnieje.
 1. Przejdź do 'Artifact Registry' i utwórz repozytorium.<br>
-![Utwórz repozytorium artifact](/_assets/showcases/google/create-artifact-repository.png)<br>
+![Utwórz repozytorium artifact](/cad/_assets/showcases/google/create-artifact-repository.png)<br>
 1. Wybierz nowe repozytorium w Artifact Registry.
-![Wybierz repozytorium artifact](/_assets/showcases/google/select-artifact.png)<br>
+![Wybierz repozytorium artifact](/cad/_assets/showcases/google/select-artifact.png)<br>
 1. Kliknij 'INSTRUKCJE DOTYCZĄCE KONFIGURACJI' i skopiuj polecenie 'Skonfiguruj Docker'.<br>
-![INSTRUKCJE DOTYCZĄCE KONFIGURACJI](/_assets/showcases/google/setup-instruction.png)<br>
+![INSTRUKCJE DOTYCZĄCE KONFIGURACJI](/cad/_assets/showcases/google/setup-instruction.png)<br>
 1. Dodaj wpis credHelper Dockera do pliku konfiguracyjnego Dockera lub utwórz plik, jeśli nie istnieje.
 {{< highlight plain >}}
 //przykład
@@ -153,14 +153,14 @@ docker push europe-west1-docker.pkg.dev/test/aspose-cloud/function:latest
 
 1. Przejdź do Cloud Run.
 1. Utwórz usługę Cloud Run.<br>
-![Utwórz usługę Cloud Run](/_assets/showcases/google/create-cloud-run-service.png)<br>
+![Utwórz usługę Cloud Run](/cad/_assets/showcases/google/create-cloud-run-service.png)<br>
 1. W polu URL obrazu kontenera wybierz kontener z 'REPOZYTORIUM ARTIFAKTÓW'.<br>
-![URL obrazu kontenera](/_assets/showcases/google/container-url.png)<br>
+![URL obrazu kontenera](/cad/_assets/showcases/google/container-url.png)<br>
 1. Sprawdź inne ustawienia jak poniżej.<br>
-![Ustawienia usługi](/_assets/showcases/google/cloud-run-service-settings.png)<br>
+![Ustawienia usługi](/cad/_assets/showcases/google/cloud-run-service-settings.png)<br>
 1. Poczekaj na zakończenie wdrożenia.
 1. URL usługi do współpracy z aplikacją konwersji.<br>
-![URL usługi](/_assets/showcases/google/url-service.png)<br>
+![URL usługi](/cad/_assets/showcases/google/url-service.png)<br>
 
 ### Konfigurowanie pliku Dockerfile
 
@@ -202,7 +202,7 @@ ENTRYPOINT ["dotnet", "AsposeFunctions.dll"]
 ## Przykład wykonania
 
 1. Ustawienia Postmana.<br>
-![Menu przeglądu](/_assets/showcases/google/postman-settings.png)<br>
+![Menu przeglądu](/cad/_assets/showcases/google/postman-settings.png)<br>
 1. Wybierz dowolny plik DXF, DWG, DGN, DWF, DWFX, IFC, STL, DWT, IGES, PLT, CF2, OBJ, HPGL, IGS, PCL, FBX, PDF, SVG.
 1. Kliknij przycisk wyślij.
 

@@ -20,9 +20,9 @@ url: /he/net/showcases/how-to-run-aspose-cad-in-docker/
 כדי ליצור את תוכנית Hello World, עקוב אחרי הצעדים מטה:
 1. לאחר ש-Docker מותקן, ודא שהוא משתמש בקונטיינרים של Linux (ברירת מחדל). אם יש צורך, בחר באופציה "Switch to Linux containers" מתפריט Docker Desktop.
 1. ב-Visual Studio, צור אפליקציית קונסול NET 6.<br>
-![Dialog פרויקט אפליקציית קונסול NET 6](/_assets/showcases/docker/1.png)<br>
+![Dialog פרויקט אפליקציית קונסול NET 6](/cad/_assets/showcases/docker/1.png)<br>
 1. התקן את הגרסה האחרונה של Aspose.CAD מ-NuGet.<br>
-![Aspose.CAD על NuGet](/_assets/showcases/docker/2.png)<br>
+![Aspose.CAD על NuGet](/cad/_assets/showcases/docker/2.png)<br>
 1. מכיוון שהאפליקציה תורץ על Linux, ייתכן שצריך להתקין גופנים נוספים. אפשר להעדיף את ttf-mscorefonts-installer.
 1. כאשר כל התלויות הדרושות נוספו, כתוב תוכנית פשוטה שמייצרת אליפסה ושומרת אותה כבתמונה:<br>
 

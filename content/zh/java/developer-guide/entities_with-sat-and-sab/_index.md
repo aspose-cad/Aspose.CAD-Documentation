@@ -15,7 +15,7 @@ url: /zh/java/developer-guide/entities_with-sat-and-sab/
 
 以下是导出结果的示例（左侧为 DWG 文件，右侧为 PDF 结果）。
 
-![导出圆锥和球体](/_assets/guide/coneAndSpheres.png)
+![导出圆锥和球体](/cad/_assets/guide/coneAndSpheres.png)
 
 导出 ACIS 实体不需要任何特殊选项。为优化绘图大小，尤其是在绘图仅包含 ACIS 实体时，请考虑使用 cadImage.updateSize() 函数准确调整初始绘图尺寸。
 

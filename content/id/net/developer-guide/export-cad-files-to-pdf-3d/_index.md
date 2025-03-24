@@ -23,9 +23,9 @@ Untuk mengonversi gambar 3D Anda ke PDF-3D, Anda perlu menjalankan kode dari con
 
 Contoh tampilan file PDF dengan konten 3D, serta demonstrasi rotasi dan skala.
 
-![PDF-3D](/_assets/guide/pdf-3d/result.png)
-![Mengubah rotasi](/_assets/guide/pdf-3d/rotate.png)
-![Skala](/_assets/guide/pdf-3d/scaling.png)
+![PDF-3D](/cad/_assets/guide/pdf-3d/result.png)
+![Mengubah rotasi](/cad/_assets/guide/pdf-3d/rotate.png)
+![Skala](/cad/_assets/guide/pdf-3d/scaling.png)
 
 ## **Sumber Daya Aspose.CAD untuk .NET**
 
